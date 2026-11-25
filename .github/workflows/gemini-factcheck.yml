@@ -1,0 +1,74 @@
+# Independent fact check of a claims file by an AI model. Started by hand (Actions tab, or by Claude).
+# Writes factcheck.<model>.csv and consensus.csv to the chosen branch. It never edits claims and never merges.
+# Needs a repository secret: GEMINI_API_KEY for gemini, GROQ_API_KEY for groq, ANTHROPIC_API_KEY for claude (Settings → Secrets and variables → Actions).
+name: Gemini fact check
+on:
+  workflow_dispatch:
+    inputs:
+      condition:
+        description: 'Folder with claims.csv, e.g. content/respiratory/asthma'
+        required: true
+      rows:
+        description: 'Rows to check, e.g. 67-107. Empty means all.'
+        required: false
+      provider:
+        description: 'gemini, groq or claude (claude never checks rows Claude wrote)'
+        required: false
+        default: gemini
+      batch:
+        description: 'Rows per request, 4 to 40. Empty means 12.'
+        required: false
+      model:
+        description: 'Optional: one exact model name, e.g. openai/gpt-oss-120b on groq. Empty lets the tool choose.'
+        required: false
+      what:
+        description: 'claims (default), story to check the story wording against its claims, or questions to check a folder''s questions'
+        required: false
+        default: claims
+permissions:
+  contents: write
+concurrency: gemini-factcheck-${{ github.ref }}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check the claims with Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          BATCH: ${{ inputs.batch }}
+          PROVIDER: ${{ inputs.provider }}
+          CONDITION: ${{ inputs.condition }}
+          ROWS: ${{ inputs.rows }}
+          WHAT: ${{ inputs.what }}
+          MODEL: ${{ inputs.model }}
+        run: |
+          case "$CONDITION" in content/*) ;; *) echo "condition must start with content/"; exit 1;; esac
+          case "$PROVIDER" in groq) P=groq;; claude) P=claude;; *) P=gemini;; esac
+          case "$BATCH" in ""|*[!0-9]*) B=12;; *) B=$BATCH;; esac
+          case "$MODEL" in "") M="";; *[!A-Za-z0-9./_-]*) echo "model name has characters that are not allowed"; exit 1;; *) M="$MODEL";; esac
+          if [ "$WHAT" = "questions" ]; then if [ -n "$M" ]; then node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B" --questions --model "$M"; else node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B" --questions; fi; exit 0; fi
+          if [ "$WHAT" = "story" ]; then if [ -n "$M" ]; then node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B" --story --model "$M"; else node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B" --story; fi; exit 0; fi
+          if [ -n "$ROWS" ]; then node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B" --rows "$ROWS"; else node tools/ai-factcheck.mjs "$CONDITION" --provider "$P" --batch "$B"; fi
+          node tools/check-factcheck.mjs "$CONDITION"/factcheck.*.csv
+          node tools/consensus.mjs "$CONDITION"
+      - name: Save the result on this branch
+        env:
+          CONDITION: ${{ inputs.condition }}
+        run: |
+          git config user.name "Mess fact check"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$CONDITION"/factcheck.*.csv "$CONDITION/consensus.csv" 2>/dev/null || true
+          git add "$CONDITION"/storycheck.*.csv 2>/dev/null || true
+          git add "$CONDITION"/qcheck.*.csv 2>/dev/null || true
+          git commit -q -m "AI fact check: $CONDITION" || echo "nothing changed"
+          git pull -q --rebase
+          git push -q

@@ -1,0 +1,20 @@
+name: Tests
+# Runs on pull requests and on main only. Running on every push as well ran each PR's tests twice, which used up the
+# private repo's free monthly minutes (21 Nov 2026). Other branches: run NODE_PATH=$(npm root -g) node tests/run.mjs locally.
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm test
+      - run: node tools/check-claims.mjs content

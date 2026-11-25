@@ -1,0 +1,257 @@
+{
+ "id": "bihs-2025-thresholds-targets",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC12353784",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12353784/fullTextXML",
+ "doi": "10.1038/s41371-025-01055-z",
+ "title": "Call to action: British and Irish hypertension society position statement on blood pressure treatment thresholds and targets",
+ "authors": "Faconti L, Tantirige N, Poulter NR et al",
+ "journal": "Journal of Human Hypertension",
+ "year": "2025",
+ "updated": "2025-07-23",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are",
+ "credit": "Faconti L, Tantirige N, Poulter NR et al. Call to action: British and Irish hypertension society position statement on blood pressure treatment thresholds and targets. Journal of Human Hypertension. 2025. https://doi.org/10.1038/s41371-025-01055-z. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-21",
+ "sha256": "bff6a5513f3fdd67df9c2b08329db9d52098409e248ca7ca70f175698bc7bfa9",
+ "sentences": 42,
+ "set_aside": 4,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "In this position statement the British and Irish Hypertension Society (BIHS) present a review of the current evidence for blood pressure (BP) treatment thresholds and targets.",
+    "The BIHS recommend initiating pharmacological antihypertensive therapy, irrespective of cardiovascular disease risk, following a confirmed diagnosis of hypertension (sustained out-of-office BP ≥ 135/85 mmHg despite diet and lifestyle advice).",
+    "The BIHS recommend an on-treatment BP target < 130/80 mmHg or as low as reasonably achievable without causing unacceptable side-effects, within 6-months of initiating treatment, for all adults.",
+    "Possible subgroups to whom this may not apply are those who are frail and/or have limited life expectancy where higher targets may be appropriate based on clinical judgement and the individuals’ tolerance to treatment.",
+    "The BIHS believe that this simple 2-step approach will facilitate practitioners deliver evidence-based best practice, discourage therapeutic inertia around BP lowering and improve heath outcomes for all adults living with high BP."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Subject terms: Hypertension, Diagnosis, Preventive medicine"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "High blood pressure (BP) is the leading modifiable risk factor for premature morbidity and mortality from cardiovascular disease (CVD) worldwide, and significantly contributes to chronic kidney disease, heart failure and dementia ."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "Epidemiological studies demonstrate a continuous positive association between BP and major adverse cardiovascular events (MACE) .",
+    "Observational data are supported by randomized clinical trials, demonstrating the benefits of antihypertensive drug treatment in reducing MACE .",
+    "The Blood Pressure Lowering Treatment Trialists’ Collaboration reported that the reduction in MACE was proportional to the magnitude of the fall in SBP down to at least 120 mmHg in those aged < 75 years, with and without prior cardiovascular disease .",
+    "Overall, MACE was reduced by 10% per 5 mmHg reduction in Systolic BP (SBP), with a greater effect in younger (age <55 years: HR 0·82 [95% CI: 0·76–0·88]) compared with older individuals (age 65–74 years: HR 0·91 [95%CI: 0·87–0·96]) ."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "Over the last 15 years, several large outcome trials have been conducted to specifically compare aiming for an intensive BP treatment target (e.g. SBP < 120 mmHg) with a less intensive target (e.g. SBP < 140 mmHg) among men and women, with and without pre-existing CVD and diabetes .",
+    "These trials consistently demonstrate that aiming for an SBP treatment target <120 mmHg resulted in a greater reduction in MACE compared with an SBP target < 140 mmHg, with no increase in all-cause mortality [Table 1] .",
+    "There was no overall significant difference in reported serious adverse events between treatment groups [Table 1] ."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Statement",
+   "kind": "caption",
+   "s": [
+    "Table 1 Summary of trials comparing intensive vs standard systolic blood pressure targets."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "ACCORD, 2010 | SPS3, 2013 | SPRINT, 2015/2021 | RESPECT, 2019 | STEP, 2021 | ESPRIT, 2024 | BPROAD, 2024"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "No. of Participants | 4733 | 3020 | 9361 | 1263 | 8511 | 11,255 | 12,821"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Inclusion Criteria | T2DM, elevated SBP, increased risk of CVD, ≥ 40 years old. | Recent lacunar stroke, ≥ 30 years old, normotensive or hypertensive, without surgically amenable ipsilateral carotid artery stenosis or high-risk cardioembolic sources. | Elevated SBP, increased risk of CVD, ≥ 50 years old.",
+    "Diabetes and prior stroke excluded. | Stroke, elevated SBP, ≥ 50 years old. | Elevated SBP, 60–80 years old, prior stroke excluded. | Elevated SBP, increased risk of CVD, ≥ 50 years old. | T2DM, elevated SBP, increased risk of CVD and ≥50 years old."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Mean Age at Baseline (years) | 62.2 | 63 | 67.9 | 67.2 | 66.2 | 64.6 | 63.8"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Mean BP at Baseline (mmHg) | 139.2/76.0 mmHg | 143/78.5 mmHg | 139.7/78.2 mmHg | 145.4/83.6 mmHg | 146/82.5 mmHg | 146.9/82.9 mmHg | 140/76 mmHg"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "BP Measurement | Attended office automatic BP measurement | Attended office automatic BP measurement | Unattended office automated BP measurement | Attended office automatic BP measurement | Attended office automatic BP measurement | Attended office automatic BP measurement | Attended office automatic BP measurements (home BP monitoring during COVID-19)"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Target BP: Intervention vs Control Group | SBP < 120 mmHg vs <140 mmHg | SBP < 130 mmHg vs 130–149 mmHg | SBP < 120 mmHg vs <140 mmHg | SBP < 120 mmHg vs <140 mmHg | SBP 110- < 130 mmHg vs 130- < 150 mmHg | SBP < 120 mmHg vs <140 mmHg | SBP < 120 mmHg vs <140 mmHg"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Mean Achieved Systolic BP (intervention vs control group) | 119.3 mmHg vs 133.5 mmHg (at 1 year) | 127 mmHg vs 138 mmHg (at 1 year) | 121.4 mmHg vs 136.2 mmHg (at 1 year) | 126.7 mmHg vs 133.2 mmHg (mean throughout follow-up) | 127.5 mmHg vs 135.3 mm Hg (at 1 year) | 119.1 mmHg vs 134.8 mmHg (mean throughout follow-up) | SBP 121.6 vs 133.2 (at 1 year)"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Primary Outcome – Major Cardiovascular Adverse Events (intervention vs control group) | 208 vs 237 patients HR 0.88 (95% CI 0.73–1.06) | 125 vs 152 patients HR 0.81 (95% CI 0.64–1.03) Primary outcome was recurrence of stroke. | 264 vs 354 patients HR 0.73 (95% CI 0.63–0.86) | 46 vs 59 patients HR 0.76 (95% CI 0.52–1.12) Primary outcome was recurrence of stroke.",
+    "Trial terminated early. | 147 vs 196 patients HR 0.74 (95% CI 0.60–0.92) | 547 vs 623 patients HR 0.88 (95% CI 0.78–0.99) | 393 vs 492 patients HR 0.79 (95% CI 0.69–0.90)"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "All-Cause Mortality (Intervention vs Control Group) | 1.28% vs 1.19% per year HR 1.07 (95% CI 0.85–1.35) | 1.80% vs 1.74% per patient-year HR 1.03 (95% CI 0.79–1.35) | 1.06% vs 1.41% per year HR 0.75 (95%CI 0.61–0.92) | 30 vs 37 patients HR 0.80 (95% CI 0.49–1.29) | 67 vs 64 patients HR 1.11 (95%CI 0.78–1.56) | 2.8% vs 3.6% HR 0·79 (95%CI 0·64–0·97) | 0.69 vs 0.73 events/ 100 person-years HR 0.95 (95% CI 0.77–1.17)"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Statement",
+   "kind": "row",
+   "s": [
+    "Serious Adverse Events (Intervention vs Control Group) | 77 (3.3%) vs 30 (1.3%) HR not calculated | 23 (0.40% per patient-year) vs 15 (0.26% per patient-year) HR 1.53 (95% CI 0.80–2.93) | 1799 (38.5%) vs 1742 (37.2%) HR 1.04 (95% CI 0.97–1.11) | 179 (28.3%) vs 178 (28.3%) HR not calculated | 21 (0.5%) vs 21 (0.5%) HR not calculated | 2366 (42.1%) vs 2378 (42.2%) HR 1.01 (95% CI 0.95–1.07) | 2340 (36.5%) vs 2328 (36.3%) HR 1.0 (95% CI 0.94–1.06)"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Statement",
+   "kind": "note",
+   "s": [
+    "BP blood pressure, CVD cardiovascular disease, HR hazard ratio, SBP systolic blood pressure, T2DM type 2 diabetes mellitus."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "Results were consistent across these trials whether BP was measured by attended or unattended office readings or home BP measurements (HBPM) .",
+    "This aligns with a UK study by McManus and colleagues which demonstrated that at lower levels of BP the difference between office and HBPM was small .",
+    "Based on this evidence, the British and Irish Hypertension Society (BIHS) recommend that BP targets remain the same whether BP is measured in the office, by 7-day average HBPM [Fig. 1] or day-time average ambulatory BP measurement (ABPM)."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Statement",
+   "kind": "caption",
+   "s": [
+    "Fig. 1 BIHS Guide to Home Blood Pressure Measurement."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "This approach targets treatment to those at highest short-term absolute risk.",
+    "In light of the continuing excess of premature morbidity and mortality from BP-related diseases , the BIHS questions the ethics of waiting until sufficient irreversible damage has been done to meet an arbitrary risk threshold, before cheap, safe and effective antihypertensive treatment (both lifestyle and pharmacological) is initiated."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "The BIHS believes there is now sufficient new evidence to recommend one consistent BP target of <130/80 mmHg or as low as reasonably achievable (ALARA) without causing unacceptable side-effects within 6-months of initiating treatment, among all adults with a confirmed diagnosis of hypertension.",
+    "Possible subgroups to whom this may not apply are those who are frail and/or have limited life expectancy where higher targets may be appropriate based on clinical judgement and the individuals’ tolerance to treatment."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Statement",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Statement > BP threshold for treatment",
+   "kind": "p",
+   "s": [
+    "Following a confirmed diagnosis of hypertension (sustained BP ≥ 135/85 mmHg based on 7-day average HBPM or day-time average ABPM despite diet and lifestyle advice) starting BP-lowering treatment with pharmacological therapy on top of diet and lifestyle interventions is recommended irrespective of CVD risk.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Statement > On-treatment BP target",
+   "kind": "p",
+   "s": [
+    "On treatment BP target < 130/80 mmHg (measured by 7-day average HBPM or day-time average ABPM or office BP*) or ALARA without causing unacceptable side-effects, and within 6-months of initiating treatment, for all adults.",
+    "Possible subgroups to whom this may not apply are those who are frail and/or have limited life expectancy where higher targets may be appropriate based on clinical judgement and the individuals’ tolerance to treatment."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Statement > On-treatment BP target",
+   "kind": "p",
+   "s": [
+    "* Among people with diagnosed white-coat hypertension out-of-office measurements should always be used to evaluate treatment."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Statement > On-treatment BP target",
+   "kind": "p",
+   "s": [
+    "The BIHS believe that this simple 2-step approach will facilitate practitioners deliver evidence-based best practice, discourage therapeutic inertia around BP lowering and improve health outcomes for all adults living with high BP."
+   ]
+  }
+ ]
+}

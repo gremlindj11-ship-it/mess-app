@@ -1,0 +1,398 @@
+{
+ "id": "nhs-blood-pressure-test",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/tests-and-treatments/blood-pressure-test/",
+ "fetched_from": "https://www.nhs.uk/tests-and-treatments/blood-pressure-test/",
+ "title": "Blood pressure test",
+ "updated": "2025-11-25",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-21",
+ "sha256": "603a4f07d08f8267fbc6dc37b855dd8f481ca57af4b197317a8b8b3eeff8cdb9",
+ "sentences": 58,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Blood pressure test",
+   "kind": "p",
+   "s": [
+    "A blood pressure test is a simple test to check your blood pressure.",
+    "High blood pressure can cause serious conditions such as stroke and heart disease."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "p",
+   "s": [
+    "A blood pressure test can check if your blood pressure is too high or too low."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "p",
+   "s": [
+    "High blood pressure (hypertension) can cause serious problems like strokes or heart disease, but it does not usually have any symptoms.",
+    "The only way to find out if you have high blood pressure is to get it checked."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "p",
+   "s": [
+    "Low blood pressure (hypotension) can cause symptoms such as dizziness or fainting."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "p",
+   "s": [
+    "You may be given a blood pressure test:"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "if a doctor thinks you may have high or low blood pressure"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "as part of a general health check"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "to check if high blood pressure is linked to other conditions you may have"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "if you're taking medicine for a long-term condition"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "if you're in hospital to check your health"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "if you're pregnant as part of your antenatal care"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "p",
+   "s": [
+    "It's particularly important to get your blood pressure checked if you're at higher risk of high blood pressure, for example if:"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "you're aged 40 or over"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "you're from a Black or South Asian background"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "you have close relatives who have high blood pressure"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "you smoke, drink too much alcohol or caffeine, or eat too much salt"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Blood pressure test > Why a blood pressure test is done",
+   "kind": "li",
+   "s": [
+    "you're living with obesity"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Blood pressure test > Where to get a blood pressure test",
+   "kind": "p",
+   "s": [
+    "You can have your blood pressure checked at:"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Blood pressure test > Where to get a blood pressure test",
+   "kind": "li",
+   "s": [
+    "most pharmacies"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Blood pressure test > Where to get a blood pressure test",
+   "kind": "li",
+   "s": [
+    "your GP surgery"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Blood pressure test > Where to get a blood pressure test",
+   "kind": "li",
+   "s": [
+    "some workplaces"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Blood pressure test > Where to get a blood pressure test",
+   "kind": "p",
+   "s": [
+    "Some pharmacies may charge for a blood pressure check."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Blood pressure test > Where to get a blood pressure test > Free pharmacy checks for over 40s",
+   "kind": "p",
+   "s": [
+    "Many pharmacies offer free blood pressure checks for people aged 40 or over."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Blood pressure test > Where to get a blood pressure test > Free pharmacy checks for over 40s",
+   "kind": "p",
+   "s": [
+    "Find a pharmacy that offers free blood pressure checks"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "p",
+   "s": [
+    "A blood pressure test usually takes a couple of minutes.",
+    "You'll be asked to:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "li",
+   "s": [
+    "Sit down and roll up your sleeve, or remove any long-sleeved clothing."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "li",
+   "s": [
+    "Outstretch your arm, rest it on a table and relax."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "li",
+   "s": [
+    "Have an inflatable armband (cuff) wrapped around your upper arm."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "li",
+   "s": [
+    "Stay in that position while the armband fills with air – this may feel uncomfortable for a few seconds until the air releases."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "p",
+   "s": [
+    "Devices can be different but the armband is usually connected to a small machine that shows your blood pressure measurements."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Blood pressure test > What happens when you have a blood pressure test",
+   "kind": "p",
+   "s": [
+    "The test may be done a couple of times to make sure the measurement is accurate."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Checking your blood pressure at home",
+   "kind": "p",
+   "s": [
+    "If a doctor or nurse needs you to check your blood pressure at home, they may give you a blood pressure machine to use.",
+    "They will show you how to use it."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Checking your blood pressure at home",
+   "kind": "p",
+   "s": [
+    "You can also buy your own blood pressure machine to use at home.",
+    "Machines may be slightly different, so follow the instructions on how to use it to record your blood pressure."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Checking your blood pressure at home",
+   "kind": "p",
+   "s": [
+    "Take your blood pressure, make a note of the numbers, then wait 1 minute before doing it again.",
+    "You usually do this 2 times, once in the morning and once in the evening.",
+    "Your doctor or nurse will tell you how many days you need to do this."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Checking your blood pressure at home",
+   "kind": "p",
+   "s": [
+    "If your blood pressure needs to be monitored for 24 hours, you may be given a monitor to wear at home.",
+    "You'll need to go to a GP surgery, health centre or hospital to have this put on and to return it the next day.",
+    "Wearing it at home will not affect your daily activities."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Find out more on the British Heart Foundation (BHF) website:",
+   "kind": "li",
+   "s": [
+    "BHF: How to choose a blood pressure monitor"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Blood pressure test > What happens when you have a blood pressure test > Find out more on the British Heart Foundation (BHF) website:",
+   "kind": "li",
+   "s": [
+    "BHF: Blood pressure chart and diary"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "Blood pressure readings are given as 2 numbers, with the 1st number higher than the 2nd (for example,130/80)."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "The first number measures the systolic pressure.",
+    "This is the highest level your blood pressure reaches when your heart pumps blood around the body."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "The second number measures the diastolic pressure.",
+    "This is the lowest level your blood pressure reaches when your heart relaxes between each heartbeat."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "Your blood pressure is usually considered high if it's either:"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "li",
+   "s": [
+    "140/90 or higher when checked by a healthcare professional"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "li",
+   "s": [
+    "135/85 or higher when checked at home"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "You can lower high blood pressure by making healthy lifestyle changes, such as eating healthily, exercising regularly and cutting down on alcohol."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Blood pressure test > What your blood pressure result means",
+   "kind": "p",
+   "s": [
+    "Many people also need tablets to control their blood pressure.",
+    "A doctor will recommend the most suitable medicine for you if needed."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Blood pressure test > What your blood pressure result means > Blood pressure chart",
+   "kind": "p",
+   "s": [
+    "Use our check your blood pressure reading tool to see your reading on a chart and understand what it means."
+   ]
+  }
+ ]
+}

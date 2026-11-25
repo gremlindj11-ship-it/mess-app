@@ -1,0 +1,672 @@
+{
+ "id": "clinmed-2026-secondary-hypertension",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC13319879",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13319879/fullTextXML",
+ "doi": "10.1016/j.clinme.2026.100597",
+ "title": "Secondary hypertension for the generalist: When do you refer to hypertension specialist clinics, and how do you screen for secondary hypertension?",
+ "authors": "Clark CE, George A",
+ "journal": "Clinical Medicine",
+ "year": "2026",
+ "updated": "2026-05-22",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Clark CE, George A. Secondary hypertension for the generalist: When do you refer to hypertension specialist clinics, and how do you screen for secondary hypertension?. Clinical Medicine. 2026. https://doi.org/10.1016/j.clinme.2026.100597. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-21",
+ "sha256": "be4f11ce2e2b0ca4066997b9f0764087d17cddb2be81f040be9f98462f95c4b5",
+ "sentences": 120,
+ "set_aside": 19,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Current guidelines recommend referral to adult hypertension specialists when further investigation is likely to influence management.",
+    "This article focuses on identifying aspects of adult hypertension that should lead to specialist referral and/or investigation, being relevant to both primary and secondary care."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: Hypertension"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Hypertension is the most prevalent modifiable cardiovascular risk factor and is the leading cause of morbidity and mortality worldwide.",
+    "Most adults with hypertension (90%) are diagnosed and managed entirely in primary care, using lifestyle interventions and guideline-directed pharmacotherapy.",
+    "Given its high prevalence, hypertension may also be encountered, or first recognised, in outpatient, inpatient or emergency settings, either incidentally or in relation to the presenting complaint.",
+    "A working knowledge of the referral and investigation pathways is, therefore, essential across healthcare settings."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Things to consider before referring",
+   "kind": "p",
+   "s": [
+    "Most secondary care hypertension clinics in the UK are oversubscribed.",
+    "It is, therefore, worth considering measures to optimise blood pressure (BP) control prior to referral and identifying patients most likely to benefit from specialist assessment."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Things to consider before referring",
+   "kind": "p",
+   "s": [
+    "In every setting, care should be taken to ensure accurate BP measurements, considering the posture, technique, rest periods, environment and equipment (Tables 1 and 2).",
+    "Clinical staff should be trained, and regularly refreshed, in accurate BP measurement.",
+    "This will avoid over- or underestimation of BP, minimise white-coat effects and avoid erroneous referrals., At initial assessment, BP should be measured in both arms, and the higher arm value recorded for diagnosis and treatment.",
+    "Diagnosis of hypertension should be confirmed using ambulatory (ABPM) or home BP monitoring before referral, unless an urgent referral is clinically indicated (see below).",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Things to consider before referring",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Things to consider before referring",
+   "kind": "caption",
+   "s": [
+    "Table 2 Considerations for accurate brachial blood pressure measurement."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Steps | Considerations"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Preparation | Avoid caffeine, alcohol and smoking for 30 min beforehand Rest seated in a quiet area for 5 min before measurement"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Positioning | Sit upright with back supported Support upper arm at heart level a Support forearm in order to relax shoulder and upper arm Legs should be uncrossed and feet flat on the floor"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Affix the cuff | Select the correct size cuff for arm circumference, typically Standard = 22–32 cm Large = 32–42 cm Extra-large = 42–50 cm b Position cuff 1–2 cm above elbow flexure, centring bladder on brachial artery (note any artery marker to guide positioning) Apply to bare arm, not over clothing"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Taking measurements | Maintain recommended posture throughout Do not talk If BP ≥140/90, take a second measurement If second measurement substantially differs, take a third measurement Measure both arms, in case of difference"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Things to consider before referring",
+   "kind": "row",
+   "s": [
+    "Recording BP | From the higher-reading arm, record the lower of the second or third measurements, unless only a single measurement made Record which is the higher-reading arm, for future reference Record lower-reading arm BP, noting inter-arm BP difference"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Things to consider before referring",
+   "kind": "note",
+   "s": [
+    "a For wrist devices, same sitting posture, support wrist at heart level, position palm according to device manufacturer instructions.",
+    "Quoted cuff ranges vary by manufacturer, some being wide ranging, typically 22–42 cm.",
+    "Paediatric cuffs should also be available."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Things to consider before referring",
+   "kind": "p",
+   "s": [
+    "In patients with suboptimal BP control despite antihypertensive therapy, assessment of medication adherence is essential.",
+    "Hypertension is frequently asymptomatic, whereas antihypertensive medications may be associated with adverse effects that influence adherence.",
+    "A clear discussion regarding the long-term risks of uncontrolled hypertension, along with counselling about potential medication side effects, may improve compliance."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Things to consider before referring",
+   "kind": "p",
+   "s": [
+    "Lifestyle modification remains a cornerstone of management and is often under-emphasised.",
+    "[set aside: names guidance a model may not read]",
+    "The British and Irish Hypertension Society, Blood Pressure UK, and the British Heart Foundation are all excellent resources to support professionals and patients (see Resources, below)."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "When to refer",
+   "kind": "p",
+   "s": [
+    "Referral may be indicated by the clinical context of presentation, abnormal investigation findings, or the presence of hypertension in specific patient groups.",
+    "Access to accredited specialist services and investigations is unevenly distributed across the UK, creating inequalities in access.",
+    "In the absence of a dedicated hypertension clinic, patients are often referred to a local cardiologist.",
+    "However, it is worth noting that not all cardiologists have specialist training or a clinical focus on hypertension, and some may have less overall experience in this than the referring clinician."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "When to refer",
+   "kind": "p",
+   "s": [
+    "While specialist input may be sought for any diagnostic or management challenges in hypertension, specific guideline-based referral indications should be considered, as summarised in Table 3.",
+    "All referrals should be supported by a comprehensive clinical examination (Box 1), include results of baseline investigations for target organ damage (Table 3), duration of hypertension, age at diagnosis, antihypertensive treatment history, general medical history and family cardiovascular history.",
+    "All patients with hypertension should undergo baseline investigations, including electrocardiography to assess for left ventricular hypertrophy, urinalysis, renal function testing, glycated haemoglobin (HbA1c), lipid profile, thyroid function tests, and measurement of the urine albumin–creatinine ratio."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "When to refer",
+   "kind": "caption",
+   "s": [
+    "Table 3 Guideline indications for referral to a hypertension specialist."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "Presentation | Definition | Action | Guideline"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "General adult population"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "BP not controlled on three or more antihypertensives | Resistant hypertension | • Confirm BP above target with ABPM/HBPM • Assess for PH before further prescribing • Review medication adherence Following the above, add step 4 treatment as spironolactone if serum K+ ≤4.5 mmol/L, or with an α or β-blocker if K+ >4.5 mmol/L. Monitor renal function 1 month after starting.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "Women planning pregnancy or currently pregnant"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "Adults referred for elective surgery"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "Pre-operative assessment | • There should be a record of BP taken in primary or secondary care <160/100 mmHg (or ABPM or HBPM <155/95 mmHg) within the previous 12 months.",
+    "If not documented, BP should be measured • If clinic BP is 180/120 mmHg (or ABPM/HBPM ≥175/115 mmHg should not proceed to surgery, but be referred (usually back to their GP) to control BP. | AA/BIHS 2026"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "When to refer",
+   "kind": "row",
+   "s": [
+    "Footnotes"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "When to refer",
+   "kind": "note",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "Symptoms or signs indicating same-day referral are retinal haemorrhage, papilloedema, new onset of confusion, chest pain, heart failure, or acute kidney injury.",
+    "Also applies if phaeochromocytoma suspected (e.g., from labile or postural hypotension, headache, palpitations, pallor, abdominal pain or diaphoresis).",
+    "TOD is defined as damage to the heart, brain, kidneys or eyes.",
+    "Consequently, investigations should include fundoscopy (for retinopathy), 12-lead ECG (to detect LVH), urinalysis for haematuria and albumin: creatinine ratio, and blood analysis for glycated haemoglobin, electrolytes, creatinine, estimated glomerular filtration rate, total cholesterol and HDL cholesterol (for estimation of cardiovascular risk).",
+    "These investigations are the minimum indicated for all people suspected to have hypertension, and results of such should be included in any referral.",
+    "Clinical review could be by GP, especially if newly diagnosed, or by specialist if other table criteria apply."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Eyes: fundoscopy for retinopathy"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Neurological: evidence of cerebrovascular disease and cognitive impairment"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Vascular: unequal BP, evidence of peripheral vascular disease"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Pulse palpation: arrhythmia, peripheral pulses present, radio-femoral delay"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Auscultation for carotid, femoral, and renal artery bruits; signs of peripheral arterial disease"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Cardiac auscultation: valvular heart disease and cardiomegaly, signs of heart failure"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "Abdominal: palpable kidneys (polycystic kidney disease or mass) and aortic enlargement"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Clinical points to cover in assessing hypertension.",
+   "kind": "p",
+   "s": [
+    "General: e.g., cushingoid features or thyroid disease"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Referral criteria in the general population",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "Same-day specialist referral is required when BP ≥180/120 mmHg with symptoms of hypertensive emergency., Most UK centres do not have same-day specialist hypertension clinics, hence these patients may need to be referred to same-day emergency care or the emergency department."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Referral criteria in the general population",
+   "kind": "p",
+   "s": [
+    "Routine referral should be considered for adults aged <40 years with hypertension.",
+    "[set aside: names guidance a model may not read]",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Referral criteria in the general population",
+   "kind": "p",
+   "s": [
+    "If blood pressure remains above target (≤140/90 mmHg, or ≤150/90 mmHg in adults aged ≥80 years) despite treatment with maximally tolerated doses of an angiotensin converting enzyme-inhibitor (ACE-I) or angiotensin receptor blocker (ARB), a calcium channel blocker and a thiazide-like diuretic, specialist referral should be considered for a diagnosis of resistant hypertension, before or after escalation to step 4 therapy.",
+    "In patients with stable renal function (and potassium level <4.5 mmol/l), step 4 treatment typically involves adding spironolactone.",
+    "If renal function is not favourable, consider an alpha-blocker (eg doxazosin) or a beta-blocker as alternatives."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Referral criteria in the general population",
+   "kind": "p",
+   "s": [
+    "Specialist assessment may include repeat ABPM to confirm true treatment resistance and identify pseudo-resistant hypertension due to poor adherence, optimisation and escalation of therapy, investigation for secondary hypertension, and consideration of cost-effective non-pharmacological interventions such as renal denervation."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Screening for secondary hypertension: when and how",
+   "kind": "p",
+   "s": [
+    "Primary (essential) hypertension is the most common form of hypertension.",
+    "It lacks a specific, identifiable, underlying cause amenable to intervention.",
+    "Its pathophysiology is not fully understood, but is considered to result from a complex interplay of genetic predisposition, environmental influences and age-related vascular stiffening.",
+    "In contrast, secondary hypertension has an identifiable underlying cause or precipitating factor.",
+    "It accounts for 5–10% of cases and may be suggested by abnormal findings on assessment for target organ damage (Table 3) or by specific clinical features, including characteristic symptoms, signs or demographic factors (Box 2).",
+    "Screening for secondary causes of hypertension should be guided by the clinical history, examination and baseline assessment for target organ damage."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Resistant hypertension"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Early onset hypertension (age <40)"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Sudden onset or rapidly worsening hypertension"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Severe hypertension (≥180/120 mmHg)"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Hypokalaemia on initial renal function testing"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "TOD out of proportion for the degree or duration of hypertension"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Specific clinical clues, such as episodic headache and palpitations, renal asymmetry, abdominal bruits, or features of endocrine disease"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Primary aldosteronism (PA) is the most common endocrine cause of secondary hypertension (prevalence of 2–6% among hypertensives).",
+    "Screening should be considered in adults <40 years, in the presence of spontaneous or thiazide-induced hypokalaemia (serum potassium <3.5 mmol/L), resistant hypertension, family history or adrenal incidentalomas detected on imaging.",
+    "However, absence of hypokalaemia or adrenal adenomas do not exclude PA and screening should be still considered if clinically suspected."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Screening involves measurement of the plasma aldosterone–renin ratio (ARR).",
+    "Hypokalaemia should be corrected before testing.",
+    "Ideally testing should be done after anti-hypertensive washout; however, this may not always be practicable or routinely required, unless there is a concern that results may be false positive or negative, or in patients with moderate–high pre-test probability.",
+    "Confirmation requires dynamic testing, such as oral sodium loading test, saline infusion test, captopril challenge test, or fludrocortisone suppression test, depending on local expertise.",
+    "Adrenal imaging and adrenal vein sampling are then used to identify candidates for unilateral adrenalectomy."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "If PA is suspected, consider deferring initiation of renin–angiotensin–aldosterone system (RAAS) influencing agents until the ARR has been measured."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Investigation for renal causes should be guided by clinical findings (eg renal mass or bruit), abnormal renal function or urinalysis.",
+    "Renal ultrasound may inform the need for further imaging and specialist assessment.",
+    "Renal artery stenosis can be associated with resistant and/or young-age onset hypertension, especially in women below the age of 50.",
+    "Consider dedicated imaging (Doppler, CT or MRI) in these patients, especially if there is associated renal dysfunction (particularly with ACE-I or ARB treatment), small renal size or history of fibromuscular dysplasia.",
+    "Plasma free metanephrines or urinary fractionated metanephrines measurement is indicated to exclude phaeochromocytoma or paraganglioma, particularly in patients with adrenal mass, paroxysmal hypertension, episodic headache, sweating or palpitations."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Indications to screen for secondary causes of hypertension.",
+   "kind": "p",
+   "s": [
+    "Obstructive sleep apnoea (OSA) is a leading yet underdiagnosed cause of secondary hypertension.",
+    "It causes nocturnal BP spikes and sustained daytime hypertension due to sympathetic nerve activation from interrupted breathing.",
+    "Screening using the Epworth score and sleep studies can make the diagnosis.",
+    "Treatment with CPAP (continuous positive airway pressure) therapy can reduce BP, though antihypertensive medication is often needed."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Referral in special circumstances > Pregnancy and conception",
+   "kind": "p",
+   "s": [
+    "Hypertensive disorders affect 8–10% of pregnancies and are associated with significant maternal and fetal morbidity.",
+    "Hypertension may be present prior to pregnancy or diagnosed before 20 weeks’ gestation (chronic hypertension), present as new-onset hypertension after 20 weeks’ gestation (gestational hypertension), or occur as new-onset hypertension with multi-organ involvement (pre-eclampsia)."
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Referral in special circumstances > Pregnancy and conception",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "Suspected pre-eclampsia or severe hypertension requires same-day specialist referral.",
+    "In women with pre-existing hypertension, pre-pregnancy or early pregnancy specialist assessment is recommended to optimise management and reduce the risks associated with inadequate blood pressure control.",
+    "Additionally, women who develop gestational hypertension require specialist investigation to identify complications, including pre-eclampsia."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Referral in special circumstances > Pregnancy and conception",
+   "kind": "p",
+   "s": [
+    "Antihypertensive therapy should be reviewed promptly once pregnancy is confirmed, and medications contraindicated in pregnancy or breastfeeding should be replaced with safer alternatives.",
+    "It should not be forgotten that gestational hypertension can lead to chronic hypertension in later life, so long-term follow-up and lifestyle advice are warranted."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Referral in special circumstances > Pre-operative assessment",
+   "kind": "p",
+   "s": [
+    "Pre-operative BP assessment can be challenging due to spuriously elevated readings related to white-coat and environmental effects.",
+    "To minimise unnecessary referrals, the Association of Anaesthetists and the British and Irish Hypertension Society (AA/BIHS) developed guidance on pre-operative BP assessment.",
+    "Updated in 2026, this prioritises recorded primary care BP values over clinic readings and supports proceeding with routine surgery without intervention, provided that BP does not exceed 180/120 mmHg (Table 3)."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Summary",
+   "kind": "p",
+   "s": [
+    "Most patients with hypertension do not require referral to specialist services.",
+    "However, clinical history, presentation and initial investigations provide important indicators for patients who may benefit from specialist review.",
+    "Effective and comprehensive management of hypertension requires awareness of referral criteria and collaborative care from generalists and specialists."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Useful resources > British Heart Foundation",
+   "kind": "p",
+   "s": [
+    "For a wealth of lifestyle and other information, for patients and professionals, see: https://www.bhf.org.uk/."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Useful resources > British and Irish Hypertension Society",
+   "kind": "p",
+   "s": [
+    "For professional guidance and statements on all aspects of hypertension, see: https://bihs.org.uk/."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Useful resources > Blood Pressure UK",
+   "kind": "p",
+   "s": [
+    "UK’s patient-focused BP charity with resources and advice, see: https://www.bloodpressureuk.org/."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Useful resources > NICE Guidance",
+   "kind": "p",
+   "s": [
+    "https://www.nice.org.uk/guidance/ng136."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Useful resources > NICE visual summaries > Adult hypertension",
+   "kind": "p",
+   "s": [
+    "https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf−6899919517; accessed 2/2/26."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Useful resources > NICE visual summaries > Hypertension in pregnancy",
+   "kind": "p",
+   "s": [
+    "https://www.nice.org.uk/guidance/ng133/resources/gestational-hypertension-antenatal-care-pdf−8720711394; accessed 2/2/26."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "CRediT authorship contribution statement",
+   "kind": "p",
+   "s": [
+    "Christopher E. Clark: Writing – review & editing, Writing – original draft, Visualization, Supervision, Resources, Conceptualization.",
+    "Anish George: Writing – review & editing, Resources."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Declaration of competing interest",
+   "kind": "p",
+   "s": [
+    "The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: Christopher Clark reports financial support was provided by University of Exeter Medical School.",
+    "CEC is supported by the National Institute for Health and Care Research (NIHR) School for Primary Care Research (SPCR) and the Southwest GP Trust (SWGPT).",
+    "[set aside: names guidance a model may not read]",
+    "[set aside: names guidance a model may not read]",
+    "AG has no declarations.",
+    "If there are other authors, they declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+   ]
+  }
+ ]
+}

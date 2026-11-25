@@ -1,0 +1,336 @@
+{
+ "id": "bihs-2024-referral-management",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC10803252",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10803252/fullTextXML",
+ "doi": "10.1038/s41371-023-00882-2",
+ "title": "Adult hypertension referral pathway and therapeutic management: British and Irish Hypertension Society position statement",
+ "authors": "Lewis P, George J, Kapil V et al",
+ "journal": "Journal of Human Hypertension",
+ "year": "2024",
+ "updated": "2024-01-09",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or o",
+ "credit": "Lewis P, George J, Kapil V et al. Adult hypertension referral pathway and therapeutic management: British and Irish Hypertension Society position statement. Journal of Human Hypertension. 2024. https://doi.org/10.1038/s41371-023-00882-2. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-21",
+ "sha256": "9307b6fbc5d5851d1fcf5e2ff2e4ee2c99f7192a47bbb2ae48619cb6e20b0916",
+ "sentences": 71,
+ "set_aside": 12,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "In the UK, most adults with hypertension are managed in Primary Care.",
+    "Referrals to Secondary Care Hypertension Specialists are targeted to patients in whom further investigations are likely to change management decisions.",
+    "In this position statement the British and Irish Hypertension Society provide clinicians with a framework for referring patients to Hypertension Specialists.",
+    "Additional therapeutic advice is provided to optimise patient management whilst awaiting specialist review.",
+    "Our aim is to ensure that referral criteria to Hypertension Specialists are consistent across the UK and Ireland to ensure equitable access for all patients."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "In the UK, most adults with hypertension are managed in Primary Care.",
+    "National and international guidelines advise that adult referrals to Secondary Care Hypertension Specialists are targeted at patients in whom further investigations are likely to change management decisions .",
+    "Referrals are recommended when patients have raised blood pressure with life threatening target-organ damage (i.e. emergency/same day referrals); or when patients have, for example, suspected secondary hypertension, resistant hypertension, or complex polypharmacy (i.e. routine referrals) ."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "Table 3 summarises the ideal information to accompany referrals to facilitate communication between Primary and Secondary Care services.",
+    "Where there are long waiting times to access routine Secondary Care hypertension services, the BIHS offer additional therapeutic advice to optimise patient management whilst awaiting specialist review (Fig. 1).",
+    "Finally, the challenges facing referrers in identifying a Hypertension Specialist in the UK are discussed.",
+    "Table 1 BIHS criteria for emergency/same day referrals."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Clinical Situation | Supported by"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Malignant/accelerated phase hypertension.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Hypertensive crisis.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Pre-eclampsia and severe hypertension in pregnancy.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Introduction",
+   "kind": "note",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Introduction",
+   "kind": "caption",
+   "s": [
+    "Table 2 BIHS criteria for routine referrals."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Clinical situation | Supported by"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Suspected secondary hypertension, including, but not limited to hyperaldosteronism (e.g. hypokalaemia); phaeochromocytoma (e.g. palpitations, headache, flushing, family history, history of neurofibromatosis); drug-induced hypertension (e.g. concomitant prescription of combined oral contraceptive pill or implant, hormone substitutes, steroids, NSAIDs, VEGF inhibitors, tyrosine kinase inhibitors (TKIs), tricyclic antidepressants, SSNRIs, dexamphetamine, methylphenidate).",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Complex polypharmacy | ESC/ESH"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Introduction",
+   "kind": "note",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Introduction",
+   "kind": "caption",
+   "s": [
+    "Table 3 Information to share with hypertension specialists."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "History | Investigations (where possible)"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "• Reason for referral • Current medication • Previous intolerance to specific antihypertensive drugs with reasons • Relevant medical history and family history • Duration of hypertension / age at diagnosis | • Blood and urine test results • Ambulatory and/or home blood pressure monitoring results • ECG and/or echocardiography results • Imaging reports (e.g. CXR, renal ultrasound, CT or MRI)"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Introduction",
+   "kind": "note",
+   "s": [
+    "ECG electrocardiogram, CXR chest x-ray, CT computed tomography, MRI magnetic resonance imaging."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Introduction",
+   "kind": "caption",
+   "s": [
+    "Fig. 1 BIHS adult hypertension pathway therapeutic management.",
+    "ABPM ambulatory blood pressure monitoring, ACEi angiotensin converting enzyme inhibitor, ARB angiotensin II receptor blocker, CCB calcium channel blocker, eGFR estimated glomerular filtration rate, HBPM home blood pressure monitoring, SPC single pill combination. *The availability of SPCs is currently limited in the UK and the only triple-component combination contains amlodipine, hydrochlorothiazide and olmesartan.",
+    "Hydrochlorothiazide has been linked with an increased risk of skin cancer and MHRA recommendations should be followed.",
+    "Consider a trial of lifestyle optimisation for 3 months if BP is borderline elevated, especially where there are modifiable lifestyle risk factors including obesity, excess salt or excess alcohol intake.",
+    "Check for postural hypotension in those with frailty, aged >80 years, multi-morbidity, type 2 diabetes mellitus, Parkinson’s disease, or symptoms.",
+    "In individuals with postural hypotension treat to a standing BP target.",
+    "See Table 2 for the criteria for routine referrals to a Hypertension Specialist.",
+    "See Table 1 for the criteria for emergency/same day referrals to a Hypertension Specialist.",
+    "Consider pre-payment certificates, dosette boxes, alarms or electronic reminders.",
+    "Encourage lifestyle modifications, including optimising body weight, salt and alcohol intake.",
+    "Promote smoking cessation to reduce total cardiovascular risk.",
+    "Re-review other drugs/supplements including: concomitant prescription of combined oral contraceptive pill or implant, hormone substitutes, steroids, NSAIDs, VEGF inhibitors, tyrosine kinase inhibitors (TKIs), tricyclic antidepressants, SSNRIs, dexamphetamine, methylphenidate, herbal supplements, illicit substances and liquorice.",
+    "Consider co-existing medical conditions (e.g. sleep apnoea, aortic coarctation, chronic kidney disease).",
+    "To be avoided in patients with hyperkalaemia or at increased risk of developing hyperkalaemia.",
+    "May be useful if hypokalaemia or heart failure.",
+    "Can titrate to 25 or 50 mg.",
+    "Check electrolytes and creatinine at each titration and ensure potassium remains <5.5 mmol/l (or upper limit of normality according to local laboratories).",
+    "If feminising effect e.g. gynaecomastia, change to eplerenone at twice the dose, or amiloride.",
+    "May cause postural hypotension especially in the frail and older persons (ideally avoid), and in those with multiple co-morbidities.",
+    "May cause stress incontinence in ~15% women.",
+    "If a male is on another alpha blocker, e.g. Tamsulosin, then stop and use doxazosin for both hypertension and bladder outflow benefit.",
+    "Doxazosin XL 4 mg OD or Doxazosin XL 8 mg OD have a smoother pharmacokinetic profile and reduce the incidence of postural hypotension.",
+    "Recommended in ischaemic heart disease.",
+    "Avoid in asthma.",
+    "May help with anxiety, although propranolol is likely to be more effective.",
+    "Consider halving the starting dose in those with heart failure (e.g. lisinopril 5 mg OD).",
+    "Consider candesartan for dual BP control and migraine prophylaxis."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "The clinical situations where the BIHS recommends emergency/same day referrals are outlined in Table 1."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "The clinical situations where the BIHS recommends routine referrals are outlined in Table 2."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "Prior to making routine referrals, clinicians should have: Confirmed hypertension is present by either Ambulatory Blood Pressure Monitoring (ABPM) or Home Blood Pressure Monitoring (HBPM)."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "AND if applicable,"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Adult referral criteria to a secondary care hypertension specialist",
+   "kind": "p",
+   "s": [
+    "Assessed concordance with medication (preferably by urine testing, where available )."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Information to share with hypertension specialists",
+   "kind": "p",
+   "s": [
+    "To facilitate communication between referrers and Hypertension Specialists, the BIHS recommends that, where possible, the information in Table 3 is included with the referral.",
+    "This avoids patients undergoing repeated testing unnecessarily, maximises the efficient use of resources and enables patients to start new, or modified, treatment regimens as soon as possible."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Management advice for routine referrals awaiting hypertension specialist review",
+   "kind": "p",
+   "s": [
+    "The BIHS acknowledges that current waiting times for routine NHS referrals may be considerable.",
+    "To optimise hypertension treatment whilst patients await specialist review, clinicians may wish to consider the following steps: For newly diagnosed patients in whom secondary causes are suspected, or aged <40 years at diagnosis, or post-partum, a non renin-angiotensin-aldosterone system interfering drug is preferred (e.g. amlodipine or equivalent) as a temporary treatment while awaiting specialist review.",
+    "This will facilitate interpretation of screening tests for the secondary causes of hypertension.",
+    "Definitive long-term therapy should follow the guidance in Fig. 1."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Management advice for routine referrals awaiting hypertension specialist review",
+   "kind": "p",
+   "s": [
+    "For those with established and uncontrolled hypertension, having tried multiple drug therapies, additional therapeutic options are summarised in Fig. 1.",
+    "The choice of exemplar drugs within each class was based on the totality of evidence for each drug in reducing morbidity and mortality combined with duration of action.",
+    "Long acting drugs are strongly preferred to minimise the impact of a missed dose and reduce blood pressure variability."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Management advice for routine referrals awaiting hypertension specialist review",
+   "kind": "p",
+   "s": [
+    "Clinicians may also find patients are willing to revisit lifestyle modifications, including optimising weight, salt and alcohol intake and review their medication concordance whilst awaiting specialist advice.",
+    "Re-assessing white coat hypertension by ABPM or HBPM can also be helpful ."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Selection of a hypertension specialist",
+   "kind": "p",
+   "s": [
+    "It is important to refer patients to Hypertension Specialists who have appropriate training, experience and interest in hypertension management and who have access to specialist facilities to conduct relevant investigations.",
+    "In the UK, there is currently no specialist registration for hypertension doctors and the only medical training curriculum that includes a specific module in hypertension is Clinical Pharmacology and Therapeutics.",
+    "The BIHS is currently working on a system for accreditation and recognition of specialist hypertension services in the UK.",
+    "In the interim, referrers can check if their local Hypertension Specialist is a member of the British and Irish Hypertension Society (Email: bihs@in-conference.org.uk), holds a European Hypertension Specialist certificate (https://www.eshonline.org/communities/hypertension-specialist/directory-of-specialists/) or works at a European Hypertension Centre of Excellence (https://www.eshonline.org/communities/excellence-centres/)."
+   ]
+  }
+ ]
+}

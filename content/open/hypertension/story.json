@@ -1,0 +1,618 @@
+{
+ "topic": "Hypertension",
+ "shape": "presentation",
+ "writer": "claude",
+ "from": "the NHS website and six open-access papers (five British and Irish Hypertension Society position statements and a Clinical Medicine review)",
+ "covers": "It covers measuring and confirming blood pressure, causes, looking for damage, lifestyle, starting drugs, targets, resistant hypertension, emergencies and the groups that change the plan.",
+ "not_covered": "The open sources used did not cover the stages of hypertension, which drug to start first and the steps after it, not combining an ACE inhibitor with an ARB, drug choice in diabetes and kidney disease, or blood tests after a drug change: they are listed at the end with where to read them.",
+ "idea": "High blood pressure is common, usually silent, and the leading modifiable risk factor for premature illness and death from cardiovascular disease. Outside a hypertensive crisis, one raised reading is not a diagnosis: it is confirmed with home or ambulatory readings. Then: look for a cause where the clues point to one, know what untreated pressure damages, and bring it down, with lifestyle interventions for everyone and, in the BIHS position, a drug once out-of-office blood pressure stays at 135/85 mmHg or higher despite diet and lifestyle advice. A hypertensive emergency needs immediate attention, with a controlled but only partial reduction in the first 6 to 24 hours, keeping diastolic blood pressure above 100 mmHg except in acute aortic syndromes.",
+ "idea_rows": [
+  24,
+  44,
+  95,
+  10,
+  11,
+  27,
+  94,
+  54,
+  58,
+  83,
+  87
+ ],
+ "steps": [
+  {
+   "h": "What counts as high",
+   "pts": [
+    {
+     "row": 2
+    },
+    {
+     "row": 11,
+     "short": "One raised reading is not a diagnosis: blood pressure varies markedly, so diagnosis and treatment decisions should not be made on a single occasion, except in a hypertensive crisis"
+    },
+    {
+     "row": 10
+    },
+    {
+     "row": 44
+    }
+   ],
+   "more": [
+    {
+     "row": 45
+    },
+    {
+     "row": 12
+    }
+   ],
+   "table": {
+    "cap": "When a reading counts as high",
+    "head": [
+     "Where it is taken",
+     "Counts as high"
+    ],
+    "rows": [
+     [
+      "By a healthcare professional",
+      "140/90 or higher"
+     ],
+     [
+      "At home",
+      "135/85 or higher"
+     ]
+    ],
+    "claims": [
+     2
+    ]
+   }
+  },
+  {
+   "h": "Measuring it properly",
+   "bridge": "Because one number decides so much, it has to be measured well",
+   "pts": [
+    {
+     "row": 3
+    },
+    {
+     "row": 4
+    },
+    {
+     "row": 6,
+     "short": "The cuff should be made for the monitor and sized for the person: bladder length 75 to 100% and width 35 to 50% of the arm circumference"
+    },
+    {
+     "row": 9,
+     "short": "In atrial fibrillation and other abnormal rhythms, semi-automatic devices are unreliable, so blood pressure should be measured manually by auscultation"
+    }
+   ],
+   "more": [
+    {
+     "row": 5
+    },
+    {
+     "row": 8
+    },
+    {
+     "row": 17
+    }
+   ]
+  },
+  {
+   "h": "When clinic and home disagree",
+   "bridge": "Readings outside the clinic show two patterns a clinic reading hides",
+   "pts": [
+    {
+     "row": 13,
+     "short": "White coat hypertension: high clinic blood pressure, normal home or ambulatory readings. It predicts sustained hypertension and cardiovascular disease"
+    },
+    {
+     "row": 14,
+     "short": "Masked hypertension: normal clinic blood pressure, raised home or ambulatory readings. It is more common in men, smokers and people with a higher body mass index"
+    },
+    {
+     "row": 15
+    },
+    {
+     "row": 16
+    }
+   ],
+   "table": {
+    "cap": "Two patterns a clinic reading can hide",
+    "head": [
+     "Pattern",
+     "Clinic",
+     "Home or ambulatory",
+     "Judge treatment by"
+    ],
+    "rows": [
+     [
+      "White coat hypertension",
+      "High",
+      "Normal",
+      "Out-of-office readings"
+     ],
+     [
+      "Masked hypertension",
+      "Normal",
+      "Raised",
+      "Out-of-office targets"
+     ]
+    ],
+    "claims": [
+     13,
+     14,
+     15,
+     16
+    ]
+   }
+  },
+  {
+   "h": "Why it happens",
+   "bridge": "Once it is confirmed, the next question is why this person has it",
+   "pts": [
+    {
+     "row": 19,
+     "short": "Primary (essential) hypertension is the most common form of hypertension: no specific cause that can be treated, thought to come from genes, environment and age-related stiffening of the blood vessels"
+    },
+    {
+     "row": 21,
+     "short": "Risk rises with older age, a family history, a Black African, Black Caribbean or South Asian background, a salty diet, being overweight, smoking, too much alcohol and long-term stress"
+    },
+    {
+     "row": 24
+    },
+    {
+     "row": 22
+    }
+   ],
+   "more": [
+    {
+     "row": 23
+    },
+    {
+     "row": 43
+    }
+   ]
+  },
+  {
+   "h": "Looking for a cause",
+   "bridge": "A minority have a cause that can be found, and some clues point to it",
+   "pts": [
+    {
+     "row": 20,
+     "short": "Secondary hypertension has an identifiable cause and accounts for 5 to 10% of cases"
+    },
+    {
+     "row": 27,
+     "short": "Screen for a secondary cause in resistant, early-onset (before 40), sudden-onset or rapidly worsening, or severe (180/120 mmHg or higher) hypertension; with hypokalaemia on initial testing; with organ damage out of proportion; or with specific clinical clues (listed in the full wording)"
+    },
+    {
+     "row": 26,
+     "short": "About a third of people with apparent resistant hypertension have a secondary cause, most often kidney disease or primary hyperaldosteronism"
+    },
+    {
+     "row": 28,
+     "short": "Primary aldosteronism is the most common endocrine cause of secondary hypertension: screening should be considered in adults under 40, and with spontaneous or thiazide-induced hypokalaemia, resistant hypertension, a family history or an adrenal incidentaloma"
+    }
+   ],
+   "more": [
+    {
+     "row": 29
+    },
+    {
+     "row": 25
+    },
+    {
+     "row": 33
+    },
+    {
+     "row": 30
+    },
+    {
+     "row": 31
+    },
+    {
+     "row": 32
+    },
+    {
+     "row": 34
+    },
+    {
+     "row": 35
+    },
+    {
+     "row": 36
+    },
+    {
+     "row": 37
+    },
+    {
+     "row": 38
+    },
+    {
+     "row": 39
+    },
+    {
+     "row": 41
+    },
+    {
+     "row": 40
+    }
+   ],
+   "table": {
+    "cap": "Secondary causes: when to suspect each, and the tests the sources name",
+    "head": [
+     "Cause",
+     "Suspect it with",
+     "Tests named"
+    ],
+    "rows": [
+     [
+      "Primary aldosteronism",
+      "Adults under 40, hypokalaemia, resistant hypertension, a family history, an adrenal incidentaloma",
+      "Plasma aldosterone-renin ratio, after correcting hypokalaemia"
+     ],
+     [
+      "Phaeochromocytoma and paraganglioma",
+      "Paroxysmal or sustained hypertension, headaches, palpitations, hyperhidrosis, and non-cardiovascular symptoms such as weight loss or hypoglycaemia",
+      "Plasma free or urinary fractionated metanephrines"
+     ],
+     [
+      "Cushing syndrome",
+      "Truncal obesity, striae, glucose intolerance, repeated infections",
+      "Overnight dexamethasone suppression test, 24-hour urine free cortisol"
+     ],
+     [
+      "Obstructive sleep apnoea",
+      "Snoring, daytime sleepiness, raised body mass index or neck size, non-dipping profile",
+      "Epworth or STOP-BANG questionnaire, overnight oxygen saturation"
+     ],
+     [
+      "Aortic coarctation",
+      "Usually none; radio-femoral delay, lower blood pressure in the legs",
+      "MR angiography or CT of the aorta"
+     ],
+     [
+      "Renal artery stenosis",
+      "Resistant hypertension and/or hypertension starting young, especially in women under 50",
+      "Dedicated imaging (Doppler, CT or MRI) should be considered"
+     ]
+    ],
+    "claims": [
+     28,
+     29,
+     30,
+     31,
+     32,
+     34,
+     35
+    ]
+   }
+  },
+  {
+   "h": "What it damages, and looking for it",
+   "bridge": "Next, what raised pressure damages and the investigations the sources name",
+   "pts": [
+    {
+     "row": 94,
+     "short": "Untreated, it strains the blood vessels, heart, brain, kidneys and eyes, raising the risk of heart disease, heart attacks, strokes, heart failure, kidney disease and vascular dementia"
+    },
+    {
+     "row": 95,
+     "short": "High blood pressure is the leading modifiable risk factor for premature illness and death from cardiovascular disease worldwide"
+    },
+    {
+     "row": 47,
+     "short": "All adults with young-onset hypertension, investigations to consider: clinic and ambulatory or home blood pressure, ECG, echocardiogram, blood tests (listed in the full wording), fundoscopy, height, weight and waist, urine dipstick"
+    },
+    {
+     "row": 46,
+     "short": "Albuminuria and/or haematuria without a urinary tract infection may indicate renal parenchymal disease or end-organ damage and should be investigated further; for albuminuria, a formal albumin:creatinine ratio is more robust than a dipstick"
+    },
+    {
+     "row": 49,
+     "short": "Fundoscopy should be performed in all patients presenting with severely raised blood pressure, with a slit lamp and pupil dilation if necessary: retinal changes are key to diagnosing malignant hypertension"
+    }
+   ],
+   "more": [
+    {
+     "row": 48
+    },
+    {
+     "row": 50
+    },
+    {
+     "row": 82
+    }
+   ]
+  },
+  {
+   "h": "Lifestyle, for everyone",
+   "bridge": "Bringing it down starts with what the person can change",
+   "pts": [
+    {
+     "row": 54
+    },
+    {
+     "row": 51
+    },
+    {
+     "row": 53
+    },
+    {
+     "row": 57,
+     "short": "The DASH diet (lean proteins, whole grains, vegetables, fruit, low-fat dairy) lowered systolic pressure by 11.6 mmHg in hypertension and by 5.3 mmHg in normal blood pressure"
+    },
+    {
+     "row": 56
+    }
+   ],
+   "more": [
+    {
+     "row": 52
+    }
+   ]
+  },
+  {
+   "h": "Starting a drug, and the target",
+   "bridge": "Alongside lifestyle, the next decision is when to add a drug and what to aim for",
+   "pts": [
+    {
+     "row": 58,
+     "short": "BIHS recommends starting a drug, whatever the cardiovascular risk, after a confirmed diagnosis: a sustained out-of-office blood pressure of 135/85 mmHg or higher despite diet and lifestyle advice"
+    },
+    {
+     "row": 62
+    },
+    {
+     "row": 64
+    },
+    {
+     "row": 71,
+     "short": "BIHS target for all adults, within 6 months of starting treatment: below 130/80 mmHg, or as low as reasonably achievable without unacceptable side effects; higher targets may be appropriate in frailty and/or limited life expectancy"
+    },
+    {
+     "row": 72,
+     "short": "BIHS: the target is the same in the clinic, on a 7-day home average and on a daytime ambulatory average"
+    },
+    {
+     "row": 96,
+     "short": "Major cardiovascular events fell in proportion to the fall in systolic pressure: by 10% for each 5 mmHg, down to at least 120 mmHg in people under 75"
+    }
+   ],
+   "more": [
+    {
+     "row": 60
+    },
+    {
+     "row": 61
+    },
+    {
+     "row": 69
+    },
+    {
+     "row": 70
+    }
+   ]
+  },
+  {
+   "h": "When it won't come down",
+   "bridge": "If pressure stays above target on treatment, the basics are checked before more is added",
+   "pts": [
+    {
+     "row": 74,
+     "short": "Resistant hypertension (BIHS): clinic 140/90 mmHg or higher with average daytime ambulatory or home blood pressure of 135/85 mmHg or higher, despite lifestyle measures and at least 3 drugs at optimal or maximum tolerated doses, with non-adherence and secondary causes excluded"
+    },
+    {
+     "row": 76,
+     "short": "Pseudo-resistant hypertension commonly results from inaccurate measurement (an inaccurate device or wrong-sized cuff, the white-coat phenomenon, or marked brachial artery calcification); non-adherence is also a frequent cause"
+    },
+    {
+     "row": 73,
+     "short": "Objective tests of drugs in blood or urine show non-adherence in around 50% of people with apparent resistant hypertension"
+    },
+    {
+     "row": 65
+    },
+    {
+     "row": 66,
+     "short": "If blood pressure stays raised on optimal triple therapy, a fourth-line drug should be added; the PATHWAY-2 trial found spironolactone lowered it most"
+    },
+    {
+     "row": 67,
+     "short": "In resistant hypertension, spironolactone should be used as the fourth-line drug of choice: started at 12.5 to 25 mg once daily (if eGFR is above 30 and potassium below 4.5 mmol/L), and can be increased to 50 mg depending on clinical response"
+    }
+   ],
+   "more": [
+    {
+     "row": 75
+    },
+    {
+     "row": 68
+    },
+    {
+     "row": 77
+    }
+   ]
+  },
+  {
+   "h": "Severe and emergency",
+   "bridge": "Very high readings change how fast everything happens",
+   "pts": [
+    {
+     "row": 83,
+     "short": "Blood pressure above 180/120 mmHg needs an urgent assessment"
+    },
+    {
+     "row": 85,
+     "short": "Hypertensive emergency: raised blood pressure that, if sustained over hours, may lead to life-threatening organ damage, as in pulmonary oedema, encephalopathy, aortic dissection or intracerebral haemorrhage"
+    },
+    {
+     "row": 86,
+     "short": "Malignant hypertension: typically diastolic 120 mmHg or higher, with bilateral grade 3 or grade 4 hypertensive retinopathy"
+    },
+    {
+     "row": 84,
+     "short": "Severe hypertension without life-threatening damage: lowered over days to weeks rather than hours, by mouth rather than intravenously"
+    },
+    {
+     "row": 87,
+     "short": "Hypertensive emergencies need immediate attention. The aim in the first 6 to 24 hours is a controlled but only partial reduction in mean arterial pressure, of no more than 20 to 25%, keeping diastolic blood pressure above 100 mmHg except in acute aortic syndromes"
+    },
+    {
+     "row": 88,
+     "short": "In chronic hypertension autoregulation is reset higher, so lowering blood pressure to low values can compromise blood flow to vital organs"
+    }
+   ],
+   "more": [
+    {
+     "row": 89
+    },
+    {
+     "row": 90
+    },
+    {
+     "row": 91
+    },
+    {
+     "row": 92
+    },
+    {
+     "row": 79
+    },
+    {
+     "row": 78
+    }
+   ],
+   "table": {
+    "cap": "Severe, or an emergency?",
+    "head": [
+     "",
+     "Severe, no life-threatening damage",
+     "Hypertensive emergency"
+    ],
+    "rows": [
+     [
+      "How fast",
+      "Over days to weeks rather than hours",
+      "First 6 to 24 hours: mean arterial pressure down by no more than 20 to 25%, keeping diastolic above 100 mmHg except in acute aortic syndromes"
+     ],
+     [
+      "How",
+      "Oral rather than intravenous therapy",
+      "Immediate attention; in most cases management begins in parallel with assessment"
+     ]
+    ],
+    "claims": [
+     84,
+     87
+    ]
+   }
+  },
+  {
+   "h": "Groups that change the plan",
+   "bridge": "Some people need the plan adjusted",
+   "pts": [
+    {
+     "row": 81,
+     "short": "Adults diagnosed under 40 (young-onset hypertension) are recommended for review by a hypertension specialist, to exclude secondary causes and optimise treatment"
+    },
+    {
+     "row": 63,
+     "short": "Newly diagnosed and awaiting a specialist, if under 40, post-partum or a secondary cause is suspected: a drug that leaves the renin-angiotensin-aldosterone system alone, such as amlodipine, is preferred for now"
+    },
+    {
+     "row": 93,
+     "short": "Young-onset hypertension, women of childbearing potential: discuss plans for future pregnancy and contraception use and, where appropriate, the potential harmful effects of ACE inhibitors and angiotensin II receptor antagonists in pregnancy; drugs routinely used in pregnancy are named in the full wording"
+    },
+    {
+     "row": 40
+    },
+    {
+     "row": 18,
+     "short": "Postural hypotension should be checked for in people with frailty, aged over 80, with multi-morbidity, type 2 diabetes or Parkinson's disease, or with symptoms; if present, treat to a standing target"
+    }
+   ],
+   "more": [
+    {
+     "row": 80
+    }
+   ]
+  }
+ ],
+ "remember": [
+  "A reading counts as high at 140/90 taken by a healthcare professional or 135/85 at home. Outside a hypertensive crisis, a diagnosis is not made on a single occasion: it is confirmed by ambulatory or home monitoring.",
+  "Screen for a secondary cause when hypertension starts before 40, is resistant, or comes with hypokalaemia or other clues. Lifestyle interventions are for everyone with hypertension. The BIHS target for adults is below 130/80 mmHg, or as low as reasonably achievable without unacceptable side effects, with higher targets where appropriate in frailty or limited life expectancy.",
+  "Blood pressure above 180/120 mmHg needs an urgent assessment. In a hypertensive emergency the first reduction is controlled and only partial (mean arterial pressure by no more than 20 to 25% in 6 to 24 hours, keeping diastolic above 100 mmHg except in acute aortic syndromes), because lowering blood pressure to low values can compromise blood flow to vital organs."
+ ],
+ "remember_rows": [
+  [
+   2,
+   10,
+   11
+  ],
+  [
+   27,
+   54,
+   71
+  ],
+  [
+   83,
+   87,
+   88
+  ]
+ ],
+ "predict": {
+  "q": "A clinic blood pressure reading is raised and there is no hypertensive crisis. What should come next?",
+  "opts": [
+   "Start a blood pressure drug today",
+   "Confirm it with home or ambulatory readings",
+   "Refer to a specialist",
+   "Recheck it in a year"
+  ],
+  "a": 1,
+  "step": 0,
+  "why": "Blood pressure varies markedly within a person, so a diagnosis should not be made on a single occasion, except in a hypertensive crisis: it should be confirmed by ambulatory or home monitoring.",
+  "rows": [
+   10,
+   11
+  ]
+ },
+ "explain": {
+  "q": "Explain why, outside a hypertensive crisis, one raised clinic reading is not enough to diagnose hypertension, and what is done instead.",
+  "check": [
+   "Blood pressure varies markedly within a person",
+   "A hypertensive crisis is the exception",
+   "The diagnosis should be confirmed by ambulatory or home monitoring",
+   "Clinic and home can disagree: white coat and masked hypertension"
+  ],
+  "rows": [
+   10,
+   11,
+   13,
+   14
+  ]
+ },
+ "gaps": [
+  {
+   "t": "The stages of hypertension",
+   "url": "https://www.nice.org.uk/guidance/ng136"
+  },
+  {
+   "t": "Which drug to start first, by age, ethnicity and diabetes, and the steps after it",
+   "url": "https://www.nice.org.uk/guidance/ng136"
+  },
+  {
+   "t": "Not combining an ACE inhibitor with an ARB",
+   "url": "https://www.nice.org.uk/guidance/ng136"
+  },
+  {
+   "t": "Drug choice in diabetes and chronic kidney disease",
+   "url": "https://www.nice.org.uk/guidance/ng136"
+  },
+  {
+   "t": "Blood tests after starting or changing a drug",
+   "url": "https://www.nice.org.uk/guidance/ng136"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+# Dependencies and builds
+node_modules/
+dist/
+build/
+src-tauri/target/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Your own study material: never commit these
+mess-my-edits.json
+mess-flashcards.txt
+med-school-os-backup.json
+med-school-os-reports.json
+private/
+past-papers/
+patient-notes/
+*.apkg
+*.colpkg
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editors
+.vscode/
+.idea/

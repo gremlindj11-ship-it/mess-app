@@ -1,0 +1,600 @@
+{
+ "id": "nhs-high-blood-pressure",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-blood-pressure/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-blood-pressure/",
+ "title": "High blood pressure",
+ "updated": "2024-07-19",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-21",
+ "sha256": "aad50ea120a7bc7a03abd61d86b3ff7533235aac2d864c336ab7e2f80e63675f",
+ "sentences": 78,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "High blood pressure",
+   "kind": "p",
+   "s": [
+    "High blood pressure (also called hypertension) can lead to serious problems like heart attacks or strokes.",
+    "But lifestyle changes and blood pressure medicines can help you stay healthy."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "p",
+   "s": [
+    "High blood pressure is very common, especially in older adults.",
+    "There are usually no symptoms, so you may not realise you have it."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "p",
+   "s": [
+    "Things that increase your chances of having high blood pressure include:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "your age – you're more likely to get high blood pressure as you get older"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "having close relatives with high blood pressure"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "your ethnicity – you're at higher risk if you have a Black African, Black Caribbean or South Asian ethnic background"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "having an unhealthy diet – especially a diet that's high in salt"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "being overweight"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "smoking"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "drinking too much alcohol"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "High blood pressure > Check if you're at risk of high blood pressure",
+   "kind": "li",
+   "s": [
+    "feeling stressed over a long period"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if:",
+   "kind": "li",
+   "s": [
+    "you think you might have high blood pressure or might be at risk of having high blood pressure"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if:",
+   "kind": "li",
+   "s": [
+    "you're aged 40 or over and have not had your blood pressure checked for more than 5 years"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if:",
+   "kind": "p",
+   "s": [
+    "Some pharmacies may charge for a blood pressure check."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if:",
+   "kind": "p",
+   "s": [
+    "Some workplaces also offer blood pressure checks.",
+    "Check with your employer."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if: > Free pharmacy checks for over 40s",
+   "kind": "p",
+   "s": [
+    "Many pharmacies offer free blood pressure checks for people aged 40 or over."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "High blood pressure > Non-urgent advice: Get your blood pressure checked at a pharmacy or GP surgery if: > Free pharmacy checks for over 40s",
+   "kind": "p",
+   "s": [
+    "Find a pharmacy that offers free blood pressure checks"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "p",
+   "s": [
+    "High blood pressure does not usually cause any symptoms."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "p",
+   "s": [
+    "Many people have it without realising it."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "p",
+   "s": [
+    "Rarely, high blood pressure can cause symptoms such as:"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "li",
+   "s": [
+    "headaches"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "li",
+   "s": [
+    "blurred vision"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "li",
+   "s": [
+    "chest pain"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "High blood pressure > Symptoms of high blood pressure",
+   "kind": "p",
+   "s": [
+    "But the only way to find out if you have high blood pressure is to get your blood pressure checked."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "High blood pressure > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you often have headaches or blurred vision"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "High blood pressure > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain that comes and goes"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "High blood pressure > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have other symptoms you're worried could be caused by high blood pressure"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "High blood pressure > Urgent advice: Get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you get pain that spreads to your left or right arm, or your neck, jaw, stomach or back"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain and you feel sweaty, sick, light headed or short of breath"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "You could be having a heart attack.",
+    "Call 999 straight away as you need immediate treatment in hospital."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "High blood pressure > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "The person you speak to at 999 will give you advice about what to do."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "p",
+   "s": [
+    "A blood pressure test involves inflating a band (cuff) around your upper arm and measuring the pressure in your blood vessels."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "p",
+   "s": [
+    "If the test shows you might have high blood pressure, you may be asked to:"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "li",
+   "s": [
+    "use a blood pressure monitor at home to check your blood pressure regularly over the next few days"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "li",
+   "s": [
+    "come back to your GP surgery a few days or weeks later to have your blood pressure checked again"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "li",
+   "s": [
+    "wear a portable monitor that takes regular readings over 24 hours"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "High blood pressure > What happens at a blood pressure check",
+   "kind": "p",
+   "s": [
+    "This can confirm if you have high blood pressure."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "High blood pressure > What happens at a blood pressure check > What your blood pressure reading means",
+   "kind": "p",
+   "s": [
+    "Blood pressure readings are given as 2 numbers, with the first number higher than the second (for example, 130/80)."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "High blood pressure > What happens at a blood pressure check > What your blood pressure reading means",
+   "kind": "p",
+   "s": [
+    "You're usually considered to have high blood pressure if your reading is:"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "High blood pressure > What happens at a blood pressure check > What your blood pressure reading means",
+   "kind": "li",
+   "s": [
+    "140/90 or higher when checked by a healthcare professional"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "High blood pressure > What happens at a blood pressure check > What your blood pressure reading means",
+   "kind": "li",
+   "s": [
+    "135/85 or higher when checked at home"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "High blood pressure > What happens at a blood pressure check > Check your blood pressure reading",
+   "kind": "p",
+   "s": [
+    "Use our check your blood pressure reading tool to check what your blood pressure reading means, and get advice."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "p",
+   "s": [
+    "If your blood pressure is too high, it puts extra strain on your blood vessels, heart and other organs, such as your brain, kidneys and eyes."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "p",
+   "s": [
+    "If it's not treated, it can increase your risk of serious conditions such as:"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "heart disease"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "heart attacks"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "strokes"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "heart failure"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "kidney disease"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "li",
+   "s": [
+    "vascular dementia"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "High blood pressure > Risks of having high blood pressure",
+   "kind": "p",
+   "s": [
+    "Lowering your blood pressure even a small amount can help reduce your risk of these problems."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "High blood pressure > How you can help lower your blood pressure",
+   "kind": "p",
+   "s": [
+    "Healthy lifestyle changes can help lower your blood pressure."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "High blood pressure > How you can help lower your blood pressure > Do have a healthy, balanced diet exercise regularly – aim to do at least 150 minutes of exercise a week lose weight if you're overweight Don’t",
+   "kind": "li",
+   "s": [
+    "do not eat too much salt – avoid salty food or adding salt to your meals"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "High blood pressure > How you can help lower your blood pressure > Do have a healthy, balanced diet exercise regularly – aim to do at least 150 minutes of exercise a week lose weight if you're overweight Don’t",
+   "kind": "li",
+   "s": [
+    "do not drink too much alcohol – avoid drinking more than 14 alcohol units a week on a regular basis"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "High blood pressure > How you can help lower your blood pressure > Do have a healthy, balanced diet exercise regularly – aim to do at least 150 minutes of exercise a week lose weight if you're overweight Don’t",
+   "kind": "li",
+   "s": [
+    "do not drink too much caffeine – drinks high in caffeine include coffee, tea and cola"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "High blood pressure > How you can help lower your blood pressure > Do have a healthy, balanced diet exercise regularly – aim to do at least 150 minutes of exercise a week lose weight if you're overweight Don’t",
+   "kind": "li",
+   "s": [
+    "do not smoke"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "High blood pressure > How you can help lower your blood pressure > NHS help to get healthy",
+   "kind": "p",
+   "s": [
+    "NHS Better Health has free tools and support to help you lose weight, get active, quit smoking and drink less."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "High blood pressure > How you can help lower your blood pressure > NHS help to get healthy",
+   "kind": "p",
+   "s": [
+    "Visit the NHS Better Health website"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "p",
+   "s": [
+    "A GP will usually prescribe medicine for high blood pressure if:"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "li",
+   "s": [
+    "your blood pressure is very high"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "li",
+   "s": [
+    "you're at higher risk of problems linked to high blood pressure, such as a heart attack or stroke"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "li",
+   "s": [
+    "your blood pressure is still high after making healthy lifestyle changes"
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "p",
+   "s": [
+    "There are lots of different medicines for high blood pressure.",
+    "The medicine recommended for you depends on things like how high your blood pressure is, your age and your ethnicity."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "High blood pressure > Medicines for high blood pressure",
+   "kind": "p",
+   "s": [
+    "Most blood pressure medicines are taken as tablets once a day.",
+    "You may need to take more than 1 medicine to keep your blood pressure under control."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "High blood pressure > Medicines for high blood pressure > More about medicines",
+   "kind": "li",
+   "s": [
+    "Medications for high blood pressure (Blood Pressure UK)"
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "High blood pressure > Medicines for high blood pressure > More about medicines",
+   "kind": "li",
+   "s": [
+    "Find your medicine (NHS medicines A to Z)"
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "High blood pressure > Find out more",
+   "kind": "p",
+   "s": [
+    "You can get more information and advice about high blood pressure from:"
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "High blood pressure > Find out more",
+   "kind": "li",
+   "s": [
+    "Blood Pressure UK"
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "High blood pressure > Find out more",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation: high blood pressure"
+   ]
+  }
+ ]
+}

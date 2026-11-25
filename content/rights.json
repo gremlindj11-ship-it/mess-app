@@ -1,0 +1,455 @@
+{
+  "version": 1,
+  "about": "The rights register. Every source Mess writes from, links to or has decided not to use, with its licence, whether a model may read it, the credit it needs and when its terms were last read. tools/check-rights.mjs is the gate: it fails if any statement cites a source this file does not allow. Claude is not a lawyer; an entry records what the source's own terms say.",
+  "fields": {
+    "use": "write = a model may read it and statements may cite it. link = Mess may link to it and nothing more. frozen = statements were made from it before 20 Nov 2026; nothing may be added or reworded until its owner says yes in writing (see claude/permission-emails.md).",
+    "ai_input": "yes, no, ask (the owner says to ask first) or per-item (the licence is on each article and is recorded with each saved copy). This is about a model reading the text to write or check a statement, not about training.",
+    "licence": "An SPDX identifier where there is one.",
+    "credit": "The credit line a page built from this source must carry.",
+    "checked": "The date the terms were last read. checked_how says by whom or what. Re-read every 3 months: the gate warns after 92 days.",
+    "labels": "Patterns matched against a statement's source label. hosts are matched against its link."
+  },
+  "open_licences": [
+    "OGL-UK-3.0",
+    "CC-BY-4.0",
+    "CC-BY-3.0",
+    "CC0-1.0",
+    "CC-BY-SA-4.0",
+    "public-domain"
+  ],
+  "sources": [
+    {
+      "id": "nhs-website",
+      "name": "NHS website (Health A to Z, Medicines A to Z)",
+      "owner": "NHS England",
+      "hosts": [
+        "www.nhs.uk"
+      ],
+      "labels": [
+        "^NHS website\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://www.nhs.uk/our-policies/terms-and-conditions/",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.",
+      "notes": "Text Mess has changed must not be credited to the NHS or name the NHS as its source, and must not suggest NHS approval. Some content is outside the standard terms (listed on the NHS site). Written for patients, so light on management detail."
+    },
+    {
+      "id": "gov-uk",
+      "name": "GOV.UK (guidance, publications, Drug Safety Update, the Green Book)",
+      "owner": "UK government departments and agencies",
+      "hosts": [
+        "www.gov.uk",
+        "assets.publishing.service.gov.uk"
+      ],
+      "labels": [
+        "^GOV\\.UK\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://www.gov.uk/help/terms-conditions",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Terms page read by script on 21 Nov 2026: Crown copyright content is published under the OGL, which sets out what is exempt. No tdmrep.json and no AI line in robots.txt.",
+      "notes": "Content not under Crown copyright is credited to its owner on the page: check each document. Sofia said yes to writing from GOV.UK documents on 21 Nov 2026."
+    },
+    {
+      "id": "legislation-gov-uk",
+      "name": "legislation.gov.uk (Acts and regulations, all four nations)",
+      "owner": "The National Archives",
+      "hosts": [
+        "www.legislation.gov.uk"
+      ],
+      "labels": [
+        "^legislation\\.gov\\.uk\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://www.legislation.gov.uk/help",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Site footer read by script on 21 Nov 2026: all content is available under the OGL v3.0 except where otherwise stated.",
+      "notes": "The site has a fair use policy for automated requests: fetch one document at a time."
+    },
+    {
+      "id": "open-access-article",
+      "name": "Open-access journal articles through Europe PMC",
+      "owner": "Each article's authors and publisher",
+      "hosts": [
+        "www.ebi.ac.uk",
+        "europepmc.org"
+      ],
+      "labels": [
+        "^Article\\b"
+      ],
+      "licence": "per-item",
+      "licence_url": "https://europepmc.org/Copyright",
+      "ai_input": "per-item",
+      "use": "write",
+      "credit": "Credit each article: authors, title, journal, year, DOI and its licence, and say that Mess has reworded it.",
+      "checked": "2026-11-21",
+      "checked_how": "Each article's own licence is read from its full text when it is saved (tools/fetch-open.mjs) and must be one of open_licences. CC BY-NC, CC BY-ND and anything else are refused.",
+      "notes": "CC BY covers the authors' own text. Where an article reports another body's guidance (NICE, SIGN, BTS, GOLD, BNF), those sentences are set aside when it is saved and never reach a model. Cureus is ruled out (it bans AI use). Reviews and society statements under 5 years old only."
+    },
+    {
+      "id": "hse",
+      "name": "Health and Safety Executive",
+      "owner": "HSE",
+      "hosts": [
+        "www.hse.gov.uk"
+      ],
+      "labels": [
+        "^HSE\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://www.hse.gov.uk/help/copyright.htm",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information published by the Health and Safety Executive and licensed under the Open Government Licence.",
+      "checked": "2026-11-21",
+      "checked_how": "Copyright page read by script on 21 Nov 2026.",
+      "notes": "Sharps injuries, workplace health."
+    },
+    {
+      "id": "ons",
+      "name": "Office for National Statistics",
+      "owner": "ONS",
+      "hosts": [
+        "www.ons.gov.uk"
+      ],
+      "labels": [
+        "^ONS\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://www.ons.gov.uk/help/termsandconditions",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Terms page (last updated 8 May 2026) read by script on 21 Nov 2026: most content is Crown copyright under the OGL, with exemptions listed.",
+      "notes": "Numbers for how common things are."
+    },
+    {
+      "id": "fingertips",
+      "name": "Fingertips public health data",
+      "owner": "Department of Health and Social Care",
+      "hosts": [
+        "fingertips.phe.org.uk"
+      ],
+      "labels": [
+        "^Fingertips\\b"
+      ],
+      "licence": "OGL-UK-3.0",
+      "licence_url": "https://fingertips.phe.org.uk/",
+      "ai_input": "yes",
+      "use": "write",
+      "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Site footer read by script on 21 Nov 2026.",
+      "notes": "Numbers only."
+    },
+    {
+      "id": "wikipedia",
+      "name": "Wikipedia (English)",
+      "owner": "Its editors",
+      "hosts": [
+        "en.wikipedia.org"
+      ],
+      "labels": [
+        "^Wikipedia\\b"
+      ],
+      "licence": "CC-BY-SA-4.0",
+      "licence_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "ai_input": "yes",
+      "use": "link",
+      "credit": "Text from Wikipedia, licensed CC BY-SA 4.0, with a link to the article and its history.",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/content-process-v2.md. Not re-read for this file.",
+      "notes": "Agreed in v2 as a second source only, never the only one. Kept at link until its terms are re-read and a statement needs it."
+    },
+    {
+      "id": "the-4at",
+      "name": "4AT rapid clinical test for delirium",
+      "owner": "the4AT",
+      "hosts": [
+        "www.the4at.com"
+      ],
+      "labels": [
+        "^4AT\\b"
+      ],
+      "licence": "CC-BY-4.0",
+      "licence_url": "https://www.the4at.com/",
+      "ai_input": "yes",
+      "use": "link",
+      "credit": "4AT, the4at.com, CC BY 4.0.",
+      "checked": "2026-11-21",
+      "checked_how": "Site footer read by script on 21 Nov 2026: content is CC BY 4.0 except where otherwise stated.",
+      "notes": "Kept at link until the test's own page is read and a statement needs it."
+    },
+    {
+      "id": "rcp-news2",
+      "name": "NEWS2, Royal College of Physicians",
+      "owner": "Royal College of Physicians",
+      "hosts": [
+        "www.rcp.ac.uk"
+      ],
+      "labels": [
+        "^NEWS2\\b",
+        "^RCP\\b"
+      ],
+      "licence": "Free to reproduce with credit",
+      "licence_url": "https://www.rcp.ac.uk/resources/national-early-warning-score-news-2/",
+      "ai_input": "ask",
+      "use": "link",
+      "credit": "Reproduced from: Royal College of Physicians. National Early Warning Score (NEWS) 2.",
+      "checked": "2026-11-21",
+      "checked_how": "Page read by script on 21 Nov 2026: no copyright restriction on NEWS2 if the RCP is credited and charts are reproduced in colour.",
+      "notes": "The terms are about reproducing it, not rewording it. Link only until that is clear."
+    },
+    {
+      "id": "gmc",
+      "name": "General Medical Council guidance",
+      "owner": "GMC",
+      "hosts": [
+        "www.gmc-uk.org"
+      ],
+      "labels": [
+        "^GMC\\b"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://www.gmc-uk.org/",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-21",
+      "checked_how": "Sofia's rule in mess-build-prompt.txt: GMC pages are link only. The GMC site refuses scripts, so its terms were not read by script.",
+      "notes": "The content map is used as a list of names only."
+    },
+    {
+      "id": "nice",
+      "name": "NICE guidelines",
+      "owner": "National Institute for Health and Care Excellence",
+      "hosts": [
+        "www.nice.org.uk",
+        "nice.org.uk"
+      ],
+      "labels": [
+        "^NICE\\b"
+      ],
+      "licence": "NICE UK Open Content Licence (does not cover AI use)",
+      "licence_url": "https://www.nice.org.uk/re-using-our-content",
+      "ai_input": "no",
+      "use": "frozen",
+      "credit": "",
+      "checked": "2026-11-19",
+      "checked_how": "NICE's licensing team, in writing, 19 Nov 2026: the licence does not permit using AI on NICE content or copying from its website. An AI permission request was sent on 21 Nov 2026.",
+      "notes": "No NICE text goes to any model and no script fetches nice.org.uk. The statements made before 20 Nov 2026 are frozen; they come down if NICE says no."
+    },
+    {
+      "id": "cks-bnf",
+      "name": "CKS and the BNF",
+      "owner": "Clarity Informatics; BMJ and the Royal Pharmaceutical Society",
+      "hosts": [
+        "cks.nice.org.uk",
+        "bnf.nice.org.uk",
+        "bnfc.nice.org.uk"
+      ],
+      "labels": [
+        "^CKS\\b",
+        "^BNFC?\\b"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://www.nice.org.uk/re-using-our-content",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/content-process-v2.md. Not re-read for this file.",
+      "notes": "Different owners from NICE, outside NICE's licence."
+    },
+    {
+      "id": "bts",
+      "name": "British Thoracic Society guidelines",
+      "owner": "British Thoracic Society",
+      "hosts": [
+        "www.brit-thoracic.org.uk",
+        "brit-thoracic.org.uk",
+        "thorax.bmj.com"
+      ],
+      "labels": [
+        "^BTS(?!/SIGN)"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://www.brit-thoracic.org.uk/",
+      "ai_input": "no",
+      "use": "frozen",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "Asked by email on 20 Nov 2026. No answer yet.",
+      "notes": "Frozen until BTS answers."
+    },
+    {
+      "id": "sign",
+      "name": "SIGN guidelines (including BTS/SIGN asthma)",
+      "owner": "Scottish Intercollegiate Guidelines Network",
+      "hosts": [
+        "www.sign.ac.uk",
+        "sign.ac.uk"
+      ],
+      "labels": [
+        "^BTS/SIGN\\b",
+        "^SIGN\\b"
+      ],
+      "licence": "No derivatives",
+      "licence_url": "https://www.sign.ac.uk/copyright-statement/",
+      "ai_input": "no",
+      "use": "frozen",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/content-process-v2.md; asked by email on 20 Nov 2026. No answer yet.",
+      "notes": "Frozen until SIGN answers."
+    },
+    {
+      "id": "gold",
+      "name": "GOLD report (COPD)",
+      "owner": "Global Initiative for Chronic Obstructive Lung Disease",
+      "hosts": [
+        "goldcopd.org",
+        "www.goldcopd.org"
+      ],
+      "labels": [
+        "^GOLD\\b"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://goldcopd.org/",
+      "ai_input": "no",
+      "use": "frozen",
+      "credit": "",
+      "checked": "2026-11-21",
+      "checked_how": "Asked through GOLD's Contact Us page on 21 Nov 2026. No answer yet.",
+      "notes": "Frozen until GOLD answers."
+    },
+    {
+      "id": "revision-sites",
+      "name": "Revision sites and question banks (Passmed, Zero to Finals, Geeky Medics, Pastest, Quesmed, StatPearls, patient.info, BMJ Best Practice)",
+      "owner": "Each site",
+      "hosts": [
+        "www.passmedicine.com",
+        "passmedicine.com",
+        "zerotofinals.com",
+        "geekymedics.com",
+        "www.pastest.com",
+        "quesmed.com",
+        "patient.info",
+        "bestpractice.bmj.com"
+      ],
+      "labels": [
+        "zero to finals",
+        "geeky ?medics",
+        "passmed",
+        "pastest",
+        "quesmed",
+        "statpearls",
+        "patient\\.info",
+        "best practice"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://geekymedics.com/disclaimer/",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/content-process-v2.md: Geeky Medics' terms ban AI use; the others are commercial and treated as no unless they say yes in writing. Not re-read for this file.",
+      "notes": "Never a model input, and never their wording."
+    },
+    {
+      "id": "openstax",
+      "name": "OpenStax textbooks",
+      "owner": "Rice University",
+      "hosts": [
+        "openstax.org"
+      ],
+      "labels": [
+        "^OpenStax\\b"
+      ],
+      "licence": "CC BY, with a ban on AI ingestion",
+      "licence_url": "https://openstax.org/",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/content-process-v2.md. Not re-read for this file.",
+      "notes": ""
+    },
+    {
+      "id": "non-commercial",
+      "name": "Non-commercial sources (the Calgary Guide, Radiopaedia, Life in the Fast Lane, WHO, CC BY-NC articles)",
+      "owner": "Each source",
+      "hosts": [
+        "calgaryguide.ucalgary.ca",
+        "radiopaedia.org",
+        "litfl.com",
+        "www.who.int"
+      ],
+      "labels": [
+        "calgary guide",
+        "radiopaedia",
+        "^WHO\\b"
+      ],
+      "licence": "CC BY-NC and similar",
+      "licence_url": "https://calgaryguide.ucalgary.ca/about/",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "From claude/pull-list.md. Sofia agreed on 21 Nov 2026 to leave non-commercial sources out.",
+      "notes": "They clash with Mess's CC BY-SA notes and with Mess ever earning money."
+    },
+    {
+      "id": "royal-colleges-asked",
+      "name": "RCOG and Resuscitation Council UK",
+      "owner": "Each body",
+      "hosts": [
+        "www.rcog.org.uk",
+        "www.resus.org.uk"
+      ],
+      "labels": [
+        "^RCOG\\b",
+        "^Resus",
+        "Resuscitation Council"
+      ],
+      "licence": "All rights reserved",
+      "licence_url": "https://www.rcog.org.uk/",
+      "ai_input": "ask",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-20",
+      "checked_how": "Asked by email on 20 Nov 2026. No answer yet. Nothing has been made from either.",
+      "notes": ""
+    },
+    {
+      "id": "case-law",
+      "name": "Find Case Law (court judgments)",
+      "owner": "The National Archives",
+      "hosts": [
+        "caselaw.nationalarchives.gov.uk"
+      ],
+      "labels": [
+        "^Case law\\b"
+      ],
+      "licence": "Open Justice Licence",
+      "licence_url": "https://caselaw.nationalarchives.gov.uk/open-justice-licence",
+      "ai_input": "no",
+      "use": "link",
+      "credit": "",
+      "checked": "2026-11-21",
+      "checked_how": "From claude/beyond-conditions.md, from memory there: the licence is thought to exclude computational analysis. Not read at the source.",
+      "notes": "A person reads a judgment, or Mess links to it."
+    }
+  ]
+}

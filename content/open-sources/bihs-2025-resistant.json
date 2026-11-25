@@ -1,0 +1,1116 @@
+{
+ "id": "bihs-2025-resistant",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC11717708",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11717708/fullTextXML",
+ "doi": "10.1038/s41371-024-00983-6",
+ "title": "Investigation and management of resistant hypertension: British and Irish Hypertension Society position statement",
+ "authors": "Faconti L, George J, Partridge S et al",
+ "journal": "Journal of Human Hypertension",
+ "year": "2024",
+ "updated": "2024-12-09",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or o",
+ "credit": "Faconti L, George J, Partridge S et al. Investigation and management of resistant hypertension: British and Irish Hypertension Society position statement. Journal of Human Hypertension. 2024. https://doi.org/10.1038/s41371-024-00983-6. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-21",
+ "sha256": "1f7e33c463503aedf6af867fb3b7f48f537155c4f405188626b219c9c97b6bf0",
+ "sentences": 305,
+ "set_aside": 5,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "People living with resistant hypertension (RH) are at high risk of adverse cardiovascular events.",
+    "The British and Irish Hypertension Society has identified suspected RH as a condition for which specialist guidance may improve rates of blood pressure control and help clinicians identify those individuals who may benefit from specialist review.",
+    "In this position statement we provide a practical approach for the investigation and management of adults with RH.",
+    "We highlight gaps in the current evidence and identify important future research questions.",
+    "Our aim is to support the delivery of high-quality and consistent care to people living with RH across the UK and Ireland."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Hypertension remains the single most important modifiable risk factor for cardiovascular disease (CVD), disability and death in the world .",
+    "An estimated 30% of adults in the UK have hypertension, and at least 1/3rd of them fail to achieve the recommended blood pressure (BP) targets despite therapeutic intervention .",
+    "Such individuals have a 50% greater risk of CVD and kidney disease compared to those who achieve target BP .",
+    "Although BP measurement errors, lifestyle factors, suboptimal treatment strategies and undiagnosed secondary hypertension may explain poor BP control in some individuals, a proportion of people present with true resistant hypertension (RH) and remain at increased risk of CVD ."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "The British and Irish Hypertension Society (BIHS) has identified suspected RH as condition for which specialist guidance may help improve rates of BP control and help clinicians identify those people who may benefit from specialist review.",
+    "In this statement, we outline the BIHS recommendations for the investigation and management of adults living with RH, based on a critical review of the literature and expert opinion where evidence is lacking.",
+    "Practical approaches are described to facilitate the delivery of high-quality and consistent care across the UK and Ireland."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Definition of resistant hypertension",
+   "kind": "p",
+   "s": [
+    "Despite being a common clinical condition there is no universally agreed definition of RH.",
+    "[set aside: names guidance a model may not read]",
+    "Confirming adherence to antihypertensive agents is also advised.",
+    "The European Society for Hypertension (ESH) defines RH as clinic BP measurements ≥ 140/90 mmHg, confirmed by out-of-office measurements (24-h ambulatory BP monitor (ABPM) readings ≥130/80 mmHg) despite use of a 3-drug antihypertensive regimen including a diuretic.",
+    "Evidence of adherence to therapy and exclusion of secondary forms of hypertension are also needed to confirm a diagnosis of RH .",
+    "The ESH guidelines are endorsed by the International Society of Hypertension and their definition of RH is similar to the one proposed by the European Society of Cardiology (ESC) guidelines for the management of elevated blood pressure and hypertension .",
+    "The American Heart Association (AHA) and Hypertension Canada guidelines also specify the use of three antihypertensive agents, ‘ commonly including ’ and ‘ preferably including ’ a diuretic respectively.",
+    "The AHA scientific statement on RH (2018) also includes a separate category of people with BP at target on four or more antihypertensive agents, referred to as ‘controlled RH’.",
+    "The rationale for the inclusion of this category is to identify people at higher risk of adverse CVD outcomes, secondary hypertension, and antihypertensive agent-related adverse effects."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Definition of resistant hypertension",
+   "kind": "p",
+   "s": [
+    "In this position statement the BIHS defines RH as uncontrolled clinic BP (≥140/90 mmHg) in people with confirmed elevated out-of-office values (average daytime ABPM or HBPM ≥ 135/85 mmHg) despite appropriate lifestyle measures and treatment with optimal (or maximum tolerated) dose of at least 3 antihypertensive drugs ideally including an ACE-I/ARB, a CCB and a thiazide-like diuretic, and exclusion of both non-adherence to antihypertensive treatment and secondary causes of hypertension (Table 1).",
+    "Table 1 Definition, characteristics and prevalence of RH."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "BIHS RH Definition"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "• Uncontrolled clinic BP (≥140/90 mmHg) in people with confirmed elevated out-of-office values (average daytime ABPM or HBPM ≥ 135/85 mmHg) AND • Appropriate lifestyle measures AND • Use of optimal (or maximum tolerated dose) of at least 3 antihypertensive drugs ideally including an ACE-I/ARB, a CCB and a thiazide-like diuretic AND • Exclusion of both non-adherence to antihypertensive treatment and secondary causes of hypertension"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "Characteristics"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "RH is more common in men, older people, black-African ethnicity, low income, obstructive sleep apnoea, depression, high CVD risk, advanced hypertension-mediated organ damage, high BP at diagnosis, chronic uncontrolled BP, obesity, low physical activity, excessive alcohol and high dietary salt intake."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "Prevalence of RH"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Definition of resistant hypertension",
+   "kind": "row",
+   "s": [
+    "≈ 5–10% of the hypertensive population"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Definition of resistant hypertension",
+   "kind": "note",
+   "s": [
+    "RH resistant hypertension, BP blood pressure, ABPM ambulatory blood pressure monitoring, HBPM home blood pressure monitoring, ACE-I angiotensin converting enzyme inhibitor, ARB angiotensin receptor blocker, CCB calcium channel blocker, CVD cardiovascular disease."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Definition of resistant hypertension",
+   "kind": "p",
+   "s": [
+    "The BIHS note that people in whom BP is controlled on more than 3 antihypertensive drugs may also benefit from a review in a specialist setting.",
+    "This will ensure that pseudo-resistant and secondary hypertension are excluded, and optimal drugs and doses are prescribed, thus avoiding potential over-treatment."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Prevalence, heritability and pathophysiological aspects of RH > Prevalence",
+   "kind": "p",
+   "s": [
+    "The reported prevalence of RH varies considerably due to different definitions, clinical settings and populations studied.",
+    "Moreover, the diagnosis of RH is often made incorrectly .",
+    "Among treated adults with hypertension the prevalence of RH is reported as between 5% and 30% .",
+    "Population-based studies often report a prevalence between 12% and 15% with a higher percentage reported when individuals at elevated CVD risk are included .",
+    "However, using the BIHS definition of RH the estimated prevalence is more likely to be nearer 5–10%."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Prevalence, heritability and pathophysiological aspects of RH > Heritability",
+   "kind": "p",
+   "s": [
+    "Conclusive evidence regarding the heritability of RH is lacking which is unsurprising given that monogenic forms of hypertension are rare and most studies exploring candidate genes for RH have multiple methodological limitations ."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Prevalence, heritability and pathophysiological aspects of RH > Pathophysiology",
+   "kind": "p",
+   "s": [
+    "The pathophysiology of RH is complex and both inherited and environmental factors are likely to contribute to salt and water retention, which in turn contribute to volume expansion, raised peripheral resistance and increased arterial stiffness, via the interplay of neurohormonal factors including raised aldosterone, vasopressin and sympathetic activity .",
+    "These factors are likely to contribute to higher rates of hypertension mediated organ damage (HMOD), chronic kidney disease (CKD) and premature CVD events."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Management of people with RH",
+   "kind": "p",
+   "s": [
+    "The BIHS recommend a practical approach to the investigation and management of people with RH (Fig. 1).",
+    "Fig. 1 Practical approach to the investigation and management of resistant hypertension.",
+    "RH resistant hypertension, BP blood pressure, HBPM home blood pressure monitoring, ABPM ambulatory blood pressure monitoring, DOT directly observed therapy."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Management of people with RH > Screen for RH",
+   "kind": "p",
+   "s": [
+    "In primary care and community-based settings, people with either suspected RH (e.g., elevated clinic BP and treatment with at least 3 antihypertensive drugs including a thiazide-like diuretic) or those at BP target on more than 3 antihypertensive drugs, can be identified by performing routine searches of electronic patient records, regular health checks, and by opportunistic encounters."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT",
+   "kind": "p",
+   "s": [
+    "Pseudo-resistant hypertension commonly results from inaccurate BP measurement.",
+    "Causes include the use of an inaccurate device or wrong sized cuff, the white-coat phenomenon, or marked brachial artery calcification (Osler phenomenon) which renders the brachial artery incompressible.",
+    "Non-adherence to antihypertensive therapy is a frequent cause of pseudo-resistant hypertension.",
+    "Clinicians have an important role discussing medication adherence and supporting people to identify and overcome specific barriers (e.g., complex treatment regimens and adverse drug effects) .",
+    "Dosette boxes are a practical tool for managing multiple medications and single-pill combinations (SPC) have been shown to improve adherence .",
+    "Objective methods to assess medication adherence include directly observed therapy (DOT) and antihypertensive drug urine screening , although these are more commonly available in specialist settings.",
+    "Other causes of pseudo-resistant hypertension include concurrent medications including over-the-counter remedies and substance of abuse (Fig. 1).",
+    "Addressing these issues can avoid an incorrect diagnosis of RH."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement",
+   "kind": "p",
+   "s": [
+    "In people with suspected RH it is important to ensure that BP is measured correctly and elevated clinic readings are confirmed with out-of-office measurements (HBPM or ABPM) to exclude a white coat effect (Fig. 2).",
+    "Fig. 2 Procedure for accurate office blood pressure measurement.",
+    "AF atrial fibrillation, BP blood pressure."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement > Use of Validated Equipment",
+   "kind": "p",
+   "s": [
+    "It is essential that clinically validated BP devices are used, noting that monitors over 4 years old may be inaccurate .",
+    "Please refer to the British and Irish Hypertension Society’s website, www.bihs.org.uk, for the current list of validated blood pressure monitoring devices."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement > Cuff size",
+   "kind": "p",
+   "s": [
+    "It is important to use a cuff that is specifically made for the BP monitor and is appropriately sized for the individual .",
+    "The bladder length should be 75–100% of the arm circumference and the width 35–50% of the arm circumference.",
+    "Poor cuff choice may lead to inaccurate diagnosis.",
+    "For example, an under-sized cuff may require higher pressure to occlude blood flow in the underlying artery, leading to a false diagnosis of RH.",
+    "If there is doubt over which size cuff to use, err on the side of a larger cuff as the measurement error will be significantly less than if the cuff is too small."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement > Cuff placement",
+   "kind": "p",
+   "s": [
+    "The centre of the cuff bladder should be placed directly on the skin over the brachial artery at the level of the heart with the lower cuff-edge 2 cm above the antecubital fossa.",
+    "Cuffs placed over clothing may overestimate BP, leading to a false diagnosis of RH."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement > Individual factors",
+   "kind": "p",
+   "s": [
+    "BP can be affected by many factors including ambient noise, low temperature, stress, full bladder, recent exercise and recent (within 30 min) ingestion of caffeine or tobacco.",
+    "We recommend clinic BP is measured after 3–5 min rest, with the subject seated silently with the legs unfolded, back supported and arm resting at heart height.",
+    "Clothing over the upper arm should be removed and not rolled up to avoid a tourniquet effect.",
+    "Talking should be avoided during and between measurements.",
+    "BP should be measured at least 3 times at one-minute intervals.",
+    "The average of the last 2 measurements should be recorded.",
+    "In people where there is a significant difference in BP between arms, the arm with the higher measurements should be used."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Verify accurate blood pressure measurement > Abnormal heart rhythms",
+   "kind": "p",
+   "s": [
+    "Semi-automatic BP measurement devices are unreliable among people with abnormal heart rhythms including bradycardia, frequent extrasystoles and atrial fibrillation.",
+    "In such individuals, manual BP measurement using auscultatory techniques should be used."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Perform out-of-office measurements (HBPM/ABPM)",
+   "kind": "p",
+   "s": [
+    "We advise asking people to record their BP at home for 7 consecutive days in both the morning and evening.",
+    "Appropriate training should be given and people asked to take 3 readings, one minute apart, on each occasion and the mean of the second two values recorded.",
+    "If elevated, BP should be confirmed using 24 h ABPM.",
+    "The BIHS (www.bihs.org.uk) and BPUK (www.bloodpressureuk.org) websites have information on BP measurement techniques."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Management of people with RH > Exclude pseudo-resistant HT > Support adherence to antihypertensive therapies",
+   "kind": "p",
+   "s": [
+    "Studies of non-adherence using objective measures of drugs or metabolites in blood or urine have consistently shown very high rates of non-adherence (around 50%) in people with apparent RH .",
+    "Clinicians have a key role in identifying and supporting people to overcome the barriers to medication adherence.",
+    "Complex drug regimens, polypharmacy, medication cost, and adverse drug effects are key contributing factor to non-adherence in RH .",
+    "Prescribing SPCs, where available, can improve adherence by reducing pill burden .",
+    "In non-specialist settings, methods to monitor adherence include self-report, questionnaires and pharmacy refill reports.",
+    "In specialist settings, DOT and/or urine drug screening provide objective measures of adherence."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension",
+   "kind": "p",
+   "s": [
+    "Several potentially modifiable factors are independently associated with RH including obesity, dietary salt intake, low physical activity, and excessive alcohol .",
+    "It is important to note that these factors are not mutually exclusive and can be interdependent.",
+    "Optimising weight, diet, and exercise are effective adjuncts to antihypertensive medications and are unanimously recommended by national and international hypertension guidelines (Table 2) .",
+    "However, adherence to lifestyle modifications remains challenging and the long-term impact on BP and CV outcomes among people with RH is currently unknown.",
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Obesity",
+   "kind": "p",
+   "s": [
+    "Excess body fat and visceral adiposity are well established contributing factors in the development of hypertension and can also enhance salt sensitivity and promote vascular dysfunction and activation of the autonomic nervous system .",
+    "There is a strong linear correlation between increasing Body Mass Index (BMI) and rise in BP .",
+    "Obesity is independently associated with RH and the prevalence in this population is over 50% .",
+    "In the National Health and Nutrition Examination Survey a BMI > 30 kg/m 2 approximately doubled the risk of RH among hypertensive individuals .",
+    "Obesity also clusters with other risk factors and clinical features of RH including obstructive sleep apnoea (OSA)—another independent cause of raised BP .",
+    "Weight loss strategies most commonly combine caloric, fat or carbohydrate restriction with increased exercise.",
+    "A 6–8% reduction in body weight is associated with a 5/4 mmHg reduction in SBP/ DBP, but unfortunately is difficult to maintain long-term .",
+    "The latter is unsurprising given the biological basis for obesity .",
+    "Indeed, obesity management has been revolutionised by GLP-1 agonists which stimulate insulin secretion, down-regulate appetite via central mechanisms and delay gastric emptying.",
+    "These drugs were initially developed to manage diabetes, but their effectiveness was accompanied by significant weight loss and reduction in major adverse cardiovascular events leading to subsequent studies in non-diabetic patients .",
+    "Weight reduction obtained by the combination of a GLP-1 agonist and glucose-dependent insulinotropic polypeptide (GIP) agonists has been compared to that produced by bariatric surgery .",
+    "These drugs are currently licensed in the UK for the treatment of obesity, but global supply shortages are currently limiting their use in clinical practice ."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Dietary salt",
+   "kind": "p",
+   "s": [
+    "Studies have clearly linked dietary salt with BP level although there is large inter-individual variation .",
+    "Several studies have suggested a high prevalence of excessive salt intake among people with RH .",
+    "In addition, although “salt sensitivity” is a continuous phenotype , the magnitude of BP rise in people with RH that can be causally attributed to dietary salt intake is considerably larger than that observed in the general hypertensive population .",
+    "Reducing dietary salt intake to less than 5–6 g/day per day should be encouraged in all people with hypertension.",
+    "A recent meta-analysis among people on antihypertensive therapy showed a reduction in salt of 3 grams/day resulted in a decrease in BP of ≈3.5/2 mmHg .",
+    "This study also highlighted that salt restriction was particularly effective at reducing BP among those treated with renin angiotensin aldosterone system (RAAS) inhibitors.",
+    "Evidence from randomised controlled trials (RCTs) show the beneficial effects of a low salt diet compared to a high salt diet in a small number of people with RH as well as in people with CKD with prevalent RH .",
+    "It is important that medication reviews are conducted to ensure people are not on concurrent medication with a high salt content, to avoid iatrogenic hypertension ."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Dietary potassium",
+   "kind": "p",
+   "s": [
+    "The landmark SSaSS trial (Salt Substitute and Stroke Study) demonstrated salt substitutes with reduced sodium and increased potassium were associated with a reduction in both BP and major adverse cardiovascular events .",
+    "A recent meta-analysis provides support for a population goal of potassium intake of 90 mmol per day .",
+    "In most trials, potassium supplementation was achieved by administration of potassium chloride pills, but the reduction in both BP and major adverse cardiovascular events was similar when dietary modifications were used .",
+    "Because potassium-rich diets tend to be heart-healthy, they are preferred over the use of pills for potassium supplementation.",
+    "However, the use of potassium-enriched salt substitutes should be encouraged for home cooking."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Diet",
+   "kind": "p",
+   "s": [
+    "The most notable among the individual strategies are the “ Dietary Approaches to Stop Hypertension ” (DASH) diet, which emphasises lean proteins, whole grains, vegetables and fruits, and low-fat dairy products .",
+    "The DASH diet reduces BP in people with hypertension (SBP reduction of 11.6 mmHg) but also in normotension (SBP reduction of 5.3 mmHg) .",
+    "There are however no RCTs with the DASH diet as an intervention alone specifically in RH."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Physical inactivity",
+   "kind": "p",
+   "s": [
+    "Both reduced physical activity and lower physical fitness are independent risk factors for hypertension .",
+    "Although the data to show a correlation between physical inactivity and RH are limited, the prevalence of self-reported physical inactivity is high in people with RH (~40%) .",
+    "There is good evidence supporting the benefits of exercise therapy for hypertension , and several studies have reported benefits of exercise therapy among people with RH ."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Management of people with RH > Management in non-specialist settings > Address modifiable causes of hypertension > Alcohol",
+   "kind": "p",
+   "s": [
+    "A causal association between alcohol consumption and increased BP has been established by RCTs and Mendelian randomisation studies .",
+    "Around a third of people with RH have a history of excessive alcohol intake , and people who consume excess alcohol are more likely to develop RH during treatment for hypertension ."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Many therapeutic agents increase BP and render hypertensive patients apparently resistant to BP lowering treatments.",
+    "It is therefore essential to obtain a detailed history of all concurrent prescribed medications (considering preparations with a high salt content ), over-the-counter products and illicit drugs.",
+    "Removal or dose reduction of any such agents should be attempted where possible, although BP may not always normalise as a result.",
+    "In such scenarios, multidisciplinary team working may permit alternative treatments or use of the lowest necessary doses of the interfering agent.",
+    "In many cases however, medications cannot be discontinued, and appropriate antihypertensive treatment should be instated.",
+    "The mechanism of action by which some therapeutic agents and other commonly used substances affect BP control are summarised in Table 3.",
+    "Table 3 Therapeutic agents and other substances that may affect blood pressure."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "row",
+   "s": [
+    "Mechanism of Action"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "row",
+   "s": [
+    "Sympathetic activation | Volume retention | Direct Vasoconstriction | Other"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "row",
+   "s": [
+    "• Cocaine • Stimulants often used for ADHD, narcolepsy and hypersomnias • Decongestants • Bronchodilators • Antidepressants | • NSAIDs • Sex hormones e.g., combined contraceptive pill • Corticosteroids • Liquorice • Sodium containing antacids | • VEGF inhibitors • Calcineurin inhibitors | • Erythrocyte stimulating agents • Tyrosine kinase inhibitors • Diet supplements (Ephedra, Yohimbine, bitter orange)"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "note",
+   "s": [
+    "ADHD attention deficit hyperactivity disorder, NSAIDS non steroidal anti-inflammatory drugs, VEGF vascular endothelial growth factor."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Sympathomimetic agents are commonly used as decongestants (e.g., phenylephrine, pseudoephedrine), as bronchodilators (e.g., salbutamol), as stimulants in attention deficit disorders (ADHD) (e.g., atomoxetine, methylphenidate, lisdexamphetamine), narcolepsy and hypersomnias (e.g., modafinil, pitosilant, sodium oxybate), as agents which increase catecholamine availability such as mono-amine oxidase inhibitors (e.g., phenelzine) and noradrenaline reuptake inhibitors (e.g., venlafaxine) and as substances of abuse (e.g., cocaine)."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "A recent meta-analysis of RCTs of ADHD medications revealed an average SBP rise of 2 mmHg with these agents .",
+    "Duration of therapy seems to be crucial with regards to hypertension.",
+    "Longer (>3 years) term use of drugs such as atomoxetine, methylphenidate and lisdexamphetamine have been associated with a 4% increased risk in incident CVD for each year of treatment and a 72% increased incidence of hypertension compared to controls .",
+    "No increased risk was seen with shorter (<3 years) term treatment."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) and Steroids may raise BP via RAAS mediated changes in renal blood flow and glomerular filtration rate resulting in sodium retention particularly in salt-sensitive populations.",
+    "Other mechanisms include endothelin-1 induced vasoconstriction and inhibition of prostaglandin E2 and I2 .",
+    "NSAIDs also lower the efficacy of antihypertensive drugs and should therefore be withdrawn in people with RH if they are no longer needed, or a minimum dose used .",
+    "Some NSAIDs, such as sulindac may have less hypertensive effects than others .",
+    "The cyclo-oxygenase (COX) inhibitor celecoxib may also increase BP in a dose dependent manner , though less than rofecoxib especially if concomitant treatment with ACE-I or beta-blockers ."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Corticosteroids whether given orally, systemically or topically, may increase BP.",
+    "Glucocorticoids have variable degrees of mineralocorticoid activity causing hypertension through sodium retention, direct vasoconstriction and indirect metabolic effects including weight gain and glucose intolerance.",
+    "Prednisolone below a dose of 7.5 mg daily, is less likely to increase BP .",
+    "Fludrocortisone (a mineralocorticoid) is specifically used for raising BP in hypertensives with postural hypotension.",
+    "In people with RH, reduced dosage or alternatives should be considered where possible."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Hormone Therapy The association between combined oral contraceptives (CoC) and hypertension is well-recognised, with studies showing a dose-dependent relationship with oestrogen strength .",
+    "Proposed mechanisms include increased oestrogen-mediated corticosteroid binding globulin resulting in raised cortisol , and upregulation of the RAAS system .",
+    "This risk is not seen with Progesterone-only Pills (PoP) .",
+    "Contraceptive options for hypertensive women include non-hormonal options, PoP and Intra-Uterine Devices (IUD).",
+    "Newer formulations containing natural oestrogens and progestins with anti-mineralocorticoid effects may mitigate this link with high BP .",
+    "Transdermal oestrogens, commonly prescribed for menopausal symptoms may be less likely to induce hypertension than oral oestrogens .",
+    "Low levels of androgens in men and increased levels of androgens in women, as occurs with polycystic ovary syndrome (PCOS), are both associated with increased risk for cardiovascular disease and elevated BP .",
+    "The link between gender-affirming hormone therapy (GAHT) and hypertension requires further investigation .",
+    "Anabolic steroids are often used illicitly to increase muscle bulk and power and are associated with an 8 mmHg increase in BP, a threefold increase in the prevalence of hypertension, and increased aortic stiffness ."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Erythropoietin Twenty to thirty per cent of people given recombinant human erythropoietin to correct anaemia in malignancies and end-stage renal disease may have hypertension induced or exacerbated within 2 to 16 weeks of starting treatment.",
+    "While polycythaemia is a recognised risk factor for hypertension (e.g., Gaisböck syndrome), erythropoietin has been shown to cause hypertension independently from elevated hematocrit.",
+    "Among the proposed mechanisms are nitric oxide resistance and an increase in cytoplasmatic ionised calcium.",
+    "In these individuals, calcium channel blockers are the pharmacological agent of choice ."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Management of people with RH > Management in non-specialist settings > Exclude drug-induced hypertension",
+   "kind": "p",
+   "s": [
+    "Growth Factor Inhibitors This class of agents includes Vascular Endothelial Growth Factor (VEGF) inhibitors that inhibit tumour angiogenesis such as bevacizumab and pazopanib, the latter of which also inhibits platelet derived growth factor (PDGF).",
+    "Inhibition of VEGF prevents the phosphorylation of endothelial nitric oxide synthase, a potent vasodilator .",
+    "A recent meta-analysis showed that use of these agents was associated with an increased risk of hypertension .",
+    "In other studies, the risk was demonstrated to be dose dependent .",
+    "Indeed, the strong relationship between hypertension and VEGF inhibition may be useful as a biomarker of drug effect.",
+    "Within this class are the Tyrosine Kinase Inhibitors (TKIs) that are involved in the VEGF signalling pathway.",
+    "Many of these anti-cancer agents are used as targeted therapy in solid organ cancers .",
+    "Examples of TKIs that result in arterial hypertension due to epidermal growth factor (EGF) inhibition are gefitinib and lenvatinib."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "p",
+   "s": [
+    "Secondary hypertension is common in people with apparent RH (≈1/3 subjects are affected depending on the definition and clinical setting) with renal diseases and primary hyperaldosteronism being the most common aetiologies .",
+    "Complete diagnostic workup for secondary hypertension requires an in-depth assessment which is performed in a specialist setting based on clinical characteristics of the patients and local expertise."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "p",
+   "s": [
+    "The BIHS recommend all people with suspected RH have a basic diagnostic workup for secondary hypertension in a non-specialist setting.",
+    "A simplified screening protocol is described in Table 4.",
+    "People who have clinical signs and symptoms of secondary hypertension or a positive screening test(s) should be referred to a hypertension specialist for additional tests and investigations (Table 5 and Supplementary File).",
+    "This pragmatic approach to personalised medicine tailors’ investigations to the individuals’ specific characteristics and promotes the efficient use of resources.",
+    "Table 4 Investigations to exclude secondary hypertension."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "BIHS Simplified Screening Protocol for all People with RH (non-specialist setting)"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "History, symptoms, physical examination and factors affecting adherence (see Table 5 and supplementary file)"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Blood test including kidney function, liver enzymes, full blood count, calcium and TSH"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Urine dipstick"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "ECG"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Renal imaging (e.g., US) to detect renal scarring and other gross abnormalities"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Exclude OSA"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Further Investigations Where There is Clinical Suspicion of Secondary Hypertension (usually performed in Specialist Settings)"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Renin/aldosterone and plasma/urinary metadrenalines"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Urine sample for albumin:creatinine ratio and protein:creatinine ratio"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "24-h urinary collection for sodium and potassium"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "24-h urine cortisol/dexamethasone suppression test"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Adrenal imaging (MRI/CT)"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Assessment of renal vascularity (MRA, CTA)"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "note",
+   "s": [
+    "OSA obstructive sleep apnoea, TSH thyroid stimulating hormone, US Ultrasound, MRI magnetic resonance imaging, CT Computed Tomography, MRA Magnetic Resonance Angiography, CTA Computed Tomography Angiography."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "caption",
+   "s": [
+    "Table 5 Common causes of secondary hypertension, symptoms that raise clinical suspicion and recommended investigations."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Condition | Clinical Suspicion | Investigations"
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Kidney disease | Usually asymptomatic with only incidental finding of elevated serum creatinine or abnormalities in the urinary sediment.",
+    "People with diffuse atherosclerotic disease can show a drop in eGFR after treatment with ACE-I/ARB.",
+    "History of recurrent UTIs and family history of kidney disease should be evaluated. | Serum creatinine, urine dipstick, urine sample for albumin:creatinine ratio and protein:creatinine ratio.",
+    "Consider renal imaging (US, MRA, CT) based on laboratory findings and clinical situation."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Primary hyperaldosteronism | Spontaneous/thiazide induced hypokalaemia, adrenal incidentaloma.",
+    "Majority of cases are detected in asymptomatic individuals with normokalaemia. | Renin/aldosterone ± adrenal imaging (adrenal MRI/HRCT) followed by confirmatory tests and/or adrenal vein sampling."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Obstructive Sleep Apnoea | Snoring, daytime sleepiness, elevated BMI or neck circumference and non-dipping profile on 24-h ABPM. | Validated questionnaires such as Epworth Sleepiness Scale or STOP-BANG score.",
+    "Overnight oxygen saturation monitor."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Pheochromocytoma and Paraganglioma | Paroxysmal or sustained hypertension, headaches, palpitations, hyperhidrosis, and non-CV symptoms such as weight loss or hypoglycaemia. | Plasma free or urinary fractionated metanephrines ± adrenal MRI/HRCT ± functional imaging and/or clonidine suppression test."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Cushing syndrome | Truncal obesity, striae, glucose intolerance and repeated infections. | Overnight dexamethasone suppression test and 24-h urine free cortisol.",
+    "ACTH is needed to confirm hypercortisolism and imaging is required to differentiate between adrenal and pituitary causes."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Thyroid and parathyroid disorders | Usually asymptomatic: symptoms may include palpitations, tiredness, polyuria, muscle weakness, anxiety, tremor, irritability. | Evaluation of calcium, PTH, TSH and thyroid hormones.",
+    "Thyroid and parathyroid ultrasound."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Aortic coarctation | Usually asymptomatic: signs may include radio-femoral delay and lower blood pressure in the lower extremities. | Aorta MRA/CT."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "row",
+   "s": [
+    "Further information on the secondary causes of hypertension can be found in the accompanying Supplementary File."
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "Management of people with RH > Management in non-specialist settings > Consider secondary causes of hypertension and refer if indicated",
+   "kind": "note",
+   "s": [
+    "eGFR estimated glomerular filtration rate, ACE-I angiotensin converting enzyme inhibitor, ARB angiotensin receptor blocker, UTI urinary tract infection, US ultrasound, MRA magnetic resonance angiography, CT computed tomography, MRI magnetic resonance imaging, HRCT high-resolution computed tomography, BMI body mass index, ABPM ambulatory blood pressure monitoring, CV cardiovascular, ACTH adrenocorticotropic Hormone, TSH thyroid stimulating hormone, PTH parathyroid hormone."
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Steps 1–4: Triple Therapy",
+   "kind": "p",
+   "s": [
+    "Steps 1–4 of the pharmacological management of RH is to ensure that the A + C + D regimen is optimised, both in terms of choice of agents and dose (Fig. 3).",
+    "A practical guide to therapeutic options is available in the BIHS statement “ Adult hypertension referral pathway and therapeutic management: British and Irish Hypertension Society position statement ” .",
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Steps 1–4: Triple Therapy",
+   "kind": "p",
+   "s": [
+    "In general, long-acting drugs are to be preferred, as they provide smoother BP control and are less affected by missed doses, as are agents with robust efficacy data.",
+    "Under-dosing is particularly common with ACE-I/ARB, as very low doses are available for initial treatment in people with heart failure.",
+    "Switching from thiazide to thiazide-like diuretic and from indapamide to chlorthalidone may be useful in people with RH and renal impairment, if eGFR > 15 mL/min/1.73 m 2, as chlortalidone is the only thiazide-like diuretic to demonstrate efficacy in people with advanced CKD .",
+    "In subjects with CKD, particularly in cases of signs or symptoms suggestive of fluid retention, a long-acting loop diuretic such as torsemide may be considered in addition or instead of a conventional thiazide-like agent (Fig. 4).",
+    "Fig. 4 Therapeutic management of resistant hypertension.",
+    "BP blood pressure, HT hypertension, CKD chronic kidney disease, HF heart failure, T2DM type 2 diabetes mellitus, DOT directly observed therapy."
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Steps 1–4: Triple Therapy",
+   "kind": "p",
+   "s": [
+    "In people unable to tolerate standard doses of amlodipine due to ankle oedema, switching to a more lipophilic agent - such as lercanidipine or lacidipine may be helpful .",
+    "Alternatively, non-dihydropyridines CCB such as long-acting formulations of verapamil or diltiazem (e.g., diltiazem LA 200/300 mg) may be used, assuming there are no cardiac contra-indications."
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Steps 1–4: Triple Therapy",
+   "kind": "p",
+   "s": [
+    "In general, SPCs are preferred as they improve adherence and lead to better BP control, compared with single-drug equivalent combinations .",
+    "However, there is limited availability of suitable SPCs in the UK, as combinations generally do not contain standard doses or drugs.",
+    "For example, the only dual SPC available in the UK containing indapamide has only 5 mg of perindopril, and the only triple SPC contains olmesartan, amlodipine and hydrochlorothiazide.",
+    "[set aside: names guidance a model may not read]",
+    "While often considered to be less efficacious than chlorthalidone (dose-dependent results), hydrochlorothiazide was not inferior to chlorthalidone in preventing major CV outcomes in a large pragmatic trial (albeit with some design limitations) that randomised more than 13,000 people in the Department of Veterans Affairs Health System .",
+    "Similar findings were reported from two other large cohort studies .",
+    "Low-dose thiazides have no placebo-controlled RCT evidence of mortality or morbidity benefits and concerns have been raised about the risk of skin cancer with long-term use of hydrochlorothiazide, and the Medicines and Healthcare products Regulatory Agency (MHRA) has issued guidance on its use in the UK .",
+    "People need to be warned of the cancer risk and the need to avoid sun exposure, and it should not be used in people with a history of skin cancer ."
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 5: Consider initiating Spironolactone",
+   "kind": "p",
+   "s": [
+    "If BP remains elevated despite optimal triple therapy, a 4th line drug should be added.",
+    "There are several different drug classes available, including alpha receptor antagonists, beta-blockers and mineralocorticoid receptor antagonists (MRA).",
+    "The PATHWAY-2 RCT compared these three classes head-to-head and reported spironolactone was the most effective agent in lowering BP .",
+    "Spironolactone was well tolerated in the ASCOT study as a third- or fourth-line agent, with a low rate of reported side-effects .",
+    "These data highlight the importance of salt and water retention in RH, and support the view that aldosterone excess, that does not fulfil strict criteria for classical PA, may be responsible for resistance to commonly used antihypertensive medications ."
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 5: Consider initiating Spironolactone",
+   "kind": "p",
+   "s": [
+    "Spironolactone is the only MRA licensed in the UK for RH and should be used as the 4th line drug of choice.",
+    "It should be initiated at 12.5–25 mg od (if eGFR > 30 mL/min/1.73 m 2 and K + < 4.5 mmol/L) and can be up-titrated to 50 mg based on clinical response.",
+    "The use of spironolactone may be limited by poor tolerability in a small number of people, such as significant hyperkalaemia, gynaecomastia or erectile dysfunction in men, and menstrual irregularities and breast tenderness in women.",
+    "In such situations amiloride (5–20 mg) can be used as an alternative.",
+    "In a sub-study of PATHWAY-2, people with RH were given amiloride 10–20 mg, which proved as effective in lowering BP as spironolactone, and was well tolerated .",
+    "Amiloride may be particularly effective in individuals with low levels of renin and aldosterone, and in black people in whom a Liddle-like phenotype appears relative common (~10–20%) .",
+    "Eplerenone may be used as an off-label alternative in people with adverse effects due to spironolactone or amiloride.",
+    "Although eplerenone is more selective (thus potentially causing fewer side effects), it is also a less potent antagonist of the mineralocorticoid receptor, and shorter acting, compared with spironolactone.",
+    "In general, eplerenone must be dosed twice as high as spironolactone for therapeutic equivalence ."
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 5: Consider initiating Spironolactone",
+   "kind": "p",
+   "s": [
+    "If the addition of spironolactone or equivalent is not tolerated or contra-indicated, e.g., clinically significant hyperkalaemia, then consider referral to a hypertension specialist for advice on alternative agents."
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "There is a wide choice of additional agents available, albeit with limited RCT evidence to support widespread use, including but not limited to α-adreneceptor antagonists e.g., Doxazosin XL 4–8 mg."
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "β-adreneceptor antagonists e.g., bisoprolol or nebivolol, both 2.5–5 mg OD."
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Centrally acting drugs e.g., methyldopa, clonidine or moxonidine"
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Direct vasodilators e.g., hydralazine or minoxidil."
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "The choice of agent should be carefully considered for each patient, taking into consideration patient choice, previous adverse experiences and the clinical situation."
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Adrenoceptor antagonists are perhaps better tolerated in general than the other classes of drug, and PATHWAY-2 provided evidence of efficacy for Doxazosin XL .",
+    "Therefore, they are a sensible initial choice."
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Use of non-modified release doxazosin is not recommended due to higher peak concentration , which may produce rapid reductions in BP and is less well tolerated."
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "β-blockers may be considered in subjects with a heart rate ≥60 bpm with indications for their use e.g., migraine.",
+    "If they are contra-indicated or poorly tolerated, α-blockers are an alternative."
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Centrally acting drugs are effective antihypertensives but are associated with significant side effects such as depression, dry mouth, somnolence and insomnia.",
+    "Although clonidine, a centrally acting α 2 agonist showed a similar BP-lowering efficacy to spironolactone in RH, it appears less well tolerated , and requires more careful and sustained dose titration.",
+    "Moreover, there is a risk of rebound hypertension during periods of nonadherence, and it must be withdrawn slowly to avoid this.",
+    "Transdermal formulations could be preferred but are currently not licensed in the UK.",
+    "Methyldopa is now rarely used outside pregnancy, due to its poor tolerability and challenges with dose titration.",
+    "Like clonidine, it should be withdrawn slowly."
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "Management of people with RH > Management in non-specialist settings > Optimise antihypertensive therapy > Step 6: Add in other drugs",
+   "kind": "p",
+   "s": [
+    "Hydralazine and minoxidil are direct acting vasodilators and can cause profound hypotension.",
+    "Both are licensed in the UK for severe hypertension.",
+    "Chronic use leads to fluid retention and tachycardia – so-called pseudo-tolerance – which reduces their effectiveness.",
+    "Hence, they are usually given with β -blockers and loop diuretics to counteract this.",
+    "Hydralazine can produce a lupus-like syndrome particularly in those genetically defined as slow acetylators, and minoxidil is associated with excess hair growth and, rarely, pericardial effusion."
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "Management of people with RH > Referral to a hypertension specialist",
+   "kind": "p",
+   "s": [
+    "If, after confirming the diagnosis of RH, excluding pseudo resistant HT and implementing pharmacological and non-pharmacological interventions, the BP remains above target, referral to a hypertension specialist should be considered (Fig. 1).",
+    "This will enable a more detailed assessment of the secondary causes of hypertension (Tables 4, 5 and supplementary file), objective measurements of drug adherence (i.e., DOT and/or antihypertensive drug urine screening ) and advice on pharmacological treatment and an ongoing management plan (Fig. 4)."
+   ]
+  },
+  {
+   "at": "b93",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "Renal denervation (RDN) has been developed as an interventional device-based adjunctive strategy to lower BP in individuals with uncontrolled hypertension.",
+    "This therapy was developed after physiological studies demonstrated stimulation of sympathetic nerve fibres increased arterial BP .",
+    "Initial open-label trials of predominantly radio-frequency (RF) RDN showed large reductions in clinic BP but these results were not replicated in the first RCT leading to a decade long moratorium on the use of RDN in the UK ."
+   ]
+  },
+  {
+   "at": "b94",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "Important limitations to the field in general and specifically to the methodological rigour of the initial studies led to consensus on further trial design for the so-called 2nd-generation studies, with a focus on medicines stability, ambulatory BP end-points and blinded assessments ."
+   ]
+  },
+  {
+   "at": "b95",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "Second-generation studies have confirmed that while RDN has a significant BP reduction effect, it is more modest than originally postulated and is unlikely to result in normalisation of BP values without additional anti-hypertensive therapy .",
+    "RDN has been specifically evaluated in people with RH and the available evidence suggests RDN is an overall safe procedure with renal artery damage (>50% diameter stenosis and dissection) being reported in 0.45% of people within the first 6 months ."
+   ]
+  },
+  {
+   "at": "b96",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "The RADIANCE HTN TRIO trial investigated the addition of Ultrasound (US)RDN versus a placebo procedure to a three-medication fixed-dose combination treatment (therefore in true RH) .",
+    "The trial confirmed a positive effect of RDN in RH with placebo-corrected difference in ambulatory BP of ~5 mmHg at 2 months (primary end point) ."
+   ]
+  },
+  {
+   "at": "b97",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "SPYRAL ON MED investigated RF-RDN among people on 1–3 medications (therefore not solely RH), with an initial pilot, non-powered phase of 80 people which was then used as a Bayesian informative prior and folded into an extension study (n = 337 total) of the same design.",
+    "The pilot phase demonstrated a 7.4 mmHg between group difference in 24-h SBP .",
+    "The extension phase showed markedly different results to the pilot phase, with a large fall in BP in the placebo group and failed its primary end point of change in ambulatory BP at 6 months ."
+   ]
+  },
+  {
+   "at": "b98",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "These results are consistent with the REQUIRE trial that used US-RDN in 142 people with RH from South Korea and Japan that again showed a large reduction in BP in the placebo group, matching that seen in the active arm ."
+   ]
+  },
+  {
+   "at": "b99",
+   "path": "Device-based treatment of RH",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "However, more robust long term data are required before the widespread use of RDN in clinical practice ."
+   ]
+  },
+  {
+   "at": "b100",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "In recent years, new drugs have been developed that may have a role in the treatment of RH including endothelin antagonists, aldosterone synthase inhibitors, novel nsMRAs, and inhibitors of angiotensinogen production by the liver with small interfering RNA (siRNA), as well as SGLT2 inhibitors, Glucagon-like peptide-1 (GLP-1) agonists, atrial natriuretic peptides and aminopeptidase A inhibitors.",
+    "Among those agents: The endothelial antagonist aprocitentan has proven safety and efficacy data in RH and was approved by the US Food and Drug Administration (FDA) for use in combination with other antihypertensive agents in adults with RH."
+   ]
+  },
+  {
+   "at": "b101",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "Among nsMRA, finerenone has been approved in the UK for treatment of CKD and diabetes, but is not expected to play a major role in the management of RH because of its modest impact on BP."
+   ]
+  },
+  {
+   "at": "b102",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "The angiotensin receptor/neprilysin inhibitor (ARNi) sacubitril/valsartan was initially developed for hypertension (and has been approved for this indication in Japan) but is currently only licensed for heart failure in the UK.",
+    "In a post hoc subgroup analysis, sacubitril/valsartan lowered BP in adults with both heart failure with preserved ejection fraction (HFpEF) and resistant hypertension ."
+   ]
+  },
+  {
+   "at": "b103",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "SGLT2 inhibitors have shown favourable effects on CVD events and renal haemodynamics in people with and without type 2 diabetes, and in heart failure trials where they also lower BP ."
+   ]
+  },
+  {
+   "at": "b104",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "GLP-1-based agonists reduce BP and could represent an adjunctive treatment for people with hypertension and obesity ."
+   ]
+  },
+  {
+   "at": "b105",
+   "path": "Research recommendations",
+   "kind": "p",
+   "s": [
+    "There are however several gaps in the current evidence-base that require further research to optimise the investigation and management of RH (Table 6).",
+    "For example, despite the availability of several pharmacological classes of antihypertensive drugs, studies assessing the efficacy of specific combinations are lacking and treatment is still not based on a personalised approach.",
+    "Autonomous aldosterone production is a common feature in people with RH and further work is required to elucidate pathophysiological mechanisms.",
+    "In addition, it is still unclear if, aside from hypertension control, MRAs (such as spironolactone) are superior compared to other agents (such as amiloride) in preventing major adverse cardiovascular events (MACE) in subjects with RH.",
+    "The role of aldosterone synthase inhibitors and nsMRAs is still not defined in RH.",
+    "SGLT2 inhibitors used in diabetes, heart failure and CKD also reduce BP and weight but are not currently licenced for BP control alone.",
+    "Finally, although anti-obesity drugs such as GLP-1 agonists have revolutionised the treatment of obesity, their role in management of RH has not been extensively investigated.",
+    "Table 6 Research Recommendations."
+   ]
+  },
+  {
+   "at": "b106",
+   "path": "Research recommendations",
+   "kind": "row",
+   "s": [
+    "Research Questions"
+   ]
+  },
+  {
+   "at": "b107",
+   "path": "Research recommendations",
+   "kind": "row",
+   "s": [
+    "1.",
+    "What is the most effective drug combination for people with RH?",
+    "2.",
+    "What are the pathophysiological mechanisms underpinning aldosterone production in people with RH?",
+    "3.",
+    "Are MRAs (such as spironolactone) superior to other agents (such as amiloride) in preventing major adverse cardiovascular events in people with RH?",
+    "4.",
+    "What is the role of aldosterone synthase inhibitors and nsMRAs in the management of people with RH?",
+    "5.",
+    "What is the role of SGLT2 inhibitors and GLP-1 agonists in the management of people with RH?"
+   ]
+  },
+  {
+   "at": "b108",
+   "path": "Research recommendations",
+   "kind": "note",
+   "s": [
+    "RH resistant hypertension, MRA mineralocorticoid receptor antagonists, nsMRA non-steroidal mineralocorticoid receptor antagonists, SGLT2 Sodium-glucose co-transporter 2, GLP-1 glucagon-like peptide 1."
+   ]
+  },
+  {
+   "at": "b109",
+   "path": "Summary > What is known about this topic",
+   "kind": "p",
+   "s": [
+    "People living with resistant hypertension are at high risk of adverse cardiovascular and renal outcomes."
+   ]
+  },
+  {
+   "at": "b110",
+   "path": "Summary > What is known about this topic",
+   "kind": "p",
+   "s": [
+    "Management, investigations and treatment for resistant hypertension varies across the globe."
+   ]
+  },
+  {
+   "at": "b111",
+   "path": "Summary > What this study adds",
+   "kind": "p",
+   "s": [
+    "This BIHS statement provides a practical framework to facilitate the delivery of high-quality and consistent care to people living with resistant hypertension."
+   ]
+  },
+  {
+   "at": "b112",
+   "path": "Summary > What this study adds",
+   "kind": "p",
+   "s": [
+    "We highlight important future research questions to improve outcomes for people living with resistant hypertension."
+   ]
+  }
+ ]
+}

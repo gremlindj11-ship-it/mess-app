@@ -1,0 +1,602 @@
+abdominal aortic aneurysm
+abnormal blood film
+abscess
+acetazolamide
+acetylcysteine
+aciclovir
+acid-base abnormality
+acne vulgaris
+acromegaly
+acute angle-closure glaucoma
+acute bronchitis
+acute cholangitis
+acute coronary syndrome
+acute coronary syndromes
+acute glaucoma
+acute kidney injury
+acute pancreatitis
+acute respiratory distress syndrome (ards)
+acute stress reaction
+addison's disease
+adrenal insufficiency (including primary and secondary)
+adrenaline
+adverse drug effects
+airway compromise/ management
+alcohol misuse
+alcohol related liver disease
+alcohol withdrawal and opioid withdrawal
+alendronic acid
+allergic disorder (including food allergy)
+allopurinol
+alteplase
+amiodarone
+amlodipine
+amoxicillin
+anaemia
+anal fissure
+anaphylaxis
+aneurysms, ischaemic limb and occlusions
+angina
+ankylosing spondylitis
+antepartum haemorrhage
+anxiety
+aortic aneurysm
+aortic dissection
+aortic stenosis
+aortic valve disease
+apixaban
+appendicitis
+arginine vasopressin deficiency/ resistance (diabetes insipidus)
+arterial thrombosis/ embolism
+ascites (including spontaneous bacterial peritonitis)
+aspirin
+asthma
+asthma- chronic obstructive pulmonary disease (copd) overlap
+atopic dermatitis/ eczema
+atorvastatin
+atrial fibrillation
+atrial flutter
+attention deficit hyperactivity disorder (adhd)
+autism spectrum disorder (asd)
+autonomic neuropathy
+b12 deficiency
+back pain
+bacterial vaginosis
+beclometasone
+bell palsy
+benign eyelid disorders (including blepharitis, ectropion/ entropion, chalazion, hordeolum)
+benign paroxysmal positional vertigo (bppv)
+benign prostatic hyperplasia
+benign skin lesion (including melanocytic naevi, epidermal cyst, dermatofibroma, seborrheic keratosis, actinic keratosis)
+biliary atresia
+bipolar affective disorder (including mania/ hypomania)
+bipolar disorder
+bisoprolol
+bladder cancer
+blood group incompatibility in pregnancy
+bone tumours (primary and secondary including osteosarcoma, ewing sarcoma)
+bowel obstruction
+bradyarrhythmias (including av block)
+brain abscess
+brain tumours (primary and secondary)
+breast abscess/ mastitis
+breast cancer
+breast cysts
+bronchiectasis
+bronchiolitis
+bronchopulmonary dysplasia (chronic lung disease of prematurity)
+budesonide
+buprenorphine
+burns
+bursitis
+calcium gluconate
+candesartan
+candidiasis
+carbimazole
+carbon monoxide poisoning
+cardiac arrest
+cardiomyopathy
+carotid dissection
+cataracts
+cauda equina syndrome
+ceftriaxone
+cellulitis
+central retinal arterial occlusion
+central retinal vein occlusion
+cerebral palsy and hypoxic-ischaemic encephalopathy
+cerebral venous sinus thrombosis (cvst)
+cervical cancer
+cervical ectropion
+cervical screening (human papilloma virus)
+cetirizine
+childhood cancer (including retinoblastoma)
+childhood hip/ leg disorders (including perthes disease, slipped upper femoral epiphyses, developmental dysplasia of the hip)
+chlamydia
+chlordiazepoxide
+cholangitis
+cholecystitis
+cholesteatoma
+chorioamnionitis
+chronic glaucoma
+chronic kidney disease
+chronic liver disease (including decompensation and cirrhosis of the liver)
+chronic obstructive pulmonary disease (copd)
+chronic pancreatitis
+cirrhosis
+clarithromycin
+clopidogrel
+clozapine
+co-amoxiclav
+co-codamol
+coagulation disorders (including haemophilia, von willebrand disease, and thrombophilia, and secondary to illness or medication)
+codeine
+coeliac disease
+colchicine
+colorectal cancer
+compartment syndrome
+complications of fractures (including compartment syndrome, non-union, malunion, avascular necrosis)
+complications of labour (including malpresentation, shoulder-dystocia, preterm labour, cord prolapse)
+congenital heart disease
+conjunctivitis
+constipation
+contact dermatitis
+copd
+corneal ulcer/ abrasion
+covid-19
+cow milk protein allergy
+croup
+cryptorchidism
+crystal arthropathy
+cushing syndrome
+cushing's syndrome
+cutaneous fungal infection
+cutaneous warts
+cystic fibrosis
+dapagliflozin
+deep vein thrombosis
+delirium
+delusional disorder
+dementia
+dementias (including alzheimer dementia, lewy-body dementia, frontotemporal dementia, vascular dementia)
+depression
+dexamethasone
+diabetes in pregnancy (gestational and pre-existing)
+diabetes mellitus
+diabetes type 1
+diabetes type 2
+diabetic ketoacidosis
+diabetic ketoacidosis (dka)
+diabetic nephropathy
+diabetic neuropathy
+diabetic retinopathy
+diclofenac
+digoxin
+disease prevention/ screening
+disseminated intravascular coagulation (dic)
+diverticular disease and diverticulitis
+diverticulitis
+donepezil
+down syndrome
+doxycycline
+drug overdose
+eating disorders
+ectopic pregnancy
+eczema
+ehlers-danlos syndrome
+empagliflozin
+empyema
+encephalitis
+end stage renal disease (including renal replacement therapy and transplantation)
+endometrial cancer
+endometriosis
+enoxaparin
+epiglottitis
+epilepsy
+epistaxis
+erythema nodosum
+essential tremor
+extradural haemorrhage
+falls
+faltering growth (failure to thrive)
+febrile convulsions
+febrile seizure
+ferrous sulfate
+fexofenadine
+fibroadenoma
+fibroids
+fibromyalgia
+flucloxacillin
+folliculitis and hidradenitis suppurativa
+fracture(s) (including pathological fractures)
+furosemide
+gabapentin
+gallstones
+gallstones and biliary colic
+gambling disorder
+gangrene
+gastric cancer
+gastro-oesophageal reflux disease (including barrett oesophagus)
+gastroenteritis
+gastrointestinal bleeding (upper and lower gi bleeding)
+gastrointestinal perforation
+gender dysphoria and/ or incongruence
+generalised anxiety disorder
+genitourinary syndrome of menopause
+gentamicin
+gestational diabetes
+giant cell arteritis
+gliclazide
+glomerulonephritis
+gonorrhoea
+gord
+gout
+graves disease (including thyroid eye disease)
+gtn
+guillain-barre syndrome
+guillain-barré/ inflammatory demyelinating polyneuropathy
+haemangioma
+haemochromatosis
+haemoglobinopathies
+haemorrhoids
+head and neck cancer (including oral, laryngeal and salivary gland)
+heart failure
+helicobacter pylori
+hepatitis
+hepatitis (including viral, autoimmune, alcoholic)
+hepatocellular carcinoma
+hernia
+hernias
+herpes simplex virus
+hiatus hernia
+hip fracture
+hiv
+hospital acquired infections
+human immunodeficiency virus (hiv)
+human papilloma virus infection
+huntington disease
+hydrocoele/ varicocele/ epididymal cyst
+hydrocortisone
+hydronephrosis
+hydroxocobalamin
+hydroxychloroquine
+hypercalcaemia
+hypercalcaemia/ hypocalcaemia
+hyperemesis gravidarum
+hyperkalaemia
+hyperkalaemia/ hypokalaemia
+hyperlipidaemia
+hyperosmolar hyperglycaemic state (hhs)
+hyperosmolar state
+hyperparathyroidism
+hyperparathyroidism/ hypoparathyroidism
+hyperprolactinaemia
+hypertension
+hypertension (essential or secondary)
+hypertension in pregnancy (including gestational hypertension, pre-eclampsia, eclampsia)
+hypertensive retinopathy
+hyperthermia and hypothermia
+hyperthyroidism
+hyperthyroidism/ thyrotoxicosis
+hypoglycaemia
+hyponatraemia
+hyponatraemia/ hypernatraemia
+hypopituitarism
+hyposplenism/ splenectomy
+hypothyroidism
+hypovolaemia/ volume depletion
+iatrogenic condition
+ibuprofen
+idiopathic intracranial hypertension
+idiopathic thrombocytopenic purpura (itp)
+iga vasculitis
+impetigo
+incidental finding
+indapamide
+infectious colitis (including clostridium difficile)
+infectious diarrhoea (including infective gastroenteritis)
+infectious mononucleosis (including epstein-barr virus, cytomegalovirus)
+infective endocarditis
+infective keratitis
+infertility/ subfertility
+inflammatory bowel disease
+inflammatory bowel disease (including crohn disease, ulcerative colitis)
+inflammatory conditions of the eye (including scleritis, episcleritis, uveitis)
+influenza
+insulin
+interstitial lung disease (including fibrotic lung disease)
+intervertebral disc prolapse
+intestinal ischaemia
+intestinal obstruction and ileus
+intussusception
+iron deficiency anaemia
+irritable bowel syndrome
+ischaemic heart disease (including stable angina)
+jaundice in pregnancy
+joint dislocation or subluxation
+juvenile idiopathic arthritis
+kawasaki disease
+kidney stones
+klinefelter syndrome
+labetalol
+labyrinthitis/ vestibular neuritis
+lamotrigine
+leukaemia
+levetiracetam
+levodopa
+levothyroxine
+lichen planus
+lichen sclerosus
+lipoma
+lithium
+liver abscess
+liver failure
+lorazepam
+losartan
+lower back pain and sciatica
+lower respiratory tract infection
+lung abscess
+lung cancer
+lymphoma
+macrogol
+macular degeneration
+magnesium sulfate
+malabsorption
+malaria
+malignant/ pre-malignant skin lesions (including bowen disease, malignant melanoma, basal cell carcinoma, squamous cell carcinoma)
+mallory-weiss tear
+malnutrition
+marfan syndrome
+mastoiditis
+measles
+medically unexplained symptoms
+melanoma
+meningitis
+menopause
+menopause/ perimenopause
+mesalazine
+mesenteric adenitis
+metabolic dysfunction-associated steatotic liver disease (masld)
+metabolic syndrome
+metastatic cancer
+metformin
+methotrexate
+migraine
+mirtazapine
+miscarriage
+miscarriage and intrauterine death
+mitral regurgitation
+mitral valve disease
+morphine
+motor neurone disease
+multi-organ dysfunction syndrome
+multiple myeloma
+multiple pregnancy
+multiple sclerosis
+multiple sclerosis (ms)
+mumps
+muscular dystrophies
+myalgic encephalomyelitis (me)/ chronic fatigue syndrome (cfs) (awareness and approach)
+myasthenia gravis
+myeloproliferative disorders
+myocarditis
+ménière disease
+nasal polyps
+necrotising enterocolitis
+necrotising fasciitis
+neonatal jaundice (including pathological and physiological jaundice)
+neonatal surgical emergencies (including pyloric stenosis, intussusception)
+nephrotic syndrome
+neuroleptic malignant syndrome
+neutropenia (including neutropenic sepsis)
+neutropenic sepsis
+newborn baby check
+nimodipine
+nitrofurantoin
+non-accidental injury
+notifiable diseases
+obesity
+obesity in pregnancy
+obsessive-compulsive disorder (ocd)
+obstructive sleep apnoea
+occupational lung disease
+oesophageal cancer
+olanzapine
+omeprazole
+optic neuritis
+orthostatic/ postural hypotension
+osteoarthritis
+osteomalacia
+osteomyelitis
+osteoporosis
+osteoporosis and fragility fractures
+otitis externa
+otitis media
+ovarian cancer
+ovarian cysts
+ovarian torsion
+overdose
+oxytocin
+pancreatic cancer
+pancytopenia
+panic disorder
+papilloedema
+paracetamol
+parkinson's disease
+parkinsonism (including parkinson disease)
+pelvic inflammatory disease
+penile cancer
+peptic ulcer
+peptic ulcer disease and gastritis
+perforated eardrum
+perianal abscesses and fistulae
+pericardial disease (including pericarditis, pericardial effusion, cardiac tamponade)
+pericarditis
+periorbital and orbital cellulitis
+peripheral arterial disease
+peripheral nerve injuries/ palsies
+peripheral neuropathy
+peripheral vascular disease
+peritonitis
+personality disorder
+phaeochromocytoma
+pharyngitis/ tonsillitis
+phenoxymethylpenicillin
+phimosis/ paraphimosis
+phobias (including agoraphobia)
+piperacillin-tazobactam
+pituitary tumours
+placenta praevia
+placental abruption
+platelet disorders (including thrombocytosis, thrombocytopenia)
+pleural effusion
+pneumonia
+pneumothorax
+polycystic kidney disease
+polycystic ovary syndrome
+polycythaemia
+polyendocrine metabolic ovarian syndrome (pmos)
+polyhydramnios/ oligohydramnios
+polymyalgia rheumatica
+polymyositis and dermatomyositis
+post traumatic stress disorder
+postnatal care
+postpartum depression
+postpartum haemorrhage
+postpartum psychosis
+pre-eclampsia
+prediabetes
+prednisolone
+pregabalin
+prematurity
+pressure sores
+primary aldosteronism
+primary headache disorders (including migraine, cluster headache, tension headache)
+propranolol
+prostate cancer
+prostatitis, epididymitis and orchitis
+psoriasis
+psychotic disorder
+pulmonary embolism
+pulmonary fibrosis
+pulmonary hypertension
+pyelonephritis
+pyloric stenosis
+pyrexia of unknown origin
+quinsy/ peritonsillar abscess
+radiculopathies
+raised intracranial pressure
+ramipril
+raynaud phenomenon
+rectal prolapse
+refeeding syndrome
+renal cancer
+respiratory arrest
+respiratory failure
+retinal detachment
+rhabdomyolysis
+rheumatoid arthritis
+rhinosinusitis
+right heart valve disease
+rosacea
+rubella
+salbutamol
+sarcoidosis
+sarcopenia/ frailty
+scabies
+scarlet fever
+schizoaffective disorder
+schizophrenia
+scleroderma and mixed connective tissue disease
+self-harm
+senna
+sepsis
+sepsis (including neutropenic sepsis)
+septic arthritis
+seronegative spondyloarthropathies (including ankylosing spondylitis, reactive arthritis, enteropathic arthritis, psoriatic arthritis)
+serotonin syndrome
+sertraline
+shock
+siadh
+sickle cell disease
+sjogren syndrome
+skin manifestations of systemic disease (including acanthosis nigricans, livedo reticularis and petechiae/ purpura)
+skin ulcers (including arterial, venous and neuropathic ulcers)
+sleep apnoea
+sodium valproate
+soft tissue injury
+somatic symptom disorder
+spinal cord compression
+spinal cord injury
+spironolactone
+status epilepticus
+stevens-johnson syndrome
+stevens-johnson syndrome/ toxic epidermal necrolysis (ten)
+stroke
+subarachnoid haemorrhage
+subconjunctival haemorrhage
+subdural haematoma
+subdural haemorrhage
+substance use disorder
+sumatriptan
+superior vena cava obstruction
+surgical site infection
+syncope (including vasovagal, cardiac)
+syndrome of inappropriate antidiuretic hormone secretion (siadh)
+syphilis
+systemic lupus erythematosus
+tachyarrhythmias (including atrial fibrillation, atrial flutter, supraventricular tachycardia, torsades de pointes, ventricular tachycardia, ventricular fibrillation)
+tamsulosin
+terlipressin
+termination of pregnancy
+testicular cancer
+testicular torsion
+tetanus
+thiamine
+thyroid cancer
+thyroid nodules
+ticagrelor
+tiotropium
+tonsillitis
+toxic megacolon
+toxic shock syndrome
+toxoplasmosis
+tramadol
+transfusion reactions
+transient ischaemic attack
+transient ischaemic attacks (tia)
+transplantation (including graft rejection and immunosuppression)
+trichomonas vaginalis
+trigeminal neuralgia
+trimethoprim
+tuberculosis
+turner syndrome
+typhoid
+upper gi bleed
+upper respiratory tract infection
+urinary incontinence
+urinary retention
+urinary retention/ obstructive uropathy
+urinary tract calculi
+urinary tract infection
+urticaria
+vaginal prolapse
+variceal disease (including oesophageal varices)
+varicella zoster virus
+varices
+vasa praevia
+vasculitis/ vasculitides
+venous insufficiency (including varicose veins)
+venous thromboembolism (vte) in pregnancy and puerperium
+vertigo
+vestibular schwannoma (acoustic neuroma)
+viral exanthema (including measles, rubella, varicella)
+visual field defects
+vitamin b12 and/ or folate deficiency
+vitamin d deficiency
+volvulus
+vulval cancer
+warfarin
+wernicke encephalopathy/ wernicke-korsakoff syndrome
+whooping cough
+zoledronic acid
+zoonotic infections (including lyme disease)

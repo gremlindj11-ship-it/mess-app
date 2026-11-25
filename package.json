@@ -1,0 +1,11 @@
+{
+  "name": "mess",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run.mjs",
+    "test:claims": "node tools/check-claims.mjs content"
+  },
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  }
+}

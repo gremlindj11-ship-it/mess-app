@@ -1,0 +1,1569 @@
+{
+ "id": "bihs-2024-young-onset",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC11239491",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11239491/fullTextXML",
+ "doi": "10.1038/s41371-024-00922-5",
+ "title": "Investigation and management of young-onset hypertension: British and Irish hypertension society position statement",
+ "authors": "Kulkarni S, Faconti L, Partridge S et al",
+ "journal": "Journal of Human Hypertension",
+ "year": "2024",
+ "updated": "2024-06-28",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are",
+ "credit": "Kulkarni S, Faconti L, Partridge S et al. Investigation and management of young-onset hypertension: British and Irish hypertension society position statement. Journal of Human Hypertension. 2024. https://doi.org/10.1038/s41371-024-00922-5. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-21",
+ "sha256": "c2818ffb9edd61afa0e37f91c3dd62034f25dd71f29f0f11427be7affad37a80",
+ "sentences": 288,
+ "set_aside": 6,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "National and international hypertension guidelines recommend that adults with young-onset hypertension (aged <40 years at diagnosis) are reviewed by a hypertension specialist to exclude secondary causes of hypertension and optimise therapeutic regimens.",
+    "A recent survey among UK secondary care hypertension specialist physicians highlighted variations in the investigation of such patients.",
+    "In this position statement, the British and Irish Hypertension Society seek to provide clinicians with a practical approach to the investigation and management of adults with young-onset hypertension.",
+    "We aim to ensure that individuals receive consistent and high-quality care across the UK and Ireland, to highlight gaps in the current evidence, and to identify important future research questions."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Subject terms: Diagnosis, Cardiovascular diseases, Disease prevention"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "In this statement, we outline the British and Irish Hypertension Society (BIHS) recommendations for the investigation and management of adults with young-onset hypertension to enable high-quality and consistent care to be delivered across the UK and Ireland.",
+    "Our framework is based on a critical review of the literature; expert opinion, where evidence is lacking; and a survey among secondary care hypertension specialist physicians working across the UK and Ireland (Table 1).",
+    "We compare the prevalence of hypertension among young adults in the UK and internationally and review the underlying mechanisms that contribute to raised blood pressure (BP).",
+    "We highlight the gaps in current evidence and identify important future research questions."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Introduction",
+   "kind": "caption",
+   "s": [
+    "Table 1 Results of a BIHS membership survey a on investigations routinely offered to all new patients with young-onset hypertension referred to secondary care."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Investigation | % of patients routinely offered this investigation"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Clinic BP | 96"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "ABPM | 54"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Home BP Monitoring | 65"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "ECG | 62"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "ECHO | 54"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Renal Ultrasound | 42"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "MRA aorta/renal/adrenal | 19"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Urine albumin-creatinine ratio | 85"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "24 h urine collection for normetadrenaline, metadrenaline, sodium, potassium and creatinine | 69"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Blood tests"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Aldosterone/renin ratio | 92"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Plasma metanephrines | 54"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Electrolytes | 100"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Creatinine/eGFR | 100"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Cholesterol profile | 92"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Full Blood Count | 92"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Introduction",
+   "kind": "row",
+   "s": [
+    "Additional tests that clinicians reported routinely requesting for all patients with young-onset hypertension included: 24 h urinary free cortisol, 24 h albuminuria, liver function tests, calcium, echocardiography, weight and height, Epworth and STOP-Bang scoring and exercise BP."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Introduction",
+   "kind": "note",
+   "s": [
+    "ABPM Ambulatory blood pressure monitoring, BIHS British and Irish Hypertension Society, BP Blood pressure, ECG Electrocardiography, ECHO Echocardiography, eGFR Estimated glomerular filtration rate, MRA Magnetic Resonance Angiography.",
+    "In September 2023 an online survey was emailed to BIHS members to help us understand what investigations are routinely offered to young people referred to specialist secondary care hypertension clinics.",
+    "We received 26 replies from members working across England, Wales, Scotland and Ireland.",
+    "The results of the survey are reported here."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "In this statement we define young-onset hypertension as the onset of hypertension in individuals aged < 40 years.",
+    "National, European and International hypertension guidelines recommend adults with young-onset hypertension are referred to hypertension specialists to exclude secondary causes of hypertension, assess end-organ damage (EOD) and optimise therapeutic regimens ."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "We believe the prompt investigation and management of young-onset hypertension is important for 2 reasons:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Early detection and treatment of the secondary causes of hypertension can be curative."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Early normalisation of BP may reduce damage to the vasculature and other organs, thus reducing lifetime cardiovascular risk."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Although there is a clear relationship between BP and cardiovascular and renal morbidity and mortality, independent of age, the ‘seeds’ of hypertension are often sown during childhood .",
+    "As hypertension-mediated EOD is not fully reversible , it is important to promptly identify and manage those with young-onset hypertension to mitigate their increased lifetime risk of cardiovascular disease (CVD)."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Estimates of the prevalence and incidence of hypertension vary amongst young adults, depending on diagnostic thresholds and the population studied, making direct comparisons difficult.",
+    "In England, 9% of young adults (aged 16–44 years) were reported as having hypertension in 2021, defined as BP ≥ 140/90 mmHg or taking antihypertensive medication .",
+    "Prevalence data from the United States for 2017–18 suggests 20.6% of young adults (aged 18–39 years) have hypertension defined as BP ≥ 130/80 mmHg or on antihypertensive medication .",
+    "A recent meta-analysis reported the global prevalence of hypertension (defined as BP ≥ 120/80 mmHg or ≥ 90th centile for age, sex and height) among those aged under 19 years was 4.0% [95% CI 3.3%–4.8%] and had increased over the reported period (1994 to 2018) ."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "The 2 year incidence of new onset hypertension (BP ≥ 160/95 mmHg or starting treatment) among young adults (30–39 years) in the Framingham cohort was 3.3% in men and 1.5% in women .",
+    "The Coronary Artery Risk Development in Young Adults (CARDIA) study reported a 10 year incidence of hypertension (≥ 130/85 mmHg or on antihypertensive medication) in young people (18-30 years at baseline) of 16.4% and 13.1% in black men and women respectively; and 7.8% and 3.2% in white men and women respectively .",
+    "This is consistent with pooled data from the Health Survey for England 2011−19 which reported the prevalence of hypertension was highest among black Caribbean adults (39%) and lowest among adults from white other (13%) and Chinese backgrounds (8%) ."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Hypertension is also associated with other social and demographic factors, including socio-economic deprivation and obesity (body mass index [BMI] ≥30 kg/m 2).",
+    "In England, the reported prevalence of hypertension was 23% in the least deprived areas, rising to 40% in the most deprived areas .",
+    "Obesity is a global problem, and the worldwide prevalence has nearly tripled between 1974 and 2016 .",
+    "In England, obesity currently affects 10% of those aged 16 to 24 years rising to 28% among those aged 35 to 44 years ."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Estimates of the prevalence of secondary hypertension among young adults vary considerably depending on the population studied and extent of specialist investigations undertaken .",
+    "However, coarctation of the aorta, phaeochromocytoma, Cushing’s syndrome and thyroid disease are rare, with a prevalence among people with young-onset hypertension of 1% or less.",
+    "In contrast, up to 10% may have primary hyperaldosteronism, renal artery stenosis (more commonly fibromuscular dysplasia [FMD], Takayasu arteritis or neurofibromatosis rather than atherosclerosis), or renal parenchymal disease .",
+    "Importantly, early identification and treatment of secondary causes of hypertension improves patient outcomes ."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Estimated overall prevalence (BP≥140/90 mmHg or antihypertensive treatment): ~9%"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Key risk factors: black, male, high salt diet, overweight, low socio-economic status"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "Estimated prevalence of secondary causes: ~ 10%"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Pathophysiology of hypertension in young adults",
+   "kind": "p",
+   "s": [
+    "Although often viewed as a single condition, hypertension encompasses several distinct patterns of BP elevation such as isolated systolic (ISH), systolic diastolic (SDH) and isolated diastolic (IDH) hypertension, each with different underlying haemodynamic mechanisms.",
+    "ISH is the most common form of hypertension in young adults.",
+    "It is more common in males and those with a higher BMI .",
+    "Elevated cardiac output, driven by an increased stroke volume, is the key underlying haemodynamic characteristic.",
+    "A smaller number of young subjects with ISH have a normal stroke volume but increased aortic pulse wave velocity – a measure of aortic stiffness .",
+    "Indeed, a recent meta-analysis of the haemodynamics of primary hypertension in children and adults concluded that the main haemodynamic alteration in primary hypertension (including obesity-related hypertension), in both children and young to middle-aged adults, is an elevation of cardiac output ."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Pathophysiology of hypertension in young adults",
+   "kind": "p",
+   "s": [
+    "SDH and IDH are the most common hypertensive phenotypes in young females, and are characterised by increased peripheral vascular resistance and, in some cases, elevated aortic stiffness .",
+    "Cardiac output may also be raised, but because of high heart rate rather than an increased stroke volume ."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Pathophysiology of hypertension in young adults",
+   "kind": "p",
+   "s": [
+    "Overall, these findings are consistent with the view that hypertensive young males display a predominantly ‘cardiac’ BP phenotype, whereas hypertensive young females have a predominantly ‘vascular’ BP phenotype.",
+    "These differences may reflect divergent pathophysiology and may require alternate therapeutic approaches, but this remains to be tested formally in prospective research studies."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "A detailed medical history should be obtained including the elements outlined in Table 2.",
+    "It is important to specifically ask about substances that may cause hypertension including:"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Concurrent medications"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Contraceptive medication"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Hormone substitutes"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Over-the-counter preparations"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Herbal/traditional remedies"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Recreational drugs"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Clinical assessment > Medical history",
+   "kind": "caption",
+   "s": [
+    "Table 2 Medical history."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Presentation of Hypertension • Time of first diagnosis of hypertension • Current/past antihypertensive medications including intolerances • Adherence to therapy • Family history of hypertension, CVD, stroke, kidney disease • History of erectile dysfunction • Previous hypertension in pregnancy/preeclampsia/foetal growth restriction"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Concurrent conditions • Concurrent conditions, noting risk factors for CVD e.g., hypercholesterolaemia, PCOS • Sleep history, snoring, sleep apnoea (where applicable consider partner’s view)"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Concurrent medications (noting drugs that may increase BP) •Prescribed medication noting combined oral contraceptive pill or implants, hormone substitutes, steroids, nonsteroidal anti-inflammatory drugs, vascular endothelial growth factor inhibitors, tyrosine kinase inhibitors, tricyclic antidepressants, selective serotonin noradrenaline reuptake inhibitors, dexamphetamine and methylphenidate may increase BP • Over-the-counter medications noting herbal remedies and decongestants may increase BP • Recreational drugs/substance abuse including but not limited to cocaine, amphetamines, ecstasy and anabolic steroids"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Lifestyle • Tobacco smoking history: current/ex/never (pack years) • Dietary history: fruit and vegetable intake, bread and breakfast cereal intake, salt intake, alcohol consumption, liquorice • Physical activity per week • Weight gain or loss"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Clinical assessment > Medical history",
+   "kind": "note",
+   "s": [
+    "BP Blood pressure, CVD Cardiovascular disease, PCOS Polycystic ovary syndrome."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Clinical assessment > Medical history",
+   "kind": "p",
+   "s": [
+    "Patients should be asked about symptoms suggestive of secondary causes of hypertension, noting that absence of symptoms does not adequately exclude secondary causes (Table 3).",
+    "It is important to take an obstetric history, focusing on occurrence of hypertension in pregnancy and foetal growth restriction, which are risk factors for the development of hypertension post-partum and are associated with increased CVD risk .",
+    "Patients should also be asked about symptoms of obstructive sleep apnoea and clinicians may wish to consider the use of an assessment tool, such as the STOP-Bang questionnaire, to assess risk ."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Clinical assessment > Medical history",
+   "kind": "caption",
+   "s": [
+    "Table 3 Signs and symptoms suggestive of secondary causes of hypertension."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Pheochromocytoma | Repetitive episodes of palpitation, (usually slow) headache, pallor and anxiety, angor animi"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Hyperaldosteronism | History of spontaneous or diuretic-provoked hypokalaemia, episodes of muscle weakness and tetany"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Hypothyroidism | History of increased diastolic BP, fatigue, weight gain, dry skin, hair loss, constipation and muscle weakness"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Hyperthyroidism | History of increased systolic BP, tremor, anxiety, sweating, weight loss, diarrhoea and heat intolerance"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Cortisol/glucocorticoid excess (Cushing’s) | Truncal obesity with thin limbs, buffalo hump, striae, round (moon) face, thin frail skin that bruises easily, acne"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Neurofibromatosis | Café-au-lait skin patches, fibromas, axillary freckles"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Acromegaly | Facial changes, enlargement of hands and feet, sweating"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Chronic kidney disease | Weight loss, haematuria, itching, ankle swelling, shortness of breath"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Pre-eclampsia | History of BP elevation in previous or current pregnancy"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Clinical assessment > Medical history",
+   "kind": "row",
+   "s": [
+    "Renal scarring | History of repetitive renal/urinary tract disease/urinary tract infection/stones"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Clinical assessment > Medical history",
+   "kind": "note",
+   "s": [
+    "BP Blood pressure."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Clinical assessment > Family history",
+   "kind": "p",
+   "s": [
+    "A detailed family history should be obtained including occurrence of FMD or other renal diseases, phaeochromocytoma, neurofibromatosis, thyroid disease, hyperaldosteronism, and monogenic hypertension.",
+    "A family history of early-onset hypertension, sudden death, stroke or myocardial infarction (MI) at a young age (< 60 years) in a first-degree relative may suggest the presence of secondary causes and/or monogenic hypertension.",
+    "Patients should also be encouraged to ask relatives and update their records at subsequent visits."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "A detailed physical examination should be undertaken, focusing on signs of secondary hypertension and evidence of EOD (Tables 3 and 4), including:"
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "Observe for signs of Cushing’s syndrome, acromegaly and assess thyroid status."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "Palpate radial and femoral pulses to detect radio-radial or radio-femoral delay of aortic coarctation."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "Auscultation of heart for murmurs and carotid, renal and femoral arteries for bruits."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "Palpate the kidney for signs of enlargement evident in polycystic kidney disease."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "p",
+   "s": [
+    "Conduct fundoscopy to assess EOD, with mydriasis if needed.",
+    "Examination of the retinal fundus is particularly useful in young-onset hypertension as it may point towards chronic subclinical EOD (Fig. 1), particularly where evidence for a sustained rise in BP is inconsistent (e.g. white coat hypertension).",
+    "Papilloedema may be present in patients with benign intracranial hypertension."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "caption",
+   "s": [
+    "Table 4 Assessment of End Organ Damage (EOD)."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Organ | Clinical diagnosis associated with EOD | Subclinical findings suggestive of EOD"
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Heart | Heart failure (HFpEF, HFrEF), Coronary artery disease Arrhythmias (especially Atrial fibrillation) | Left ventricular hypertrophy Left ventricular systolic or diastolic dysfunction Dilated atria Raised BNP or NT pro-BNP"
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Kidney | Chronic kidney disease | Microalbuminuria/Proteinuria Declining eGFR Reduced cortical thickness or other features of renal disease"
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Eye | Visual impairment | Hypertensive retinopathy (Fig. 1) (haemorrhages, microaneurysms, hard exudates, cotton wool spots)"
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Brain | Cerebrovascular accident/ Transient ischaemic attack | Lacunes, microbleeds or large white matter hyperintensities on MRI Carotid artery atheroma"
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "row",
+   "s": [
+    "Blood vessels | Peripheral vascular disease, Aortic aneurysm | Mild thoracic aortic dilatation Aortic stiffening Reduced ankle-brachial index Atherosclerotic plaques"
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "note",
+   "s": [
+    "BP Blood pressure, BNP Brain natriuretic peptide, eGFR Estimated glomerular filtration rate, HFpEF Heart failure with preserved ejection fraction, HFrEF Heart failure with reduced ejection fraction, MRI magnetic resonance imaging, NTpro-BNP N-terminal pro BNP."
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "Clinical assessment > Physical examination",
+   "kind": "caption",
+   "s": [
+    "Fig. 1 Retinal fundus showing hypertension-mediated end organ damage.",
+    "1 = Blurred disc margins and papilloedema, 2 = Cotton wool spots, 3 = Generalized arteriolar attenuation and tortuosity."
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "Clinical assessment > Blood pressure measurement",
+   "kind": "p",
+   "s": [
+    "Office/clinic BP measurement is easily accessible as an initial screening tool.",
+    "The mandatory minimum is to use a BIHS-validated device (https://bihsoc.org/bp-monitors/) with an appropriately sized cuff (the bladder should encompass 80-100% arm circumference) applied to the upper arm with the subject seated, silent, resting with arm supported at heart height and back supported, bladder empty .",
+    "Most BP screening is performed using semi-automated oscillometric monitors.",
+    "There are currently no data on the effect of age on the accuracy of BP measurement using such monitors, although some have been specifically validated for paediatric subjects and pregnant women ."
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "Clinical assessment > Blood pressure measurement",
+   "kind": "p",
+   "s": [
+    "A diagnosis of hypertension and subsequent management decisions should not be made on a single occasion due to marked individual BP variability , except in the context of a hypertensive crisis .",
+    "Office/clinic BP should be repeated at least three times (averaging the final 2 readings) at one-to-two-minute intervals on several different occasions .",
+    "If the BP is raised then a diagnosis of hypertension should be confirmed by ambulatory, or home BP monitoring."
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "Clinical assessment > Blood pressure measurement",
+   "kind": "p",
+   "s": [
+    "At the first visit, BP should be measured in both arms and the arm with the higher readings used for subsequent BP measurement.",
+    "In individuals with postural symptoms or risk factors for autonomic neuropathy (e.g. diabetes), BP should also be recorded supine and standing (after at least 1 min).",
+    "A diagnosis of postural hypotension can be considered if systolic BP falls by ≥20 mmHg and/or diastolic BP falls by ≥10 mmHg ."
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "Clinical assessment > Unattended BP measurement",
+   "kind": "p",
+   "s": [
+    "Unattended clinic/office BP measurements (recorded when the patient is seated alone and unobserved) are ~5–15 mmHg lower than those obtained by conventional office BP measurement and are thought to correspond better to ambulatory BP measurements than observed (i.e. usual) clinic BP .",
+    "As there is currently limited evidence on the prognostic value of unattended office BP measurements , we advise therapeutic decisions are based on observed clinic/office BP and/or ambulatory/home BP targets."
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "Clinical assessment > Ambulatory/home BP measurement",
+   "kind": "p",
+   "s": [
+    "Ambulatory/home BP monitoring improves the accuracy of BP assessment and is mandatory to confirm a diagnosis of hypertension.",
+    "Ideally, this will have been performed before referral to a secondary care hypertension specialist .",
+    "However, ambulatory/home monitoring may need to be repeated if there is a significant difference between clinic/office and home/ambulatory readings, particularly in the absence of target organ damage, and in cases of apparent resistant hypertension."
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "Clinical assessment",
+   "kind": "row",
+   "s": [
+    "• Attended office/clinic BP | ≥ 140/90 mmHg"
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "Clinical assessment",
+   "kind": "row",
+   "s": [
+    "• Ambulatory day/awake mean BP | ≥ 135/85 mmHg"
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "Clinical assessment",
+   "kind": "row",
+   "s": [
+    "• Ambulatory night/asleep mean BP | ≥ 120/70 mmHg"
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "Clinical assessment",
+   "kind": "row",
+   "s": [
+    "• Ambulatory 24hr mean BP | ≥ 130/80 mmHg"
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "Clinical assessment",
+   "kind": "row",
+   "s": [
+    "• Home mean BP | ≥ 135/85 mmHg"
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "Clinical assessment > White coat and masked hypertension",
+   "kind": "p",
+   "s": [
+    "White coat hypertension i.e. high office/clinic BP with normal ambulatory/home BP (Fig. 2), is more common among women and is a predictor of developing sustained hypertension and CVD.",
+    "Individuals with white-coat hypertension should be closely monitored ."
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "Clinical assessment > White coat and masked hypertension",
+   "kind": "caption",
+   "s": [
+    "Fig. 2 Ambulatory blood pressure monitoring demonstrating white coat hypertension.",
+    "Ambulatory Blood Pressure Monitoring (ABPM) from a patient with young-onset hypertension demonstrating white coat effect with office/clinic BP and the first reading on ABPM > 140/90 mmHg but normal day, night (grey shaded area) and total BP averages."
+   ]
+  },
+  {
+   "at": "b93",
+   "path": "Clinical assessment > White coat and masked hypertension",
+   "kind": "p",
+   "s": [
+    "Masked hypertension i.e. normal office/clinic BP with elevated ambulatory/home BP (Fig. 3), is more common in men, smokers and those with higher BMI and SBP .",
+    "If masked hypertension is demonstrated on ambulatory/home monitoring, therapeutic decisions should be based on out-of-office BP targets."
+   ]
+  },
+  {
+   "at": "b94",
+   "path": "Clinical assessment > White coat and masked hypertension",
+   "kind": "caption",
+   "s": [
+    "Fig. 3 Ambulatory blood pressure monitoring demonstrating masked hypertension.",
+    "Ambulatory Blood Pressure Monitoring (ABPM) from a patient with young-onset hypertension demonstrating masked hypertension with office/clinic BP and the first reading on ABPM < 140/90 mmHg but elevated daytime average BP.",
+    "The grey shaded area denotes night-time readings."
+   ]
+  },
+  {
+   "at": "b95",
+   "path": "Clinical assessment > White coat and masked hypertension",
+   "kind": "p",
+   "s": [
+    "Higher rates of both white coat hypertension (15–25%) and masked hypertension (10–20%) have been reported among those with secondary hypertension .",
+    "However, it is important to note that many of the studies relating to the prognostic value of white coat and masked hypertension are very small in comparison to data on office/clinic BP and outcomes, and further data are required."
+   ]
+  },
+  {
+   "at": "b96",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "p",
+   "s": [
+    "Albuminuria and/or haematuria may indicate renal parenchymal disease or hypertension-associated EOD in the absence of urinary tract infection and should be investigated further (Tables 4 and 5).",
+    "Formal urinary albumin: creatinine ratio (UACR) is recommended as a more robust measure of albuminuria than dipsticks.",
+    "Pregnancy should be excluded in women with child-bearing potential."
+   ]
+  },
+  {
+   "at": "b97",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "caption",
+   "s": [
+    "Table 5 Consider the following investigations for all adults with young-onset hypertension."
+   ]
+  },
+  {
+   "at": "b98",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Investigation of EOD and assessment of cardiovascular risk (all patients)"
+   ]
+  },
+  {
+   "at": "b99",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Clinic/Office BP"
+   ]
+  },
+  {
+   "at": "b100",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "ABPM/HBPM"
+   ]
+  },
+  {
+   "at": "b101",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "ECG"
+   ]
+  },
+  {
+   "at": "b102",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "ECHO (to assess EOD and coarctation of aorta)"
+   ]
+  },
+  {
+   "at": "b103",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Blood tests to include: Creatinine, eGFR, TC, TG, HDL, TC:HDL, LDL, NHDLC, Glucose, HBA1c, Liver function (combine with those listed below)"
+   ]
+  },
+  {
+   "at": "b104",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Fundoscopy"
+   ]
+  },
+  {
+   "at": "b105",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Height, weight and waist circumference"
+   ]
+  },
+  {
+   "at": "b106",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Office dipstick urinalysis"
+   ]
+  },
+  {
+   "at": "b107",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Investigations for secondary hypertension"
+   ]
+  },
+  {
+   "at": "b108",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Blood tests (all patients) Sodium, Potassium, Urea, Bicarbonate, Corrected Calcium, Phosphate TSH Full blood count Renin, Aldosterone (Aldosterone/renin ratio) Plasma metanephrines (or urine) | Additional blood tests (specific clinical scenarios): Chloride, Magnesium ESR, CRP PTH, Vitamin D (patients with calcium abnormalities) Lp(a) (if strong family history of premature CVD) Renal vasculitis screen (patients suspected to have renal disease based on urine protein and/or blood, inflammatory markers, creatinine and/or renal imaging) Dexamethasone suppression test (patients with clinical suspicion of Cushing’s and/or adrenal adenoma on imaging)"
+   ]
+  },
+  {
+   "at": "b109",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Urine tests (all patients) Urine sample for ACR and/or PCR | Additional urine tests (specific clinical scenarios): Urine for drug adherence screen (resistant hypertension, apparent lack of response, variability in BP response) Urine for drugs of abuse (concomitant tachycardia, symptoms suggestive of catecholamine surge)"
+   ]
+  },
+  {
+   "at": "b110",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "24-hour urine test (all patients) Creatinine and electrolytes (Sodium, Potassium) Normetadrenaline, Metadrenaline (if plasma test is not available) | Additional 24-hour urine test (specific clinical scenarios): Aldosterone and Cortisol (in patients suspected primary aldosteronism and/or Cushing’s disease) Urine for Calcium, Phosphate, Chloride, Magnesium (in patients with a history of recurrent renal stones, renal genetic tubular disorder) 24-hour urine 5HIAA (suspected carcinoid syndrome)"
+   ]
+  },
+  {
+   "at": "b111",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Imaging (all patients) Renal imaging (e.g. ultrasound) Note: FMD can only be excluded by formal angiography | Additional imaging (specific clinical scenarios) MRA/CTA Aorta/Renal (may also allow for simultaneous adrenal imaging and detection of FMD, adrenal adenoma/ indeterminate adrenal lesions, coarctation of aorta)"
+   ]
+  },
+  {
+   "at": "b112",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Genetic Testing Referrals are triaged by the Genomic Laboratory to prioritise individuals where a genetic or genomic diagnosis will guide management for that individual or family.",
+    "Please refer to the National Genomics Test directory: https://www.england.nhs.uk/publication/national-genomic-test-directories/ and https://www.england.nhs.uk/genomics/genomic-laboratory-hubs/."
+   ]
+  },
+  {
+   "at": "b113",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "row",
+   "s": [
+    "Additional Investigations should be performed as indicated to confirm clinical/ subclinical EOD and inform management decisions."
+   ]
+  },
+  {
+   "at": "b114",
+   "path": "Clinical assessment > Urinalysis",
+   "kind": "note",
+   "s": [
+    "ABPM Ambulatory blood pressure monitoring, ACR Albumin:Creatinine ratio, BP Blood pressure, CRP c-reactive protein, CTA Computed tomography angiography, ECG Electrocardiography, ECHO Echocardiography, eGFR Estimated glomerular filtration rate, ESR Erythrocyte sedimentation rate, FMD Fibromuscular dysplasia, HBA1c Haemoglobin A1c, HDL High density lipoprotein, HBPM Home blood pressure monitoring, LDL Low density lipoprotein, NHDLC Non high density lipoprotein cholesterol, MRA Magnetic Resonance Angiography, PCR Protein Creatinine ratio, PTH Parathyroid Hormone, TSH Thyroid Stimulating Hormone, TC Total Cholesterol, TG Triglyceride, 5-HIAA 5-Hydroxyindoleacetic acid."
+   ]
+  },
+  {
+   "at": "b115",
+   "path": "Clinical assessment > Height, weight and waist measurement",
+   "kind": "p",
+   "s": [
+    "Height and weight should be measured, and BMI calculated.",
+    "Waist size should be measured to inform total cardiovascular risk."
+   ]
+  },
+  {
+   "at": "b116",
+   "path": "Clinical assessment > Further investigations",
+   "kind": "p",
+   "s": [
+    "Consider the investigations outlined in Table 5 for all adults with young-onset hypertension to assess EOD, cardiovascular comorbidities and secondary causes of hypertension.",
+    "Whilst conducting all investigations may seem overly comprehensive, missing a potentially curable form of secondary hypertension may have a substantial deleterious impact given that patients face a lifetime of antihypertensive treatment and increased cardiovascular risk."
+   ]
+  },
+  {
+   "at": "b117",
+   "path": "Clinical assessment > Further investigations",
+   "kind": "p",
+   "s": [
+    "Biochemical investigations including renin, aldosterone and plasma or 24 h urine metadrenalines (metanephrines) aid diagnoses of primary aldosteronism and phaeochromocytoma, respectively.",
+    "Both plasma and urine fractionated metadrenalines are acceptable for routine screening, with some suggestion that plasma may have a higher specificity ."
+   ]
+  },
+  {
+   "at": "b118",
+   "path": "Clinical assessment > Further investigations",
+   "kind": "p",
+   "s": [
+    "Although 24-hour urine collection may be considered cumbersome by some patients, complete collection allows estimation of daily salt intake and interpretation of plasma renin/aldosterone .",
+    "Cortisol and aldosterone can also be done on the same urine sample and can help exclude Cushing’s syndrome and hyperaldosteronism."
+   ]
+  },
+  {
+   "at": "b119",
+   "path": "Clinical assessment > Further investigations",
+   "kind": "p",
+   "s": [
+    "Although hyper-reninaemic hyperaldosteronism is a classical finding in cases of renal artery stenosis of various aetiologies including FMD, renin and aldosterone may be normal in some patients.",
+    "Screening is usually via computed tomography (CT) angiography or magnetic resonance (MR) angiography.",
+    "Digital subtraction angiography provides a definitive diagnosis and the option of therapeutic angioplasty ."
+   ]
+  },
+  {
+   "at": "b120",
+   "path": "Clinical assessment > Further investigations",
+   "kind": "p",
+   "s": [
+    "Coarctation of the aorta is a diagnosis usually made in childhood (60% of the cases) and accounts for 5-8% of congenital heart disease .",
+    "When asymptomatic or non-severe, coarctation of the aorta may remain undiagnosed and persist into adulthood.",
+    "Patients may present with resistant hypertension as adults, but often the diagnosis is delayed and missed.",
+    "A chest radiograph may appear normal, and classical clinical signs of radio-femoral delay or murmur may be absent.",
+    "In such cases, an echocardiography is the screening investigation of choice although images may still be suboptimal, especially in a post-ductal coarctation of the aorta .",
+    "Aortic imaging modalities such as CT and MR imaging (which will also help to assess the anatomy of the collaterals) will confirm the diagnosis."
+   ]
+  },
+  {
+   "at": "b121",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Monogenic hypertension arises from specific gene mutations .",
+    "These syndromes are likely to present early in life so, although rare, will be relatively over-represented in those with young-onset hypertension.",
+    "They pose a diagnostic challenge due to the complexity of their clinical and biochemical phenotypes, and significant heterogeneity in severity and presentation.",
+    "However, the following factors should increase clinical suspicion:"
+   ]
+  },
+  {
+   "at": "b122",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Young-onset hypertension"
+   ]
+  },
+  {
+   "at": "b123",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Low renin hypertension"
+   ]
+  },
+  {
+   "at": "b124",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Persistent electrolyte abnormalities (specifically potassium and bicarbonate)"
+   ]
+  },
+  {
+   "at": "b125",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Brachydactyly and hypertension (associated with PDE3A mutation)"
+   ]
+  },
+  {
+   "at": "b126",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Disorders of adrenal steroids (e.g. congenital adrenal hyperplasia)"
+   ]
+  },
+  {
+   "at": "b127",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Family history of monogenic hypertension, young-onset hypertension, sudden death, stroke or MI at a young age (< 60 years) in a first degree relative"
+   ]
+  },
+  {
+   "at": "b128",
+   "path": "Monogenic hypertension",
+   "kind": "p",
+   "s": [
+    "Accurate diagnosis is important as these conditions are highly sensitive to specific drug regimens due to their specific molecular aetiology (Table 6).",
+    "In England, genetic testing referrals are triaged by the Genomic Laboratory to prioritise individuals where a genetic or genomic diagnosis will guide management for that individual or family.",
+    "Please refer to the National Genomics Test directory: https://www.england.nhs.uk/publication/national-genomic-test-directories/ and https://www.england.nhs.uk/genomics/genomic-laboratory-hubs/."
+   ]
+  },
+  {
+   "at": "b129",
+   "path": "Monogenic hypertension",
+   "kind": "caption",
+   "s": [
+    "Table 6 Examples and recommended therapy for monogenic hypertension."
+   ]
+  },
+  {
+   "at": "b130",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Condition | Recommended Treatment"
+   ]
+  },
+  {
+   "at": "b131",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Liddle syndrome | Amiloride"
+   ]
+  },
+  {
+   "at": "b132",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Apparent mineralocorticoid excess | Spironolactone"
+   ]
+  },
+  {
+   "at": "b133",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Gordon syndrome | Thiazide"
+   ]
+  },
+  {
+   "at": "b134",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Geller syndrome | Amiloride (spironolactone is contraindicated)"
+   ]
+  },
+  {
+   "at": "b135",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Glucocorticoid-remediable aldosteronism (familial hyperaldosteronism type 1) | Glucocorticoids (or steroidal MRA)"
+   ]
+  },
+  {
+   "at": "b136",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "Familial hyperaldosteronism type 2,3,4 | Steroidal MRA (Consider adrenalectomy in patients who do not respond to steroidal MRA)"
+   ]
+  },
+  {
+   "at": "b137",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "PASNA syndrome (primary aldosteronism, seizures and neurological abnormalities) | Steroidal MRA and CCB"
+   ]
+  },
+  {
+   "at": "b138",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "11beta-hydroxylase deficiency | Glucocorticoids"
+   ]
+  },
+  {
+   "at": "b139",
+   "path": "Monogenic hypertension",
+   "kind": "row",
+   "s": [
+    "17alpha-hydroxylase deficiency | Glucocorticoids"
+   ]
+  },
+  {
+   "at": "b140",
+   "path": "Monogenic hypertension",
+   "kind": "note",
+   "s": [
+    "CCB Calcium channel blocker, MRA Mineralocorticoid receptor antagonist."
+   ]
+  },
+  {
+   "at": "b141",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "There are two well-established strategies to lower BP, lifestyle interventions and pharmacological treatments.",
+    "Outcome-based randomised controlled trials (RCTs) have clearly shown the benefit of pharmacological BP reduction for the prevention of cardiovascular events and reduction in all-cause mortality .",
+    "However, such studies have largely included middle-aged and older adults, and no such data are available in young adults.",
+    "As a result, recommendations for life-long pharmacological treatment for younger and lower-risk patients are based on considerable extrapolation."
+   ]
+  },
+  {
+   "at": "b142",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Despite these uncertainties, there is a consensus that lifestyle interventions should be recommended for all individuals with hypertension .",
+    "This is supported by evidence that the cardiovascular system may be able to remodel during childhood when hypertension is less likely to have been long-standing ."
+   ]
+  },
+  {
+   "at": "b143",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "There is controversy about whether younger adults with uncomplicated stage 1 hypertension should receive pharmacological treatment.",
+    "[set aside: names guidance a model may not read]",
+    "There are 3 limitations of this approach:"
+   ]
+  },
+  {
+   "at": "b144",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Prediction models for the 10-year risk of CVD underestimate the risk in young subjects and don’t provide information on life-time risk."
+   ]
+  },
+  {
+   "at": "b145",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Diastolic BP may have a greater risk-predictive value than systolic BP alone in younger adults ."
+   ]
+  },
+  {
+   "at": "b146",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "The value of hypertension-mediated EOD in refining risk estimation has, to date, not been well defined (Table 4)."
+   ]
+  },
+  {
+   "at": "b147",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "As a result, young adults with hypertension often do not receive “early” pharmacological treatment and must wait until their cardiovascular risk threshold crosses 10%.",
+    "However, early treatment may prevent the development of more severe hypertension and EOD.",
+    "This is particularly important as later treatment may not fully reverse EOD, particularly in the vasculature and kidney .",
+    "To mitigate this, we recommend a more pragmatic approach presented in Fig. 4, which more closely aligns with guidelines from other international hypertension societies ."
+   ]
+  },
+  {
+   "at": "b148",
+   "path": "Treatment",
+   "kind": "caption",
+   "s": [
+    "Fig. 4 Investigation and treatment of young-onset hypertension.",
+    "ABPM Ambulatory blood pressure monitoring, BB Beta blocker BP Blood pressure, CVD Cardiovascular disease, CCB Calcium channel blocker, DM Diabetes mellitus, HBPM Home blood pressure monitoring, HT Hypertension, RAAS Renin-angiotensin-aldosterone system, Rx Treatment.",
+    "[1] Kulkarni S et al., J Hum Hypertens.",
+    "[set aside: names guidance a model may not read]",
+    "2024;38(1):3–7."
+   ]
+  },
+  {
+   "at": "b149",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "In cases of markedly elevated BP (> 180/120 mmHg), an urgent assessment is needed and recommendations from the BIHS guidance on the management of hypertension crisis should be followed ."
+   ]
+  },
+  {
+   "at": "b150",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Among subjects with BP between 160 and 180/100–120 mmHg pharmacological interventions alongside lifestyle measures should be started promptly.",
+    "[set aside: names guidance a model may not read]",
+    "Among women of childbearing potential it is important to discuss plans for future pregnancy and contraception use and, where appropriate, the potential detrimental effects of angiotensin converting enzyme inhibitors/angiotensin II receptor antagonists in pregnancy.",
+    "An informed decision can then be made about whether drugs that can be routinely used during pregnancy (such as modified release nifedipine, amlodipine or beta blockers) should be used in place of RAAS-blocking drugs ."
+   ]
+  },
+  {
+   "at": "b151",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Pharmacological treatment for hypertension is also recommended in individuals with BP values < 160/100 mmHg at moderate-high risk (established CVD, diabetes, renal disease, QRISK3 > 10%)."
+   ]
+  },
+  {
+   "at": "b152",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "In subjects at low risk and with BP < 160/100 mmHg, the decision-making process should be guided by the assessment of the EOD (Table 4).",
+    "In patients with evidence of EOD, pharmacological treatment should be commenced promptly.",
+    "In the absence of EOD, we recommend optimisation of lifestyle measures, focusing on weight optimisation and reduction in dietary salt and alcohol for an interim period of 3 to 6 months.",
+    "If there is normalisation of clinic BP following this, a 24 h ambulatory or home BP monitoring should be considered to confirm normotension and exclude masked hypertension.",
+    "If BP remains elevated after 6 months, then we recommend starting pharmacological therapy following a discussion of the risk benefits with the patient."
+   ]
+  },
+  {
+   "at": "b153",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Once treatment is started, BP should be reassessed within 3 months with a BP target below < 140/90 mmHg (ambulatory < 135/85 mmHg) .",
+    "[set aside: names guidance a model may not read]",
+    "The use of home monitoring may allow targets to be reached more quickly if a plan is made to up-titrate or commence additional drugs based on HBPM readings."
+   ]
+  },
+  {
+   "at": "b154",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "In discussion with the patient, lower BP targets may be considered given the lifetime risk faced by younger patients.",
+    "Although this recommendation is not directly supported by RCTs, extrapolation of outcome data from higher-risk cohorts supports a more stringent BP control for long-term CV prevention in populations at relatively low absolute CV risk .",
+    "Moreover, the average population BP in young individuals is considerably lower than in middle-aged and older age groups .",
+    "Thus ‘normalisation’ of BP requires more aggressive targets.",
+    "However, the benefits of this approach remain to be tested in randomised controlled trials.",
+    "If lower targets are desirable, then single-pill combinations may be helpful in achieving this with the benefits of a reduced pill burden and better adherence ."
+   ]
+  },
+  {
+   "at": "b155",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]",
+    "However, the model did not include patients under 40 years of age and did not consider other healthcare costs such as those associated with hypertension in pregnancy.",
+    "The cost of investigations and management for younger people includes upfront expenses for blood tests, imaging and specialist consultations, which must be balanced by the substantial costs of uncontrolled hypertension leading to EOD.",
+    "The costs to patients themselves including prescriptions, health/travel insurance and psychological factors should also be considered depending on the health care setting.",
+    "Early intervention can potentially lead to better health outcomes and overall reduction in the financial burden of managing the consequences of uncontrolled hypertension ."
+   ]
+  },
+  {
+   "at": "b156",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Reduce salt to <6g day.",
+    "Pre-prepared foods like bread, breakfast cereals and ready meals may contain high salt.",
+    "Check labels when shopping and avoid adding extra salt to food."
+   ]
+  },
+  {
+   "at": "b157",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Maintain a healthy weight.",
+    "For people that are overweight, weight loss is associated with a reduction in blood pressure."
+   ]
+  },
+  {
+   "at": "b158",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Incorporate exercise.",
+    "30 minutes of moderate aerobic exercise 5 times a week and resistance training 2 to 3 times a week."
+   ]
+  },
+  {
+   "at": "b159",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Eat a balanced diet.",
+    "Include at least 5 portions (400g) of fruit and vegetables daily."
+   ]
+  },
+  {
+   "at": "b160",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Alcohol in moderation.",
+    "Current guidelines recommend up to 14 units a week for men and women.",
+    "Avoid binge drinking and encourage alcohol-free days."
+   ]
+  },
+  {
+   "at": "b161",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Caffeine in moderation.",
+    "Be mindful that caffeine is in cola and energy drinks as well as tea and coffee."
+   ]
+  },
+  {
+   "at": "b162",
+   "path": "Treatment",
+   "kind": "p",
+   "s": [
+    "Stop smoking.",
+    "To reduce cardiovascular risk."
+   ]
+  },
+  {
+   "at": "b163",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "We note that in those with childhood-onset hypertension, adolescence and transition to adult services are particularly challenging periods for young people, their families and clinical teams .",
+    "Currently, there are no nationally accepted models regarding the transition of health care for hypertensive children, but good practice models exist and should be considered to ensure continuity of care ."
+   ]
+  },
+  {
+   "at": "b164",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "Is BP ≥140/90 mmHg an appropriate threshold to initiate pharmacological treatment in younger adults, or should it be lower?"
+   ]
+  },
+  {
+   "at": "b165",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b166",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "Do we need sex-based thresholds and targets, as women have lower population BP?"
+   ]
+  },
+  {
+   "at": "b167",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "Should we support weight loss, where appropriate, with pharmacotherapy (e.g. GLP1 agonists) before starting antihypertensive treatment?"
+   ]
+  },
+  {
+   "at": "b168",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "What is the most effective drug for young people, especially those in the early, high cardiac output phase of hypertension, and should BP treatment be sex specific given the different underlying haemodynamic mechanisms?"
+   ]
+  },
+  {
+   "at": "b169",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "What is the cost-effectiveness of comprehensive screening for the secondary causes of hypertension among those with young-onset hypertension in the UK?"
+   ]
+  },
+  {
+   "at": "b170",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "What can developments in imaging technology (e.g. lower cost, more efficient MRI) offer for comprehensive organ screening?"
+   ]
+  },
+  {
+   "at": "b171",
+   "path": "Transition from paediatric to adult services",
+   "kind": "p",
+   "s": [
+    "What is the cost-effectiveness of specialist hypertension clinics for young people?"
+   ]
+  },
+  {
+   "at": "b172",
+   "path": "Conclusion",
+   "kind": "p",
+   "s": [
+    "In summary, national and international studies suggest there are large numbers of young people with raised BP that, left untreated, are likely to suffer from avoidable premature morbidity and mortality.",
+    "Current guidelines for initiating antihypertensive treatment are based on 10-year cardiovascular risk.",
+    "As risk scores are strongly determined by age, and evidence from antihypertensive treatment trials are based on older individuals, younger people may not be accessing appropriate therapies to meet their needs, and current guidelines are therefore inherently ageist."
+   ]
+  },
+  {
+   "at": "b173",
+   "path": "Conclusion",
+   "kind": "p",
+   "s": [
+    "This BIHS statement provides a practical approach to the investigation and management of young-onset hypertension to enable consistent and high-quality care to be delivered across the UK and Ireland and poses important future research questions to improve patient outcomes."
+   ]
+  },
+  {
+   "at": "b174",
+   "path": "Summary > What is known about this topic",
+   "kind": "p",
+   "s": [
+    "Management, investigations and treatment for young-onset hypertension varies across the globe."
+   ]
+  },
+  {
+   "at": "b175",
+   "path": "Summary > What is known about this topic",
+   "kind": "p",
+   "s": [
+    "Traditionally thresholds for initiating antihypertensive treatment are based on 10-year cardiovascular risk estimation, which significantly disadvantages young people, who face a lifetime of increased risk."
+   ]
+  },
+  {
+   "at": "b176",
+   "path": "Summary > What is known about this topic",
+   "kind": "p",
+   "s": [
+    "Not treating hypertension in young people potentially exposes them to accruing irreversible end-organ damage over time."
+   ]
+  },
+  {
+   "at": "b177",
+   "path": "Summary > What this study adds",
+   "kind": "p",
+   "s": [
+    "This BIHS statement provides a practical framework for investigating and managing young-onset hypertension."
+   ]
+  },
+  {
+   "at": "b178",
+   "path": "Summary > What this study adds",
+   "kind": "p",
+   "s": [
+    "We emphasise the need to personalise management in young people particularly with regard to risk estimation and pharmacological treatment, while avoiding over-treatment."
+   ]
+  },
+  {
+   "at": "b179",
+   "path": "Summary > What this study adds",
+   "kind": "p",
+   "s": [
+    "We emphasize the need for robust prospective evidence for treatment (pharmacological and nonpharmacological) and BP targets in young-onset hypertension."
+   ]
+  }
+ ]
+}
