@@ -1,0 +1,652 @@
+{
+ "id": "pmc9602170",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC9602170",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9602170/fullTextXML",
+ "doi": "10.3390/genes13101814",
+ "title": "Risk Factors for Thoracic Aortic Dissection",
+ "authors": "Zhou Z, Cecchi AC, Prakash SK et al",
+ "journal": "Genes",
+ "year": "2022",
+ "updated": "2022-10-07",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Zhou Z, Cecchi AC, Prakash SK et al. Risk Factors for Thoracic Aortic Dissection. Genes. 2022. https://doi.org/10.3390/genes13101814. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "694d646757c8288608b26c11faa0112af98c895d3fcd30b901efd5d1e5199335",
+ "sentences": 273,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Thoracic aortic aneurysms involving the root and/or the ascending aorta enlarge over time until an acute tear in the intimal layer leads to a highly fatal condition, an acute aortic dissection (AAD).",
+    "These Stanford type A AADs, in which the tear occurs above the sinotubular junction, leading to the formation of a false lumen in the aortic wall that may extend to the arch and thoracoabdominal aorta.",
+    "Type B AADs originate in the descending thoracic aorta just distal to the left subclavian artery.",
+    "Genetic variants and various environmental conditions that disrupt the aortic wall integrity have been identified that increase the risk for thoracic aortic aneurysms and dissections (TAD).",
+    "In this review, we discuss the predominant TAD-associated risk factors, focusing primarily on the non-genetic factors, and discuss the underlying mechanisms leading to TAD."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The aorta is the largest artery in the body that originates from the heart, curves through an arch in the upper chest, and descends into the abdomen to deliver oxygen and nutrition to distal organs.",
+    "A thoracic aortic aneurysm (TAA) is a balloon-like bulge or enlargement in the thoracic aorta.",
+    "The natural history of these aneurysms is that they enlarge over time, until a tear forms in the intimal layer of the aortic wall typically above the sinotubular junction that leads to Stanford type A aortic dissection .",
+    "An acute aortic dissection (AAD) is an emergency condition that causes sudden death in up to 50% of afflicted individuals .",
+    "Less acutely fatal, type B AADs originate in the descending thoracic aorta just distal to the left subclavian artery.",
+    "Approximately 7% of out-of-hospital sudden deaths are due to AADs, and the incidence has increased over the past 20 years for unknown reasons ."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Surgical repair of root/ascending TAAs to prevent type A AAD is recommended at an aortic diameter of 5.0–5.5 cm .",
+    "However, the majority of patients presenting with type A AADs have diameters <5.5 cm , and type B AADs occur without significant aortic enlargement, indicating more accurate predictors of AADs are critically needed .",
+    "Furthermore, the incidence of AAD is 3–6 cases per 100,000 person-years in the general population, which is most likely an underestimate since up to 49% of AADs results in pre-admission death and one out of three AADs are misdiagnosed ."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The predominant pathological change during aortic disease progression is aortic medial degeneration, which is characterized by elastic fiber fragmentation, smooth muscle cell (SMC) loss, and extracellular matrix accumulation of proteoglycans.",
+    "Genes with rare variants that predispose to thoracic aortic aneurysms and dissections (TAD) have been extensively explored over the past 3 decades, and pathogenic variants in 11 genes have been validated to predispose to highly penetrant TAD.",
+    "Identification of pathogenic variants in genes allows early diagnosis and an opportunity to initiate management to prevent AADs, including mitigating lifestyle risk factors for AADs.",
+    "Additionally, up to 80% of individuals presenting with AADs do not have a known family history of aortic disease or a pathogenic variant in an established TAD gene , and very little is understood as to why these AADs occur.",
+    "These individuals are hypothesized to harbor one or more genetic variants that predispose them to AADs, and in combination with environmental insults or a second genetic hit, trigger AADs .",
+    "This review will focus on the risk factors that have not been proved to cause AADs solely, and how environmental and lifestyle risk factors may combine with genetic variants to trigger AADs ."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.1. Biological Sex",
+   "kind": "p",
+   "s": [
+    "TAAs are more common in males than females, with a male-to-female ratio of 2–4:1 and an overall incidence of approximately 5–10 per 100,000 person-years .",
+    "In two of the largest population-based epidemiological studies from Sweden and Canada , 36–39% of individuals with AADs were female.",
+    "This is consistent with the 37% of women who presented with AADs in a recent International Registry of Acute Aortic Dissection (IRAD) study ."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.1. Biological Sex",
+   "kind": "p",
+   "s": [
+    "Sex differences in AAD have received attention due to higher in-hospital or short-term mortality in women with TAD, while both type A and B AADs show approximately twice as frequently in men .",
+    "Several studies revealed a later age of AAD onset in females compared with males, and more pharmacotherapy and aortic rupture prior to intervention in women are likely the cause of the early outcome difference .",
+    "Sex was not associated with short-term or long-term mortality in type B AAD patients who underwent thoracic endovascular aortic repair (TEVAR) .",
+    "As aortic valve-sparing root replacement and antegrade cerebral perfusion strategies during arch reconstruction increased over the past decade, in-hospital mortality due to type A AADs has decreased in both men and women , mitigating sex differences in short-term outcomes was found to disappear in several recent studies .",
+    "Despite these improvements, women with type A AAD are more likely to suffer neurological dysfunction due to decreased perfusion or ischemia prior to intervention and post-operation .",
+    "In a 2004 IRAD study, mental health outcomes were significantly worse in women, and a recent population-based study in Taiwan found that women had higher rate of depression after surgical treatment of type A AAD .",
+    "Men have been found to have longer intensive care unit stays, ventilator support, surgical procedure time, and cardiac-pulmonary bypass time .",
+    "Importantly, reoperation rates are significant higher in men, which has been attributed to an increased propensity for bleeding in a recent meta-analysis ."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.1. Biological Sex",
+   "kind": "p",
+   "s": [
+    "Regarding the later age of AAD presentation in women, there is growing clinical and experimental evidence that the increased risk of AAD in peripartum and postmenopausal women is caused at least in part by withdrawal of estrogen and/or progesterone .",
+    "However, the role of sex hormones in TAD is almost entirely unknown, in part due to fact that mouse studies have focused on Fbn1 C1041G/+ Marfan mice, which develop aneurysms but rarely dissect .",
+    "Estrogen is believed to mediate the major sex differences in the cardiovascular system and has shown beneficial effects in reducing hypertrophy and ischemia-reperfusion injury in mice .",
+    "Notably, a recent study found that estrogen replacement significantly attenuated angiotensin II (Ang II) plus β-aminopropionitrile (BAPN)-induced ascending aortic enlargement .",
+    "On the other hand, the role of progesterone is controversial.",
+    "Acute administration of progesterone increases endothelial-specific nitric oxide synthase production and decreases blood pressure, which may prevent cardiovascular diseases .",
+    "However, prolonged exposure to high progesterone levels is linked to premature coronary artery disease in young males .",
+    "It remains unclear how or if female or male sex hormones modulate aortic wall homeostasis to affect dissection risk."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.2. Pregnancy",
+   "kind": "p",
+   "s": [
+    "Pregnancy leads to hemodynamic changes and rapid hormone alterations and is a risk factor for TAD.",
+    "Aortic dissection in pregnancy is extremely rare, occurring in 0.2% to 1% of all female AAD cases , with an annual incidence of 4–12 per million maternities .",
+    "Kamel et al. identified 36 pregnancy-related AAD cases, defined as 6 months prior to and 3 months after delivery, and 9 nonpregnancy-related AAD cases during an equivalent 9-month period exactly 1 year later, from a total of 14,999 AAD patients in 4,933,697 women with 6,566,826 pregnancies.",
+    "Based on these data, pregnancy was associated with a five-fold increased risk for AAD .",
+    "Hypertension further increases the risk of aortic complications by up to ~three-fold during pregnancy .",
+    "However, the most significant risk factor for pregnancy-associated AAD are syndromic heritable thoracic aortic diseases (HTAD) such as Marfan syndrome (MFS).",
+    "In these patients, the absolute increased risk for AAD is about 1000 times higher than the general population .",
+    "Sixty percent of women with pregnancy-associated AADs have at least one clinically identifiable risk factor for AAD, including a genetic syndrome associated with TAD (primarily MFS), a family history of TAD, or a bicuspid aortic valve (BAV) ."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.2. Pregnancy",
+   "kind": "p",
+   "s": [
+    "In clinical studies, the ratio of type A to type B AAD is approximately 4:1 in pregnancy .",
+    "The risk for these aortic events is increased up to 3 months after delivery .",
+    "Previous studies identified a significant increased risk of dissection when aortic root diameter reaches 4.5 cm in women with MFS; the risk is relatively low and women tolerate pregnancy well when the root is <4 cm .",
+    "Current guidelines therefore recommend vaginal delivery in women with MFS when the aortic root diameter is less than 4 cm and a cesarean delivery when the diameter is >4.5 cm, corresponding to the increased dissection risk when the maximum aortic diameter is >4.5 cm .",
+    "Importantly, the awareness of HTAD improves TAD-related prognosis of pregnant women, whereas that lack of a diagnosis of HTAD prior to aortic event occurrence is likely associated with early delivery, surgical intervention, and type A AAD .",
+    "In a prospective study , 189 out of 5739 women were enrolled with pre-existing TAD prior to pregnancy, including 100 (53%) MFS, 49 (26%) cases with BAV, 16 (8%) Turner Syndrome, 4 (2%) vascular Ehlers-Danlos syndrome cases, and 20 (11%) TAD cases without prespecified HTAD or associated congenital heart defect.",
+    "Only four MFS patients presented AADs (three type A and one type B AAD), and there was no maternal or fetal mortality.",
+    "In contrast, the latest update from the IRAD study identified a total of 29 pregnancy-related aortic events and 20 (69%) cases had an underlying HTAD; however, about half of the patients (7 in 15 reported) were not aware of their HTAD diagnosis until after dissections occurred .",
+    "Taken together, these findings validate the efficacy of current guidelines and highlight the importance of early recognition, diagnosis, and preconception counselling in patients with risk factors for TAD to prevent AADs and achieve better pregnancy outcomes."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.2. Pregnancy",
+   "kind": "p",
+   "s": [
+    "As to why pregnancy increases aortic complications, there is a 30–40% increase of cardiac output during pregnancy , leading to increases in both heart rate and stroke volume.",
+    "The increase of heart rate occurs by the end of first month and plateaus at an increase of 10–15 beats per minute by 28–32 weeks of pregnancy.",
+    "Stroke volume increases by 6 weeks and progressively increases through the second trimester.",
+    "Cardiac output further increases up to 50% and 80% above pre-labor level during labor and immediate postpartum period, respectively.",
+    "All these changes decrease to pre-labor values 24–72 h and return to nonpregnant levels within 6–8 weeks postpartum .",
+    "Further detailed timetables of AAD onset during pregnancy are required to study if the prevalence of pregnancy-associated aortic events is consistent with these hemodynamic alterations during these time courses. β-blockers decrease heartbeat rate and force generation; thus, they are widely accepted to treat pregnant patients with HTAD.",
+    "Immer et al. suggested that β-blockers should be administrated to all pregnant patients with aortic root diameter >4 cm with continued use up to 3 months postpartum .",
+    "Importantly, a prospective study found no maternal or fetal mortality or differences in birth defects, and a similar average fetal birth weight in pregnancies in which the mother was treated with or without β-blocker , suggesting that β-blockers are safe for use during pregnancy."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.3. Circannual and Circadian Factors",
+   "kind": "p",
+   "s": [
+    "Similar to other adverse cardiovascular events, such as acute myocardial infarction, acute pulmonary thromboembolism, and cerebrovascular accidents, AAD has chronobiological patterns .",
+    "In 1997, Gallerani et al. analyzed hour of symptom onset from 67 cases and identified that AADs has a circadian pattern, with a primary peak of onset at around 10 a.m. and a secondary peak at around 8 p.m.",
+    "In 1999, Manfredini et al. studied monthly data from 85 AAD patients and demonstrated a circannual pattern with a peak of maximal occurrence in January/winter/cold season.",
+    "Since then, increasing numbers of large-cohort studies confirmed these findings of AAD onset patterns from different locations of the northern hemisphere .",
+    "Despite the lack of AAD data from the southern hemisphere, two recent studies revealed similar seasonal pattern in cervical artery dissection in Australia and the latest study showed consistent increased risk of cervical artery dissection in cooler months .",
+    "These findings together indicate circannual and circadian causes are important in the pathogenesis of AAD.",
+    "Studies did not show any differences of in-hospital adverse clinical events or mortality with different seasons or different time-of-day onset."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.3. Circannual and Circadian Factors",
+   "kind": "p",
+   "s": [
+    "A few early studies identified a relative higher AAD risk on Monday than other days of a week , but this pattern was not confirmed in more recent studies .",
+    "However, there is a significantly higher in-hospital mortality rate in patients admitted for AAD or rupture on weekends compared with weekdays .",
+    "In fact, similar patterns have been observed for myocardial infarction, pulmonary embolism, acute heart failure, and stroke .",
+    "Takagi et al. analyzed 11 studies, including a total of 166,195 patients, and concluded that weekend admission/surgery for ruptured aortic aneurysm and AAD may be associated with increased mortality, mainly due to the “off-hour effect” characterized as a shortage of staff and lack of experience clinicians, inadequate subspecialty care and limited therapeutic or diagnostic procedures."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.3. Circannual and Circadian Factors",
+   "kind": "p",
+   "s": [
+    "Kobza et al. observed that type A AADs peak in winter and type B AADs peak in spring.",
+    "Recent studies found that admission rates and in-hospital mortality due to type A AADs increase during influenza season, while type B AAD rates are not associated with influenza .",
+    "Animal studies have shown that influenza virus mRNA could be detected in aortic tissues after exposure mice to H3N2 virus, together with increased mRNA levels of Il1, Il6, and Mcp1, which are predominant inflammatory drivers of aortic remodeling .",
+    "Further studies are required to validate the correlations between TAD prevalence and seasonal influenza, and whether flu vaccination will impact the incidences."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.3. Circannual and Circadian Factors",
+   "kind": "p",
+   "s": [
+    "The underlying causes and mechanisms of circannual and circadian risks for TAD are complex and largely unknown.",
+    "Increased sympathetic nerve activity is believed to be the major mediator in the occurrence of TAD chronobiological periodicity , because: (1) sympathetic rhythmicity is strongly associated with blood pressure and heart rate regulation , especially before and after awakening ; (2) cold exposure is a major trigger for sympathetic activation .",
+    "Sympathetic activation causes vasoconstriction of both the peripheral and visceral arteries, leading to high peripheral resistance and increase of blood pressure and heart rate, which subsequently altering the hematologic and hemodynamic properties and shear stress on the intima, favoring aortic injury."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.4. Genetic Variants",
+   "kind": "p",
+   "s": [
+    "Approximately 20% of families with TAD exhibit an autosomal dominant inheritance pattern, indicating Mendelian inheritance of a pathogenic variant conferring a highly penetrant risk for TAD .",
+    "In 2018, 11 out of 53 candidate genes were designated as causal for HTAD .",
+    "Cascade screening of families who are found to have mutations in any of these 11 genes is clinically indicated to prevent premature deaths of affected relatives due to TAD.",
+    "The genetic risks for TAD extend from highly rare penetrant variants that trigger disease in almost all individuals carrying the alteration to common and lower penetrant variants more commonly found in the general population that confer a lower risk for disease, which has been extensively discussed in previous reviews and will not be presented in this paper."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.5. Bicuspid Aortic Valve (BAV)",
+   "kind": "p",
+   "s": [
+    "BAV is the most common adult congenital heart malformation with an overall prevalence of 1% but is three times more frequent in males (1.5%) than in females (0.5%) .",
+    "The prevalence of BAV is also significantly higher in European populations than in populations of African ancestry .",
+    "BAV is primarily inherited as an autosomal dominant trait with incomplete penetrance and variable expressivity .",
+    "BAV inheritance is best explained by a complex genetic architecture involving many different interacting genes ."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.5. Bicuspid Aortic Valve (BAV)",
+   "kind": "p",
+   "s": [
+    "Due to the common embryologic origin of the aortic valve, left ventricular outflow tract and proximal aorta, BAV frequently co-exists with other left-sided congenital heart lesions such as coarctation, mitral valve abnormalities, ventricular septal defects, and most frequently TAAs in more than one-third of patients .",
+    "BAV-associated aneurysms are predominately located in the ascending aorta but can also involve the aortic root.",
+    "Aneurysmal dilation of the aortic root in BAV patients is associated with an earlier clinical presentation and more rapid progression of aortic disease, particularly if other congenital heart lesions or extracardiac abnormalities are present .",
+    "Some BAV cases with these features may have chromosomal lesions (Velocardiofacial syndrome or Turner syndrome) or mutations in causal HTAD genes .",
+    "Shear stress on the ascending aortic wall as measured by 4D flow cardiac magnetic resonance is a promising metric to predict the rate of aortic dilation in BAV patients ."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.5. Bicuspid Aortic Valve (BAV)",
+   "kind": "p",
+   "s": [
+    "BAV is enriched 5–10-fold in rare syndromic forms of HTAD such as Loeys–Dietz syndrome that do confer a high risk for AAD .",
+    "This may explain why the prevalence of BAV is increased in AAD cohorts compared to the general population (3.2% in IRAD ).",
+    "However, more than 90% of BAV cases occur as isolated non-syndromic lesions, and in this group, the overall risk of AAD appears to be very low (0.4% over 15 years), even with significant aortic dilation .",
+    "Current clinical guidelines reflect these observations by setting surgical thresholds for aneurysms in non-syndromic BAV cases as high as 5.5–6.0 cm ."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.6. Geography and Ancestry",
+   "kind": "p",
+   "s": [
+    "The incidence of aortic dissection ranges from 3 to 6 cases per 100,000 person-years globally ; however, data from large-scale registries have demonstrated that the frequency of dissections reported, demographics, management and outcomes, are variable depending on the ancestral populations studied and geographic location of data collection."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.6. Geography and Ancestry",
+   "kind": "p",
+   "s": [
+    "With the largest population in the world, China launched Registry of Aortic Dissection in China (Sino-RAD) project in 2011 and published a comparison study with previously published data from IRAD in 2014 .",
+    "Compared with IRAD which primarily includes patients from North American and European countries, Sino-RAD data showed an early age of dissection onset (51.8 ± 11.4 vs. 63.1 ± 14.0, p < 0.01), higher male proportion (77.8% vs. 65.3%, p < 0.01), and a lower incidence of hypertension (58.7% vs. 72.1%, p < 0.01) .",
+    "Another notable difference between the IRAD and Sino-RAD data was a higher frequency of type A AADs, accounting for 66.7% of the total AADs reported, in the 20-year IRAD update compared with 42.9% in China .",
+    "In contrast, demographic characteristics, clinical presentation, and outcomes reported from a single center in Australia were consistent with IRAD data .",
+    "Overall, the age of type A AAD onset is consistently earlier in patients from East Asian countries compared with European, North American and Australian registries .",
+    "The male-to-female sex ratio is higher in most dissection registries, ranging from 2:1 to 3:1, with the exception of data from Japan and South Korea showing a 1:1 sex ratio (Table 1).",
+    "Finally, there is a lower prevalence of concomitant hypertension (51–53%) reported in studies from China, South Korea, German Registry for Acute Aortic Dissection Type A (GERAADA), and the Nordic Consortium for Acute Type A Aortic Dissection (NORCAAD), while hypertension occurs in 72–75% of patients with type A AAD in studies from IRAD, Japan, Taiwan, and Australia (Table 1)."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.6. Geography and Ancestry",
+   "kind": "p",
+   "s": [
+    "Racial disparities and inequities in health, clinical outcomes and medical practice in patients with aortic dissection have received more attention in recent years.",
+    "In particular, notable differences in clinical presentation, management and health outcomes have been observed in patients who self-identified as Black compared with White in the USA.",
+    "An IRAD study that included 189 self-reported Black patients and 1165 White patients from 13 USA centers and found an association between Black race and earlier age of dissection onset, more type B AADs, and increased rates of hypertension and diabetes .",
+    "These characteristics have been repeatedly reported in other studies .",
+    "A study in the USA looked at 60,784 patients in the Nationwide Inpatient Sample database who had TEVAR for all types of thoracic aortic diseases, and found that Black, Hispanic, and Native American patients were more likely to receive TEVAR compared with White patients .",
+    "Other studies demonstrated that Black race was independently associated with a lower risk of 30-day mortality , and this survival advantage extended from 1 to 5 years after TEVAR for type B AAD .",
+    "However, reintervention rates after TEVAR were higher among Black patients compared with White patients .",
+    "Importantly, compared with Whites and Blacks, Hispanic race was independently associated with increased in-hospital mortality (RR 2.57; 95% CI, 1.25–5.25; p = 0.01) after open repair of unruptured thoracoabdominal aneurysms ."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "1. Introduction > 1.1. General Risk Factors for TAD > 1.1.6. Geography and Ancestry",
+   "kind": "p",
+   "s": [
+    "Overall, multicenter registries incorporating data from patients in different geographic regions with diverse ancestries has enabled research into associations between TAD incidence and other demographic and clinical characteristics, and geographic location, ancestral origin and self-reported race of patients with TAD.",
+    "However, the collection and reporting of race, ethnicity and ancestry data are not consistent across studies, and interpretation of their role in dissection risk and clinical outcomes requires further investigation of genetic factors, dietary habits, stress burden, drug use, and other social determinants of health to delineate new risk factors and improve TAD management."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.1. Hypertension",
+   "kind": "p",
+   "s": [
+    "Hypertension is the most common comorbidity condition in patients with AADs with prevalence from 45% to 100% in previous observational studies .",
+    "In a recent autopsy study, Huynh et al. found that about 84% cases died of aortic dissection showed left ventricular hypertrophy, a marker of preexisting hypertension.",
+    "The first prospective population-based study identified 67.3% of AAD patients diagnosed with hypertension.",
+    "In this study, the prevalence of hypertension increased from 42.9% in the first 3 years to 85.7% in the last 3 years of the 10-year study due to increased blood pressure screening in primary care, suggesting a high risk of poorly controlled hypertension prior to AAD events at the beginning of the study .",
+    "Importantly, the study showed that only 67.3% of the patients were on antihypertensive medication during the 5 years prior to dissection, and the proportion analyses of all the blood pressure data showed that 61.9% of subsequent blood pressure readings were >140/90 mmHg despite the majority of patients being treated with combined antihypertensive therapy .",
+    "Moreover, during the 5 years before aortic events, premorbid systolic blood pressure was significantly higher in patients with type A AAD that were immediately fatal than in those who survived to admission (151.2 ± 19.3 vs. 137.9 ± 17.9 mmHg; p < 0.001) .",
+    "These data indicate that uncontrolled hypertension, rather than hypertension itself, is correlated with AAD incidence, and better control of blood pressure would likely reduce both AAD incidence and associated mortality.",
+    "Similarly, Landenhed et al. found that hypertension was present in 86% of individuals who subsequently developed aortic dissection during up to 20 years follow-up for aortic diseases.",
+    "Importantly, the study estimated the population-attributable risk of hypertension for aortic dissection was 54%, and the dissection risk of individuals with hypertension was about four times higher than normotensive people in general population (21 vs. 5 per 100,000/year).",
+    "Similarly, the study provides further evidence supporting previous prospective study that about 50% of aortic dissection events could be prevented by effective antihypertensive treatment .",
+    "Surprisingly, in patients with moderately dilated ascending aorta (4.5–5.5 cm), hypertension was not statistically associated with aortic dissection or rupture (p = 0.086) .",
+    "However, high blood pressure has been redefined in 2017 and 130/80 mmHg is the new criteria for hypertension diagnosis , and future studies will further evaluate the risk of hypertension in AAD."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.2. Dyslipidemia",
+   "kind": "p",
+   "s": [
+    "Dyslipidemia has been well documented to advance disease progression of abdominal aortic aneurysm (AAA) and rupture, and statins treatment could significantly reduce rupture risk in AAA.",
+    "Studies have revealed that dyslipidemia is also a common comorbidity in patients with TAD , however, only two recent studies found that it is associated with aortic enlargement and AADs.",
+    "In a prospective 20-year follow-up study, Landenhed et al. found that lower apolipoprotein A1 levels were associated with aortic dissection.",
+    "In another prospective study, Yiu et al. found that hyperlipidemia (p = 0.0321) was positively correlated with the growth rate of aortic arch aneurysm.",
+    "Hypercholesterolemia promotes atherosclerosis of the aorta, which is initiated with oxidative LDL-overloaded macrophages in the intima and buildup by continuous fatty deposition.",
+    "There is increasing evidence showing that SMC phenotypic modulation driven by cholesterol is a major contributor to atherosclerosis .",
+    "This modulation of SMCs may also contribute to thoracic aortic disease, and anti-hyperlipidemic therapy may have a protective effect against TAD and rupture, in addition to abdominal aortic disease.",
+    "In a 26-year retrospective study, Stein et al. recruited 1560 TAA patients with (24%) or without (76%) statins treatment and found that statin therapy reduced the yearly rate of dissection, rupture and death in patients with ascending and descending TAA (p = 0.001–0.01), increased the interval from diagnosis to aortic events onset or surgery, and reduced the total surgical treatment rate by 10% compared with non-statin treatment TAA patients .",
+    "Importantly, pravastatin showed equal beneficial effect as losartan in attenuating aortic root dilation in the Marfan mice and further histology and ultrastructural analyses showed preserved aortic medial elastin volume and decreased SMC rough endoplasmic reticulum activity in statin-treated aorta, respectively .",
+    "These findings suggest that dyslipidemia may be a significant risk factor for TAD, and the inhibition of cholesterol synthesis with statins may be beneficial in preventing AAD incidence in TAD patients, but further prospective randomized controlled trials are needed."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.3. Aortitis",
+   "kind": "p",
+   "s": [
+    "Aortitis refers to inflammation of the aorta and can be divided into infectious and non-infectious categories.",
+    "Infectious aortitis is caused by specific organisms, either from intraluminal endocarditic vegetations or external adjacent infectious process, most commonly Salmonella, Staphylococcus, Strptococcus, Treponema pallidum, fungal, and mycobacterial .",
+    "Because diagnosing infected tissue is rarely possible at TAD onset, uncontrolled sepsis causes about 21–44% in-hospital mortality in patients with infectious aortitis despite of combined antimicrobial and surgical interventions .",
+    "In contrast, syphilitic aortitis usually occurs decades after primary infection, and the aorta enlarges due to inflammatory responses and fibrosis and leads to aortic aneurysm and rupture but rarely dissection .",
+    "In two recent case reports, ascending aortas were involved by the syphilitic process in all patients , indicating a strong association between syphilis infection and TAD."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.3. Aortitis",
+   "kind": "p",
+   "s": [
+    "The most common non-infectious causes are primary large vessel vasculitis (LVV), giant cell arteritis (GCA) and Takayasu arteritis (TAK) .",
+    "Women are more commonly diagnosed with both GCA (3:1) and TAK (6:1) , and often present with systemic manifestations, i.e., fever, anorexia, weight loss, night sweats, arthralgia/myalgia, and/or increased inflammatory indexes.",
+    "The inflammatory response within the vascular wall can cause both occlusive and aneurysmal arterial diseases, and distal organ malperfusion .",
+    "GCA is typically diagnosed in patients ≥50 years of age and most commonly affects the medium and large vessels, with involvement of the aorta and its primary branches in ~50% of patients .",
+    "On the other hand, TAK tends to occur in patients younger than 40 years (median age of onset ~35 years) and affects one or more aortic segments, often in combination with branches such as carotid, subclavian or renal arteries .",
+    "Histologically, both GCA and TAK are granulomatous diseases affecting all layers of the aortic wall and characterized by infiltrated lymphocytes, macrophages, and multinucleated giant cells .",
+    "TAK is more commonly associated with intimal and adventitial thickening with intraluminal stenosis, leading to ischemic diseases, previously termed “pulseless disease”.",
+    "In GCA, the aorta has medial elastic lamina destruction and necrosis, which is associated with increased risk of aortic enlargement and rupture .",
+    "Distinct from GCA and TAK, aortitis may occur in a single aortic segment without clinical or histopathological evidence of systemic disease, which is termed clinically isolated aortitis (CIA) .",
+    "Current limited demographic data suggest that the thoracic aorta is most affected, especially the aortic arch and descending thoracic aorta."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.3. Aortitis",
+   "kind": "p",
+   "s": [
+    "Despite significant heterogeneity in aortitis definition and manifestation over-lapping, several studies attempted to investigate the aortic complication rates between different aortitis subtypes.",
+    "Miller et al. found similar ascending aortic complication rates between CIA and LVV patients in an 83-month follow-up study.",
+    "Similarly, Clifford et al. reported outcomes from 196 patients (66% classified as CIA) with histologically proven aortitis following surgical repair, 44% CIA and 40% LVV patients developed new vascular lesions and required re-intervention.",
+    "Importantly, the availability of high-resolution vascular imaging has improved the identification of aortitis.",
+    "Fluorine-18-fluorodeoxyglucose positron emission tomography/computed tomography (18F-FDG PET/CT) has a role in diagnosing aortitis, showing an increase in FGD uptake by inflammatory cells in the aorta .",
+    "Ferfar et al. followed up 353 patients with aortitis for 52 months and found that AADs occurred in 5%, 2%, and 10% of patients with GCA, TAK, and CIA, respectively.",
+    "These data indicate that patients with aortitis are at risk for future aortic complications, particularly in those with CIA.",
+    "Additionally, other non-infectious diseases may also increase the risk of aortic diseases, including ankylosing spondylitis, Behçet’s disease, Cogan’s syndrome, granulomatosis with polyangitis, IgG4-related disease, relapsing polychondritis, rheumatoid arthritis, sarcoidosis, and systemic lupus erythematosus .",
+    "The pathogenesis and triggers of AADs in these aortitis subtypes remain largely unknown and require further studies."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.4. Obstructive Sleep Apnea (OSA)",
+   "kind": "p",
+   "s": [
+    "OSA is the most common sleep disorder, which provokes the remodeling of respiratory and cardiovascular systems due to intermittent hypoxia caused by frequent obstruction of the upper respiratory tract during sleep.",
+    "Symptoms of OSA include snoring, apneic attack, and daytime hypersomnia.",
+    "Accordingly, the frequency of apneas, hypopneas, oxygen desaturation, and intermittent hypoxia and re-oxygenation are sensitive indicators for diagnosing and assessing the severity of OSA.",
+    "The prevalence of OSA has been estimated at 22% in men and 17% in women, and the prevalence has increased over the past two decades, partially due to increased rates of obesity .",
+    "Importantly, cohort studies including the Sleep Heart Health Study have consistently demonstrated that over 50% of individuals with OSA have hypertension , a major risk factor for cardiovascular disorders, including AADs.",
+    "Since Sampol et al. observed a significant correlation between OSA and TAD in 2003, evidence from retrospective studies and meta-analysis support OSA as an independent risk factor for aortic root dilation, type A and B AAD , in the general population and in patients with genetic disorders, including MFS and Loeys–Dietz syndrome .",
+    "A prospective study followed up 44 MFS patients for 24–36 months, five of fifteen patients with OSA had aortic root replacement or aortic rupture while none of the 29 patients without OSA had aortic event within the follow-up period, further analysis showed a significantly decreased event-free survival in patients with OSA compared to those without OSA (p = 0.012) .",
+    "Gaisl et al. reviewed two prospective studies and found that the prevalence of OSA was significantly higher in patients with TAA (apnea-hypopnea index ≥ 5/h) compared to a 2-to-1 matched control population (63% vs. 47%; odds ratio 1.87, 95% CI 1.05–3.34; p = 0.03), and the odds ratio was 3.25 (95% CI 1.65–6.42; p < 0.001) in patients with moderate and severe OSA (apnea-hypopnea index ≥ 15/h).",
+    "After follow up the TAA cohort for an average of 3 years, Gaisl et al. found a strong positive association of aortic root and ascending aortic enlargement with OSA.",
+    "However, further prospective, randomized match-control trials are required to evaluate the causal relationship between OSA and TAD."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.4. Obstructive Sleep Apnea (OSA)",
+   "kind": "p",
+   "s": [
+    "Additionally, OSA is a treatable respiratory disorder through the use of continuous positive airway pressure (CPAP) therapy.",
+    "Several case reports have shown beneficial effects of CPAP in TAD patients in slowing the aortic expansion .",
+    "However, there has been no evidence that CPAP therapy for OSA can reduce the incidence of aortic diseases."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.4. Obstructive Sleep Apnea (OSA)",
+   "kind": "p",
+   "s": [
+    "OSA-induced pressure differences, including increased intra-aortic blood pressure and decreased negative intrathoracic air pressure, have been widely considered mechanical stressors on the aorta.",
+    "However, no significant difference was found when comparing the location of entry in patients with OSA between thoracic and abdominal aortic dissection subgroups , suggesting that mechanisms other than negative intrathoracic pressure involved in the pathogenesis of TAD.",
+    "It is believed that intermittent hypoxia and re-oxygenation is the potential underline contributor of systemic vascular remodeling caused by OSA, leading to sympathetic nervous system activation and subsequent hypertension or increased systemic oxidative stress .",
+    "Interestingly, intermittent hypoxia and re-oxygenation induction significantly augmented aortic rupture death in BAPN plus Ang II-induced aortic dissection mouse model .",
+    "Hif-1α, a major transcriptional factor in response to hypoxia, was significantly upregulated and activated in the triple-treatment group when compared with BAPN alone or BAPN + Ang II group, which was consistent with exaggerated reactive oxygen species production both in the aortic tissue and explanted SMCs .",
+    "Additionally, administration of a specific HIF-1α inhibitor, KC7F2, delayed the aortic event and significantly decreased the mortality due to aortic rupture ."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.4. Obstructive Sleep Apnea (OSA)",
+   "kind": "p",
+   "s": [
+    "Taken together, OSA has been demonstrated as an independent risk factor for TAD in the general population, and CPAP should be used to treat OSA, even in the absence of a controlled clinical trial."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.5. Fluoroquinolone",
+   "kind": "p",
+   "s": [
+    "Fluoroquinolone (FQ) is one of the most commonly prescribed antibiotic classes mainly due to the broad spectrum and tolerance for long-term administration .",
+    "The common side effects of FQ are nausea, vomiting, peripheral neuropathy, dysglycemia, and arrhythmias, with more serious collagen-disruption associated complications including tendon rupture and retinal detachment .",
+    "In 2015, two independent observational studies found that FQ was associated with an approximately 2- to 3-fold increased risk of TAD, which raised safety concerns about FQ administration.",
+    "Additionally, two propensity score-matched studies provided further evidence that use of FQ within 60 days was associated with high risk of aortopathy ."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.5. Fluoroquinolone",
+   "kind": "p",
+   "s": [
+    "In these early studies, patients who received FQ were compared with those who did not receive FQ or with those who receive amoxicillin targeting different types of infection from FQ.",
+    "While only patients with FQ-indicated infections were studied, Dong et al. found that FQ was not associated with an increased aortic diseases risk when compared with other antibiotics, and aneurysms and AADs were more often seen in patients with FQ-indicated sepsis and intra-abdominal infections, suggesting the underlying infection rather than the substances was the trigger for TAD.",
+    "A side-by-side publication found similar increased risk for aortic aneurysm and dissection in patients receiving FQ for pneumonia compared to those receiving azithromycin (0.03% vs. 0.01%); however, FQ-associated risk for aortic disease was absent in patients with urinary tract infection.",
+    "Importantly, when patients who had a diagnosis of aortic aneurysm or dissection were excluded by baseline imaging from the urinary tract infection cohort, no increased rate of aortic disease was observed in patients treated with FQ compared to amoxicillin , indicating a potential surveillance bias in previous studies.",
+    "Consistently, without aortic disease history, short-term ciprofloxacin prophylaxis after prostate biopsy did not increase the overall risk of aortic aneurysm or rupture, however, a significantly increased risk of aortic aneurysm was noted in patients with high-risk prostate cancer most likely due to detection bias by more frequent imaging in these patients .",
+    "These studies raised critical concerns about confounding or surveillance bias in previous studies, and consequently, whether FQ triggers de novo aortopathy remains unclear, leaving the uncertainty to physicians for prescribing FQ to patients ."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.5. Fluoroquinolone",
+   "kind": "p",
+   "s": [
+    "To answer the question whether FQs are associated with aortic aneurysm and dissection in patients with specific infections or pre-existing aortic defect, Chen et al. performed a retrospective study on FQ or amoxicillin exposure to patients with existing aortic disease and found that FQ was associated with a higher risk of aortic-related events and death.",
+    "Consistent with this clinical finding, a preclinical study using high-fat diet treatment plus Ang II infusion-induced TAD mouse model found that ciprofloxacin exposure significantly increased the aortic incidences and augmented aortic wall disruption .",
+    "In advance to the two studies raising concern about confounding in previous findings, Newton et al. looked at all FQ-related indications in a population-based study and found that FQ was associated with about 20% increase of risk of AAA and iliac artery aneurysm, and all adults were more likely to receive intervention.",
+    "Further stratified analyses found that adults of 35 years or older were at increased risk of arterial aneurysm formation .",
+    "Since only outpatients were studied, whether in-hospital patients with more severe infections will show a higher risk of aortic disease remains to be assessed .",
+    "In addition to these adult-only studies, Yu et al. evaluated the safety of using FQ in 0–18 years old population in Taiwan and found that FQ exposure did not increase risk of collagen-associated adverse effects, including tendons rupture, retinal detachments, gastrointestinal tract perforation, aortic aneurysm or dissection."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.5. Fluoroquinolone",
+   "kind": "p",
+   "s": [
+    "Noting that patients with genetic variants were either completely excluded or presenting limited proportion in previous studies.",
+    "A recently preclinical study found that ciprofloxacin accelerates aortic enlargement and promotes dissection and rupture in the Fbn1 C1041G/+ mouse model .",
+    "Taken together, in 2018 and 2019, the United States Food and Drug Administration and the European Medicines Agency requested that manufactures update FQ safety information related to the increased risk for TAD and its complications, and warned that the use of these drugs in patients at risk for aortic complications in clinic, including MFS and other related conditions, respectively ."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.5. Fluoroquinolone",
+   "kind": "p",
+   "s": [
+    "Finally, several in vivo and in vitro studies have consistently found that FQ exposure regulated extracellular matrix remodeling-related enzyme expression or activity, including increasing matrix metalloproteinases (MMPs), decreasing tissue inhibitors of MMPs and lysyl oxidase .",
+    "However, knowledge gaps remain exist between these observations and the direct-action mechanism of FQ, which mainly targets two essential bacterial type II topoisomerase enzymes, DNA gyrase and DNA topoisomerase IV .",
+    "Interestingly, early studies found imbalanced cellular calcium homeostasis was involved in pharmacological effects of FQ .",
+    "Noting that calcium-channel blockers are effective antihypertensive drugs and are frequently administrated as an alternative to β-blockers; however, the use of calcium-channel blockers was associated with increased 30-day mortality after acute or elective abdominal or thoracoabdominal aortic aneurysm surgery .",
+    "When compared to other antihypertensive agents, Doyle et al. found that calcium-channel blockers significantly increased the risk of AAD incidence in MFS patients, and the need for aortic surgery in patients with various forms of HTAD beyond MFS.",
+    "It remains unclear if intracellular calcium imbalance-mediated cellular energy metabolism and calcium homeostasis are involved in FQ-associated disruption of aortic integrity."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.6. Cocaine",
+   "kind": "p",
+   "s": [
+    "Insufflation of cocaine powder is the most widely used method due to its longer duration time after each use, and cocaine users have shown about six-fold higher risk of all-reason mortality when compared to the general population .",
+    "Since 1987 , several case reports and retrospective studies have linked cocaine with AAD ."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.6. Cocaine",
+   "kind": "p",
+   "s": [
+    "Hsue et al. first reported 37% (14/38) of patients with AAD had history of cocaine use within 24 h of symptoms onset.",
+    "This study reported an increased prevalence of cocaine-related AADs among young (41 ± 8.8 years), uncontrolled hypertensive (11/14, 79%), and smokers (14/14, 100%).",
+    "Despite the fact that this is an inner-city location and single-center based study, which showed the highest prevalence of cocaine use in all the studies so far, six following studies confirmed these observations with a wide variation of cocaine use, ranging from 0.5% to 28%, and five of these studies reported that the majority of the cocaine users were male (71–88%) .",
+    "A previous IRAD report showed only 0.5% (5/921) patients with aortic dissection had a history of cocaine use in 2002 , while this proportion increased to 1.8% (63/3584) in 2014 .",
+    "Noting that IRAD study only recruited in-hospital patients while numbers of case report and autopsy study proved that a large number of cocaine users died of aortic dissection and rupture outside hospitals , leading to the concern about underestimated cocaine-use prevalence in both IRAD studies.",
+    "However, the updated IRAD study found that cocaine-use patients had a higher risk of type B AAD (2.4%, 30/1252) than type A AAD (1.4%, 33/2332), which is consistent with a previous study .",
+    "Furthermore, Yammine et al. found that cocaine users were more likely to present with larger falser lumen diameters and higher risk of endoleaks among all the type B aortic dissection patients.",
+    "This study also found more reinterventions in those cocaine-use patients, which confirmed the updated IRAD finding that a higher rehospitalization rate among the cocaine-use patients which possibly related to continuing cocaine use .",
+    "However, the long-term outcome between cocaine-use and noncocaine-use AAD patients are controversial mainly due to small cohort and loss of follow up in previous studies , which requires further large-scale study to reveal.",
+    "Taken together, the current studies consistently found that cocaine use is associated with increased AAD risk in young hypertensive males who smoke."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.6. Cocaine",
+   "kind": "p",
+   "s": [
+    "The common underline mechanism of cocaine-associated TAD and other cardiovascular diseases, such as coronary artery infarction, hemorrhagic or ischemic stroke, and atherosclerosis is cocaine-mediated sympathomimetic effect.",
+    "Cocaine activates central sympathetic outflow directly and blocks reuptake and breakdown of norepinephrine and dopamine at the presynaptic clefts, leading to constitutive activation of postsynaptic receptors in the peripheral sympathetic nerve .",
+    "Additionally, peripheral sympathetic nerve activation may stimulate adrenal release of catecholamines, which further activate the sympathetic nerve systemically via an endocrine effect.",
+    "The excessive activated sympathetic nerve system and release of catecholamines mainly act on cardiomyocyte and SMC mainly via the β and α adrenergic receptors, respectively .",
+    "Stimulation of these receptors will cause the following effects related to TAD: (1) A rapid elevation of blood pressure; (2) increases of heart rate and stroke volume, which accelerate the shear stress over the aortic wall and cause intimal injury; and (3) SMC hypercontraction leads to vasospasm which may initiate thrombus formation in the microcirculation system, such as the vaso vasorum supplying blood to the aorta .",
+    "Importantly, increased oxidative stress and mitochondria dysfunction may trigger cardiotoxicity, and a similar response may occur in the hypercontractile SMCs .",
+    "Additionally, cocaine-induced endothelial injury characterized as decreased vasodilator nitric oxide in ex vivo tissues, and increased vasoconstrictor endothelin-1, prothrombotic factor, and even circulating endothelial cells in cocaine-use patients , suggesting a significant role of endothelial dysfunction in cocaine-caused cardiovascular incidents."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.7. Other Acquired Conditions",
+   "kind": "p",
+   "s": [
+    "Several acquired factors have been reported to be associated with TAD, including: (1) intrinsic factor, weightlifting ; (2) extrinsic factors, (i) trauma ; (ii) iatrogenesis ; and (iii) misdiagnosis .",
+    "The latter two extrinsic factors are relevant to medical knowledge and skill trainings.",
+    "Nevertheless, the awareness of these acquired TAD risk factors will be beneficial for disease management as well as lowering the incidence rate."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.8. Protective Factor—Diabetes",
+   "kind": "p",
+   "s": [
+    "Diabetes is a well-established risk factor for coronary and cerebrovascular diseases.",
+    "Surprisingly, the prevalence of diabetes with AAA ranged from 6 to 14% which is significantly lower than 17–36% in those without AAA , and diabetes was found independently associated with reduced AAA growth in a 3-year follow-up study .",
+    "In 2012, Prakash et al. first found an inverse association between diabetes and TAD hospitalization rate .",
+    "Similarly, Takagi et al. performed a meta-analysis which recruited 11 studies with a total of 47,827 patients with TAD and found that diabetes presented in 2.3–15.8% of TAD patients while the range was 8.9–35.9% in control cohorts (OR 0.43; 95% CI, 0.31–0.59; p < 0.00001) ."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.8. Protective Factor—Diabetes",
+   "kind": "p",
+   "s": [
+    "Chen et al. found that the aortic root dilation was less prevalent (2.75% vs. 9.63%; p = 0.025) and the mean aortic root dimensions were significantly smaller in diabetic patients than in nondiabetic patients .",
+    "In a retrospective study, Theivacumar et al. recruited 2062 TAA and AAA patients and found that diabetes prevalence in ruptured and non-ruptured aneurysm were 5.6% and 13.2%, respectively (OR 0.42; 95% CI, 0.23–0.75; p = 0.004).",
+    "Additionally, Tsai et al. found that the risk of TAA rupture in patients with advanced diabetes (ICD-9-CM diagnosis codes 250.4–250.9) decreased for nearly 50% compared to nondiabetic cohort in a population-based study .",
+    "These findings provide evidence that diabetes acts as a protective factor during TAD progression and rupture incidence."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.8. Protective Factor—Diabetes",
+   "kind": "p",
+   "s": [
+    "It is worth noting that the prevalence of diabetes does not differ between patients with type A and type B AADs .",
+    "Despite a low prevalence of diabetes in patients with TAD, elective surgical repair of proximal aorta for diabetic TAD patients should be paid further attention because the in-hospital death or permanent stroke rates are >three times higher than nondiabetic TAD patients .",
+    "On the contrary, type B aortic dissection patients received TEVAR showed significant lower mortality and complications in the diabetic group than in the normal glucose group in a 3-year follow-up study ."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "1. Introduction > 1.2. Modifiable Risk Factors for AADs > 1.2.8. Protective Factor—Diabetes",
+   "kind": "p",
+   "s": [
+    "The underlying mechanism of hyperglycemia-associated beneficial effects in TAD is not fully understood.",
+    "Given the fact that ACTA2 variants predispose to both TAD and early onset stroke and coronary artery disease , suggesting that SMCs are potentially the predominant cell type that involved in both large elastic artery enlargement and small muscular artery occlusion; however, it is unclear but interesting if a common signaling pathway is involved.",
+    "In vitro study has shown significantly increased capacities of proliferation, adhesion, and migration in SMCs from patients with diabetes compared to nondiabetic SMCs, which is believed to promote plaque formation and the major cause of small artery occlusion .",
+    "Interestingly, our unpublished data show that SMC-specific Pdgfrb deficiency augments aortic root enlargement in mice with Acta2 −/− background.",
+    "These results indicate a possible protective role of SMC proliferation in inhibiting aortic dilation under hyperglycemia condition.",
+    "Moreover, hyperglycemia enhances collagen glycation and networking which counteracts proteolysis driven by MMPs, while glycated type I collagen further decreases MMPs and interleukin-6 generation in activated monocytes which are another major type of cells that contribute to extracellular matrix degradation and remodeling involving in both atherosclerotic plaque and TAD progression."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.1. Dilatation (Circumferential Enlargement)",
+   "kind": "p",
+   "s": [
+    "Increasing aortic diameter is a demonstrated risk factor for TAD, easy assessment of this parameter by various imaging methods concludes a diameter of 5.0–5.5 cm as an inflection point for elective surgical repair based on predictive risk analyses of dissection, rupture, and death .",
+    "However, accumulating evidence shows that many patients with acute TAD have diameters <5.5 cm , indicating an urgent need of lowering this prophylactic indicator for surgical treatment of TAD patients without connective tissue disorders or aortitis."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.1. Dilatation (Circumferential Enlargement)",
+   "kind": "p",
+   "s": [
+    "Parish et al. found that 62% type A AADs occurred at ascending aortic diameters <5.5 cm and 42% at diameters <5.0 cm, which are extremely similar to the proportions found from IRAD: 59% and 40% of dissections occurred at ascending aortic diameters <5.5 cm and <5.0 cm, respectively .",
+    "Regarding a rapid expansion of aortic diameter after dissection onset and a non-natural condition in previous studies, Kim et al. performed competing risk analyses on 4654 non-syndromic adults with maximal baseline ascending aortic diameters of 4.0 to 5.5 cm and demonstrated a linearized incidence of aortic dissection and/or rupture of 0.1% per patient-year, and initial aortic diameter was an independent predictor of aortic event (HR 1.20; 95% CI, 1.05–1.36; p = 0.006).",
+    "At the baseline aortic diameters of 4.5/5.0/5.5 cm, the estimated probabilities of ascending aortic incidences and elective surgical repair within 5 years were 0.4%/1.1%/2.9% and 6.4%/21.2%/51.4%, respectively.",
+    "The authors concluded that a 5.0 cm cutoff of ascending aortic diameter for prophylactic surgical repair in non-syndromic patients should be considered to lower the risk of aortic dissection and/or rupture.",
+    "This conclusion decreases the surgery-indicating size of aorta for nearly 1.0 cm since Davies et al. found a rupture or dissection rate of 6.9% and a death rate of 15.6% per year in patients with an aneurysm exceeding 6.0 cm in diameter, and elective operation eliminated the risk of rupture and restored survival to near normal."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.1. Dilatation (Circumferential Enlargement)",
+   "kind": "p",
+   "s": [
+    "Nevertheless, the above IRAD study also found that mortality was not associated with aortic diameter and did not differ significantly across the 2 to 10 cm subgroups, leading to the difficulty of setting up a single threshold aortic diameter for predicting dissection, rupture, and death risks in all patients .",
+    "It is notable that undiagnosed patients with inherited TAD and aortitis in the entire population make it even more difficult to set up a precise cutoff point as a surgical indicator because these patients have high risks of dissection and rupture at a small or even normal aortic size."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.2. Elongation (Longitudinal Enlargement)",
+   "kind": "p",
+   "s": [
+    "In addition to circumferential dilatation, the longitudinal enlargement of proximal aorta has been studied and considered a more reliable risk predictor for aortic dissection due to the fact that aortic diameter enlarges by 16.9% to 31.9%, while the aortic length increases by only 2.7% to 5.4% when dissection occurs .",
+    "Despite continuous elongation of the ascending aorta with aging , Krüger et al. found that ascending aortic length was significantly increased in both dissected and pre-dissection aortas when compared with healthy controls, and their studies proposed a score including both ascending aortic diameter (4.5 to 5.4 cm) and length (12 cm) as indicators for preventative surgical repair."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.2. Elongation (Longitudinal Enlargement)",
+   "kind": "p",
+   "s": [
+    "Wu et al. found that an ascending aortic length of 11 cm could be considered a potential criterion for surgical intervention, which was a better risk predictor than aortic diameter because 70.4% (31/44) of dissected patients had an aortic length over 11 cm, while the aortic diameters were <5.5 cm.",
+    "Importantly, body height and aortic size are genetically influenced and highly correlated; the same study established a more powerful risk predictor by combining the aortic diameter and length into an aortic height index, sum of aortic diameter plus length then divided by height .",
+    "The study concludes with a yearly risk estimation chart dividing aortic height index into four categories which are associated with different risks of adverse aortic events, including aortic dissection, rupture, and death.",
+    "Before this newly established indicator is widely used for making clinical decisions, more patients will be subjected to serial axial and long-term imaging studies to validate this scale in multi-centers.",
+    "It will also be of interest to test or modify this chart in HTAD patients since many of these patients dissect with smaller aortic size accompanied with skeleton disorder.",
+    "Interestingly, excessive vertebral artery elongation leads to vessel tortuosity has been quantified by magnetic resonance angiography and a higher vertebral tortuosity index, (actual/straight length-1) × 100, was found associated with younger age at aortic surgery in patients with MFS and Loeys–Dietz syndrome.",
+    "Moreover, an index of 50 or larger was found a reproducible indicator for early dissection event and mortality ."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "1. Introduction > 1.3. Aortic Dimension > 1.3.2. Elongation (Longitudinal Enlargement)",
+   "kind": "p",
+   "s": [
+    "Aortic curvature and angulation usually present with ascending aortic elongation due to limited space in the superior mediastinum.",
+    "In a recent study, Della Corte et al. confirmed aortic elongation in aneurysmal and dissected patients, they also found that the angle between the ascending axis and arch axis was significantly narrower than that in the control aortas and suggested that an ascending-arch angle <130° appears to be a highly sensitive independent predictor of aortic dissection.",
+    "However, the specificity of the 130°-angle is low, and it requires further study to analyze the pre-dissection data to validate its clinical value."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "2. Conclusions",
+   "kind": "p",
+   "s": [
+    "Although substantial progress has been made in improving short- and long-term outcomes of patients with TAD, the mortality remains high mainly due to unpredictable dissection and rupture.",
+    "Targeting the increasing incidence of AADs needs both better address of known risk factors and further exploration of risks that have not yet been identified.",
+    "Population-based prospective studies or a combination of current ongoing in-hospital clinical registries and out-of-hospital autopsy data will provide insights into the undetermined area.",
+    "Importantly, studies with control-improved design based on the current multidisciplinary knowledge will further strengthen the resolution of identifying unknown factors.",
+    "Finally, there are three high-penetrate and reproducible AAD mouse models that could be used to validate the causative role of uncertain AAD risk factors and to develop potential pharmacologic treatments to prevent AAD."
+   ]
+  }
+ ]
+}

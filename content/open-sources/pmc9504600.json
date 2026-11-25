@@ -1,0 +1,926 @@
+{
+ "id": "pmc9504600",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC9504600",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9504600/fullTextXML",
+ "doi": "10.3390/medicina58091186",
+ "title": "Intermediate-Risk Pulmonary Embolism: A Review of Contemporary Diagnosis, Risk Stratification and Management",
+ "authors": "Machanahalli Balakrishna A, Reddi V, Belford PM et al",
+ "journal": "Medicina",
+ "year": "2022",
+ "updated": "2022-08-30",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Machanahalli Balakrishna A, Reddi V, Belford PM et al. Intermediate-Risk Pulmonary Embolism: A Review of Contemporary Diagnosis, Risk Stratification and Management. Medicina. 2022. https://doi.org/10.3390/medicina58091186. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "b26eeb5bfa0bd27432700cb057df08d02e18675cbfd0f0307fddbc572a499a5f",
+ "sentences": 288,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Pulmonary embolism (PE) can have a wide range of hemodynamic effects, from asymptomatic to a life-threatening medical emergency.",
+    "Pulmonary embolism (PE) is associated with high mortality and requires careful risk stratification for individualized management.",
+    "PE is divided into three risk categories: low risk, intermediate-risk, and high risk.",
+    "In terms of initial therapeutic choice and long-term management, intermediate-risk (or submassive) PE remains the most challenging subtype.",
+    "The definitions, classifications, risk stratification, and management options of intermediate-risk PE are discussed in this review."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: pulmonary embolism, sub-massive, intermediate risk, biomarkers, risk stratification, management"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Pulmonary embolism (PE) is the third most common cause of death among hospitalized patients .",
+    "PE can be classified into low-risk, intermediate-risk (or submassive), and high-risk PE based on the hemodynamic stability and presence of right ventricular strain.",
+    "Patients are considered hemodynamically unstable if systolic blood pressure (SBP) is <90 mmHg or a drop in SBP of ≥40 mm Hg or more from baseline or hypotension requires inotropes or vasopressors.",
+    "Among hemodynamically stable patients, PE is described as low-risk if there is no evidence of right heart strain, and intermediate-risk in the presence of right heart strain.",
+    "PE is stratified as high-risk when there is hemodynamic instability.",
+    "Though often the management of high- and low-risk PE is reasonably well understood, our understanding on the management and best practices in intermediate-risk remains limited.",
+    "Mortality from intermediate-risk PE has been reported to range from 3 to 14% .",
+    "Efforts to improve prognosis in people with intermediate-risk PE have yielded limited success due to the wide variability in the presentation and diagnosis of these patients .",
+    "Limited and underpowered research studies, different definitions of intermediate-risk PE, and non-standardized right ventricular dysfunction (RVD) parameters are some of the main challenges faced.",
+    "Furthermore, there is limited information about predictors of decompensation versus stability in this population which makes risk prediction challenging in the short and intermediate term .",
+    "We seek to explain the present evidence and inform clinical practice with this publication.",
+    "To explore treatment recommendations, we review the definitions, prognostic variables, risk stratification, and management of intermediate-risk PE."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "2. Definitions and Classification",
+   "kind": "p",
+   "s": [
+    "The term “intermediate-risk PE” refers to a population of patients whose illness severity falls between that of massive PE, which is marked by hemodynamic instability, and standard low-risk PE.",
+    "Because of its crucial role in disease severity, RVD is vital to this risk-stratification.",
+    "In defining intermediate-risk PE, RVD is frequently paired with elevated cardiac biomarkers.",
+    "However, whether one or both conditions are essential has been subject to significant discussion in the literature.",
+    "The American Heart Association (AHA), American College of Chest Physicians (ACCP), and European Society of Cardiology (ESC) have all issued varying guidelines that emphasize this heterogeneity (Table 1)."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "2. Definitions and Classification",
+   "kind": "caption",
+   "s": [
+    "Table 1 Definition of pulmonary embolism based on severity."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Hemodynamic Instability | RVD or Biomarker Elevation | PESI Class/sPESI Score"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "American College of Chest Physicians"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Low risk | No | No | ---"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Intermediate risk | No | Either one present | ---"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "High risk | Yes | --- | ---"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "American Heart Association"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Low risk | No | No | ---"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Submassive | No | Either one present | ---"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Massive | Yes | --- | ---"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "European Society of Cardiology"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Low risk | No | No | No"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Intermediate-low risk | No | Either one positive | PESI Class III-IV or sPESI score ≥ 1"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "Intermediate-high risk | No | Both positive | PESI Class III-IV or sPESI score ≥ 1"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "2. Definitions and Classification",
+   "kind": "row",
+   "s": [
+    "High risk | Yes | --- | PESI Class III-IV or sPESI score ≥ 1"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "2. Definitions and Classification",
+   "kind": "note",
+   "s": [
+    "Abbreviations: PESI: pulmonary embolism severity index; RVD: right ventricular dysfunction; sPESI: simplified pulmonary embolism severity index; Legend: Color used to present risk stratification.",
+    "Green indicates low risk, yellow indicates intermediate-low risk and submassive pulmonary embolism, orange indicates intermediate-high risk and red indicates high risk or massive pulmonary embolism."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "2. Definitions and Classification",
+   "kind": "p",
+   "s": [
+    "Intermediate-risk PE is defined in the AHA guidelines as acute PE without systemic hypotension but with evidence of RVD, which can be identified by echocardiography or computed tomography (CT) imaging, biomarkers indicative of right ventricular (RV) strain, and/or ischemia (brain natriuretic peptide (BNP) or troponin), and/or particular changes seen on electrocardiography (T wave inversions in the right precordial leads V1–V4 ± the inferior leads II, III, and aVF) .",
+    "The ACCP definition of intermediate-risk PE is fulfilled if either RVD or abnormal cardiac biomarkers are present (including abnormal BNP in addition to elevated troponins) .",
+    "The ESC guidelines divide intermediate-risk PE into two categories: intermediate-high risk and intermediate-low risk.",
+    "The ESC incorporates scoring systems such as Pulmonary Embolism Severity Index (PESI) and simplified PESI (sPESI) in defining intermediate-risk PE.",
+    "Low risk is defined by PESI class III/IV or simplified PESI score ≥ 1 and with or without one of either (1) Evidence of RVD on imaging (CT/Echocardiography) or (2) an elevated RV biomarker (troponin or BNP).",
+    "High risk is defined by PESI class III/IV or sPESI score ≥1, in addition to imaging evidence of RVD (as seen on CT or echocardiography), and an elevated RV biomarker (troponin or BNP)."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "3. Approach to Risk Stratification",
+   "kind": "p",
+   "s": [
+    "For individuals with intermediate-risk PE, current ESC guidelines recommend a progressive combination of clinical scoring systems, biomarkers, and imaging (Figure 1)."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "3. Approach to Risk Stratification",
+   "kind": "caption",
+   "s": [
+    "Figure 1 Approach to risk stratification and risk-based management of hemodynamically stable acute PE syndromes.",
+    "BNP: brain natriuretic peptide; CT: computed tomogram; PE: pulmonary embolism; PESI: Pulmonary Embolism Severity Index; RV: right ventricular; sPESI: simplified Pulmonary Embolism Severity Index; tPA: tissue plasminogen activator."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "3. Approach to Risk Stratification",
+   "kind": "p",
+   "s": [
+    "Intermediate risk PE encompasses a diverse population and a wide spectrum of severity, from patients who can be managed with a short hospital stay to those who need close monitoring for potential rescue thrombolysis, aspiration thrombectomy, catheter-directed thrombolytics, or surgical embolectomy.",
+    "Nevertheless, the management of this population can be most challenging because a subset may suddenly develop profound arterial hypotension, obstructive or cardiogenic shock, and sudden death without ominous signs despite prompt therapeutic anticoagulation .",
+    "Therefore, it is essential to use appropriate risk stratification tools to guide treatment decisions."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "4. Risk Stratification Tools > 4.1. Right Ventricular Dysfunction",
+   "kind": "p",
+   "s": [
+    "The abrupt increase in pulmonary artery pressure from PE results in an increased RV afterload along with consequent elevation of right ventricular tension.",
+    "As the afterload increases, the right ventricle dilates with resultant left ventricular (LV) underfilling and reduction in coronary artery blood supply.",
+    "These changes result in decreased RV perfusion and subsequent dysfunction from ischemia.",
+    "RV dysfunction identified by computed tomography angiogram (CTA) or echocardiogram is associated with adverse clinical outcomes .",
+    "CTA and echocardiogram are thus used in risk stratifying PE based on the presence of RV dysfunction .",
+    "RV enlargement, defined as an RV diameter to LV diameter ratio of >0.90 based on measurements from a CTA or echocardiogram is indicative of RV dysfunction.",
+    "CTA is more widely accessible than echocardiography and is often the first imaging modality pursued in this clinical scenario.",
+    "The most predictive indicator is the RV/LV ratio as determined on transverse sections, and an RV/LV ratio ≥ 0.9 was linked to an elevated risk of clinical deterioration and mortality in prior studies .",
+    "The predictive value of several CTA factors was assessed by a meta-analysis , and the following factors were known to be associated with increased all-cause mortality: An RV/LV ratio of ≥1, bowing of the interventricular septum, and contrast reflux into the inferior vena cava.",
+    "These parameters’ predictive value only applies to patients with unselected PE; hence, it might not be able to accurately prognosticate patients with very low-risk condition.",
+    "This is confirmed by the findings of a prior study where an RV/LV of ≥0.9 or ≥1.0 was not linked to worse outcomes in patients with a sPESI score of zero .",
+    "Additional echocardiographic findings indicative of RVD include flattening of the interventricular septum and contrast reflux into the inferior vena cava and hepatic veins and McConnell’s sign (decreased RV free wall function with apical sparing) .",
+    "RV myocardial function (Tei index), RV longitudinal strain, and fractional area change may be useful in risk stratification; however, they are time-consuming and may be difficult to obtain in acutely ill patients."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "4. Risk Stratification Tools > 4.2. Biomarkers",
+   "kind": "p",
+   "s": [
+    "Several biomarkers have been suggested for diagnosis and risk stratification of PE in the modern era."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "4. Risk Stratification Tools > 4.2. Biomarkers > 4.2.1. Cardiac Troponins",
+   "kind": "p",
+   "s": [
+    "Cardiac troponin T is a highly sensitive and specific marker of myocardial cell injury and is being used as the preferred biomarker for the diagnosis of myocardial infarction.",
+    "Theoretically, the release of cardiac troponin from the myocardium results from acute RV pressure overload, impaired coronary blood flow, and severe hypoxemia caused by PE.",
+    "Elevated troponin was associated with a significant risk of short-term mortality and adverse outcomes in a recently conducted meta-analysis .",
+    "Troponin testing has been shown to improve the predictive value of echocardiography in PE, and biomarkers have been successfully integrated into echocardiography-based risk assessment systems .",
+    "Although there is some evidence regarding the feasibility of elevated troponin in the prediction of mortality and complications in normotensive patients with PE in the setting of troponin elevation out of proportion to PE, acute coronary syndrome and alternate etiologies should be investigated.",
+    "Large multicenter studies’ results have repeatedly demonstrated that high-sensitivity cardiac troponin assays improve myocardial infarction diagnosis at the time of presentation compared to conventional assays, particularly in patients who present soon after the onset of chest pain .",
+    "They also enable a quicker “rule-in” and “rule-out” of myocardial infarction as they have a high negative predictive value at low levels (<14 ng/L) .",
+    "The fact that many low-risk PE patients die or develop RVD suggests a care gap, and laboratory testing, particularly high-sensitivity cardiac troponin assays, may be useful in filling this gap."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "4. Risk Stratification Tools > 4.2. Biomarkers > 4.2.2. Natriuretic Peptides",
+   "kind": "p",
+   "s": [
+    "BNP and N-terminal pro-brain natriuretic peptide (NT-proBNP) are markers of ventricular dysfunction and pressure overload.",
+    "Numerous studies have found a link between high BNP or NT-proBNP concentrations and clinical worsening in patients with acute PE .",
+    "Low-risk patients are identified by BNP values of 50 or 90 ng/L; high-risk patients have BNP values of >500 ng/L .",
+    "Small sample numbers and variances in patient characteristics are likely to be the cause of reported differences in cutoff values when using the same test.",
+    "The use of echocardiography to identify a high-risk subpopulation in patients with high values is beneficial.",
+    "RV dysfunction and a bad prognosis are indicated by persistent elevations in NT-proBNP (values > 7500 ng/L after 24 h or a 50% drop) .",
+    "However, increased natriuretic peptide concentrations have a low positive predictive value since they can occur in a variety of other conditions."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "4. Risk Stratification Tools > 4.2. Biomarkers > 4.2.3. Others",
+   "kind": "p",
+   "s": [
+    "Several other biomarkers have been utilized recently in risk stratification and assist therapeutic decision-making.",
+    "Heart-type fatty acid binding protein (h-FABP) is one of the most abundant non-enzyme proteins in the heart, and is produced in response to myocardial injury and has been shown to be sensitive and specific in sensing myocardial damage .",
+    "It has also been shown to be beneficial in predicting poor outcomes in patients with acute PE in various studies .",
+    "Dellas et al. described the utility of h-FABP in the risk stratification of acute normotensive PE and found that elevated h-FABP levels on admission were strongly associated with the 30-day mortality and adverse event rate. h-FABP appeared to have a better prognostic value than previously validated biomarkers such as troponin and pro-BNP, as well as the detection of RV dysfunction on echocardiography.",
+    "Furthermore, high h-FABP levels at the time of presentation were linked to increased long-term mortality after acute PE .",
+    "Lauque et al. in 2015 through their prospective study showed that h-FABP was a stronger predictor of adverse outcomes compared to troponin and BNP, further strengthening the importance of h-FABP in the risk stratification of PE .",
+    "According to ESC guidelines circulating h-FABP levels ≥6 ng/mL had a negative predictive value of 99% in normotensive patients .",
+    "Kidney dysfunction has been seen in individuals with acute PE before, and it has been linked to poor short-term adverse outcomes.",
+    "Plasma neutrophil gelatinase-associated lipocalin and cystatin C are excellent biomarkers of kidney dysfunction.",
+    "In a prospective observational study of 142 patients, elevated neutrophil gelatinase-associated lipocalin and cystatin C levels were found to be significant predictors of all-cause and PE-related 30-day mortality.",
+    "Plasma cystatin C was the strongest renal biomarker which independently predicted mortality on multivariable analysis .",
+    "These results indicate that serum neutrophil gelatinase-associated lipocalin and cystatin C may have a predictive function in acute PE . growth differentiation factor 15 is a cytokine produced in the heart because of excess pressure or ischemia and has been shown to have a prognostic value in PE .",
+    "Lankeit et al. through a prospective study demonstrated that increased growth differentiation factor 15 was found to be an independent predictor of adverse 30-day outcomes in a prospective investigation of 123 individuals.",
+    "Growth differentiation factor 15 also intensified the adverse outcome predictive ability of cardiac troponin, NT-proBNP, and echocardiographic findings of RVD ."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "4. Risk Stratification Tools > 4.3. Bedside Scoring Systems",
+   "kind": "p",
+   "s": [
+    "Since prior biomarker-based risk stratification algorithms failed to identify people at intermediate risk who might benefit from thrombolytics , new clinical risk scores for predicting 30-day mortality were created and validated .",
+    "These scoring tools add value because they allow for the identification of patients at low risk who can be discharged and treated outpatient, as well as patients at intermediate-to-high risk who need to be monitored for hemodynamic decompensation and the need for rescue reperfusion therapy ."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "4. Risk Stratification Tools > 4.3. Bedside Scoring Systems",
+   "kind": "p",
+   "s": [
+    "PESI and sPESI are proven risk stratification tools for patients with PE based on clinical indicators and are used at the bedside for prognostication of the risk of adverse events and therapeutic decision making.",
+    "Patients with high PESI and sPESI scores have a higher 30-day mortality rate.",
+    "These measures, in combination with an evaluation of RV function, have been used to classify patients as intermediate-low risk or intermediate-high risk, and to aid in treatment decisions .",
+    "Further risk assessment must involve imaging evidence of RV dysfunction by echocardiography or CTA within the intermediate-risk group (PESI III or sPESI 1).",
+    "The 2019 ESC guidelines for the management of acute PE included the PESI or sPESI .",
+    "Biomarker testing thus adds to the prognostic knowledge.",
+    "As a result, patients with elevated cardiac biomarker concentrations, especially a positive cardiac troponin test, and imaging evidence of RVD should be classed as intermediate-high risk.",
+    "These patients must be closely monitored for the first two to three days to detect hemodynamic decompensation and the necessity for rescue reperfusion therapy ."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "4. Risk Stratification Tools > 4.3. Bedside Scoring Systems",
+   "kind": "p",
+   "s": [
+    "The Bova score was created to assess which patients with PE who were hemodynamically stable had inferior outcomes.",
+    "It is a seven-point scoring system consisting of four clinical variables: heart rate ≥ 110 beats per minute (1 point), SBP of 90–100 mmHg for at least 15 min (2 points), RV dysfunction (2 points), and high cardiac troponin (2 points) .",
+    "This scoring system divides normotensive PE patients into three groups: stage I (0–2 points), stage II (3–4 points), and stage III (>4 points), with 30-day composite PE-related adverse complication rates of 4.2 percent, 10.8 percent, and 29.2 percent, respectively, while 30-day PE related mortality was 1.7%, 5.0% and 15.5% for stages I, II and III, respectively .",
+    "The score can also be interpreted as low risk (0–2), intermediate risk (2–4), and high risk (>4).",
+    "A meta-analysis of nine studies confirmed the effectiveness of the Bova score in differentiating normotensive PE with different short-term prognosis and recognizing patients at higher risk of short-term adverse events ."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "5. Management",
+   "kind": "p",
+   "s": [
+    "Intermediate risk PE is managed mainly by systemic anticoagulation.",
+    "Other options include catheter-based therapy, systemic thrombolysis, and surgical embolectomy.",
+    "Risk-based management of intermediate-risk PE is described in Figure 1.",
+    "A synopsis of advantages and disadvantages associated with major therapeutic strategies utilized in intermediate-risk PE is described in Table 2."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "5. Management",
+   "kind": "caption",
+   "s": [
+    "Table 2 Overview of advantages and disadvantages of major therapeutic strategies utilized in intermediate risk PE."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Treatment Option | Advantages | Disadvantages"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Systemic anticoagulation | Lower risk of bleeding when rescue therapy is indicated Prevent recurrences with a safety profile that is relatively favorable in terms of major bleeds DOACs have predictable courses and do not require laboratory monitoring Reversible in case of bleeding or a patient requiring procedures | Lack of data on DOACs in intermediate-risk PE patients.",
+    "Most studies that include DOAC data were stratified on the clot burden, not RV dysfunction or biomarkers"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Systemic thrombolysis | Rapid administration and pulmonary reperfusion Reduces symptoms and speeds up RV recovery Prevent deterioration in hemodynamic status Lowers mortality | 1–5% risk of ICH and the risk may be higher in the elderly population (age > 75)"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Reduced-dose thrombolysis | Reduced bleeding risk compared to full dose thrombolysis | Increased need for treatment escalation to requiring secondary thrombolysis or CDT"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Catheter-directed therapy | Reduces symptoms and speeds up RV recovery Lower risk of major bleeding and ICH compared to systemic thrombolysis Some devices include a mechanical embolectomy capability | Limited long-term benefits Could require more time to mobilize"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "5. Management",
+   "kind": "row",
+   "s": [
+    "Surgical embolectomy | Reduces symptoms and speeds up RV recovery Circumvents requirement for thrombolysis Lower risk of ICH | Limited to the level of segmental pulmonary arteries and more centrally located PE Limited long-term data"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "5. Management",
+   "kind": "note",
+   "s": [
+    "Abbreviations: CDT: catheter directed therapy; DOAC: direct oral anticoagulant; ICH: intracranial hemorrhage; PE: pulmonary embolism; RV: right ventricle."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "5. Management > 5.1. Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "Anticoagulation remains the cornerstone of treatment for patients with intermediate-risk PE.",
+    "There are no clear recommendations on the anticoagulant of choice.",
+    "The initial choice of anticoagulation in patients with intermediate-risk PE is generally between low-molecular weight heparin and a direct oral anticoagulant, as these are associated with a lower risk of bleeding compared to unfractionated heparin .",
+    "However, a patient on the verge of hemodynamic compromise may be best served by intravenous unfractionated heparin as they might require additional therapy with fibrinolysis, catheter-based intervention, or surgery."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "5. Management > 5.1. Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "If intermediate high-risk PE patient has any of the following characteristics of decompensation including moderate to severe RV systolic dysfunction, moderate to severe tachycardia, tachypnea, or hypoxemia, borderline hypotension, extensive embolic burden/residual deep vein thrombosis (DVT), cardiovascular comorbidities, it warrants escalation of care.",
+    "Those patients without deterioration can be switched to oral anticoagulation after observation for 24 to 48 h ."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "5. Management > 5.1. Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "At the time of clinical deterioration of intermediate high-risk PE patients, initiation of rescue reperfusion therapy is recommended.",
+    "This may be in the form of systemic thrombolysis, catheter-directed thrombolysis, or surgical embolectomy ."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "5. Management > 5.2. Systemic Thrombolysis",
+   "kind": "p",
+   "s": [
+    "Rapid thrombus clearance is achieved using systemic thrombolysis, which improves pulmonary pressure, RVD, and hemodynamics more quickly than anticoagulation alone .",
+    "While patients with major PE have a lower mortality rate, the benefit in patients with intermediate-risk PE is unclear .",
+    "This is because randomized studies that compared heparin with alteplase in intermediate-risk PE patients showed there was reduced escalation to emergency treatment without affecting mortality in patients receiving thrombolytic treatment .",
+    "Therefore, the guidelines do not recommend the routine use of systemic thrombolysis in intermediate-risk PE ."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "5. Management > 5.2. Systemic Thrombolysis",
+   "kind": "p",
+   "s": [
+    "The Pulmonary Embolism Thrombolysis (PEITHO) trial , the largest randomized controlled trial of systemic thrombolysis in PE to date, compared the effects of systemic thrombolysis with tenecteplase followed by anticoagulation with heparin versus heparin alone on the primary outcome of all-cause mortality or hemodynamic collapse within 7 days of randomization.",
+    "The study concluded that although hemodynamic decompensation was significantly less in the thrombolysis group, higher rates of major bleeding (defined as per the criteria of the International Society on Thrombosis and Hemostasis as fatal bleeding and/or symptomatic bleeding in a critical area or organ, and/or bleeding causing a fall in hemoglobin level of 20 g/L or more or leading to transfusion of two or more units of whole blood or red cells) was observed.",
+    "No reduction in mortality at day 7 or day 30 was noted in the thrombolysis arm .",
+    "Three years follow-up showed no difference in mortality or incidence of chronic thromboembolic pulmonary hypertension between the two groups .",
+    "The North American Tenecteplase or Placebo: Cardiopulmonary Outcomes at Three Months (TOPCOAT) trial also investigated thrombolysis in patients with intermediate-risk PE and compared low molecular weight heparin and tenecteplase with low molecular weight heparin .",
+    "Better functional capacity and quality of life at 3 months with fewer adverse outcomes were noted in the systemic thrombolytic group.",
+    "However, this study could not demonstrate benefit in mortality due to low power and early termination of the trial ."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "5. Management > 5.2. Systemic Thrombolysis",
+   "kind": "p",
+   "s": [
+    "In all the studies and meta-analyses conducted to date on systemic thrombolysis, mortality benefits in intermediate-risk PE remain debatable.",
+    "However, most of the studies showed a significant association with increased bleeding including intracranial hemorrhage.",
+    "This was especially noted to be true with increasing age .",
+    "Thrombolysis does have a short-term benefit and can be considered in patients under 75 years of age.",
+    "To offset the risk of major bleeding with systemic thrombolysis, some potential solutions include reduced-dose thrombolysis and catheter-based interventions."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "5. Management > 5.3. Reduced Dose Thrombolytics",
+   "kind": "p",
+   "s": [
+    "The MOPETT (Moderate pulmonary embolism treated with thrombolysis) trial evaluated the role of lower dose thrombolysis along with anticoagulation vs. anticoagulation alone.",
+    "A reduction in pulmonary artery hypertension was noted which was immediate and lasted the duration of the study of 28 months.",
+    "The study concluded that the lower dose is safe and effective in the management of moderate PE .",
+    "Another study compared low dose thrombolysis plus low molecular weight heparin (LMWH) to LMWH alone in intermediate-risk PE.",
+    "38 patients were enrolled in each of the two groups.",
+    "The study group had significantly fewer deaths and hemodynamic compromises at 30 days without increasing the risk of bleeding ."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "5. Management > 5.3. Reduced Dose Thrombolytics",
+   "kind": "p",
+   "s": [
+    "There has also been mention of using a quarter of the standard thrombolysis dose with a successful reduction in pulmonary artery pressure and right ventricle/left ventricle ratio.",
+    "The treatment in this study included 10 mg of tissue plasminogen activator (tPA) given in 1 min followed by 15 mg in 2 h.",
+    "Unfractionated heparin was given for 24 h followed by a direct oral anticoagulant which was used for maintenance therapy thereafter ."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "5. Management > 5.3. Reduced Dose Thrombolytics",
+   "kind": "p",
+   "s": [
+    "In order to test the hypothesis of similar efficacy and reduced bleeding risk with half-dose thrombolysis, Kiser et al. compared half-dose fibrinolysis versus full-dose fibrinolysis in acute PE patients.",
+    "The study included 3768 patients, out of which about 700 patients received half-dose alteplase while the rest received full-dose alteplase.",
+    "Half-dose fibrinolysis group showed an increased frequency of treatment escalation requiring secondary fibrinolysis and catheter directed treatment.",
+    "Hospital mortality, intracranial hemorrhage, GI bleeding and blood loss anemia were similar between the two groups .",
+    "Thus, the safety and efficacy of half-dose thrombolysis remains questionable, needing further studies prior to recommending its use in the management of PE."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "Catheter-directed therapy (CDT) includes catheter-based thrombolysis and mechanical aspiration thrombectomy.",
+    "Catheter-directed thrombolysis depends on the location of the clot as the embolus must be proximal for the therapy to be effective, especially for aspiration thrombectomy.",
+    "The effectiveness and safety of CDT in the management of intermediate-risk PE were demonstrated in the PERFECT (Pulmonary Embolism Response to Fragmentation, Embolectomy, and Catheter thrombolysis) trial.",
+    "It studied patients with acute PE and their management with CDT.",
+    "Clinical success defined as hemodynamic stability, improvement in pulmonary hypertension or right heart strain, or both were achieved with no major procedure-related complications or major bleeds ."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "CDT includes low-dose fibrinolytic agents injected over 12 to 24 h into the pulmonary artery directly via a standard catheter or ultrasound-assisted thrombolysis (USAT).",
+    "SUNSET sPE (Standard vs. Ultrasound-Assisted Catheter thrombolysis for Submassive Pulmonary Embolism) trial randomized patients with intermediate-risk PE to standard catheter-directed thrombolysis or ultrasound-assisted thrombolysis.",
+    "Both arms received a similar dose and duration of alteplase resulting in comparable pulmonary artery thrombus reduction .",
+    "Although ultrasound increases the efficacy of thrombolysis theoretically, USAT does not confer such an advantage over traditional CDT clinically ."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "CDT in the treatment of intermediate-risk PE was evaluated in the ULTIMA (ultrasound accelerated thrombolysis of pulmonary embolism) study .",
+    "In this study, patients were randomized to receive heparin alone or heparin with catheter-directed thrombolysis (tPA and USAT) with the primary endpoint of RV dysfunction measured by the difference in RV by LV ratio on echo between presentation to 24 h later.",
+    "Secondary outcomes included 90-day mortality, recurrent venous thromboembolism, and bleeding.",
+    "There was an improvement in the RV dysfunction index at 24 h in the heparin plus CDT arm; however, this did not hold true at 90 days.",
+    "There was no difference in secondary outcomes between the two groups ."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "SEATTLE II (A trial of EkoSonic endovascular system and Activase for treatment of acute pulmonary embolism) trial which included predominantly intermediate-risk PE patients proved a decrease in RV dysfunction by CT scan at 48 h in the group receiving CDT/USAT with anticoagulation.",
+    "Major bleeding events were noted to be more likely in high-risk PE patients .",
+    "OPTALYSE (optimal duration of requested pulse thrombolysis procedure and acute intermediate-risk pulmonary embolism) trial demonstrated that even a lower dose thrombolytic agent with ultrasound-assisted catheter thrombolysis for a short period of 6 to 12 h improved RV strain and decreased RV afterload ."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "The optimal patient for catheter-directed therapy based on the studies is an intermediate-risk PE patient who is on the verge of hemodynamic compromise .",
+    "The above trials showed acute short-term benefits in reduction in RV dysfunction; however, none of them were designed to compare long-term effects such as chronic thromboembolic pulmonary hypertension or post PE syndrome .",
+    "The main clinical outcome of interest, especially in the short term for patients with intermediate-risk PE, is mortality.",
+    "Based on available data there is no mortality benefit in intermediate-risk PE patients receiving CDT ."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "Moving forward catheter mediated thrombolysis may be more frequently used.",
+    "The knowledge gaps in areas of time to catheter placement, mortality data, cost, and clinical outcomes compared to anticoagulation challenge use in clinical practice, especially in intermediate-risk PE patients ."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "5. Management > 5.4. Catheter-Directed Therapy",
+   "kind": "p",
+   "s": [
+    "Mechanical removal of clots can be achieved with different devices.",
+    "Rheolytic thrombectomy removes the thrombus by creating negative pressure force using a saline jet at high pressure.",
+    "This technique sometimes releases adenosine leading to hemodynamic decompensation .",
+    "United States Food and Drug Administration issued a black box based on safety concerns, suggesting the AngioJet device should not be used as the initial treatment in these patients .",
+    "The FLARE (FlowTriever Pulmonary Embolectomy clinical study) study on mechanical thrombectomy with the FlowTriever System in intermediate-risk PE patients noted an adverse event rate of 3.8% while gaining significant improvement in RV/LV ratio at 48 h .",
+    "The more recent data on the interim results of the FlowTriever All-Comer Registry for Patient Safety and Hemodynamics (FLASH) registry proved a significant immediate hemodynamic improvement while on-table for the procedure and reduced admitted days in the hospital.",
+    "The results also emphasize the safety of the FlowTriever system with 0.2% all-cause mortality at the 6-month mark.",
+    "Based on these results, PEERLESS, a randomized controlled trial comparing FlowTriever and catheter-directed thrombolysis was announced and is underway ."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "The benefits of thrombolysis (systemic or catheter-directed) compared to anticoagulation alone, in intermediate-risk PE remains controversial.",
+    "While patients with massive PE have improved mortality rates , its benefit in patients with intermediate-risk PE has not been clearly demonstrated .",
+    "An overview of the major trials comparing these two strategies is described in Table 3."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "caption",
+   "s": [
+    "Table 3 Overview of major trials comparing the outcomes of thrombolysis with anticoagulation in patients with intermediate-risk pulmonary embolism."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "Trials | Groups Compared | Outcomes | Summary"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "MAPPET-3, 2002 | Heparin with alteplase vs. heparin with placebo | The incidence of the primary outcome (in-hospital death or clinical deterioration requiring an escalation of treatment) was significantly higher in the heparin-plus-placebo group than in the heparin-plus-alteplase group (p = 0.006), and the probability of 30-day event-free survival was higher in the heparin-plus-alteplase group (p = 0.005) Above variance was due to the higher incidence of treatment escalation in the heparin-plus-placebo group (24.6% vs. 10.2%, p = 0.004), since mortality was low in both groups (3.4% in the heparin-plus-alteplase group and 2.2% in the heparin-plus-placebo group, p = 0.71).",
+    "Treatment with heparin plus placebo was associated with almost three times the risk of death or treatment escalation that was associated with heparin plus alteplase (p = 0.006) No fatal bleeding or cerebral bleeding occurred in patients receiving heparin plus alteplase | Thrombolytics can prevent clinical decline necessitating the escalation of treatment during the hospital stay"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "TIPES, 2010 | Tenecteplase group (Tenecteplase with heparin) vs. placebo group (placebo with heparin) | Reduction of RV to LV end-diastolic dimension ratio at 24 h was 0.31 ± 0.08 in patients randomized to tenecteplase as compared to 0.10 ± 0.07 in patients randomized to placebo (p = 0.04) One patient randomized to tenecteplase suffered a clinical event (recurrent PE) in comparison to three patients randomized to placebo (1 recurrent PE; 1 clinical decline and 1 non-PE-related mortality) Two nonfatal major bleedings occurred with tenecteplase and one with placebo | Single dose thrombolytics are associated with reduction of RVD at 24 h"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "MOPETT, 2013 | Lower dose thrombolysis along with anticoagulation vs. anticoagulation alone | Pulmonary hypertension and the composite end point developed in 16% of patients in the thrombolysis group and 57% of patients in the anticoagulation group (p < 0.001) and 16% of patients in the thrombolysis group and 63% of patients in the anticoagulation group (p < 0.001), respectively The duration of hospitalization was 2.2 ± 0.5 days in the thrombolysis group and 4.9 ± 0.8 days in the anticoagulation group (p < 0.001).",
+    "The combination of death plus recurrent PE was 1.6% in thrombolysis group and 10% in the anticoagulation group (p = 0.04) No bleeding occurred in any group, no significant difference was noted in the rate of individual outcomes of death and recurrent PE when assessed independently | Lower dose thrombolysis is safe and effective in the treatment of moderate PE, with a significant immediate reduction in the pulmonary artery pressure that was maintained at 28 months"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "PEITHO trial, 2014 | Systemic thrombolysis with tenecteplase followed by anticoagulation with heparin vs. heparin alone | Mortality or hemodynamic decompensation occurred in 2.6% of patients in the tenecteplase group as compared with 5.6% in the heparin alone group (p = 0.02) Between randomization and day 7, 1.2% in the tenecteplase group and 1.8% in the heparin group died (p = 0.42).",
+    "Extracranial bleeding occurred in 6.3% of patients in the tenecteplase group and 1.2% in the heparin group (p < 0.001).",
+    "Stroke occurred in 2.4% of patients in the tenecteplase group and was hemorrhagic in 10 patients; 0.2% in the heparin group had a stroke, which was hemorrhagic (p = 0.003) By day 30, a total of 12 patients (2.4%) in the tenecteplase group and 16 patients (3.2%) in the heparin group had died (p = 0.42) | Fibrinolytic therapy prevented hemodynamic decompensation but increased the risk of major hemorrhage and stroke"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "TOPCOAT, 2014 | Low molecular weight heparin and tenecteplase vs. low molecular weight heparin | The trial was concluded prematurely.",
+    "Within 5 days, adverse outcomes occurred in 3 placebo-treated patients and 1 tenecteplase-treated patient At 90 days, adverse outcomes occurred in 13 unique placebo-treated patients and five unique tenecteplase-treated patients Thus, 37% of placebo-treated and 15% of tenecteplase-treated patients had at least one adverse outcome (p = 0.017) | Treatment with tenecteplase was associated with an increased probability of a favorable composite outcome"
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "row",
+   "s": [
+    "ULTIMA, 2014 | Heparin alone vs. heparin with catheter-directed thrombolysis (tPA and USAT) | In the USAT group, the mean RV/LV ratio was reduced from 1.28 ± 0.19 at baseline to 0.99 ± 0.17 at 24 h (p < 0.001); in the heparin group, mean RV/LV ratios were 1.20 ± 0.14 and 1.17 ± 0.20, respectively (p = 0.31).",
+    "The mean decrease in RV/LV ratio from baseline to 24 h was 0.30 ± 0.20 versus 0.03 ± 0.16 (p < 0.001), respectively At 90 days, there was 1 death (in the heparin group), no major bleeding, 4 minor bleeding episodes (3 in the USAT group and 1 in the heparin group; p = 0.61), and no recurrent venous thromboembolism | Standardized USAT regimen was superior to anticoagulation with heparin alone in reversing RV dilatation at 24 h, without an increase in bleeding complications"
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "note",
+   "s": [
+    "Abbreviations: LV: left ventricle; PE: pulmonary embolism; RV: right ventricle; RVD: right ventricular dysfunction; tPA: tissue plasminogen activator; USAT: ultrasound-assisted catheter-directed thrombolysis."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "A large number of systematic reviews and meta-analyses have evaluated the benefits and harms of thrombolytic therapy in PE.",
+    "However, meta-analyses in intermediate-risk PE have generated conflicting results.",
+    "For example, a meta-analysis of 16 randomized controlled trial (RCT) studies by Chatterjee et al. in 2014 demonstrated that thrombolysis decreased all-cause mortality in intermediate-risk PE .",
+    "Thrombolytic therapy was associated with lower all-cause mortality (2.17% vs. 3.89%, OR 0.53, 95% CI 0.32–0.88) and an increased risk of major bleeding (OR, 2.73; 95% CI, 1.91–3.91; 9.24% vs. 3.42%).",
+    "The prespecified analysis of eight studies that only included patients with intermediate-risk PE sustained the reduction in all-cause mortality (OR 0.48, 95% CI 0.25–0.92; 1.39% vs. 2.92%).",
+    "However, a meta-analysis by Nakamura et al. in the same year reported different outcomes .",
+    "Six RCTs that compared thrombolysis with heparin in intermediate-risk PE constituted the meta-analysis.",
+    "There was no significant difference in all-cause mortality (Relative risk [RR] 0.72, 95% CI 0.39–1.31; 2.3% vs. 3.7%) or major bleeding (RR 2.07, 95% CI 0.58–7.35; 6.6% vs. 1.9%) between the two groups.",
+    "The authors concluded that thrombolysis did not lower the risk of death in intermediate-risk PE.",
+    "The inclusion of many primary studies is one rationale for the conflicting outcomes.",
+    "Eight additional RCTs that were not qualified for the Nakamura et al. review, including MOPETT and ULTIMA , were included by Chatterjee et al. in the intermediate-risk PE meta-analysis.",
+    "Other than that, the primary research shared by the two metanalyses were identical.",
+    "It was unique to include MOPETT since it only included individuals with “moderate” PE, which was determined by clot burden rather than RVD or positive cardiac biomarkers.",
+    "Additionally, the short-term mortality was not assessed, and the deaths occurred after a 28-month follow-up.",
+    "The ULTIMA study’s inclusion was particularly unusual because it focused on CDT rather than systemic thrombolysis ."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "5. Management > 5.5. Thrombolysis versus Systemic Anticoagulation",
+   "kind": "p",
+   "s": [
+    "Furthermore, the ULTIMA trial remains the only randomized controlled trial to date to compare outcomes of catheter-directed thrombolysis plus anticoagulation with anticoagulation (heparin) alone.",
+    "A recent meta-analysis that included both observational studies and the ULTIMA trial showed that, catheter-directed thrombolysis was associated with significantly lower in-hospital mortality (RR 0.41, 95% CI 0.30 to 0.56, p < 0.00001), 30-day mortality (RR 0.37, 95% CI 0.18 to 0.73, p = 0.004), 90-day mortality (RR 0.36, 95% CI 0.17 to 0.72, p = 0.004), and a tendency toward lower 1-year mortality (RR 0.56, 95% CI 0.29 to 1.05, p = 0.07) when compared with anticoagulation alone.",
+    "The risks of major bleeding (RR 1.31, 95% CI 0.57 to 3.01, p = 0.53), minor bleeding (RR 1.67, 95% CI 0.77 to 3.63, p = 0.20), and the rates of blood transfusion (RR 0.34, 95% CI 0.10 to 1.15, p = 0.08) were similar between the two strategies."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "5. Management > 5.6. Surgical Embolectomy",
+   "kind": "p",
+   "s": [
+    "Surgical embolectomy can be conducted up to the level of the segmental pulmonary arteries.",
+    "It can be used when thrombolysis is contraindicated; however, its use varies widely by center and operator."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "5. Management > 5.6. Surgical Embolectomy",
+   "kind": "p",
+   "s": [
+    "A study on the New York state registry showed lower rates of stroke, need for reintervention, and recurrent PE in patients undergoing surgical thrombectomy for treatment of acute PE.",
+    "However, there is no difference in short-term mortality when compared to systemic thrombolysis Surgical embolectomy has been renewed over time and the technique revised to make it a safe procedure.",
+    "Data in massive PE have shown in-hospital mortality to be as low as 11.7% and another study no mortality in the surgical cohort .",
+    "Such data are lacking in intermediate-risk PE."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "6. Additional Treatment Options",
+   "kind": "p",
+   "s": [
+    "Additional treatment strategies that have been tested include mechanical support devices, inferior vena cava (IVC) filters, IV nonsteroidal anti-inflammatory drugs, and pulmonary arterial vasodilators.",
+    "Some newer treatment options are also mentioned below."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "6. Additional Treatment Options > 6.1. Mechanical Support Devices",
+   "kind": "p",
+   "s": [
+    "Intermediate-risk PEs have apparent hemodynamic stability but often have hemodynamic characteristics consistent with cardiogenic shock, despite normal blood pressure and heart rates at presentation .",
+    "Mechanical hemodynamic support can be used in the management of PE on the cusp of cardiac arrest, and/or in the presence of contraindications to or failure of systemic thrombolysis ."
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "6. Additional Treatment Options > 6.1. Mechanical Support Devices",
+   "kind": "p",
+   "s": [
+    "In patients with impending decompensation, veno-arterial-extracorporeal membrane oxygenation (ECMO) alone or as part of reperfusion strategy along with other management options might offer survival benefits compared to thrombolysis alone .",
+    "ECMO has only been described sparingly in the PE population, especially the intermediate-risk PE population.",
+    "ECMO also acts as a bridge to RV recovery while other strategies are implemented to reduce the thrombus burden.",
+    "In a retrospective study conducted at a tertiary care center, four patients were included in the analysis to study the role of ECMO in PE patients.",
+    "Three of the four patients had massive PE while one had intermediate-risk PE.",
+    "One of them who was otherwise expected to die survived.",
+    "This highlighted the need to study risk factors and outcome predictors with further studies ."
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "6. Additional Treatment Options > 6.1. Mechanical Support Devices",
+   "kind": "p",
+   "s": [
+    "Impella may be reasonable in scenarios where RVD persists the following reperfusion.",
+    "The risk of bleeding may be lower compared to ECMO and may allow utilization with thrombolytics .",
+    "An Impella device has no oxygenators and therefore limits its use in severely hypoxic patients .",
+    "A case series on five patients with shock due to massive or intermediate-risk PE resulted in immediate hemodynamic benefit and survival to discharge with Impella RP device implantation ."
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "6. Additional Treatment Options > 6.1. Mechanical Support Devices",
+   "kind": "p",
+   "s": [
+    "In a case report, an intermediate-risk PE patient underwent surgical embolectomy under extracorporeal circulation owing to the presence of a right atrium thrombus.",
+    "This patient developed acute right heart failure that resolved with a temporary right ventricular assist device (RVAD) support.",
+    "RVAD may have utility as demonstrated in this report after reperfusion therapy for the management of RV failure ."
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "6. Additional Treatment Options > 6.1. Mechanical Support Devices",
+   "kind": "p",
+   "s": [
+    "Tandem heart is an extracorporeal centrifugal pump to which an oxygenator may be added if necessary .",
+    "Its place in PE management is not widely studied and calls for further studies to explore the role of mechanical devices in the management of intermediate-risk PE."
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "6. Additional Treatment Options > 6.2. Inferior Vena Cava Filter",
+   "kind": "p",
+   "s": [
+    "IVC filters can be considered if the patient has recurrent PE despite therapeutic anticoagulation or has limited cardiopulmonary reserve that can lead to death from a subsequent PE or when there are contraindications to anticoagulation .",
+    "Temporary use of IVC filters in patients receiving thrombolytic therapy has been sporadically described; however, more evidence is needed to suggest benefits."
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "6. Additional Treatment Options > 6.2. Inferior Vena Cava Filter",
+   "kind": "p",
+   "s": [
+    "PREPIC2 (the prevention of recurrent pulmonary embolism by vena cava interruption 2) trial compared anticoagulation in addition to IVC filter placement and anticoagulation alone.",
+    "It included patients presenting with acute PE and DVT with at least 1 criterion for severity (myocardial injury, RVD, DVT, ischemic stroke, active cancer, older than 75 years, chronic cardiorespiratory insufficiency).",
+    "No difference was found between the 2 groups at 6 months .",
+    "A sub-analysis of the ICOPER (International Cooperative Pulmonary Embolism Registry) and nationwide inpatient sample analysis of hemodynamically stable PE patients that received thrombolytic therapy and IVC filter had low mortality compared to those who did not ."
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "6. Additional Treatment Options > 6.2. Inferior Vena Cava Filter",
+   "kind": "p",
+   "s": [
+    "A meta-analysis concluded there is a benefit to IVC filter placement in reduction of short-term risk of subsequent PE; however, this increases the risk of DVT in the long run.",
+    "IVC filters were found to have no impact on overall mortality .",
+    "IVC filters themselves have complications including filter thrombosis, IVC penetration, perforation, fracture or migration of filter, device tilt, etc.",
+    "It is, therefore, important to retrieve IVC filters at the earliest when deemed no longer necessary."
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "6. Additional Treatment Options > 6.3. Non-Steroidal Anti-Inflammatory Drugs",
+   "kind": "p",
+   "s": [
+    "In the hope to reverse the inflammatory reaction contributing to the RVD in patients with PE, Jimenez et al. assigned intermediate-risk PE patients to receive intravenous diclofenac or IV placebo in addition to standard anticoagulation.",
+    "This study was stopped prematurely due to slow recruitment.",
+    "However, an intention to treat analysis showed persistent RVD at 48 h and 7 days ."
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "6. Additional Treatment Options > 6.4. Vasodilators",
+   "kind": "p",
+   "s": [
+    "Pulmonary arterial vasodilators such as inhaled nitric oxide or oral phosphodiesterase inhibitors would lower the pulmonary artery pressure and unload the RV.",
+    "Kline et al. conducted a randomized placebo-controlled trial where intermediate PE patients were assigned to receive oxygen plus 50 ppm nitrogen (placebo) or oxygen plus 50 ppm nitric oxide (NO) for 24 h.",
+    "The results were not statistically significant; however, 24% of patients receiving NO reached the primary endpoint of normal RV on echo and plasma troponin less than 14 pg per mL compared to 13% receiving placebo ."
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "6. Additional Treatment Options > 6.5. Newer Treatment Options",
+   "kind": "p",
+   "s": [
+    "Anti-coagulants against factor XI and XII have demonstrated promise in venous thromboembolism prevention and are yet to be studied in the treatment of an established thrombus.",
+    "Thrombin activatable fibrinolysis inhibitor (TAFI) and alpha2-antiplasmin are newly identified targets that enhance fibrinolysis.",
+    "Targeted thrombolysis strategies that target specific components of thrombus such as fibrin, coagulation factors, or activated platelets are also in the works.",
+    "It is still to be established if these novel options will be effective in the context of intermediate-risk PE ."
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "7. Pulmonary Embolism Response Team (PERT)",
+   "kind": "p",
+   "s": [
+    "PERTs are an initiative that has been suggested for better management of intermediate-risk PE patients.",
+    "PERT consists of a group of specialists who coordinate the management and complex decision-making for patients with PE.",
+    "A recent study showed that 91% of the PERT activations were for intermediate-risk PE.",
+    "We are yet to see if this initiative improves clinical outcomes in PE patients ."
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "8. Conclusions",
+   "kind": "p",
+   "s": [
+    "The management of patients with intermediate-risk PE is complex due to the absence of extensive evidence regarding interventions and lack of guidelines and calls for a multidisciplinary approach to decision-making.",
+    "CT/echocardiography, biomarkers, and risk-stratification strategies help in therapeutic decision-making.",
+    "Patients with intermediate-risk PE should be subcategorized into intermediate-low and intermediate-high risk based on evidence of RVD on imaging or cardiac laboratory biomarker evaluation after the initial assessment and risk stratification.",
+    "In patients with intermediate-low or intermediate-high risk PE, routine use of primary systemic thrombolysis is not advised.",
+    "Patients with intermediate-high risk should be closely monitored while on systemic anticoagulation to allow for early detection of hemodynamic decompensation and prompt commencement of rescue reperfusion treatment.",
+    "If clinical symptoms of hemodynamic decompensation (even without hypotension) emerge during surveillance with systemic anticoagulation, systemic thrombolysis may be considered.",
+    "If hemodynamic decompensation ensues or is impending in patients with intermediate-high risk PE, catheter directed thrombolysis or systemic thrombolysis with tPA should be considered, and percutaneous mechanical thrombectomy or surgical thrombectomy should be considered if the risk of bleeding under thrombolytic treatment is high."
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "Institutional Review Board Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "Informed Consent Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "Funding Statement",
+   "kind": "p",
+   "s": [
+    "This research received no external funding."
+   ]
+  }
+ ]
+}

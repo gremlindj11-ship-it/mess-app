@@ -21,6 +21,8 @@ const { join } = require('node:path');
   // An article's own licence decides. Anything non-commercial or no-derivatives is not open.
   const lic = (t) => F.jatsLicence(`<license>${t}</license>`).id;
   ok('CC BY by words', lic('<license-p>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use.</license-p>') === 'CC-BY-4.0');
+  ok('a data waiver is not the licence', lic('<license-p>This article is licensed under a Creative Commons Attribution 4.0 International License. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article.</license-p>') === 'CC-BY-4.0');
+  ok('CC0 by link alone', lic('<ali:license_ref>https://creativecommons.org/publicdomain/zero/1.0/</ali:license_ref>') === 'CC0-1.0');
   ok('CC BY by link', lic('<ali:license_ref>https://creativecommons.org/licenses/by/4.0/</ali:license_ref>') === 'CC-BY-4.0');
   ok('NC by link', lic('<ali:license_ref>https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>') === 'CC-BY-NC-ND-4.0');
   ok('NC by words', /NC/.test(lic('<license-p>Creative Commons Attribution-NonCommercial 4.0 International License</license-p>')), lic('<license-p>Creative Commons Attribution-NonCommercial 4.0 International License</license-p>'));

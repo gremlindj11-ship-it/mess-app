@@ -1,0 +1,828 @@
+{
+ "id": "nhs-heart-failure",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/heart-failure/",
+ "fetched_from": "https://www.nhs.uk/conditions/heart-failure/",
+ "title": "Heart failure",
+ "updated": "2026-06-26",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "4c2bf0b16567d61bd4b8de612e1becabd961065614a6e2243a60c1aaca2a7edf",
+ "sentences": 110,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Heart failure",
+   "kind": "p",
+   "s": [
+    "Heart failure is when your heart cannot pump blood properly.",
+    "It does not mean your heart has stopped working or is about to stop working.",
+    "There's no cure, but treatment and lifestyle changes can help."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Heart failure > Easy Read",
+   "kind": "p",
+   "s": [
+    "Looking after yourself when you have heart failure (NHS England website, PDF only, 2.39MB)"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "p",
+   "s": [
+    "Symptoms of heart failure include:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "feeling out of breath when doing everyday activities or lying down"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "being more out of breath than you would expect when doing physical activity"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "feeling weak, light-headed or very tired, particularly after moving or doing physical activity"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "feeling light-headed or dizzy"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "swelling in your feet, ankles, legs or tummy, or feeling bloated"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "sudden weight gain"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "coughing at night"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Heart failure > Symptoms of heart failure",
+   "kind": "li",
+   "s": [
+    "coughing up frothy pink phlegm"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Heart failure > When and where to get medical help",
+   "kind": "p",
+   "s": [
+    "If you think you have symptoms of heart failure, it's important to get them checked."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Heart failure > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have symptoms of heart failure"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Heart failure > When and where to get medical help > Urgent advice: Ask for an urgent GP appoint or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you feel breathless when lying down or from everyday activity"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Heart failure > When and where to get medical help > Urgent advice: Ask for an urgent GP appoint or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're coughing up frothy pink phlegm"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Heart failure > When and where to get medical help > Urgent advice: Ask for an urgent GP appoint or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have suddenly gained weight"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Heart failure > When and where to get medical help > Urgent advice: Ask for an urgent GP appoint or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Heart failure > When and where to get medical help > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you're having severe difficulty breathing – you're gasping, choking or not able to get words out"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Heart failure > When and where to get medical help > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "your lips or skin are pale, blue or grey – on brown or black skin this may be easier to see on the palms of the hands, soles of the feet or gums"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Heart failure > When and where to get medical help > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "someone has passed out and is not responding normally"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Heart failure > When and where to get medical help > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Heart failure > When and where to get medical help > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "The person you speak to at 999 will give you advice about what to do."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "p",
+   "s": [
+    "There are lots of possible causes of heart failure."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "p",
+   "s": [
+    "It can happen suddenly, such as after a heart attack or infection, or from long-term strain on your heart from high blood pressure or coronary heart disease, for example."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "p",
+   "s": [
+    "Other possible causes of heart failure include:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "heart valve disease"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "cardiomyopathy"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "heart rhythm problems"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "chronic kidney disease"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "anaemia"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "haemochromatosis (a condition that leads to too much iron in your blood)"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Heart failure > Causes of heart failure",
+   "kind": "li",
+   "s": [
+    "thyroid problems"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "p",
+   "s": [
+    "Anyone can get heart failure but you may be more at risk if you:"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "are 65 or older"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "are living with overweight or obesity"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "are pregnant"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "smoke"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "drink a lot of alcohol"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Heart failure > Causes of heart failure > Who's most at risk of heart failure",
+   "kind": "li",
+   "s": [
+    "use cocaine"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "p",
+   "s": [
+    "If the doctor thinks you may have heart failure, they will do some tests to see how well your heart and lungs are working, and refer you to a heart specialist (cardiologist)."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "p",
+   "s": [
+    "Tests for heart failure may include:"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "li",
+   "s": [
+    "asking for samples of your blood and pee"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "li",
+   "s": [
+    "an electrocardiogram (ECG)"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "li",
+   "s": [
+    "scans such as a chest X-ray, echocardiogram and MRI scan"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "li",
+   "s": [
+    "tests to check your lungs, such as a peak flow test and spirometry"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Heart failure > Tests for heart failure",
+   "kind": "p",
+   "s": [
+    "You may need to go to hospital for some of these tests."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Heart failure > Tests for heart failure > Types and stages of heart failure",
+   "kind": "p",
+   "s": [
+    "There are different types and stages of heart failure.",
+    "If you're diagnosed with heart failure, your doctor will discuss the type and stage with you."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Heart failure > Tests for heart failure > Types and stages of heart failure",
+   "kind": "p",
+   "s": [
+    "The type relates to why your heart is not pumping as well as it should."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Heart failure > Tests for heart failure > Types and stages of heart failure",
+   "kind": "p",
+   "s": [
+    "The stage of heart failure explains how severe your symptoms are."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Heart failure > Tests for heart failure > Find out more",
+   "kind": "li",
+   "s": [
+    "Understanding heart failure guide (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Heart failure > Tests for heart failure > Find out more",
+   "kind": "li",
+   "s": [
+    "Heart failure stages explained (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Heart failure > Treatments for heart failure",
+   "kind": "p",
+   "s": [
+    "There is currently no cure for heart failure, but treatment aims to ease symptoms and help prevent your condition from getting worse."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Heart failure > Treatments for heart failure",
+   "kind": "p",
+   "s": [
+    "Your treatment will depend on the type and stage of heart failure you have, and your overall health."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Heart failure > Treatments for heart failure > Medicines",
+   "kind": "p",
+   "s": [
+    "You may be given different types of medicine to help your symptoms.",
+    "These include medicines to:"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Heart failure > Treatments for heart failure > Medicines",
+   "kind": "li",
+   "s": [
+    "make you pee more to reduce fluid build-up in your body (diuretics), such as furosemide"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Heart failure > Treatments for heart failure > Medicines",
+   "kind": "li",
+   "s": [
+    "widen your blood vessels, so your heart does not have to work as hard to pump blood (for example, candesartan or enalapril)"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Heart failure > Treatments for heart failure > Medicines",
+   "kind": "li",
+   "s": [
+    "slow your heart down, so it does not need as much oxygen (such as beta blockers)"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "p",
+   "s": [
+    "You may need surgery if you have heart failure.",
+    "This could be to:"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "li",
+   "s": [
+    "improve blood flow from blocked or damaged arteries"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "li",
+   "s": [
+    "repair or replace damaged heart valves"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "li",
+   "s": [
+    "fit a pacemaker or implantable cardioverter defibrillator (ICD) to control your heart rate or fix an irregular heartbeat"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "p",
+   "s": [
+    "If your heart failure is severe, you may be offered:"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "li",
+   "s": [
+    "a device that helps your heart pump blood properly (left ventricular assist device)"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Heart failure > Treatments for heart failure > Surgery",
+   "kind": "li",
+   "s": [
+    "a heart transplant, if treatments are not helping"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "p",
+   "s": [
+    "Everyone diagnosed with heart failure should be offered cardiac rehabilitation."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "p",
+   "s": [
+    "What you're offered depends on your condition and what's available where you live but may include:"
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "li",
+   "s": [
+    "an assessment and advice about how you can safely exercise"
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "li",
+   "s": [
+    "exercise classes or a personal exercise programme"
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "li",
+   "s": [
+    "guidance, information and support around lifestyle changes, such as healthy eating"
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "li",
+   "s": [
+    "support groups and the chance to share your experiences with other people who have heart failure"
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Heart failure > Treatments for heart failure > Cardiac rehabilitation",
+   "kind": "p",
+   "s": [
+    "These programmes may take place in hospital, clinics or in the community, and involve face-to-face or online sessions."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Heart failure > Treatments for heart failure > Find out more",
+   "kind": "li",
+   "s": [
+    "Medicines (Pumping Marvellous)"
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Heart failure > Treatments for heart failure > Find out more",
+   "kind": "li",
+   "s": [
+    "Cardiac devices (Pumping Marvellous)"
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "Heart failure > Treatments for heart failure > Find out more",
+   "kind": "li",
+   "s": [
+    "Cardiac rehabilitation (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "Heart failure > How heart failure affects your life",
+   "kind": "p",
+   "s": [
+    "Heart failure is a serious condition that affects everyone differently.",
+    "Symptoms can vary from day to day and week to week."
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "Heart failure > How heart failure affects your life",
+   "kind": "p",
+   "s": [
+    "While there's currently no cure, treatment and lifestyle changes can help manage symptoms and keep heart failure stable for many years."
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "Heart failure > How heart failure affects your life",
+   "kind": "p",
+   "s": [
+    "A heart specialist (cardiologist) and care team will talk to you about treatment options and any other changes you may need to make.",
+    "This will depend on the type of heart failure you have, what's caused it and any other conditions."
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "Heart failure > How heart failure affects your life",
+   "kind": "p",
+   "s": [
+    "If you work, you may need to make adjustments to your job, such as limiting physical activity.",
+    "Some people may need to stop working entirely."
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "Heart failure > How heart failure affects your life",
+   "kind": "p",
+   "s": [
+    "If you drive, you will need to tell the DVLA about your condition.",
+    "You should also check with your insurance company."
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "p",
+   "s": [
+    "As part of your treatment you should be referred to a team of doctors and nurses for palliative care (symptom control team or palliative care team)."
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "p",
+   "s": [
+    "Palliative care focuses on improving your quality of life and is for anyone who has a lifelong illness that cannot be cured.",
+    "Palliative care treatment includes:"
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "li",
+   "s": [
+    "managing your symptoms"
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "li",
+   "s": [
+    "helping you feel more comfortable"
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "li",
+   "s": [
+    "thinking about your practical needs, such as equipment you may need at home"
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "li",
+   "s": [
+    "supporting your family"
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "Heart failure > How heart failure affects your life > What happens when heart failure progresses",
+   "kind": "li",
+   "s": [
+    "end of life care, if appropriate"
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "Heart failure > How heart failure affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "Support with everyday life (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "Heart failure > How heart failure affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "Living with heart failure (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "Heart failure > How heart failure affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "Palliative care guide (Pumping Marvellous)"
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "Heart failure > How heart failure affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "End-of-life care"
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "Heart failure > Things you can do yourself to help heart failure",
+   "kind": "p",
+   "s": [
+    "If you've been diagnosed with heart failure, there are some things you can do yourself to improve symptoms and help manage your condition."
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Do take medicine as your doctor has prescribed weigh yourself regularly – a build-up of fluid can cause sudden weight gain and may need treatment have any vaccinations you're offered, such as the flu vaccine – illness and infections can be more serious if you have heart failure stay active – you should be referred for a cardiac rehabilitation assessment, which can help you learn how exercise safely eat a balanced diet maintain a healthy weight try to quit smoking cut down on alcohol, if you drink Information: NHS Better Health has free tools and support to help you eat better, drink less and quit smoking. Visit the NHS Better Health website Help and support for heart failure Heart failure can be difficult to live with both physically and emotionally. Being told you have a heart condition can be very scary, and cause stress, anxiety and worries about the future. As well as support from your doctor and care team, you may find it helpful to get support from other people with heart failure, either at a local support group or online. There are also national charities that can offer information, help and support. You can also refer yourself directly to an NHS talking therapies service without a referral from a GP. British Heart Foundation",
+   "kind": "p",
+   "s": [
+    "Information and support for anyone affected by a heart condition."
+   ]
+  },
+  {
+   "at": "b93",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Do take medicine as your doctor has prescribed weigh yourself regularly – a build-up of fluid can cause sudden weight gain and may need treatment have any vaccinations you're offered, such as the flu vaccine – illness and infections can be more serious if you have heart failure stay active – you should be referred for a cardiac rehabilitation assessment, which can help you learn how exercise safely eat a balanced diet maintain a healthy weight try to quit smoking cut down on alcohol, if you drink Information: NHS Better Health has free tools and support to help you eat better, drink less and quit smoking. Visit the NHS Better Health website Help and support for heart failure Heart failure can be difficult to live with both physically and emotionally. Being told you have a heart condition can be very scary, and cause stress, anxiety and worries about the future. As well as support from your doctor and care team, you may find it helpful to get support from other people with heart failure, either at a local support group or online. There are also national charities that can offer information, help and support. You can also refer yourself directly to an NHS talking therapies service without a referral from a GP. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Website: www.bhf.org.uk"
+   ]
+  },
+  {
+   "at": "b94",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Do take medicine as your doctor has prescribed weigh yourself regularly – a build-up of fluid can cause sudden weight gain and may need treatment have any vaccinations you're offered, such as the flu vaccine – illness and infections can be more serious if you have heart failure stay active – you should be referred for a cardiac rehabilitation assessment, which can help you learn how exercise safely eat a balanced diet maintain a healthy weight try to quit smoking cut down on alcohol, if you drink Information: NHS Better Health has free tools and support to help you eat better, drink less and quit smoking. Visit the NHS Better Health website Help and support for heart failure Heart failure can be difficult to live with both physically and emotionally. Being told you have a heart condition can be very scary, and cause stress, anxiety and worries about the future. As well as support from your doctor and care team, you may find it helpful to get support from other people with heart failure, either at a local support group or online. There are also national charities that can offer information, help and support. You can also refer yourself directly to an NHS talking therapies service without a referral from a GP. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Heart Helpline (British Heart Foundation) – call, email or webchat with a cardiac nurse"
+   ]
+  },
+  {
+   "at": "b95",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Do take medicine as your doctor has prescribed weigh yourself regularly – a build-up of fluid can cause sudden weight gain and may need treatment have any vaccinations you're offered, such as the flu vaccine – illness and infections can be more serious if you have heart failure stay active – you should be referred for a cardiac rehabilitation assessment, which can help you learn how exercise safely eat a balanced diet maintain a healthy weight try to quit smoking cut down on alcohol, if you drink Information: NHS Better Health has free tools and support to help you eat better, drink less and quit smoking. Visit the NHS Better Health website Help and support for heart failure Heart failure can be difficult to live with both physically and emotionally. Being told you have a heart condition can be very scary, and cause stress, anxiety and worries about the future. As well as support from your doctor and care team, you may find it helpful to get support from other people with heart failure, either at a local support group or online. There are also national charities that can offer information, help and support. You can also refer yourself directly to an NHS talking therapies service without a referral from a GP. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Your guide to heart failure booklet (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b96",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Do take medicine as your doctor has prescribed weigh yourself regularly – a build-up of fluid can cause sudden weight gain and may need treatment have any vaccinations you're offered, such as the flu vaccine – illness and infections can be more serious if you have heart failure stay active – you should be referred for a cardiac rehabilitation assessment, which can help you learn how exercise safely eat a balanced diet maintain a healthy weight try to quit smoking cut down on alcohol, if you drink Information: NHS Better Health has free tools and support to help you eat better, drink less and quit smoking. Visit the NHS Better Health website Help and support for heart failure Heart failure can be difficult to live with both physically and emotionally. Being told you have a heart condition can be very scary, and cause stress, anxiety and worries about the future. As well as support from your doctor and care team, you may find it helpful to get support from other people with heart failure, either at a local support group or online. There are also national charities that can offer information, help and support. You can also refer yourself directly to an NHS talking therapies service without a referral from a GP. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Our online community (British Heart Foundation)"
+   ]
+  },
+  {
+   "at": "b97",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Pumping Marvellous",
+   "kind": "p",
+   "s": [
+    "Dedicated information and support for anyone affected by heart failure."
+   ]
+  },
+  {
+   "at": "b98",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Pumping Marvellous",
+   "kind": "li",
+   "s": [
+    "Website: pumpingmarvellous.org"
+   ]
+  },
+  {
+   "at": "b99",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Pumping Marvellous",
+   "kind": "li",
+   "s": [
+    "Community hub (Pumping Marvellous)"
+   ]
+  },
+  {
+   "at": "b100",
+   "path": "Heart failure > Things you can do yourself to help heart failure > Pumping Marvellous",
+   "kind": "li",
+   "s": [
+    "Heart failure guide (Pumping Marvellous)"
+   ]
+  }
+ ]
+}

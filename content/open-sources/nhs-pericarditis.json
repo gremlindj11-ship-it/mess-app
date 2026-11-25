@@ -1,0 +1,336 @@
+{
+ "id": "nhs-pericarditis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/pericarditis/",
+ "fetched_from": "https://www.nhs.uk/conditions/pericarditis/",
+ "title": "Pericarditis",
+ "updated": "2023-07-17",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "312e251f7f17ce28d5721e447715ac19816f6c755d2362a999cc7cab1f94f878",
+ "sentences": 45,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Pericarditis",
+   "kind": "p",
+   "s": [
+    "Pericarditis is inflammation of the lining around your heart, which causes chest pain.",
+    "It's not usually serious, but it can sometimes cause serious health problems.",
+    "Get medical advice if you have chest pain."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "p",
+   "s": [
+    "The main symptom of pericarditis is chest pain."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "p",
+   "s": [
+    "The chest pain usually:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "feels sharp or stabbing"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "spreads to your shoulders, arms or tummy"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "gets worse when you breathe in deeply, swallow, cough or lie down (especially when you lie down on your left side)"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "gets better when you lean forward"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "p",
+   "s": [
+    "You may also have:"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "a high temperature, or feel hot, cold or shivery"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "a cough"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "li",
+   "s": [
+    "painful joints"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Pericarditis > Symptoms of pericarditis",
+   "kind": "p",
+   "s": [
+    "If you get pericarditis, it often follows a viral infection like a cold or flu."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Pericarditis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You have chest pain and it:"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Pericarditis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "is sharp or stabbing"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Pericarditis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "gets worse when you take a deep breath in, swallow, cough or lie down"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Pericarditis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "You have sudden chest pain that:"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "spreads to your arms, back, neck or jaw"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "makes your chest feel tight or heavy"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "also started with shortness of breath, sweating and feeling or being sick"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "lasts more than 15 minutes"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "You could be having a heart attack.",
+    "Call 999 immediately as you need immediate treatment in hospital."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Pericarditis > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "The person you speak to at 999 will give you advice about what to do."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Pericarditis > Tests for pericarditis",
+   "kind": "p",
+   "s": [
+    "A GP will listen to your heart to check for pericarditis.",
+    "This is because it can change the sound your heart makes."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Pericarditis > Tests for pericarditis",
+   "kind": "p",
+   "s": [
+    "To confirm pericarditis, the GP may:"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Pericarditis > Tests for pericarditis",
+   "kind": "li",
+   "s": [
+    "do some blood tests"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Pericarditis > Tests for pericarditis",
+   "kind": "li",
+   "s": [
+    "refer you for a chest X-ray, electrocardiogram (ECG) or echocardiogram in hospital"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Pericarditis > Tests for pericarditis",
+   "kind": "p",
+   "s": [
+    "ECGs are safe and painless, and some GPs can do them at the surgery."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "p",
+   "s": [
+    "Treatment for pericarditis will depend on what's causing it.",
+    "You may be given anti-inflammatory painkillers, such as ibuprofen, to help ease symptoms like pain."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "p",
+   "s": [
+    "Sitting up or leaning forward can also help ease the pain."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "p",
+   "s": [
+    "You may need other treatment.",
+    "For example, a GP may prescribe medicines such as:"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "li",
+   "s": [
+    "colchicine – if anti-inflammatory painkillers do not work or pericarditis keeps coming back"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "li",
+   "s": [
+    "steroids – if colchicine does not work"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "li",
+   "s": [
+    "antibiotics – if pericarditis is caused by a bacterial infection"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Pericarditis > Treatment for pericarditis",
+   "kind": "p",
+   "s": [
+    "Most people feel better within a few weeks."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Pericarditis > Causes of pericarditis",
+   "kind": "p",
+   "s": [
+    "Your heart has a protective fluid-filled sac around it called the pericardium."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Pericarditis > Causes of pericarditis",
+   "kind": "p",
+   "s": [
+    "In pericarditis, the pericardium gets inflamed, and blood or fluid can leak into it."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Pericarditis > Causes of pericarditis",
+   "kind": "p",
+   "s": [
+    "It's difficult to confirm the exact cause of pericarditis, but it's usually a viral infection, such as a cold or flu."
+   ]
+  }
+ ]
+}

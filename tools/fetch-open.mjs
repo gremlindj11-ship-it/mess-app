@@ -78,9 +78,11 @@ export function jatsBlocks(xml) {
 export function jatsLicence(xml) {
   const lic = (xml.match(/<license\b[\s\S]*?<\/license>/) || [''])[0], text = plain(lic), href = (lic.match(/creativecommons\.org\/(licenses|publicdomain)\/([a-z-]+)\/(\d\.\d)/i) || []), words = text.match(/Creative Commons (Attribution[\w\s-]*?)(\d\.\d)? (?:International )?Licen[sc]e/i);
   let id = '';
-  if (href[1] === 'publicdomain' || /CC0|public domain dedication/i.test(text)) id = 'CC0-1.0';
-  else if (href[2]) id = 'CC-' + href[2].toUpperCase() + '-' + href[3];
+  // The article's own licence comes first. Many journals add "the CC0 waiver applies to the data": that is not the article's licence.
+  if (href[1] === 'publicdomain' && !words) id = 'CC0-1.0';
+  else if (href[1] && href[1].toLowerCase() === 'licenses') id = 'CC-' + href[2].toUpperCase() + '-' + href[3];
   else if (words) { const w = words[1].trim().toLowerCase(); id = /non-?commercial|no ?deriv|share ?alike/.test(w) ? 'CC-BY-' + (/non-?commercial/.test(w) ? 'NC' : '') + (/no ?deriv/.test(w) ? '-ND' : '') + (/share ?alike/.test(w) ? '-SA' : '') : 'CC-BY-' + (words[2] || '4.0'); id = id.replace('--', '-'); }
+  if (!id && /CC0|public domain dedication/i.test(text)) id = 'CC0-1.0';
   if (/non-?commercial/i.test(text) && !/NC/.test(id)) id = 'CC-BY-NC';
   return { id, evidence: text.slice(0, 420) };
 }
@@ -95,7 +97,7 @@ export async function fetchOpen(target, { id, from } = {}) {
   const today = new Date().toISOString().slice(0, 10); let doc;
   if (/^https?:/.test(target)) allowFetch(target); // the register decides before anything else
   if (/^PMC\d+$/i.test(target)) {
-    const pmc = target.toUpperCase(), api = `https://www.ebi.ac.uk/europepmc/webservices/rest/${pmc}/fullTextXML`, { s, text: xml } = from ? { s: allowFetch(api), text: readFileSync(from, 'utf8') } : await get(api, 'application/xml');
+    const pmc = target.toUpperCase(), api = `https://www.ebi.ac.uk/europepmc/webservices/rest/${pmc}/fullTextXML`, { s, text: xml } = from ? { s: allowFetch(api), text: readFileSync(from, 'utf8') } : await get(api, 'application/xml'); if (!/<article[\s>]/.test(xml)) throw new Error(`${from || api} is not the article (Europe PMC sent an error page). Download it again.`);
     const lic = jatsLicence(xml); if (!OPEN.has(lic.id)) throw new Error(`not saved: ${pmc} states its licence as "${lic.id || 'none found'}", which is not an open licence (${[...OPEN].join(', ')})`);
     const meta = (re) => plain((xml.match(re) || ['', ''])[1]), title = meta(/<article-title[^>]*>([\s\S]*?)<\/article-title>/), journal = meta(/<journal-title[^>]*>([\s\S]*?)<\/journal-title>/), doi = meta(/<article-id pub-id-type="doi">([^<]+)</), pub = xml.match(/<pub-date[^>]*>(?:(?!<\/pub-date>)[\s\S])*?<year>(\d{4})<\/year>/), year = pub ? pub[1] : '';
     const date = (xml.match(/<pub-date[^>]*pub-type="epub"[^>]*>([\s\S]*?)<\/pub-date>/) || xml.match(/<pub-date[^>]*>([\s\S]*?)<\/pub-date>/) || ['', ''])[1], ymd = ['year', 'month', 'day'].map(k => (date.match(new RegExp(`<${k}>(\\d+)</${k}>`)) || [])[1]).filter(Boolean).map((v, i) => i ? v.padStart(2, '0') : v).join('-');

@@ -1,0 +1,553 @@
+{
+ "id": "nhs-deep-vein-thrombosis-dvt",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+ "fetched_from": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+ "title": "DVT (deep vein thrombosis)",
+ "updated": "2026-04-30",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "74272c495854b8a4d44c7d74592a794c0dccbeb26a229a13ab960e7aefb9c055",
+ "sentences": 73,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "DVT (deep vein thrombosis) is a blood clot in a vein, usually in the leg.",
+    "DVT can be dangerous.",
+    "Get medical help as soon as possible if you think you have DVT."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "Symptoms of DVT (deep vein thrombosis) in the leg include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "throbbing pain in 1 leg (rarely both legs), usually in the calf or thigh"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "swelling in 1 leg (rarely both legs)"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "red, blue or darkened skin around the painful area – this may be harder to see on brown or black skin"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "swollen veins"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "These symptoms can sometimes happen in your arm if that's where the blood clot is."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "DVT (deep vein thrombosis) > Symptoms of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "Sometimes the only symptom you may have is pain in your lower tummy.",
+    "This is a symptom of pelvic vein thrombosis, but this is rare."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "DVT (deep vein thrombosis) > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you think you have DVT (deep vein thrombosis)"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "DVT (deep vein thrombosis) > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "DVT (deep vein thrombosis) > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "If you're pregnant you can also call an early pregnancy unit (if you're less than 20 weeks) or your maternity unit, if you have the phone number."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "You have symptoms of DVT (deep vein thrombosis), such as pain and swelling, and:"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "feel short of breath"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "have chest pain"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "DVT can be very serious because blood clots can travel to your lungs.",
+    "This is called a pulmonary embolism."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "A pulmonary embolism can be life-threatening and needs treatment straight away."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "DVT (deep vein thrombosis) > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "A DVT (deep vein thrombosis) is more likely to happen if you:"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are aged over 60"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are living with overweight or obesity"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "smoke"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have had DVT before"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "take HRT"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "take the combined contraceptive pill or use contraception that contains oestrogen, such as the patch or vaginal ring"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have cancer or heart failure"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have varicose veins"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have thrombophilia – a condition where your blood clots more easily"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have inflammatory bowel disease or vasculitis"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have thoracic outlet syndrome – a condition that can affect blood flow to your arm"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "There are also some times when you have a higher chance of getting DVT."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "These include when you:"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are staying in or recently left hospital – especially if you cannot move around much"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are having, or have had, surgery"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "have a medical device implanted, such as a pacemaker"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are confined to bed for 3 days or more"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "go on a long journey (more than 4 hours) by plane, car or train"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are pregnant or if you've had a baby in the previous 6 weeks"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are pregnant and have had DVT before"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "are dehydrated"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "DVT (deep vein thrombosis) > Who is more likely to get DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "Sometimes DVT can happen for no obvious reason."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "DVT (deep vein thrombosis) > How DVT (deep vein thrombosis) is diagnosed",
+   "kind": "p",
+   "s": [
+    "If a doctor thinks you have DVT (deep vein thrombosis), you should be referred to hospital within 24 hours for an ultrasound scan."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "DVT (deep vein thrombosis) > How DVT (deep vein thrombosis) is diagnosed",
+   "kind": "p",
+   "s": [
+    "The scan shows whether blood is flowing normally through the vein."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "DVT (deep vein thrombosis) > Treatment of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "DVT (deep vein thrombosis) is treated with blood-thinning medicines."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "DVT (deep vein thrombosis) > Treatment of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "You'll usually need to take blood-thinning medicines, such as rivaroxaban, for at least 3 months to reduce your risk of getting another blood clot.",
+    "These medicines are usually taken as tablets."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "DVT (deep vein thrombosis) > Treatment of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "If you get a DVT when you're pregnant, you'll usually need blood-thinning injections for the rest of your pregnancy and until your baby is 6 weeks old."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "DVT (deep vein thrombosis) > Treatment of DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "You may also need other treatments if a condition has caused your DVT.",
+    "If the cause of your DVT is not clear, you may need further tests to find out what caused it."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "DVT (deep vein thrombosis) > Recovery from DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "There are things you can do to help you recover from DVT (deep vein thrombosis)."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "DVT (deep vein thrombosis) > Recovery from DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "After you leave hospital, you'll be encouraged to:"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "DVT (deep vein thrombosis) > Recovery from DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "stay active – walk regularly if you can"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "DVT (deep vein thrombosis) > Recovery from DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "keep your affected leg raised when you're sitting"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "DVT (deep vein thrombosis) > Recovery from DVT (deep vein thrombosis)",
+   "kind": "li",
+   "s": [
+    "delay any flights or long journeys until at least 2 weeks after you start taking blood-thinning medicine"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis)",
+   "kind": "p",
+   "s": [
+    "There are things you can do to lower your chance of getting DVT (deep vein thrombosis)."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Do stay a healthy weight stay active – taking regular walks can help drink plenty of fluids to avoid dehydration – DVT is more likely if you're dehydrated Don't",
+   "kind": "li",
+   "s": [
+    "do not sit still for long periods of time – get up and move around every hour or so"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Do stay a healthy weight stay active – taking regular walks can help drink plenty of fluids to avoid dehydration – DVT is more likely if you're dehydrated Don't",
+   "kind": "li",
+   "s": [
+    "do not smoke"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Do stay a healthy weight stay active – taking regular walks can help drink plenty of fluids to avoid dehydration – DVT is more likely if you're dehydrated Don't",
+   "kind": "li",
+   "s": [
+    "do not drink lots of alcohol"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "p",
+   "s": [
+    "If you're travelling for 4 hours or more by plane, train or car, there are things you can do during the journey to lower your chances of getting DVT."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "p",
+   "s": [
+    "These include:"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "li",
+   "s": [
+    "wearing loose clothing"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "li",
+   "s": [
+    "drinking plenty of water"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "li",
+   "s": [
+    "avoiding alcohol"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going on a long journey",
+   "kind": "li",
+   "s": [
+    "walking around when possible"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going into hospital",
+   "kind": "p",
+   "s": [
+    "If you go into hospital, your healthcare team should check if there's a higher chance you'll get DVT."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going into hospital",
+   "kind": "p",
+   "s": [
+    "If they think you're more likely to get DVT, you may be given treatment to prevent it, such as medicine.",
+    "You may also be given compression stockings (knee-high elastic socks that help your blood circulation) while you're in hospital."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going into hospital",
+   "kind": "p",
+   "s": [
+    "Sometimes you may continue treatment to prevent DVT after you leave hospital, for example, if you've had surgery, because a blood clot can happen weeks later."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "DVT (deep vein thrombosis) > How to prevent DVT (deep vein thrombosis) > Going into hospital",
+   "kind": "p",
+   "s": [
+    "You can also help reduce your risk of DVT while you're in hospital by staying active and walking around if you can."
+   ]
+  }
+ ]
+}

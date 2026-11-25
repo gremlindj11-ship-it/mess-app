@@ -1,0 +1,479 @@
+{
+ "id": "nhs-endocarditis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/endocarditis/",
+ "fetched_from": "https://www.nhs.uk/conditions/endocarditis/",
+ "title": "Endocarditis",
+ "updated": "2026-02-16",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "91907bd8386a4dce6059cd03743d8c225cda93e11382dfc5118a2767f2b3f9ca",
+ "sentences": 62,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Endocarditis",
+   "kind": "p",
+   "s": [
+    "Endocarditis is inflammation of the inner lining inside your heart, usually caused by an infection.",
+    "It's rare but can be life-threatening and needs urgent treatment."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "p",
+   "s": [
+    "Endocarditis usually happens when bacteria or fungus gets into your blood through your mouth or skin and travels to your heart."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "p",
+   "s": [
+    "This could be during a dental procedure or through a cut or graze, for example."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "p",
+   "s": [
+    "Anyone can get endocarditis, but it's more common in men and people over 50."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "p",
+   "s": [
+    "You have a higher risk of getting endocarditis if you:"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "li",
+   "s": [
+    "have heart valve disease, an artificial heart valve, or a pacemaker or implantable cardioverter defibrillator (ICD)"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "li",
+   "s": [
+    "have certain conditions, like some types of congenital heart disease or hypertrophic cardiomyopathy"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "li",
+   "s": [
+    "have had a heart transplant or endocarditis before"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "li",
+   "s": [
+    "work closely with farm animals"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Endocarditis > Who's at risk of endocarditis",
+   "kind": "li",
+   "s": [
+    "inject illegal drugs"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "p",
+   "s": [
+    "Symptoms of endocarditis may include:"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "a high temperature, or feeling hot, cold or shivery"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "headaches"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "feeling very tired"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "joint or muscle pain"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "regularly sweating a lot during the night (night sweats)"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "feeling breathless"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "loss of appetite or losing weight without trying to"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "p",
+   "s": [
+    "You may also have:"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "small dark-coloured spots on your skin, or red spots on your palms or the soles of your feet (these may be less obvious on brown or black skin)"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "small dark spots or dark lines under your fingernails"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "small, painful lumps on your fingers or toes"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "li",
+   "s": [
+    "chest or back pain"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Endocarditis > Symptoms of endocarditis",
+   "kind": "p",
+   "s": [
+    "The symptoms of endocarditis sometimes appear quickly over a few days but often come on slowly over weeks or months."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Endocarditis > Urgent advice: Get help from NHS 111 if you:",
+   "kind": "li",
+   "s": [
+    "have symptoms of endocarditis"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Endocarditis > Urgent advice: Get help from NHS 111 if you:",
+   "kind": "p",
+   "s": [
+    "You can get help from 111 online or call 111."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Endocarditis > Immediate action required: Call 999 if you or someone you're with:",
+   "kind": "li",
+   "s": [
+    "has face weakness – one side of the face may droop (fall) and it might be hard to smile"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Endocarditis > Immediate action required: Call 999 if you or someone you're with:",
+   "kind": "li",
+   "s": [
+    "has weakness or numbness in one arm or down one side of the body, or cannot fully lift both arms and keep them there"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Endocarditis > Immediate action required: Call 999 if you or someone you're with:",
+   "kind": "li",
+   "s": [
+    "has speech problems, such as slurring words, sounding confused, or finding it difficult to speak or find the right words"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Endocarditis > Immediate action required: Call 999 if you or someone you're with:",
+   "kind": "li",
+   "s": [
+    "gets blurred vision or loss of sight in one or both eyes"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Endocarditis > Immediate action required: Call 999 if you or someone you're with:",
+   "kind": "p",
+   "s": [
+    "These can be signs of a stroke, which can be a complication of endocarditis and needs to be treated immediately."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "p",
+   "s": [
+    "If you have symptoms of endocarditis, a doctor will examine you and listen to your chest.",
+    "They'll ask about any recent dental treatment or other medical procedures you've had."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "p",
+   "s": [
+    "If the doctor thinks you may have endocarditis, you'll usually be referred to a heart specialist (cardiologist)."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "p",
+   "s": [
+    "You'll have tests to:"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "check for any bacteria or fungi that could have caused an infection"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "see how your heart is working"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "look for any signs of damage to your heart"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "p",
+   "s": [
+    "These tests usually happen in hospital and may include:"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "testing samples of your blood and pee"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "a chest X-ray"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "an electrocardiogram and echocardiogram"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Endocarditis > Tests for endocarditis",
+   "kind": "li",
+   "s": [
+    "an MRI scan"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Endocarditis > Treatment for endocarditis",
+   "kind": "p",
+   "s": [
+    "Treatment for endocarditis usually involves medicine and sometimes surgery."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Endocarditis > Treatment for endocarditis > Medicine for endocarditis",
+   "kind": "p",
+   "s": [
+    "You'll be given antibiotic or antifungal medicine for 4 to 6 weeks to treat the infection."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Endocarditis > Treatment for endocarditis > Medicine for endocarditis",
+   "kind": "p",
+   "s": [
+    "This usually happens in hospital through a drip or injections into your vein (IV) to start with."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Endocarditis > Treatment for endocarditis > Medicine for endocarditis",
+   "kind": "p",
+   "s": [
+    "If you feel well enough and tests show the infection is under control, you may be able to finish having the IV medicine at home.",
+    "A friend, family member, carer or district nurse may help with this, or you may be able to do it yourself."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Endocarditis > Treatment for endocarditis > Medicine for endocarditis",
+   "kind": "p",
+   "s": [
+    "Some people may need to continue taking medicine tablets for a few more weeks after the IV treatment has finished."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Endocarditis > Treatment for endocarditis > Surgery for endocarditis",
+   "kind": "p",
+   "s": [
+    "Around half of people who have endocarditis will need surgery to remove or repair damaged heart tissue or valves."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Endocarditis > Treatment for endocarditis > Surgery for endocarditis",
+   "kind": "p",
+   "s": [
+    "Depending on where the infection is, you may also need to have a pacemaker fitted to keep your heart beating normally, or have your pacemaker removed and replaced if you already have one."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "Endocarditis is a serious condition but many people fully recover, particularly if the infection is found and treated early."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "It can take several months to feel completely better, especially if you had surgery.",
+    "It's normal to feel very tired for several weeks after treatment."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "You will need to have regular check-ups and blood tests during and after your recovery."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "This is to make sure the infection has gone and to look for any signs of damage that could cause other complications, such as heart failure."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "Having endocarditis increases your chance of having a stroke.",
+    "Your doctor will talk to you about things you can do to lower your risk of stroke and any treatment you may need."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Endocarditis > Recovering from endocarditis",
+   "kind": "p",
+   "s": [
+    "You also have a higher chance of getting endocarditis again, so it's important to know the symptoms and get help quickly if you think you may have it again."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Endocarditis > How to lower your chances of getting endocarditis if you're at higher risk",
+   "kind": "p",
+   "s": [
+    "If you're at higher risk of endocarditis, there are things you can do to lower your chance of getting it."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Endocarditis > How to lower your chances of getting endocarditis if you're at higher risk > Do take care of your teeth and gums and have regular dental check-ups – you may also be advised to speak to a doctor before having any dental procedures properly clean and cover any cuts and grazes to avoid getting infections wash your hands regularly make sure you and any family, friends or carers know the symptoms of endocarditis Don't",
+   "kind": "li",
+   "s": [
+    "do not get any piercings or tattoos without speaking to a doctor first"
+   ]
+  }
+ ]
+}

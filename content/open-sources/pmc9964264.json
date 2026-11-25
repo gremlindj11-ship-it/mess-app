@@ -1,0 +1,1563 @@
+{
+ "id": "pmc9964264",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC9964264",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9964264/fullTextXML",
+ "doi": "10.3390/ijms24043169",
+ "title": "A Comprehensive Review of Risk Factors for Venous Thromboembolism: From Epidemiology to Pathophysiology",
+ "authors": "Pastori D, Cormaci VM, Marucci S et al",
+ "journal": "International Journal of Molecular Sciences",
+ "year": "2023",
+ "updated": "2023-02-05",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Pastori D, Cormaci VM, Marucci S et al. A Comprehensive Review of Risk Factors for Venous Thromboembolism: From Epidemiology to Pathophysiology. International Journal of Molecular Sciences. 2023. https://doi.org/10.3390/ijms24043169. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "3c6e2c0f4c2e7dea8bfa4dc03a549115eaa9970f895be726022475443843883b",
+ "sentences": 344,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Venous thromboembolism (VTE) is the third most common cause of death worldwide.",
+    "The incidence of VTE varies according to different countries, ranging from 1–2 per 1000 person-years in Western Countries, while it is lower in Eastern Countries (<1 per 1000 person-years).",
+    "Many risk factors have been identified in patients developing VTE, but the relative contribution of each risk factor to thrombotic risk, as well as pathogenetic mechanisms, have not been fully described.",
+    "Herewith, we provide a comprehensive review of the most common risk factors for VTE, including male sex, diabetes, obesity, smoking, Factor V Leiden, Prothrombin G20210A Gene Mutation, Plasminogen Activator Inhibitor-1, oral contraceptives and hormonal replacement, long-haul flight, residual venous thrombosis, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, trauma and fractures, pregnancy, immobilization, antiphospholipid syndrome, surgery and cancer.",
+    "Regarding the latter, the incidence of VTE seems highest in pancreatic, liver and non-small cells lung cancer (>70 per 1000 person-years) and lowest in breast, melanoma and prostate cancer (<20 per 1000 person-years).",
+    "In this comprehensive review, we summarized the prevalence of different risk factors for VTE and the potential molecular mechanisms/pathogenetic mediators leading to VTE."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: venous thromboembolism, deep vein thrombosis, pulmonary embolism, SARS-CoV-2, cancer, antiphospholipid syndrome, thrombophilia"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Venous thromboembolism (VTE), which includes deep vein thrombosis (DVT) and/or pulmonary embolism (PE), is associated with an increased global burden and represents the third most common cause of death worldwide ."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The incidence rate for VTE in a previous study on the general population in Norway was estimated at 1.43 per 1000 person-years, while that for DVT was 0.93 per 1000 person-years and that for PE was 0.50 per 1000 person-years .",
+    "The estimated incidence of VTE according to different countries is reported in Table 1."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "1. Introduction",
+   "kind": "caption",
+   "s": [
+    "Table 1 Incidence (per 1000 person-years) of venous thromboembolism according to different countries."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Country | Incidence of VTE | Incidence of DVT | Incidence of PE"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Norway | 1.43 | 0.93 | 0.50"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Italy | - | - | 0.41–0.55"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "France | 1.84 | 1.198 | 0.64"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Spain | 1.54 | - | 0.33"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Germany | 1.4–3.2 | 1.1–2.9 | 0.8–1.6"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "United Kingdom | 0.75–1.31 | 0.40 | 0.34"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Denmark | 1.15 | 0.65 | 0.51"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "United States of America | 1.17 | 0.48 | 0.69"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Canada | 1.22–1.38 | 0.78 | 0.45"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Australia | 0.83 | 0.52 | 0.31"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Taiwan | 0.16 | - | -"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Hong Kong | 0.08 | 0.17 | 0.04"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Korea | 0.14 | 0.05 | 0.07"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Argentina | 1.65 | 1.30 | 0.69"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "1. Introduction",
+   "kind": "note",
+   "s": [
+    "DVT: Deep Vein Thrombosis, PE: Pulmonary Embolism, VTE: Venous Thromboembolism."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "However, during the last decades, several improvements in diagnostic and therapeutic management yielded a linear decrease in VTE-related incidence and deaths from 12.8 to 6.5 per 100,000 persons, without substantial sex-specific differences ."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The healthcare costs attributable to VTE are estimated at EUR 1.5–2.2 billion regarding annual hospitalisations in Europe and USD 7–10 billion in the United States of America, with USD 12,000–14,000 in the first year for each survivor of a VTE event ."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "As VTE is a preventable disease in many cases, an early risk stratification of patients with the identification of high-risk patients may lead to more effective therapeutic strategies, with an estimated saving of EUR 0.5–1.1 billion/year ."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Indeed, despite some VTE events occurring without any apparent major reason (the so-called “unprovoked” VTE), most VTEs share one or more identifiable risk factors that may cause or facilitate the occurrence of VTE.",
+    "These may be related to patients’ characteristics, usually permanent, as well as to acute clinical conditions, usually transient .",
+    "Furthermore, there is convincing evidence that the risk of VTE increases along with the number of predisposing factors .",
+    "Not all identified factors give the same risk for VTE and, based on the results of large observational studies, they were broadly classified into weak (defined as an odds ratio <2), moderate (defined as an odds ratio 2–9) and strong (defined as an odds ratio >9) by the 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS) (Table 2).",
+    "While strong risk factors, such as major surgery, trauma or hip fracture, are generally actively searched by clinicians who adopt effective VTE prophylaxis strategies, the presence of a moderate or weak risk factor may be unrecognized, requiring a careful clinical evaluation .",
+    "Furthermore, the exact risk of patients concomitantly presenting with more than one weak or moderate risk factor is yet to be established.",
+    "Several risk stratification models have been proposed to help clinical judgement, but consensus about the best one to use is still lacking.",
+    "For instance, in hospitalized medical patients, the most widely evaluated were the Caprini, the Padua and the IMPROVE scores .",
+    "Conversely, the Khorana, Vienna, PROTECHT and CONKO scores may be used to predict the risk of VTE in cancer patients .",
+    "However, not all these scores received a convincing validation, so that a careful individual evaluation of risk factors is needed."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "1. Introduction",
+   "kind": "caption",
+   "s": [
+    "Table 2 Risk factors for venous thromboembolism."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Weak Risk Factors"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Bed rest >3 days/prolonged travel Cardiovascular risk factors (Diabetes mellitus/Arterial hypertension/Obesity) Elderly Minor surgery Pregnancy/puerperium Varicose veins"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Moderate Risk Factors"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Arthroscopic knee surgery Autoimmune diseases (Sjogren’s syndrome, rheumatoid arthritis, systemic lupus erythematosus, vasculitis and systemic sclerosis) Blood transfusion/Erythropoiesis-stimulating agents Central venous lines/Intravenous catheters and leads Chronic congestive heart failure or respiratory failure Hormone replacement therapy/In vitro fertilization/Oral contraceptive therapy Infection (specifically pneumonia, urinary tract infection and HIV) Inflammatory bowel disease Cancer (highest risk in metastatic disease)/Chemotherapy Paralytic stroke Superficial vein thrombosis Thrombophilia"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Strong Risk Factors"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Fracture of lower limb/Hip or knee replacement/Spinal cord injury Hospitalization for heart failure or atrial fibrillation/flutter or Myocardial infarction (within previous 3 months) Major trauma Previous VTE Antiphospholipid syndrome Thrombophilia (homozygous of Factor V of Leiden or prothrombin 20210, antithrombin deficiency and combination thrombophilia)"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Uncertain Risk Factors"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "1. Introduction",
+   "kind": "row",
+   "s": [
+    "Thrombophilia (heterozygous of Factor V of Leiden or prothrombin 20210, PAI-1 mutation and Protein C and S deficiency) Male sex Smoking habits Myopathies"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "1. Introduction",
+   "kind": "note",
+   "s": [
+    "PAI-1: plasminogen activator inhibitor-1, VTE: venous thromboembolism."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Compared to previous works on this topic , the aim of this comprehensive narrative review is to provide a general updated overview on the epidemiology of old and new risk factors for VTE considering the advances in the field of thrombosis that occurred in the last decade, mainly related to cancer, antiphospholipid syndrome and, more recently, COVID-19, and to describe the pathophysiological mechanisms through which each factor contributes to the risk of VTE."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "VTE is characterized by the development of thrombi in virtually all venous districts.",
+    "Venous thrombi are more frequently found in valve pockets and dilated sinuses of the lower limbs, and they have a laminar structure enriched with platelets, red blood cells, leukocytes and fibrin .",
+    "In the first phases of thrombus growth, they are not closely adherent to the endothelium, and they may lead to PE ."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "Virchow’s triad has historically represented a simple method to summarize the pathophysiology of VTE, including blood flow stasis, hypercoagulability, endothelial dysfunction and injury .",
+    "This schematic representation is still valid, and the most commonly identified risk factors of VTE play a role in at least one element of Virchow’s Triad.",
+    "Table 3 summarizes the mechanism of action of common VTE risk factors.",
+    "However, recurrent VTE is often idiopathic with no clear detectable risk factor ."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "caption",
+   "s": [
+    "Table 3 Pathogenesis of risk factors for VTE."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Risk Factor | Stasis | Vascular Disfunction/Injury | Abnormal Coagulation Cascade | Innate Immunity Activation/Increase of Inflammatory Mediators | Higher Number of Platelets"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Aging | - | + | + | + | -"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Venous catheter insertion | - | + | - | - | -"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Hormonal therapy/oral contraceptives | - | - | + | - | -"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Trauma | + | + | - | + | -"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Surgery | + | - | - | + | -"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Prolonged bed rest/plaster cast | + | - | - | - | -"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Long-haul flight | + | - | - | - | -"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Diabetes | - | + | + | - | -"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Obesity | + | - | + | - | +"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Smoking | - | - | + | + | +"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "SARS-CoV2 infection | - | + | - | + | -"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Infection/sepsis | - | + | - | + (also acquired immunity) | -"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Inflammatory disease | - | - | - | + (also acquired immunity) | -"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Cancer | - | + | - | + | +"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Chemotherapy | - | + | - | + | -"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "row",
+   "s": [
+    "Inherited and acquired thrombophilia | - | - | + | - | -"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "The pathogenesis of VTE is, however, complex, and other mechanisms, including endothelial damage, macrophages, red blood cells and platelets (PLTs), have been investigated ."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "The first hit in the development of VTE is related to an injury of the venous endothelium due to local/systemic inflammation and blood hypoxemia.",
+    "Indeed, an unharmed and intact vein vessel expresses thrombomodulin, endothelial protein C receptor, tissue factor (TF) pathway inhibitor and heparin-like proteoglycans that explicate an anticoagulant effect and ectonucleotidase CD39/NTPDase1, nitric oxide (NO) and prostacyclin that contribute to endothelial function and vasodilatation and inhibition of PLTs aggregation .",
+    "However, an endothelium injury leads to a downregulation of the above-mentioned anticoagulant pathways and to an upregulation of prothrombotic proteins, such as Tissue Factor (TF) , and adhesion molecules, such as P-selectin, E-selectin and Von Willebrand factor (vWF) that trap leukocytes and PLTs (Figure 1) .",
+    "The expression of prothrombotic molecules, such as P- and E- selectin and vWF, seems to be increased by low blood flow ."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "caption",
+   "s": [
+    "Figure 1 Summary of general mechanisms of venous thrombosis."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "Afterwards, PLTs and white blood cells (WBCs) bind vWF and P- and E- selectin, and WBCs start expressing TF, triggering coagulation cascade activation .",
+    "In addition, among WBCs, polymorphonuclear neutrophils (PMNs) release neutrophil extracellular traps (NETs).",
+    "These are constituted by extracellular desoxyribonucleic acid (DNA), histones and neutrophil antimicrobial proteins and may contribute as a scaffold to thrombus formation , inducing platelets adhesion and activation and maintaining the thrombus stability like fibrinogen and von Willebrand factor ."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "Several factors modulate PLT activation, such as injury and inflammation ; indeed, PLTs express intracellular and membrane toll-like receptors (TLRs) that bind Damage-Associated Molecular Patterns (DAMPs) and Pathogen Associated Molecular Patterns (PAMPs), resulting in PLTs activation.",
+    "PAMPs and DAMPs are also recognized by TLRs expressed by various immune cells .",
+    "After binding PAMPs and DAMPs, immune cells generate reactive oxygen (ROS) and nitrogen species (NOS), and produce cytokines, such as tumour necrosis factor α, interleukin 8 and interferon (Figure 1) ."
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "2. General Mechanisms of Venous Thromboembolism",
+   "kind": "p",
+   "s": [
+    "Therefore, the binding of platelets to vWF and WBCs to P-selectin and E-selectin lead, on the one hand, to platelet activation and aggregation and, on the other, to the release of TF.",
+    "In particular, the increased production of TF leads to the activation of the extrinsic pathway of coagulation, with final formation of fibrin and entrapment of red blood cells and PLTs, resulting in a red-blood-cells-rich thrombus formation ."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.1. Male Sex",
+   "kind": "p",
+   "s": [
+    "Growing evidence suggests that male sex represents a risk factor for VTE.",
+    "In a work performed by Baglin et al., VTE recurrence after a first unprovoked event was 25.7% in men and 11.7% in women after 2 years follow-up .",
+    "A similar difference was observed by Kyrle et al., who registered recurrence rates of 20% and 6%, respectively, at 26 months follow-up, with an age-adjusted RR of 3.6 for male sex .",
+    "At 5 years, the likelihood of recurrence was 30.7 percent among men, as compared with 8.5 percent among women (p < 0.001) .",
+    "Data from the PROLONG study showed how VTE recurrence was higher in men than women (7.4% vs. 4.3% patient-years, Hazard Ratio [HR]: 1.7, p = 0.027) ."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.1. Male Sex",
+   "kind": "p",
+   "s": [
+    "A patient-level meta-analysis of 7 prospective studies with 2554 patients with a first VTE showed that recurrent VTE at 1 year was higher in men than women, both at 1 year (9.5% vs. 5.3%) and at 3 years (11.3% vs. 7.3%) .",
+    "The risk of an unprovoked first VTE was higher in men (HR 2.2, 95%CI, 1.7–2.8) also after adjustment for hormone-associated VTE (HR 1.8; 95% confidence interval [95%CI] 1.4–2.5) .",
+    "However, the risk of provoked VTE following a major risk factor was similar between men and women.",
+    "In particular, in women, the risk of recurrent VTE was lower when the initial event was related to hormonal causes compared to those without previous hormone use (HR 0.5, 95%CI, 0.3–0.8) ."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.1. Male Sex",
+   "kind": "p",
+   "s": [
+    "An analysis of 4 European cohorts (CARROT study; CVTE study; AUREC study; and LETS follow-up study), including 2185 patients with a first VTE (1043 men and 1142 women) showed that men had a 2.8-fold higher risk of recurrent VTE than women .",
+    "This risk was as high as 5.2-fold in men than in women with reproductive risk factors, and 2.3-fold (95%CI, 1.7–3.2) higher in men than in women without reproductive risk factors ."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.1. Male Sex",
+   "kind": "p",
+   "s": [
+    "However, the factors behind these divergent results are still unclear.",
+    "Olié et al. found that risk factors for VTE recurrence may differ between male and female: Factor V Leiden mutation was a risk factor for recurrent VTE in male patients (HR 3.5, 95%CI, 1.5–8.1), while in women, the VTE recurrence rate seems to be more related to age at first event (HR 1.3, 95%CI, 1.1–1.5) and obesity (HR 2.5, 95%CI, 1.1–5.5) .",
+    "A risk modifier may be represented by aging.",
+    "In a previous study, the incidence of DVT remained constant for males across all age strata, while it was lower for females <55 years and increased for those >60 years ."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.1. Male Sex",
+   "kind": "p",
+   "s": [
+    "A recent study including 13,932 men with VTE, those aged <50 and ≥50 years without risk factors, had a recurrence risk of 10% at 2 years .",
+    "For men with risk factors aged <50 years, this risk ranged from 6% (major surgery) to 16% (history of cancer), and in those ≥50 years, from 7% (major surgery) to 12% (ischemic heart disease, chronic obstructive pulmonary disease, and chronic renal disease) ."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.2. Diabetes",
+   "kind": "p",
+   "s": [
+    "Most epidemiological studies demonstrate an increased risk of VTE among diabetic patients.",
+    "A metanalysis with 803,627,121 participants and 10,429,227 VTE patients showed that diabetes was associated with a higher risk of VTE (HR, 1.35; 95%CI, 1.17–1.55) .",
+    "Furthermore, patients with diabetes who developed VTE are more likely to suffer a complicated clinical course and to suffer from recurrent DVT (14.9% vs. 10.7%) and long-term major bleeding complications (16.4% vs. 11.7%) ."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.2. Diabetes",
+   "kind": "p",
+   "s": [
+    "Despite this convincing evidence, it is still unclear if poor glycaemic control may have a role in increasing the risk of VTE.",
+    "In a case control study performed on 188 patients with VTE and 370 controls, increased glucose levels measured at presentation were associated with VTE .",
+    "Thus, compared to the first quartile (blood glucose < 5.3 mmol/L), the third (5.7–6.6 mmol/L) and fourth quartile (≥6.6 mmol/L) were associated with an increased risk of DVT (Odds Ratio [OR] 2.04, 95%CI, 1.15–3.62 and OR 2.21, 95%CI, 1.20–4.05, respectively) ."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.2. Diabetes",
+   "kind": "p",
+   "s": [
+    "Data from the “Atherosclerosis Risk in Communities” (ARIC) study performed on 12,298 patients showed that haemoglobin A1c levels were not associated with VTE .",
+    "Similar findings were reported in the prospective cohort of “Swiss Cohort of Elderly Patients with Venous Thromboembolism” (SWITCO 65+), which enrolled 888 elderly patients with acute VTE ."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.2. Diabetes",
+   "kind": "p",
+   "s": [
+    "On the other hand, a case-control study performed on 2653 VTE patients and 10,612 controls showed that female patients with diabetes and HbA1c levels >7% may have a slightly higher risk for VTE than those with HbA1c 6.5–7.0% ."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.2. Diabetes",
+   "kind": "p",
+   "s": [
+    "It has been, therefore, questioned whether the increased risk of VTE associated with diabetes may result from the presence of confounders, such as concomitant comorbidities, rather than to diabetes itself .",
+    "Indeed, concomitant cardio-metabolic disorders may contribute to the hypercoagulability and endothelial dysfunction described in diabetic patients, such as decreased levels of protein C and increased levels of tissue factor (TF), fibrinogen and coagulation factors VII, VIII and XIII .",
+    "A recent study detected increased thrombin generation, along with a higher number of circulating microparticles bearing endogenous pro-coagulant triggers in plasma samples of diabetic (type II) patients ."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.3. Smoking",
+   "kind": "p",
+   "s": [
+    "Smoking is a well-proved risk factor for atherosclerotic disease, but its association with VTE is less established.",
+    "A metanalysis that included participants without cardiovascular disease or VTE at baseline showed that current smoking was associated with an increased VTE risk (HR 1.38 95%CI, 1.20–1.58).",
+    "The HR remained similar after excluding patients diagnosed with cancer , that is, in contrast with previous studies linking excess VTE risk to an increased hospitalization for smoking-related diseases, including cancer .",
+    "A more recent metanalysis has shown that current smoking was significantly associated with VTE prevalence in case-control studies (OR 1.34, 95%CI, 1.01–1.77), but not in cohort studies (Relative Risk [RR] 1.29, 95%CI, 0.96–1.72) ."
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.3. Smoking",
+   "kind": "p",
+   "s": [
+    "The association between smoking and VTE risk seems to be dose-dependent.",
+    "A large metanalysis showed that compared with never smokers, the overall combined relative risks (RRs) for developing VTE were 1.17 (95%CI 1.09–1.25) for ever smokers, 1.23 (95%CI 1.14–1.33) for current smokers and 1.10 (95%CI 1.03–1.17) for former smokers .",
+    "The risk increased by 10.2% (95%CI 8.6%–11.8%) for every additional 10 cigarettes smoked per day or by 6.1% (95%CI 3.8%–8.5%) for every additional 10 packs per year ."
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.3. Smoking",
+   "kind": "p",
+   "s": [
+    "Nicotine and other addictive substances in cigarettes have been shown to increase the percentage of ROS, determining reduced nitric oxide (NO) availability and generating an inflammatory and prothrombotic microenvironment .",
+    "The loss of the NO-related protective effect and increased ROS production increase platelet reactivity and lipid peroxidation."
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "Obesity is a well-known risk factor for cardiovascular disease, but it is considered a weak risk factor for VTE .",
+    "In the Tromso study including 6170 subjects aged 25–84 years, abdominal obesity was the only component of the metabolic syndrome associated with VTE (HR 2.03, 95%CI, 1.49–2.75) ."
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "In an analysis from the Framingham heart study, obesity as defined by body mass index (BMI) ≥ 30 was associated with incident “unprovoked” VTE (HR 2.74, 95%CI, 1.75–4.30) ."
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "Gregson et al. analysed the relationship of different markers of adiposity (BMI, waist–to–hip ratio and waist circumference) with VTE.",
+    "The HR for “unprovoked” VTE were 1.40 (1.34–1.46) per 1-SD higher BMI, 1.58 (1.43–1.75) for waist–to–hip ratio and 1.67 (1.58–1.78) for waist circumference ."
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "Obesity may cause thrombosis due to the activity of adipocytokines, such as leptin and adiponectin, increasing coagulation activity and inflammation and decreasing the fibrinolytic cascade .",
+    "Thus, leptin increases the expression of Plasminogen Activator Inhibitor-1 (PAI-1) in endothelial cells, impairing fibrinolysis and thrombus resolution ."
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "There is also evidence for an increased release of IL-6 and leptin from adipose cells , which have a proinflammatory effect that, in combination with the blood stasis caused by the mechanical impairment of obese people, promotes the thrombus formation.",
+    "In addition, increased leptin levels in obese patients seem to increase PLTs adhesion to fibrinogen and binding of soluble fibrinogen .",
+    "In addition, leptin may promote the generation of active TF."
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.4. Obesity",
+   "kind": "p",
+   "s": [
+    "Adiponectin is the most represented adipose-related cytokine, and its serum levels seem to be reduced in obese patients.",
+    "Adiponectin had an anti-inflammatory, anti-atherosclerotic and antithrombotic effect by modulating endothelial function , smooth muscle cells, PLTs and macrophages ."
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.5. Factor V Leiden (FVL)",
+   "kind": "p",
+   "s": [
+    "Under physiological conditions, factor V is a procoagulant protein that accelerates the conversion of prothrombin to thrombin and is inactivated by activated protein C. Factor V Leiden (FVL) is a gain-of-function mutation causing resistance to activated protein C, which determines the hypercoagulable state and an increased risk of VTE .",
+    "FVL is the most prevalent inherited thrombophilia in the general population, but is rarely found in non-Caucasian populations.",
+    "The mutation can be inherited in heterozygosis, with an estimated prevalence of 4.7% among Europeans or those with European ancestry , or in homozygosis, with a prevalence estimated at 0.06–0.25% .",
+    "The prevalence of this inherited thrombophilia increases to 19% in patients diagnosed with DVT and to 28.4% in those with recurrent VTE .",
+    "The prevalence of FVL has been also investigated in patients with venous thrombosis in unusual sites.",
+    "A metanalysis including 1822 cases of cerebral vein thrombosis (CVT) and 7795 controls showed an increased prevalence of FVL carriers in patients with CVT (OR 2.70, 95%%CI 2.16–3.38), but the association varies depending on the geographic area .",
+    "A meta-analysis including 1748 cases of retinal vein thrombosis and 2716 controls also showed an increased prevalence of FVL mutation in patients with retinal vein obstruction (OR 1.66, 95%CI, 1.19–2.32) .",
+    "An increased prevalence of FVL mutation was also found in a splanchnic veins thrombosis cohort, with a prevalence from 4 to 26% in patients with Budd–Chiari syndrome ."
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.5. Factor V Leiden (FVL)",
+   "kind": "p",
+   "s": [
+    "FVL mutation is associated with an increased risk of VTE.",
+    "The strength of this risk factor is different depending on it being inherited in homozygous or heterozygous form.",
+    "The risk of a first episode of VTE in a heterozygous FVL is about 3 times higher than in patients without (OR 3.61, 95%CI, 2.02–5.95) , while the risk of developing a first VTE in an homozygous carrier of FVL is about 11 times higher (OR 11.45, 95%CI, 6.79–19.29) .",
+    "The risk of recurrence in patients not receiving a proper anticoagulant therapy is also markedly increased (OR 5.81, 95%CI, 4.03–8.38) ."
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.6. Prothrombin G20210A Gene Mutation (PGM)",
+   "kind": "p",
+   "s": [
+    "Prothrombin G20210A Gene Mutation (PGM) is estimated to be the second most commonly inherited thrombophilia after FVL and was first described in 1996 by Poort and colleagues .",
+    "The G20210A mutation in the prothrombin gene is a substitution of guanine to adenine at position 20,210 in the 3-untranslated region of the coagulation factor II gene .",
+    "This gain-of-function mutation results in a higher level of prothrombin, and so also, the level of thrombin may rise, resulting in an increased risk of VTE ."
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.6. Prothrombin G20210A Gene Mutation (PGM)",
+   "kind": "p",
+   "s": [
+    "The prevalence of PGM is 2.0% in the general population and ranges between 3–22% in patients with a portal vein thrombosis .",
+    "An increased risk of having PGM was also reported in patients with a cerebral vein thrombosis (OR 5.84, 95%CI, 3.96–8.58) ."
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.6. Prothrombin G20210A Gene Mutation (PGM)",
+   "kind": "p",
+   "s": [
+    "The risk of developing a first episode of VTE in PGM carriers is increased by nearly 3-fold (OR 2.80, 95%CI, 2.25–3.48) , while the risk of developing a portal vein thrombosis is estimated to be 4 times higher (OR 4.48, 95%CI, 3.10–6.48) than in non-carriers."
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.6. Prothrombin G20210A Gene Mutation (PGM)",
+   "kind": "p",
+   "s": [
+    "While the prevalence of PGM in patients who develop a recurrence in VTE is estimated to be 6% , PGM carriers do not have an apparent higher risk of VTE recurrence (OR 1.45, 95%CI, 0.96–2.21) , challenging the need for long-term anticoagulation in these patients."
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.7. Plasminogen Activator Inhibitor-1",
+   "kind": "p",
+   "s": [
+    "PAI-1 is a serine protease that plays a key role in the fibrinolytic system by inhibiting fibrinolytic activators tPA and uPa.",
+    "Through this mechanism, PAI-1 compromises the conversion of plasminogen to plasmin, which dissolves fibrin blood clots .",
+    "The 4G/4G homozygous genotype of PAI-1 is a gain of function and is associated with a higher level of PAI-1 that may compromise fibrin clearance with a pathological fibrin deposition and an increased risk of VTE ."
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.7. Plasminogen Activator Inhibitor-1",
+   "kind": "p",
+   "s": [
+    "In a study by Folsom et al., the prevalence of this mutation, in its homozygous form, is estimated to be 7.2% in patients presenting with an episode of VTE and 3.4% in healthy controls ."
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.7. Plasminogen Activator Inhibitor-1",
+   "kind": "p",
+   "s": [
+    "PAI-1 mutation is associated with an increased susceptibility to VTE (OR 1.25, 95%CI, 1.05–1.49) when considered in its homozygous form 4G/4G versus the wild type 5G/5G, and with an OR of 1.38 (95%CI, 1.06–1.81) when considering overall the carriage of a mutated allele versus the wild type .",
+    "Data on the incidence of recurrent VTE are still lacking."
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.8. Oral Contraceptives and Hormonal Replacement",
+   "kind": "p",
+   "s": [
+    "Combined oral contraceptives and hormonal replacement therapy are established risk factors for thrombosis, both arterial and venous, with a higher incidence for the latter.",
+    "Millions of women worldwide are estimated to be under this treatment, and this therapy is generally preceded by an evaluation of the patient’s thrombotic risk .",
+    "Hormonal treatment is usually composed of an association of oestrogens and progesterone."
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.8. Oral Contraceptives and Hormonal Replacement",
+   "kind": "p",
+   "s": [
+    "The use of combined oral contraceptives carries an increased risk of a first VTE episode, with a RR of 3.5 (95%CI, 2.9–4.3), although the risk may increase with higher oestrogen doses (>30 mcg of ethinyl oestradiol) and non-levonorgestrel progestin .",
+    "Hormonal replacement therapy is associated with a milder risk of VTE (OR 2.35, 95%CI, 1.9–2.9), and this risk is even lower when patients are under non-oral hormonal replacement therapy.",
+    "The risk of VTE in oral vs. non-oral intake is 1.8 times higher (OR 1.8, 95%CI 1.35–2.29) ."
+   ]
+  },
+  {
+   "at": "b93",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.8. Oral Contraceptives and Hormonal Replacement",
+   "kind": "p",
+   "s": [
+    "A metanalysis also showed an association between hormonal contraceptive therapy and an increased risk of CVT, with an OR of 7.95 (95%CI, 3.82–15.02) compared to untreated women ."
+   ]
+  },
+  {
+   "at": "b94",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.8. Oral Contraceptives and Hormonal Replacement",
+   "kind": "p",
+   "s": [
+    "Being a moderate intensity risk factor, compared with non-users, the OR for recurrence among estrogen-containing-contraceptive users was 0.4 (OR, 95%CI, 0.2–0.8), indicating a very safe profile in terms of recurrence ."
+   ]
+  },
+  {
+   "at": "b95",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.8. Oral Contraceptives and Hormonal Replacement",
+   "kind": "p",
+   "s": [
+    "As mentioned, hormonal therapy is linked to thrombotic risk mainly by oestrogens dose and oral administration, although the mechanisms are not fully understood .",
+    "This kind of treatment has been shown to increase the generation of thrombin, with a raise of D-dimer level and thrombin generation (F1 + 2) .",
+    "In addition, hormone therapy also plays a role on the regulation of endothelial function.",
+    "A few reports suggest a dose-dependent role of oestrogens in expressing matrix metalloproteinases, which damage intima’s collagen and elastin, determining venous stasis, increased vascular permeability and thus facilitating venous thrombosis ."
+   ]
+  },
+  {
+   "at": "b96",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "Cancer represents a strong risk factor for the development of cancer-associated thrombosis (CAT), with an estimated increased risk of VTE 4 to 6.5 times higher than in people without cancer ."
+   ]
+  },
+  {
+   "at": "b97",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The prevalence of CAT is growing due to the longer patient survival; to a wider cancer surveillance, which increases the early and major detection of silent thrombosis; and to the major use of central venous catheters (CVC).",
+    "Indeed, CAT represents almost 20% of the overall incidence of total VTE .",
+    "In the RIETE Registry, active or actively treated cancer accounts for 17% (n = 6075) of 35,359 patients with VTE ."
+   ]
+  },
+  {
+   "at": "b98",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The risk of VTE is highest in the first 3 months after cancer diagnosis (OR: 53.5; 95%CI: 8–334.4) , probably related to cancer treatments (surgery, chemotherapy or radiotherapy).",
+    "Furthermore VTE, especially in atypical sites , is often the first and only sign that leads to diagnosing occult malignancy."
+   ]
+  },
+  {
+   "at": "b99",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "On top of that, CAT plays an important role in defining the mortality and morbidity of these patients; it represents the second leading cause of death after disease progression ."
+   ]
+  },
+  {
+   "at": "b100",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The risk of CAT varies according to tumour-related factors, such as cancer site and stage, malignancy treatment, patient related factors and biomarkers.",
+    "A metanalysis including 57,591 patients, representative of 8 types of cancer, showed an overall risk of VTE of 13 per 1000 person-years, increasing to 68 per 1000 person-years in patients with metastatic disease .",
+    "The highest risk was seen in pancreatic cancers (110/1000 patient-years), while it was much lower in breast and prostate cancer (10/1000 patient-years) ."
+   ]
+  },
+  {
+   "at": "b101",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "In addition, cancer treatments may favour CAT onset .",
+    "The use of thalidomide , lenalidomide and hormonal therapy is associated with an increased risk of venous and arterial thrombosis (RR 1.6; 95%CI: 1.3–2.1) .",
+    "It is not well known yet if a role can be played by radiation therapy or new targeted therapies .",
+    "Among these, there are some studies about antiangiogenic agents, such as bevacizumab , which has showed a higher risk of CAT in patients treated with itself and cisplatin compared to patients with non-cisplatin or non-bevacizumab therapies (1.67, 95%CI, 1.25–2.23 and 1.33 95%CI, 1.13–1.56 respectively) ."
+   ]
+  },
+  {
+   "at": "b102",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "In the Computerized Registry of Patients with Venous Thromboembolism (RIETE) study, recurrent CAT at 3 months occurred in 11.4% of patients with cancer vs. 2.1% in those without (p < 0.001) ."
+   ]
+  },
+  {
+   "at": "b103",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "In a prospective study, the 1-year rate of CAT was high in gastrointestinal (HR 5.1 95%CI: 2.3–11.3) and lung cancer (HR 6.9 95%CI: 3–15.9) ."
+   ]
+  },
+  {
+   "at": "b104",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The risk of CAT/VTE according to cancer type is reported in Table 4."
+   ]
+  },
+  {
+   "at": "b105",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "caption",
+   "s": [
+    "Table 4 Risk of venous thrombosis according to cancer type."
+   ]
+  },
+  {
+   "at": "b106",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Type of Cancer | Incidence Rate (per 1000 Person-Years) | Hazard Ratio (95%CI)"
+   ]
+  },
+  {
+   "at": "b107",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Pancreatic | 156.0 | 50.4 (36.5–69.6)"
+   ]
+  },
+  {
+   "at": "b108",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Ovarian | 71.8 | 30.7 (21.0–45.1)"
+   ]
+  },
+  {
+   "at": "b109",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Liver | 103.6 | 23.1 (13.4–39.8)"
+   ]
+  },
+  {
+   "at": "b110",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Lymphoma - Hodgkin - Non-Hodgkin | 60.5 59.5 | 95.8 (22.9–401.2) 20.1 (15.5–26.0)"
+   ]
+  },
+  {
+   "at": "b111",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Leukaemia | 29.8 | 9.6 (7.1–13.0)"
+   ]
+  },
+  {
+   "at": "b112",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Stomach | 66.4 | 20.1 (14.0–28.9)"
+   ]
+  },
+  {
+   "at": "b113",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Colon | 51.9 | 12.8 (11.2–14.7)"
+   ]
+  },
+  {
+   "at": "b114",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Brain | 54.6 | 23.0 (14.7–35.9)"
+   ]
+  },
+  {
+   "at": "b115",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Bladder | 37.8 | 8.9 (6.9–11.4)"
+   ]
+  },
+  {
+   "at": "b116",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Kidney | 51.2 | 22.3 (15.4–32.3)"
+   ]
+  },
+  {
+   "at": "b117",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Melanoma | 7.3 | 2.9 (2.2–3.8)"
+   ]
+  },
+  {
+   "at": "b118",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Prostate | 16.5 | 3.8 (3.3–4.3)"
+   ]
+  },
+  {
+   "at": "b119",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Lung - Non-small cells - Small cells | 74.4 43 | 20.0 (17.4–22.9) 14.8 (10.0–21.9)"
+   ]
+  },
+  {
+   "at": "b120",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Breast | 13.2 | 4.5 (3.9–5.1)"
+   ]
+  },
+  {
+   "at": "b121",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "row",
+   "s": [
+    "Uterine | 30.1 | 10.8 (7.8–14.9)"
+   ]
+  },
+  {
+   "at": "b122",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "note",
+   "s": [
+    "CI: confidence interval."
+   ]
+  },
+  {
+   "at": "b123",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The association between cancer and VTE is based on complex mechanisms that result in a hypercoagulative state , determined by the massive release of inflammatory cytokines, by the expression of haemostatic proteins on tumour cells and by the activation of the clotting system .",
+    "Non-haematologic cancers determine the release of granulocyte stimulatory factors, which leads to an important leukocytosis , especially neutrophils filled with NETs.",
+    "These granules are put out in response to the inflammatory tumour microenvironment, in addition to the thrombocytosis of cancer patients, the direct contact-pathway of coagulation cascade.",
+    "Indeed, elevated leukocyte and platelet counts have been associated to an increased risk of VTE in patients with cancer.",
+    "One study reported that patients with platelet count >443 × 10 9 /L have a risk of CAT 3.5-fold higher than patients without malignancy ."
+   ]
+  },
+  {
+   "at": "b124",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "Massive release of TF is another characteristic of many tumours; it is provoked by the presence of microparticles (MPs), cellular fragments of platelets or endothelial cells of 0.1–1 µm diameter, found in pancreatic, brain and lung cancer, especially in patients with high severity or metastatic disease.",
+    "TF and MPs and P-selectin, which can be found on activated platelets or endothelial cells and whose levels above 75% percentile increase of 2.5-times the risk of VTE, are not only responsible for the activation of coagulation cascade, but also avoid immune detection of tumour cells and disease progression .",
+    "Chemotherapy and placement of long-term CVC determine a further risk factor of thrombosis, damaging the endothelial surface and releasing NETs, which promote clot formation."
+   ]
+  },
+  {
+   "at": "b125",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.9. Cancer",
+   "kind": "p",
+   "s": [
+    "The risk of CAT may be increased by some specific patient’s characteristics, such as obesity, age (>65 years), medical comorbidities and ethnicity .",
+    "In a study of White et al., VTE incidence was significantly higher in Caucasians than in Hispanics and Asian patients ."
+   ]
+  },
+  {
+   "at": "b126",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.10. Long-Haul Flight",
+   "kind": "p",
+   "s": [
+    "The first cases of VTE associated with air travel were reported in 1954.",
+    "Since them, other cases have been described, also regarding atypical thrombosis .",
+    "The overall VTE risk may be as high as 1.2% if we depend on ultrasound screening studies, but it is around 0.05% counting only symptomatic DVTs , and the relative risk varies according to controls selection criteria, ranging from 1 with controls referred for VTE evaluation to 3 with non-referred control participants .",
+    "However, the association seems to be stronger with the increase of travel duration .",
+    "The WHO Research into global hazards of travel (WRIGHT) project concluded that the absolute risk of VTE per more than 4 h flight, in a cohort of healthy individuals, was 1 in 6000 .",
+    "In a case control study with 210 patients with VTE and 210 healthy controls, the relative risk of VTE was higher (3-fold) when only long-distance flights were considered .",
+    "Parkin et al. performed an observational study on 121 men and women with fatal PE, 11 of them with a history of long-haul flight in the past 4 weeks, and concluded that 1.3 (95%CI 0.4–3.0) for a million passengers with a flight > 8 h developed PE .",
+    "In a case-control study with 88 fatal PE cases and 334 healthy controls, the same investigators found that the adjusted OR for travellers who had flown for >8 h was 7.9 (95%CI, 1.1–55.1) .",
+    "According to MacCallum et al., the risk associated with air travel is not limited only to long individual flights, but also to cumulative flight time.",
+    "In their study with 550 VTE cases and 1971 controls, cases were two- to three-fold more likely than controls to have flown >4 h in any one leg of their journey or >12 h in total over the previous 4 weeks ."
+   ]
+  },
+  {
+   "at": "b127",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.10. Long-Haul Flight",
+   "kind": "p",
+   "s": [
+    "However, VTE risk associated with long-haul-flight increases with the presence of other VTE risk factors, such as a previous thrombosis history.",
+    "In the above research from MacCallum et al., cases were 8-fold more likely to have a previous history of VTE than controls ."
+   ]
+  },
+  {
+   "at": "b128",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.10. Long-Haul Flight",
+   "kind": "p",
+   "s": [
+    "The increased risk of VTE seems to be connected to two different factors, such as immobilization and hypobaric hypoxia.",
+    "Immobilization and cramped seating during long-haul flights carry a major risk of VTE due to the compression of popliteal veins , with blood stasis and activation of the coagulation cascade.",
+    "On the other hand, hypobaric hypoxia is responsible for the inhibition of the fibrinolytic system and the generation of thrombin, as shown by increased levels of D-Dimer and reduced levels of PAI-1 in travellers ."
+   ]
+  },
+  {
+   "at": "b129",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.11. Antiphospholipid Syndrome (APS)",
+   "kind": "p",
+   "s": [
+    "Antiphospholipid syndrome (APS) is an immune-mediated disease characterized by thrombotic and/or obstetrical events .",
+    "Thrombotic APS is characterized by venous, arterial or microcirculation thrombosis .",
+    "This disease is caused by antibodies directed against membrane anionic phospholipids (mainly anticardiolipin and anti-phosphatidylserine antibodies) or their associated plasma proteins, mainly beta-2 glycoprotein I (β2GPI), or the presence of a lupus anticoagulant (LAC) ."
+   ]
+  },
+  {
+   "at": "b130",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.11. Antiphospholipid Syndrome (APS)",
+   "kind": "p",
+   "s": [
+    "VTE in APS patients usually occurs as DVT of lower limbs , but venous thrombosis in unusual locations, such as hepatic veins or cerebral venous circulation, are also common, while arterial thrombosis generally affects the cerebral arterial circulation .",
+    "The exact thrombotic risk associated with this condition needs to be completely investigated."
+   ]
+  },
+  {
+   "at": "b131",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.11. Antiphospholipid Syndrome (APS)",
+   "kind": "p",
+   "s": [
+    "The antiphospholipid antibodies’ profile shows a strong association with the risk of thrombosis.",
+    "LA positivity carries the strongest association with both arterial and venous thrombosis .",
+    "A positivity for LAC and anti- β2GPI antibodies drastically increased the risk of thrombosis (OR 4.1, 95%CI: 1.3–13.5) .",
+    "The risk of a first VTE among asymptomatic subjects who are positive for LAC, anticardiolipin and anti–β2GPI antibodies (triple positive phenotype) is 5.3% per year.",
+    "Furthermore, if an anticoagulant therapy is not implemented, up to 44% of triple positive APS patients will undergo recurrent thrombosis over a 10-year follow-up period .",
+    "In some patients with clinical features of APS, VTE may occur in the absence of the positivity of classical antiphospholipid antibodies (aPL), and these patients are referred to as “seronegative APS” ."
+   ]
+  },
+  {
+   "at": "b132",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.11. Antiphospholipid Syndrome (APS)",
+   "kind": "p",
+   "s": [
+    "The mechanisms through which aPLs induce thrombosis are unclear.",
+    "First, there are the interactions with the coagulation and fibrinolytic systems, particularly inhibition of the protein C system, but also the interactions with antithrombin, TF and tissue-type plasminogen activator.",
+    "In addition, there are other factors, such as vascular cells activation like endothelial cells, monocytes, neutrophils and platelet by aPL, particularly anti-β2GPI, complement activation and the destruction of annexin V and exposure of the procoagulant phosphatidylserine on the cellular surface ."
+   ]
+  },
+  {
+   "at": "b133",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.12. Residual Venous Thrombosis (RVT)",
+   "kind": "p",
+   "s": [
+    "An emerging risk factor for VTE recurrence is represented by residual venous thrombosis (RVT).",
+    "According to a systematic review, RVT found within three months after acute event of thromboembolism appeared to be associated positively to a major risk of recurrence (OR 2.02, 95%CI, 1.62–2.50) ."
+   ]
+  },
+  {
+   "at": "b134",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.12. Residual Venous Thrombosis (RVT)",
+   "kind": "p",
+   "s": [
+    "Another cohort study , which included 55 patients with history of VTE in the past 33 months, used ultrasound examination to study the echogenicity of residual thrombosis as a marker of recurrence."
+   ]
+  },
+  {
+   "at": "b135",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.12. Residual Venous Thrombosis (RVT)",
+   "kind": "p",
+   "s": [
+    "It was confirmed that ultrasound sonography allowed predicting recurrence in 75% of cases and suggested hypoechogenic thrombi (Gray Scale Medians [GSM] < 24) as a predictive marker of TVP recurrence ."
+   ]
+  },
+  {
+   "at": "b136",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.12. Residual Venous Thrombosis (RVT)",
+   "kind": "p",
+   "s": [
+    "As it that were enough, a review that considered a cohort of 313 consecutive symptomatic outpatients with proximal venous thrombosis who had a standard anticoagulation showed a hazard ratio of recurrent thromboembolism of 2.4 (95%CI, 1.3 to 4.4; p = 0.004) for persistent residual thrombosis versus veins considered recanalized using ultrasound echography."
+   ]
+  },
+  {
+   "at": "b137",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.12. Residual Venous Thrombosis (RVT)",
+   "kind": "p",
+   "s": [
+    "As a matter of fact, it has been supposed that the damaged endothelial wall and the blood stasis connected to the residual clot promote thrombotic recurrence , but it has been observed that new thrombotic events develop also in the unaffected leg or as isolated PE.",
+    "Other pathophysiological mechanisms need to be explored."
+   ]
+  },
+  {
+   "at": "b138",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "Since the start of the pandemic outbreak, an increased risk of VTE during SARS-CoV-2 infection has been reported in several studies of different design, size and quality, but there has been a high variability of reported rates.",
+    "The large variability may be related to differences in diagnostic protocols or screening for VTE, such as outpatients vs. hospitalised and non-intensive care unit (ICU) or ICU setting or use of antithrombotic prophylaxis.",
+    "Hospitalized patients with COVID-19 have many common risk factors for VTE as other inpatient, but severe SARS-CoV-2 results in an increased risk of thrombotic complications, occurring both in the venous and arterial system ."
+   ]
+  },
+  {
+   "at": "b139",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "For example, a meta-analysis by Nopp et al. that involved 28,173 patients (1819 clinic, 20,886 non-intensive care unit [ICU] hospitalized and 5468 ICU patients) reported an overall VTE prevalence of 14.1%, 40.3% with ultrasound screening and 9.5% without screening.",
+    "Subgroup analysis revealed high heterogeneity, with a VTE prevalence of 7.9% (95%CI, 5.1–11.2) in non-ICU and 22.7% (95%CI, 18.1–27.6) in ICU patients .",
+    "Moreover, Hasan et al. in 2020 in a metanalysis that included twelve studies reported a VTE prevalence of 31% among ICU patients, despite the use of prophylactic or therapeutic anticoagulation ."
+   ]
+  },
+  {
+   "at": "b140",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "As a matter of fact, the occurrence of VTE increases the risk of death both in outpatients (HR 4.42, 95%CI, 3.07–6.36) and inpatients (HR 1.63, 95%CI, 1.39–1.90) ."
+   ]
+  },
+  {
+   "at": "b141",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "Moreover, many studies showed that the risk of hospital-associated VTE extends from the time of admission and within the first 90 days post hospital discharge also in COVID-19 patients .",
+    "These findings suggest that post discharge anticoagulation therapy may be considered for high-risk patients with COVID-19, such as those with a history of VTE, D-dimer > 3 μg/mL and predischarge C-reactive protein >10 mg/dL .",
+    "Recent data showed that risk of post-discharge VTE seems to be reduced across COVID-19 waves, decreasing from 3% in the pre-Delta, to 1.7% in the Delta and 0.9% in the Omicron wave .",
+    "This decrease may be due to the extensive use of anticoagulation and to the introduction of vaccination.",
+    "In this regard, the risk of VTE has been modified by the introduction of vaccination.",
+    "The rate of VTE in 2020 (pre-vaccination was estimated at 21% (95%CI: 17–26%), raising to 31% (95%CI: 23–39%) in ICU patients ."
+   ]
+  },
+  {
+   "at": "b142",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "A population study including 18,818 outpatients showed that VTE risk decreased from an HR 21.42 to 5.95 in the fully vaccinated participants who were then infected by SARS-CoV2 .",
+    "A study performed in the emergency department showed a nearly 3-fold increase in the risk of PE in unvaccinated patients (HR 2.75, 95%CI, 1.14–6.73) ."
+   ]
+  },
+  {
+   "at": "b143",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.13. SARS-CoV2 Disease (COVID-19)",
+   "kind": "p",
+   "s": [
+    "COVID-19 is associated with coagulopathy favouring VTE through several mechanisms.",
+    "First, SARS-CoV2 interacts with the angiotensin converting enzyme (ACE)-2 receptor on endothelial cells, which results in an increased release of the vasoconstrictor angiotensin-II and an endothelial dysfunction .",
+    "In addition, inflammatory response plays a primary role through complement activation, elevating levels of proinflammatory cytokines, such as interleukin-6 (IL-6) and IL-17A, which activate platelets, tissue factor and then the coagulation cascade .",
+    "Moreover, recent studies have shown alterations of both coagulation and fibrinolysis by multiple pathways, such as reduction of antithrombin and protein C and increasing of PAI-1 .",
+    "This hypercoagulation and cytokine storm result in the alveolar thrombosis of SARS-CoV2 disease."
+   ]
+  },
+  {
+   "at": "b144",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "p",
+   "s": [
+    "Fractures are a strong provoking factor for VTE.",
+    "In a study of 480 patients, the incidence of fractures in the 90 days before hospitalization for VTE was 11.8%, compared with incidence during the control period that was 3.6%, with an adjusted incidence rate ratio of 2.81 (95%CI, 1.57–5.03) .",
+    "Particularly in lower limb injuries, VTEs are a common complication, with incidence that varies among different types of fracture (reported in Table 5).",
+    "Of note, in all studies, the majority of DVTs were asymptomatic."
+   ]
+  },
+  {
+   "at": "b145",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "caption",
+   "s": [
+    "Table 5 Incidence of VTE according to the type of fracture."
+   ]
+  },
+  {
+   "at": "b146",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Type of Fracture | Incidence of VTE | Reference"
+   ]
+  },
+  {
+   "at": "b147",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Hip | DVT: 16.6%"
+   ]
+  },
+  {
+   "at": "b148",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Pelvis | DVT: 0.21–41% PE: 0–21.7%"
+   ]
+  },
+  {
+   "at": "b149",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Tibial plateau | DVT: 16.3% (86.4% of DVTs diagnosed within 7 days after the injury and 66.0% within 2 days)"
+   ]
+  },
+  {
+   "at": "b150",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Patellar | DVT: 4.4% DVT: 5.8%"
+   ]
+  },
+  {
+   "at": "b151",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Calcanear | DVT: 12% DVT: 3.1%"
+   ]
+  },
+  {
+   "at": "b152",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "row",
+   "s": [
+    "Tibial shaft | DVT: 13.3%"
+   ]
+  },
+  {
+   "at": "b153",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "p",
+   "s": [
+    "Interestingly, a retrospective study reported that in patients with hip fractures 38.89% of all preoperative DVTs were on the uninjured site, suggesting that not the local fracture itself, but a post-injury hypercoagulation state may be the main contributing factor to this phenomenon ."
+   ]
+  },
+  {
+   "at": "b154",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "p",
+   "s": [
+    "A particular setting is the risk of cerebral sinus-vein or jugular veins thrombosis after a cranial trauma.",
+    "Among 90 patients with cerebral sinus-vein or jugular veins thrombosis, history of trauma appeared to be the main risk factor, with 14.4% of patients reporting a head trauma, with or without fracture, in the month preceding the DVT event ."
+   ]
+  },
+  {
+   "at": "b155",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.14. Trauma and Fractures",
+   "kind": "p",
+   "s": [
+    "Fractures play a role in developing VTE because of the inflammatory storm consequent to the trauma and especially because of high levels of TF.",
+    "As a matter of fact, trauma always represents a physical disruption of the endothelium, which leads to hypoxia and haemodynamic stress, involving in this phenomenon a large variety of cytokines (IL-1, IL-6, IL-8), chemokines, antibodies and immunocomplexes .",
+    "Damaged endothelial cells release into the bloodstream TF and phospholipids contained in microparticles, which are responsible for thrombus formation ."
+   ]
+  },
+  {
+   "at": "b156",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.15. Trauma and Immobilization without Fractures",
+   "kind": "p",
+   "s": [
+    "Lower limb traumas other than fracture are not associated with VTE risk.",
+    "In a case-crossover study on a cohort of 480 patients with VTE, the adjusted IRR for VTE for open wounds was 0.74 (95%CI, 0.32–1.73), for sprain 1.30 (95%CI, 0.59–2.91) and for dislocation 1.33 (95%CI, 0.34–5.24) .",
+    "However, lower limbs immobilization after a trauma is a risk for VTE itself, irrespectively of the presence of fractures.",
+    "A systematic review with 15 studies and 80,678 patients with temporary lower limb immobilization due to an isolated trauma showed that the prevalence of VTE from the studies was 4.8% (0.22% to 23.5%) ."
+   ]
+  },
+  {
+   "at": "b157",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.15. Trauma and Immobilization without Fractures",
+   "kind": "p",
+   "s": [
+    "Immobilization by itself, complicated or not by trauma, has a direct effect on coagulative cascade because it determines blood stasis.",
+    "To this, cellular margination and local hypoxia follow, and so endothelial activation, which is the beginning of the thrombotic process.",
+    "By the way, data from animals have shown that blood stasis is not enough to activate coagulation ; TFs contribute, probably released or expressed on activated endothelial cells or mononuclear cells, called by cytokines (IL-1, IL-6 and IL-8) produced in the inflammatory microenvironment due to blood stasis."
+   ]
+  },
+  {
+   "at": "b158",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.16. Major and Minor Surgery",
+   "kind": "p",
+   "s": [
+    "Major surgery.",
+    "In 2020, a 3-round Delphi process consensus defined major surgery according to pre-existing comorbidity of the patients, extent and complexity of the procedure (as intraoperative blood loss >1000 mL; high vasopressor dose, vascular clampage or organ ischemia, long operative time), its pathophysiological consequences (as 30-day overall morbidity and mortality) and consecutive clinical outcomes (as systemic inflammatory response or need for intensive care) .",
+    "Therefore, although most surgical procedures increase risk for VTE, this varies considerably across surgical procures and among individual patients undergoing surgery.",
+    "Current guidelines suggest considering at high VTE risk surgeries with >45 min under general anaesthesia .",
+    "Surgical procedures carrying the highest risk of postoperative VTE include hip and knee arthroplasty .",
+    "In non-orthopaedic surgery, open abdominal and open pelvic procedures are associated with a high risk of VTE .",
+    "VTE risk appears to be highest for patients undergoing abdominal or pelvic surgery for cancer .",
+    "In addition, independent risk factors of the patient affect the cumulative risk of VTE."
+   ]
+  },
+  {
+   "at": "b159",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.16. Major and Minor Surgery",
+   "kind": "p",
+   "s": [
+    "Minor surgery.",
+    "VTE events appear to be significantly lower in laparoscopic surgery when compared with open surgery.",
+    "In a retrospective study that analysed data of 138,595 patients obtained from the University HealthSystem Consortium Clinical Database, the incidence of VTE among patients who underwent laparoscopic surgery was 0.28% versus 0.59% in patients who underwent open surgery (OR 1.8, 95%CI, 1.3–2.5, p < 0.01) .",
+    "Another study analysed data of 750,159 patients from The National Surgical Quality Improvement Program database who underwent abdominal laparoscopic surgery.",
+    "The incidence of VTE was 0.32% within 30 days of operation, with the highest incidence among patients who underwent colorectal surgery (1.12%).",
+    "In this study, the length of hospitalization and the duration of surgery appeared to be significantly longer in patients with VTE ."
+   ]
+  },
+  {
+   "at": "b160",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.16. Major and Minor Surgery",
+   "kind": "p",
+   "s": [
+    "Even other retrospective studies found a relationship between time of surgery with general anaesthesia and VTE risk .",
+    "Another factor associated with different risk for VTE was patient positioning during the surgery.",
+    "In a retrospective study on 374,017 subjects undergoing laparoscopic surgery, patients were divided into three subgroups based on positioning during the surgery: Trendelenburg position, reverse- Trendelenburg and supine.",
+    "The lowest VTE risk was observed in reverse-Trendelemburg, compared with supine (OR 1.49, 95%CI, 1.16–1.93) and Trendelenburg (OR 1.34, 95%CI 1.15, 1.56) positions ."
+   ]
+  },
+  {
+   "at": "b161",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.16. Major and Minor Surgery",
+   "kind": "p",
+   "s": [
+    "Surgery is a transient condition associated with an increased risk of VTE.",
+    "Different mechanisms are involved, but venous stasis, endothelial activation and local accumulation of TF are the main ones responsible for the development of VTE ."
+   ]
+  },
+  {
+   "at": "b162",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.16. Major and Minor Surgery",
+   "kind": "p",
+   "s": [
+    "Venous stasis occurs both during and after surgery, especially in major orthopaedic surgery , and it is responsible for increased haemostasis, cellular margination and local hypoxia, which amplifies endothelial activation .",
+    "In addition, TF plays a fundamental role during haemostasis and is stimulated by disruption of the endothelium during surgery and by inflammatory mediators (including cytokines, chemokines, VEGF and factors derived by complement activation), which are increased post-operatively ."
+   ]
+  },
+  {
+   "at": "b163",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.17. Pregnancy",
+   "kind": "p",
+   "s": [
+    "Pregnancy is considered a transient risk factor for VTE.",
+    "A Dutch registry including 1,919,918 women showed an incidence rate of VTE of 2.3 per 10,000 person-years .",
+    "The rate of VTE may be lower, taking into account the use of prophylactic low-molecular weight heparin during pregnancy .",
+    "A meta-analysis including >93 million pregnant and postpartum women showed an incidence of VTE of 1.2 per 1000 deliveries ."
+   ]
+  },
+  {
+   "at": "b164",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.17. Pregnancy",
+   "kind": "p",
+   "s": [
+    "A recent Korean study showed an incidence of pregnancy-related VTE of 2.62/10,000 deliveries, this risk increasing from 1.80 for women aged 20 years to 5.46 for women in their 40s (relative risk, 3.03; 95%CI, 2.04–4.51; p < 0.01) .",
+    "Women using assisted reproductive technology (ART) seem to have a two- to threefold increased risk of VTE as compared to spontaneous pregnancy (relative risk [RR]: 2.66; 95%CI: 1.60–4.43) ."
+   ]
+  },
+  {
+   "at": "b165",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.17. Pregnancy",
+   "kind": "p",
+   "s": [
+    "Some factors, such as hypertension occurring during the pregnancy, seem to be implicated in VTE risk.",
+    "Indeed, VTE risk is higher in women with hypertension (HR 2.0, 95%CI, 1.7–2.4), and highest among women with preeclampsia (HR 7.8, 95%CI, 5.4–11.3) compared to those without ."
+   ]
+  },
+  {
+   "at": "b166",
+   "path": "3. Risk Factors for Venous Thromboembolism > 3.17. Pregnancy",
+   "kind": "p",
+   "s": [
+    "The mechanism underlying the risk of VTE during pregnancy may rely on the physiological reduction of some natural anticoagulant proteins, such as protein S, that may be reduced by 40–50% of normal levels.",
+    "However, it remains to be established whether this reduction leads to an increased risk of VTE .",
+    "Similarly, antithrombin levels may be reduced by 20% during pregnancy ."
+   ]
+  },
+  {
+   "at": "b167",
+   "path": "4. Conclusions",
+   "kind": "p",
+   "s": [
+    "The incidence of VTE is variable across countries and seems to be lower in Eastern Countries.",
+    "Intrinsic and environmental risk factors may lead to VTE through several different mechanisms that are frequently overlapping (Figure 2).",
+    "The exact role of some of these risk factors and their combination needs to be further investigated.",
+    "The search for new risk factors for VTE continues given the still high rate of idiopathic VTE, as well as the improvement of risk stratification strategies to prevent recurrent VTE."
+   ]
+  },
+  {
+   "at": "b168",
+   "path": "4. Conclusions",
+   "kind": "caption",
+   "s": [
+    "Figure 2 Risk factors and mediators of venous thromboembolism."
+   ]
+  },
+  {
+   "at": "b169",
+   "path": "Institutional Review Board Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b170",
+   "path": "Informed Consent Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b171",
+   "path": "Funding Statement",
+   "kind": "p",
+   "s": [
+    "This research received no external funding."
+   ]
+  }
+ ]
+}

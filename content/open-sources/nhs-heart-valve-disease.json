@@ -1,0 +1,507 @@
+{
+ "id": "nhs-heart-valve-disease",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/heart-valve-disease/",
+ "fetched_from": "https://www.nhs.uk/conditions/heart-valve-disease/",
+ "title": "Heart valve disease",
+ "updated": "2025-01-22",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "ebcf4941b0bc8e89cc1511228282dc394780c0b2f01648751e12a456ac4173b7",
+ "sentences": 69,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Heart valve disease",
+   "kind": "p",
+   "s": [
+    "Heart valve disease is where 1 or more of the valves in your heart does not work as it should.",
+    "It does not always need treatment, but some people will need medicines or surgery."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Symptoms of heart valve disease can include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "shortness of breath"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "feeling tired or weak"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "feeling dizzy"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "heart palpitations, where you suddenly feel your heart beating irregularly or faster than usual"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "swollen ankles and feet"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "li",
+   "s": [
+    "chest pain or discomfort"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Heart valve disease > Symptoms of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Some people do not have any symptoms.",
+    "Sometimes it's found by chance if a doctor hears an unusual sound (a heart murmur) when they listen to your chest."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you're feeling short of breath regularly"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you feel tired, weak or dizzy when doing normal activities"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have heart palpitations that keep coming back, last longer than a few minutes or are getting worse"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have swollen ankles or feet"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain that comes and goes"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Heart valve disease > Non-urgent advice: See a GP if:",
+   "kind": "p",
+   "s": [
+    "These symptoms can be caused by many different conditions.",
+    "Having them does not definitely mean you have heart valve disease.",
+    "But it's important to get them checked by a GP."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Heart valve disease > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you're struggling to breathe – you're choking, gasping and unable to speak"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Heart valve disease > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have sudden chest pain that spreads to your arms, back, neck or jaw, or lasts more than 15 minutes"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Heart valve disease > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain with shortness of breath or heart palpitations"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Heart valve disease > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Heart valve disease > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "p",
+   "s": [
+    "If you have symptoms of heart valve disease a GP will listen to your heart."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "p",
+   "s": [
+    "They may arrange tests or refer you to a heart specialist (cardiologist)."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "p",
+   "s": [
+    "Tests you may have include:"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "li",
+   "s": [
+    "an ultrasound scan of your heart (echocardiogram)"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "li",
+   "s": [
+    "an X-ray of your chest"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Heart valve disease > How heart valve disease is diagnosed",
+   "kind": "li",
+   "s": [
+    "an electrocardiogram (ECG), where sensors are put on your chest to check your heart"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "p",
+   "s": [
+    "If you have mild heart valve disease and you do not have any symptoms, you may not need treatment.",
+    "You'll usually have regular check-ups to see if your condition is getting worse."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "p",
+   "s": [
+    "If you have symptoms or have severe heart valve disease, you may need medicines to:"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "lower your blood pressure and help protect your heart (ACE inhibitors)"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "reduce build-up of fluid in your body and lungs (diuretics)"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "slow down your heart rate (such as beta blockers)"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "reduce the risk of blood clots (anticoagulants)"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "p",
+   "s": [
+    "If you have severe heart valve disease you'll usually need surgery to either:"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "repair the heart valve, if it's not seriously damaged"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Heart valve disease > Treatments for heart valve disease",
+   "kind": "li",
+   "s": [
+    "replace the heart valve with an artificial valve or one made from human or animal tissue, if it cannot be repaired"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Heart valve disease > Treatments for heart valve disease > Find out more about heart valve surgery",
+   "kind": "li",
+   "s": [
+    "Heart valve replacement"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Heart valve disease > Treatments for heart valve disease > Find out more about heart valve surgery",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation: heart valve repair surgery"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Heart valve disease affects people differently.",
+    "It's common to have mild heart valve disease that does not cause any issues, but for some people it can lead to serious health problems."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Your care team will tell you what to expect.",
+    "They'll also advise on any changes you need to make.",
+    "This can include healthy lifestyle changes and avoiding strenuous exercise."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Possible complications of heart valve disease include:"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "li",
+   "s": [
+    "heart failure, where your heart cannot pump blood properly"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "li",
+   "s": [
+    "atrial fibrillation, where your heart beats irregularly and faster than normal"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "li",
+   "s": [
+    "a stroke"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Heart valve disease > Complications of heart valve disease",
+   "kind": "li",
+   "s": [
+    "endocarditis, a serious condition where your heart becomes infected"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Heart valve disease > Complications of heart valve disease > Heart valve disease in pregnancy",
+   "kind": "p",
+   "s": [
+    "It's important to get advice from a heart specialist if you're pregnant or want to get pregnant.",
+    "Pregnancy can make heart valve disease symptoms worse."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Heart valve disease > Complications of heart valve disease > Heart valve disease in pregnancy",
+   "kind": "p",
+   "s": [
+    "You can usually have a safe pregnancy, but you may need extra monitoring and treatment."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Heart valve disease happens when 1 of your heart valves either:"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "li",
+   "s": [
+    "does not open fully (called stenosis)"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "li",
+   "s": [
+    "does not close fully (called prolapse) and may be leaky (called regurgitation)"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "p",
+   "s": [
+    "This means your heart has to work harder to pump blood around your body."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "p",
+   "s": [
+    "It can affect any of your 4 heart valves, but it's most common in the aortic or mitral valves, on the left side of your heart."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Heart valve disease > Types of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Less commonly it can affect the tricuspid or pulmonary valves, on the right side of your heart."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Heart valve disease > Causes of heart valve disease",
+   "kind": "p",
+   "s": [
+    "Heart valve disease can be caused by:"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Heart valve disease > Causes of heart valve disease",
+   "kind": "li",
+   "s": [
+    "congenital heart disease, where you're born with the condition"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Heart valve disease > Causes of heart valve disease",
+   "kind": "li",
+   "s": [
+    "changes to your heart as you get older, particularly if you smoke or have high blood pressure or high cholesterol"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Heart valve disease > Causes of heart valve disease",
+   "kind": "li",
+   "s": [
+    "conditions that affect your heart, such as rheumatic fever, cardiomyopathy or endocarditis"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Heart valve disease > Causes of heart valve disease",
+   "kind": "li",
+   "s": [
+    "damage from a heart attack"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Heart valve disease > Help and support for heart valve disease",
+   "kind": "p",
+   "s": [
+    "If you have heart valve disease you can get support from charities such as:"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Heart valve disease > Help and support for heart valve disease",
+   "kind": "li",
+   "s": [
+    "the British Heart Foundation"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Heart valve disease > Help and support for heart valve disease",
+   "kind": "li",
+   "s": [
+    "Heart Valve Voice"
+   ]
+  }
+ ]
+}

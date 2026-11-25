@@ -1,0 +1,308 @@
+{
+ "id": "pmc7286578",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC7286578",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7286578/fullTextXML",
+ "doi": "10.7759/cureus.8048",
+ "title": "A Comprehensive Literature Review on the Management of Distal Deep Vein Thrombosis",
+ "authors": "Kabashneh S, Singh V, Alkassis S",
+ "journal": "Cureus",
+ "year": "2020",
+ "updated": "2020-05-10",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
+ "credit": "Kabashneh S, Singh V, Alkassis S. A Comprehensive Literature Review on the Management of Distal Deep Vein Thrombosis. Cureus. 2020. https://doi.org/10.7759/cureus.8048. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "84e5f7c612ed7de0a3ad4d0efcb0c82264d4138584a62ad82768a9e1bccc94bc",
+ "sentences": 76,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Deep vein thrombosis (DVT) is a relatively common clinical entity with significant morbidity and mortality.",
+    "Acute pulmonary embolism (PE) is the most significant complication of DVT and warrants immediate attention.",
+    "The location of the DVT has a substantial impact on its ability to break off and travel to the pulmonary vasculature, causing a PE.",
+    "Proximal DVT is more likely to cause a PE than a distal DVT.",
+    "The widely accepted management for proximal DVT is anticoagulation.",
+    "However, the management of distal DVT is unclear.",
+    "This review article discusses factors that increase the risk of PE in patients with distal DVT, guidance on how to categorize patients into high and low-risk categories, and the recommended management for each category."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: deep vein thrombosis (dvt), pulmonary embolism (pe), venous thromboembolism (vte)"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction and background",
+   "kind": "p",
+   "s": [
+    "Venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE), is a relatively common clinical entity with significant morbidity and mortality.",
+    "The annual incidence of VTE in the United States (US) is estimated to be somewhere between 1-2 per 1,000 of the population .",
+    "Every year, about 2,000,000 new cases of DVT are diagnosed within the US ."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Introduction and background",
+   "kind": "p",
+   "s": [
+    "The most serious complication of DVT is PE; the estimated 30-day case fatality rate of PE is 3.9% .",
+    "Annually, between 60,000 and 300,000 people die from PE in the US alone .",
+    "PE has a higher in-hospital mortality rate than myocardial infarction."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Introduction and background",
+   "kind": "p",
+   "s": [
+    "The location of a DVT significantly affects the chances of embolization and eventually blocking a pulmonary vessel.",
+    "A proximal DVT that is located in the popliteal, femoral or iliac veins is far more likely to embolize when compared to a distal DVT that is located below the knee and is confined to the calf veins (peroneal, posterior, anterior tibial, and muscular veins) without a proximal component ."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Introduction and background",
+   "kind": "p",
+   "s": [
+    "A particularly challenging situation arises when a patient is diagnosed with an isolated distal DVT.",
+    "Due to its low risk of embolization, the use of anticoagulation in this scenario is not clear.",
+    "The purpose of this review is to highlight the current literature available to help guide physicians about the management of an isolated distal DVT."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Management of DVT depends on its location, whether it is proximal or distal.",
+    "For patients with proximal DVT (PDVT), the widely accepted management is anticoagulant therapy for all patients (unless there is a contraindication) as it has a survival advantage with a decreased rate of recurrence .",
+    "Unlike PDVT, the management of distal DVT (DDVT) is controversial."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Chances of developing a PE or PDVT in patients with DDVT"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Because the most serious complication of DVT is PE, understanding the natural history of DDVT, including isolated soleal or gastrocnemius vein thrombosis (ISGVT) and the chances of embolization, is key when deciding on the treatment.",
+    "In an attempt to analyze this issue, Brateanu et al. conducted a study to evaluate the possible propagation of isolated DDVT to PDVT or PE .",
+    "Four hundred fifty patients with isolated distal DDVT were studied, and all the ultrasounds, chest ventilation/perfusion, and computed tomography scans ordered within three months after the initial DDVT were reviewed to determine the incidence of PDVT and/or PE.",
+    "The conclusion was 22 (4.8%) patients developed PDVT, seven (1.5%) patients developed PE, and one patient developed both PDVT and PE.",
+    "Two factors that were associated with thromboembolic complications were inpatient status and age.",
+    "Outpatients were at low risk of developing PDVT/PE.",
+    "Inpatients aged ≥ 60 years were at high risk.",
+    "Inpatients aged < 60 were at intermediate risk."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "MacDonald et al. also conducted a study on ISGVT propagation .",
+    "One hundred and thirty-five limbs with ISGVT were studied over three months.",
+    "Twenty-two of the 135 limbs with ISGVT (16.3%) extended to the adjacent tibial or peroneal veins within the three month study period; the majority (90.9%) occurred within the first two weeks after the initial diagnosis .",
+    "Of the 22 limbs with ISGVT propagation, only four limbs (2.9%) extended up to the level of the popliteal vein.",
+    "Of note, no ISGVT propagated proximally to the popliteal ."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Both studies demonstrated a very low risk of DDVT embolization to PE .",
+    "Brateanu et al. revealed only 1.5% PE risk with DDVT, while MacDonald et al. revealed no ISGVT propagation above the popliteal vein."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "The lack of significant benefit of anticoagulation in patients with DDVT"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "To establish the benefit of anticoagulation treatment for patients with DDVT, Sales et al. studied 141 patients with ISGVT, 76 received anticoagulation, while 65 patients did not .",
+    "Results from multivariate logistic regression showed that anticoagulation did not have a significant impact on propagation with an odds ratio of 1.28 (95% confidence interval: 0.55 - 3.01; P =.57).",
+    "Thus, the study concluded a lack of efficacy of anticoagulation in ISGVT."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "The Brateanu et al. study showed that the treatment of the isolated DDVT with therapeutic anticoagulation was associated with a lower risk of a PDVT and/or PE, but the association did not reach statistical significance .",
+    "Both studies concluded a lack of statistically significant benefit of anticoagulation in patients with DDVT ."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Treatment approach"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "In this article, we will discuss the guidelines adopted by the American College of Chest Physicians (ACCP) and another approach suggested by Brateanu et al. ."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "ACCP Approach"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Patients with isolated DDVT with one or more of the following risk factors should receive anticoagulant therapy for at least three months (Grade 1B).",
+    "Those risk factors include:"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "1) Positive D-dimer"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "2) Thrombus more than 5 cm in length or in multiple veins"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "3) Thrombus in close proximity to proximal (popliteal) vein"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "4) Active cancer or immobility"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "However, in patients without risk factors for extension to PDVT and PE, and in patients with thrombi involving the muscular (soleus, gastrocnemius) veins alone, there is a weak recommendation for no anticoagulant therapy and serial imaging of the legs over the next two weeks (Grade 2C) ."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Brateanu et al. Approach"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Based on settings in which DDVT was diagnosed (inpatient vs. outpatient) and age, patients are categorized in low-risk, intermediate-risk, and high-risk categories.",
+    "This classification is predictive of subsequent thromboembolic complications.",
+    "For patients at high risk of subsequent thromboembolism (i.e., inpatients ages ≥ 60 years), anticoagulation may be prudent.",
+    "In contrast, for patients at low risk (i.e., outpatients with age < 60 years), no treatment would appear to be necessary.",
+    "For the remaining patients, serial ultrasounds may be reasonable, at least in the first month, when the risk is highest ."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Distal DVT in trauma patients"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "Trauma patients are at higher risk for VTE due to immobilization.",
+    "Olson et al. conducted a study on trauma patients with below-knee DVT (BKDVT) and/or above knee DVT (AKDVT) and found out that 12.9% of patients with BKDVT progressed to AKDVT or PE .",
+    "In the study population, BKDVT progressed to AKDVT or PE in one of eight patients.",
+    "Actually, in this study, BKDVT was associated with a higher rate of PE compared with AKDVT, which was likely secondary to the treatment of AKDVT."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Review",
+   "kind": "p",
+   "s": [
+    "The study concluded that BKDVT should not be ignored in trauma patients and suggested that therapeutic anticoagulation should be considered in trauma patients with BKDVT ."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Conclusions",
+   "kind": "p",
+   "s": [
+    "Management of DDVT has always been a dilemma among health care providers.",
+    "This review of the literature shows that patients with DDVT are at very low risk of developing PE, and anticoagulation treatment is warranted only in high-risk patients.",
+    "One approach uses inpatient status and age ≥ 60 years to stratify patients into either high, intermediate, or low-risk groups and manage accordingly.",
+    "Another approach is to use comorbidities, immobility, D-dimer, and thrombus size to guide the treatment.",
+    "However, trauma patients with DDVT should always be managed with anticoagulation regardless of their risk factors."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "The content published in Cureus is the result of clinical experience and/or research by independent individuals or organizations.",
+    "Cureus is not responsible for the scientific accuracy or reliability of data or conclusions published herein.",
+    "All content published within Cureus is intended only for educational, research and reference purposes.",
+    "Additionally, articles published within Cureus should not be deemed a suitable substitute for the advice of a qualified health care professional.",
+    "Do not disregard or avoid professional medical advice due to content published within Cureus."
+   ]
+  }
+ ]
+}

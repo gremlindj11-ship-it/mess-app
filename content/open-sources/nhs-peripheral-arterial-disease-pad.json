@@ -1,0 +1,436 @@
+{
+ "id": "nhs-peripheral-arterial-disease-pad",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/peripheral-arterial-disease-pad/",
+ "fetched_from": "https://www.nhs.uk/conditions/peripheral-arterial-disease-pad/",
+ "title": "Peripheral arterial disease (PAD)",
+ "updated": "2026-10-29",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "b55b88cc81f0d4d0658f8199d4bfa794d4cf097fad17bbe1c76c397241453deb",
+ "sentences": 54,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Peripheral arterial disease (PAD) is a long-term condition that affects the blood supply to your legs and causes pain in your legs.",
+    "There are treatments that can help ease your symptoms."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "The main symptom of peripheral arterial disease (PAD) is pain in your legs when walking that goes away when you stop and rest for a few minutes.",
+    "This is sometimes called intermittent claudication."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "The pain:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "usually affects your lower legs (calves)"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "can feel like cramp, aching or burning"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "often affects both legs at the same time and can sometimes be worse in 1 leg"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "can be constant, happen when you're not moving and may be worse at night (if peripheral arterial disease gets worse)"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Other possible symptoms of PAD include:"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "hair loss on your legs"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "the skin on your legs looking shiny or a different colour – your skin may look blue or purple, which may be harder to see on brown or black skin"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "weakness or numbness in your legs – your legs and feet may also feel cold to touch"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "sores, wounds or ulcers on your legs and feet that do not heal"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "toenails that grow slowly or break easily"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Peripheral arterial disease (PAD) > Symptoms of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Some people with PAD do not have any symptoms."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Peripheral arterial disease (PAD) > When and where to get medical help",
+   "kind": "p",
+   "s": [
+    "You should see a GP if you have symptoms of peripheral arterial disease (PAD)."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Peripheral arterial disease (PAD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "p",
+   "s": [
+    "You have pain in your legs and:"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Peripheral arterial disease (PAD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "the pain is in your calves, thighs, feet or bottom when walking and goes away after resting for a few minutes"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Peripheral arterial disease (PAD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "the pain is there all the time and is worse at night"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Peripheral arterial disease (PAD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have other symptoms, such as hair loss on your legs, gradual numbness or weakness, or sores that do not heal"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Peripheral arterial disease (PAD) > Tests for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "If a GP thinks you might have peripheral arterial disease (PAD), they'll look at your legs and may ask about your symptoms and family history."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Peripheral arterial disease (PAD) > Tests for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "They may also arrange for you to have some tests, such as:"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Peripheral arterial disease (PAD) > Tests for peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "blood tests"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Peripheral arterial disease (PAD) > Tests for peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "a test to measure blood pressure and blood flow in your arms and ankles, called ankle brachial pressure index (ABPI)"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "There is currently no cure for peripheral arterial disease (PAD), but there are treatments that can help manage your symptoms."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "These depend on how long you've had the condition, your symptoms and how severe they are."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Treatments for PAD may include:"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "an exercise programme – this may be with the help of a healthcare professional, or you may be able to do it on your own"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "medicines to relieve pain or to help increase blood flow to your leg muscles"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "surgery to widen or unblock your arteries and improve the blood flow to your legs"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Peripheral arterial disease (PAD) > Treatment for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "If your pain is severe and other treatments have not helped, the affected leg may need to be removed (amputation)."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Peripheral arterial disease (PAD) > Things you can do to help with peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "There are some things you can do to help if you've been diagnosed with peripheral arterial disease (PAD)."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Peripheral arterial disease (PAD) > Things you can do to help with peripheral arterial disease (PAD) > Do eat healthily exercise regularly – ask your doctor for advice about exercising if you have not done any physical activity for a while maintain a healthy weight get plenty of sleep and try to reduce stress by doing things like breathing exercises take any medicines you've been prescribed for other health conditions like high blood pressure and high cholesterol look after your feet and keep your blood sugar levels under control if you have diabetes Don’t",
+   "kind": "li",
+   "s": [
+    "do not smoke because it can make your symptoms worse"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Peripheral arterial disease (PAD) > Things you can do to help with peripheral arterial disease (PAD) > Do eat healthily exercise regularly – ask your doctor for advice about exercising if you have not done any physical activity for a while maintain a healthy weight get plenty of sleep and try to reduce stress by doing things like breathing exercises take any medicines you've been prescribed for other health conditions like high blood pressure and high cholesterol look after your feet and keep your blood sugar levels under control if you have diabetes Don’t",
+   "kind": "p",
+   "s": [
+    "Find out more about how to make healthy lifestyle changes on the NHS Better Health website"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Peripheral arterial disease (PAD) can cause complications."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "These can be serious but getting the right treatment for your symptoms as soon as possible reduces the chance of them happening."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Complications of PAD include:"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "severe pain, which can cause mobility problems"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "increased pressure inside your leg muscles, causing swelling, severe pain, weakness or pins and needles (compartment syndrome)"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "ulceration and gangrene in the affected leg that may mean it needs to be removed (amputated)"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "mental health problems, such as anxiety and depression"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Peripheral arterial disease (PAD) > Complications of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "If you have PAD, you also have an increased risk of getting vascular dementia and having a heart attack or stroke."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Peripheral arterial disease (PAD) is usually caused by the arteries that supply blood to your legs becoming narrowed or blocked."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "A build-up of fatty deposits (atherosclerosis) narrows or blocks your arteries and restricts the blood flow to your legs."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "Less common causes of PAD include:"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "conditions that cause inflammation in the blood vessels, such as vasculitis"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "a blood clot in a vein that blocks the blood flow to your legs"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Peripheral arterial disease (PAD) > Causes of peripheral arterial disease (PAD)",
+   "kind": "li",
+   "s": [
+    "an injured or diseased artery"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Peripheral arterial disease (PAD) > Help and support for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "If you have peripheral arterial disease (PAD), healthcare professionals will support you throughout your treatment."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Peripheral arterial disease (PAD) > Help and support for peripheral arterial disease (PAD)",
+   "kind": "p",
+   "s": [
+    "You may also find it helpful to get support from your family, friends and other people with the condition."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Peripheral arterial disease (PAD) > Help and support for peripheral arterial disease (PAD) > British Heart Foundation",
+   "kind": "p",
+   "s": [
+    "The British Heart Foundation provides a range of support and information for people affected by heart and circulatory conditions."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Peripheral arterial disease (PAD) > Help and support for peripheral arterial disease (PAD) > British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Website: www.bhf.org.uk/"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Peripheral arterial disease (PAD) > Help and support for peripheral arterial disease (PAD) > British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Support groups (British Heart Foundation)"
+   ]
+  }
+ ]
+}

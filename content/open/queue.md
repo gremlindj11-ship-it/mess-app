@@ -1,0 +1,24 @@
+# Open-source writing queue
+
+One topic a row, in order. The writer takes the next rows whose folder does not exist yet (`content/open/<folder>/`).
+Sources are saved copies in `content/open-sources/<id>.json`. Read them only with `node tools/find-open.mjs show <id>`.
+A topic may also use any other saved source that covers it. `hypertension` is done and is the worked example.
+
+## Cardiovascular
+| Folder | Topic name in Mess | Saved sources |
+|---|---|---|
+| atrial-fibrillation | Atrial fibrillation | nhs-atrial-fibrillation, pmc11666470, pmc8744894 |
+| atrial-flutter | Atrial flutter | pmc11262378, nhs-supraventricular-tachycardia-svt, nhs-atrial-fibrillation |
+| acute-coronary-syndrome | Acute coronary syndrome | nhs-heart-attack, pmc6855329, pmc7408729, nhs-coronary-heart-disease |
+| angina | Angina | nhs-angina, pmc7035719, pmc9409871, nhs-coronary-heart-disease |
+| heart-failure | Heart failure | nhs-heart-failure, pmc7021648, pmc8898236, pmc6818035 |
+| hyperlipidaemia | Hyperlipidaemia | nhs-high-cholesterol, pmc8363437, pmc9324773 |
+| aortic-stenosis | Aortic stenosis | pmc8486019, pmc10417789, nhs-heart-valve-disease, nhs-aortic-valve-replacement |
+| mitral-regurgitation | Mitral regurgitation | nhs-mitral-valve-problems, pmc11396481, pmc10036770, nhs-heart-valve-disease |
+| infective-endocarditis | Infective endocarditis | nhs-endocarditis, pmc7937698, pmc9329978 |
+| pericarditis | Pericarditis | nhs-pericarditis, pmc12263481, pmc9683083 |
+| aortic-dissection | Aortic dissection | pmc9605578, pmc9602170, pmc8627055 |
+| abdominal-aortic-aneurysm | Abdominal aortic aneurysm | nhs-abdominal-aortic-aneurysm, pmc10749949, pmc9506302 |
+| peripheral-arterial-disease | Peripheral arterial disease | nhs-peripheral-arterial-disease-pad, pmc9320565, pmc8645843, pmc10284269 |
+| deep-vein-thrombosis | Deep vein thrombosis | nhs-deep-vein-thrombosis-dvt, pmc10601227, pmc7286578, pmc9964264 |
+| pulmonary-embolism | Pulmonary embolism | nhs-pulmonary-embolism, pmc9504600, pmc9104204, pmc6375098, pmc9964264 |

@@ -1,0 +1,271 @@
+{
+ "id": "nhs-pulmonary-embolism",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/pulmonary-embolism/",
+ "fetched_from": "https://www.nhs.uk/conditions/pulmonary-embolism/",
+ "title": "Pulmonary embolism",
+ "updated": "2026-10-15",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "d6e8320731044c5cd989291c47b33945d3bb525f1ac7de0729b9c54cc62e7c10",
+ "sentences": 36,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "A pulmonary embolism happens when a blood vessel in your lungs becomes blocked.",
+    "The blockage is usually caused by a blood clot.",
+    "It can be life-threatening if not treated quickly."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Pulmonary embolism > Symptoms of a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "Symptoms of a pulmonary embolism include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Pulmonary embolism > Symptoms of a pulmonary embolism",
+   "kind": "li",
+   "s": [
+    "difficulty breathing that comes on suddenly"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Pulmonary embolism > Symptoms of a pulmonary embolism",
+   "kind": "li",
+   "s": [
+    "chest pain that's worse when you breathe in"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Pulmonary embolism > Symptoms of a pulmonary embolism",
+   "kind": "li",
+   "s": [
+    "coughing up blood"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Pulmonary embolism > Symptoms of a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "You may also have pain and swelling in your leg (usually the calf) or arm.",
+    "The skin may become red, blue, or darker than usual – if you have black or brown skin this may be harder to see.",
+    "These are symptoms of a blood clot, also called DVT (deep vein thrombosis)."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Pulmonary embolism > When and where to get medical help",
+   "kind": "p",
+   "s": [
+    "If you have symptoms of a pulmonary embolism, you will need urgent medical help."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have difficulty breathing which comes on suddenly"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you feel pain in your chest or upper back"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "your heart is beating very fast"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "someone has passed out"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "These could be signs of a pulmonary embolism or another serious condition."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Pulmonary embolism > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Pulmonary embolism > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're coughing up blood"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Pulmonary embolism > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have any other symptoms you're worried about"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Pulmonary embolism > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "If a GP thinks you've got a pulmonary embolism, you'll be sent to hospital for further tests and treatment."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "At hospital, you may be given an injection of anticoagulant medicine before you get any test results."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "Anticoagulants stop blood clots getting bigger and prevent new clots forming."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "If tests confirm you have a pulmonary embolism, you'll start anticoagulant treatment."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "This may involve anticoagulant tablets or injections, depending on the treatment that's most suitable for you."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "You'll need to have anticoagulant treatment for at least 3 months."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Pulmonary embolism > Treatment for a pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "You should make a full recovery from a pulmonary embolism if it's spotted and treated early."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "A pulmonary embolism usually happens when a blood clot travels up to your lungs, causing a blockage."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "There are things you can do to lower your risk of getting a pulmonary embolism."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "If you're staying in hospital being treated for another condition, your medical team should help reduce the risk of you getting DVT (deep vein thrombosis)."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "DVT can sometimes happen on long journeys when you are sitting in the same position for a long time.",
+    "The risk of developing DVT is higher if you are travelling for 4 hours or more by plane, train or car."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism",
+   "kind": "p",
+   "s": [
+    "There are things you can do to reduce your risk of getting DVT when travelling."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism > Do wear loose, comfortable clothing drink water regularly walk around whenever you can bend and straighten your legs, feet and toes every 30 minutes while seated wear flight socks Don’t",
+   "kind": "li",
+   "s": [
+    "do not sit for long periods without moving"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Pulmonary embolism > How to reduce your risk of pulmonary embolism > Do wear loose, comfortable clothing drink water regularly walk around whenever you can bend and straighten your legs, feet and toes every 30 minutes while seated wear flight socks Don’t",
+   "kind": "li",
+   "s": [
+    "do not drink lots of alcohol"
+   ]
+  }
+ ]
+}

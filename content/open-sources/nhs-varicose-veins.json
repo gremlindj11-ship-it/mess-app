@@ -1,0 +1,713 @@
+{
+ "id": "nhs-varicose-veins",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/varicose-veins/",
+ "fetched_from": "https://www.nhs.uk/conditions/varicose-veins/",
+ "title": "Varicose veins",
+ "updated": "2024-07-01",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "bbfcc76c6342ccfa92c3df0057414e6ad2b3fb3ea3a2387ceaf76639a493c5b1",
+ "sentences": 107,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins are swollen, twisted veins under the skin, usually on the legs.",
+    "They're common and are not usually serious, but there are treatments that can help if they're causing problems."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins are widened veins that look swollen and twisted under the skin.",
+    "They may feel lumpy and bulge out."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "They're most common on the legs, but you can get them on other parts of your body."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "Dr P. Marazzi/Science Photo Library: https://www.sciencephoto.com/media/875518/view"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "Alex Bartel/Science Photo Library: https://www.sciencephoto.com/media/263294/view"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "They sometimes cause other symptoms that affect your legs, such as:"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "li",
+   "s": [
+    "pain, aching or a feeling of heaviness"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "li",
+   "s": [
+    "skin changes, such as itching, colour changes or dry, scaly skin"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "li",
+   "s": [
+    "swollen ankles or legs"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "The symptoms may be worse after standing for a long time, and may get better when you rest with your legs up."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins may get worse without treatment, but this usually happens very slowly over several years."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Varicose veins > Check if you have varicose veins",
+   "kind": "p",
+   "s": [
+    "They are different from spider veins or thread veins – small red, blue or purple veins that are usually harmless."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Varicose veins > Things you can do to help with varicose veins",
+   "kind": "p",
+   "s": [
+    "If you have varicose veins, there are things you can do to help with the symptoms."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Varicose veins > Things you can do to help with varicose veins > Do try to keep to a healthy weight put your legs up when possible – for example, lie down with your legs on cushions exercise regularly, such as running or walking, to improve blood flow use a moisturising cream or lotion if you have dry, flaky or itchy skin try not to injure your legs, to help prevent bleeding Don’t",
+   "kind": "li",
+   "s": [
+    "do not stand for long periods"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Varicose veins > Things you can do to help with varicose veins > Do try to keep to a healthy weight put your legs up when possible – for example, lie down with your legs on cushions exercise regularly, such as running or walking, to improve blood flow use a moisturising cream or lotion if you have dry, flaky or itchy skin try not to injure your legs, to help prevent bleeding Don’t",
+   "kind": "li",
+   "s": [
+    "do not sit for long periods, unless your feet are raised"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Varicose veins > Things you can do to help with varicose veins > Do try to keep to a healthy weight put your legs up when possible – for example, lie down with your legs on cushions exercise regularly, such as running or walking, to improve blood flow use a moisturising cream or lotion if you have dry, flaky or itchy skin try not to injure your legs, to help prevent bleeding Don’t",
+   "kind": "li",
+   "s": [
+    "do not smoke, as it damages your veins – get help to quit smoking"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Varicose veins > When and where to get medical help",
+   "kind": "p",
+   "s": [
+    "Varicose veins are not usually serious, but sometimes you may need medical help."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Varicose veins > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "p",
+   "s": [
+    "You have varicose veins and:"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Varicose veins > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have symptoms such as pain, itching or swelling in your legs"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Varicose veins > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you get a sore on your leg that has not healed after 2 weeks"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Varicose veins > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "they are getting worse"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Varicose veins > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have varicose veins that are bleeding"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Varicose veins > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Varicose veins > Treatment for varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins do not always need treatment.",
+    "A GP may refer you to a specialist for tests and treatment if you have:"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Varicose veins > Treatment for varicose veins",
+   "kind": "li",
+   "s": [
+    "symptoms such as pain, heaviness, swollen legs, itching or skin changes"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Varicose veins > Treatment for varicose veins",
+   "kind": "li",
+   "s": [
+    "any complications, such as ulcers on your legs"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Varicose veins > Treatment for varicose veins",
+   "kind": "p",
+   "s": [
+    "Treatment to improve how varicose veins look is not usually available on the NHS if they're not causing any other problems.",
+    "You may be able to pay for it privately."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "If you're referred to a specialist they'll usually do a test called duplex ultrasound to confirm if you have varicose veins and plan your treatment.",
+    "This is a type of scan to check your blood flow."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "There are several types of treatment that may be offered, including:"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "procedures to block blood flow in the veins, such as endothermal ablation and foam sclerotherapy"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "surgery to remove varicose veins"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "compression stockings"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "The specialist will explain which treatment may be best for you, and the benefits and risks."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "summary",
+   "s": [
+    "Endothermal ablation"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "This is usually the first choice of treatment for varicose veins.",
+    "It works by blocking blood flow in the veins, so they become less swollen."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "The main steps are:"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "You'll usually be awake during the procedure.",
+    "You'll have a local anaesthetic, so you will not feel any pain."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "A thin tube called a catheter is passed up your vein, from a small cut at your ankle or knee.",
+    "An ultrasound scan is used to place the catheter."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "A device is put through the catheter and energy from radio waves (radiofrequency ablation) or a laser (endovenous laser treatment) is used to heat the vein that's causing your symptoms.",
+    "This closes it off, so that blood stops flowing through it."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The catheter is slowly removed."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You'll have the procedure in a hospital or clinic.",
+    "You'll be able to go home the same day."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You may need to wear compression stockings for about a week.",
+    "You may have some pain and bruising, but you should be able to go back to most of your usual activities straight away."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "summary",
+   "s": [
+    "Foam sclerotherapy"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You'll usually be offered foam sclerotherapy if endothermal ablation is not suitable for you."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "The main steps are:"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "You'll be awake during the procedure.",
+    "You'll have a local anaesthetic, so you will not feel any pain."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "You'll have injections into your vein of a chemical mixed with air (foam).",
+    "An ultrasound scan is used to make sure the injections are in the right place."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The chemical blocks the vein, so that blood stops flowing through it."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You'll have the procedure in a hospital or clinic.",
+    "You'll be able to go home the same day."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You may need to wear compression stockings for about a week.",
+    "You may have some pain and bruising, but you should be able to go back to most of your usual activities straight away."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "summary",
+   "s": [
+    "Surgery to remove varicose veins (ligation and stripping)"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You may be offered surgery to remove varicose veins, called ligation and stripping, if simpler procedures are not suitable for you."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "The main steps are:"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The surgeon will mark your legs to show where the vein needs to be removed."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "You'll usually be asleep during the operation.",
+    "You'll have a general anaesthetic, so you will not feel any pain."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The surgeon makes 1 cut in your upper leg (groin) and a 2nd cut lower down your leg, at your knee or ankle."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The surgeon finds the vein through the 1st cut and ties it, to stop blood flowing."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "A thin, flexible wire is passed down the vein to the 2nd cut.",
+    "The surgeon uses the wire to pull the vein out."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "li",
+   "s": [
+    "The cuts are closed using stitches that dissolve so they do not need to be removed."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You can usually go home the same day.",
+    "Moving around may be uncomfortable for a few days, and you may have some pain and bruising for a few weeks.",
+    "You may need to take 1 to 2 weeks off work."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "Your leg will be tightly bandaged or you'll need to wear compression stockings for about a week."
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "summary",
+   "s": [
+    "Compression stockings"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "Compression stockings work by putting pressure on your lower legs.",
+    "This improves your blood flow and can help with swelling and pain."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "You'll only be offered compression stockings for varicose veins if procedures or surgery are not suitable for you, or if you do not need other treatments."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "They're not suitable if you have problems with blood flow in your arteries.",
+    "A specialist can check for this."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "There are different types of stockings, and it's important to talk to a doctor or pharmacist to make sure you get the right type for you."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Varicose veins > Treatment for varicose veins > Assessment and treatment from a specialist",
+   "kind": "p",
+   "s": [
+    "It's best to wear them during the day and remove them at bedtime."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Varicose veins > Treatment for varicose veins > Treating varicose veins in pregnancy",
+   "kind": "p",
+   "s": [
+    "If you get varicose veins during pregnancy, you may be able to use compression stockings, but procedures or surgery to treat them are not usually recommended while you're pregnant."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Varicose veins > Treatment for varicose veins > Treating varicose veins in pregnancy",
+   "kind": "p",
+   "s": [
+    "Varicose veins often get better or go away after your baby's born."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins happen when the valves that control the flow of blood in your vein do not work properly.",
+    "This causes blood to build up and put pressure on the vein, which makes it swell and twist."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins are very common and anyone can get them, but it's more likely to happen if you:"
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "are a woman"
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "are older"
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "are overweight"
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "are pregnant"
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "spend a lot of time standing or sitting"
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "have other family members with varicose veins"
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "Varicose veins > Causes of varicose veins",
+   "kind": "li",
+   "s": [
+    "have had deep vein thrombosis (DVT)"
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "p",
+   "s": [
+    "Varicose veins do not usually cause any serious problems.",
+    "But they can sometimes cause complications including:"
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "li",
+   "s": [
+    "bleeding"
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "li",
+   "s": [
+    "itchy, flaky, dry skin over your veins (varicose eczema)"
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "li",
+   "s": [
+    "sores that take a long time to heal (venous leg ulcers)"
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "li",
+   "s": [
+    "blood clots under your skin that cause hard, painful veins (superficial vein thrombosis)"
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "Varicose veins > Complications of varicose veins",
+   "kind": "li",
+   "s": [
+    "blood clots deeper inside your leg (deep vein thrombosis – DVT)"
+   ]
+  }
+ ]
+}

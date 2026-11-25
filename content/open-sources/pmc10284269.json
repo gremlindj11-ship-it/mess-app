@@ -1,0 +1,595 @@
+{
+ "id": "pmc10284269",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC10284269",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10284269/fullTextXML",
+ "doi": "10.1093/ehjqcco/qcad011",
+ "title": "A hidden problem: peripheral artery disease in women",
+ "authors": "Kavurma MM, Boccanfuso L, Cutmore C et al",
+ "journal": "European Heart Journal. Quality of Care & Clinical Outcomes",
+ "year": "2023",
+ "updated": "2023-03-08",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
+ "credit": "Kavurma MM, Boccanfuso L, Cutmore C et al. A hidden problem: peripheral artery disease in women. European Heart Journal. Quality of Care & Clinical Outcomes. 2023. https://doi.org/10.1093/ehjqcco/qcad011. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "7b6c65fc772bd95183e3a68b4de2e6f45dc1ef8500fef90d4803863f07330484",
+ "sentences": 167,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Peripheral artery disease (PAD) has a huge social and economic burden and is an important contributor to the global health burden.",
+    "Sex differences in PAD are apparent, with recent data suggesting equal if not greater prevalence in women, and women having worse clinical outcomes.",
+    "Why this occurs is not clear.",
+    "To identify underlying reasons for gender inequalities in PAD, we executed a deeper exploration through a social constructive perspective.",
+    "A scoping review was conducted using the World Health Organization model for analysis of gender-related needs in healthcare.",
+    "Complex interacting factors, including biological, clinical, and societal variables, were reviewed to highlight gender-related inequities in the diagnosis, treatment, and management of PAD.",
+    "Current gaps in knowledge were identified and insights into future directions aimed at improving these inequalities were discussed.",
+    "Our findings highlight the multi-level complexities that need to be considered for strategies to improve gender-related needs in PAD healthcare."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Peripheral artery disease (PAD) is the leading cause of lower limb amputation and a major risk factor for cardiovascular mortality.",
+    "PAD affects >200 million people worldwide, and its prevalence expected to rise ∼50% by 2045.",
+    "Increasingly, research is oriented towards understanding the health of under-represented populations, including gender-related inequalities.",
+    "To design and implement effective and inclusive strategies aimed at improving person-centred care and health outcomes, it is necessary to explore the influence of sex and gender in PAD.",
+    "In 2012, the American Heart Association (AHA) made a call-to-action to address gender-related disparities in PAD, noting the need to raise clinical awareness, focused treatment plans and expand research efforts.",
+    "More than 10 years later, PAD is still underdiagnosed and understudied in women despite recent findings suggesting an increased prevalence in women.,"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "To understand gender-related health inequalities, it is important to reach beyond traditional biological drivers of sex differences and consider socially constructed gender roles and relationships, inclusive of gender diverse people.",
+    "Sex and gender interact in complex and multifaceted ways to influence health outcomes.",
+    "Biological differences between men and women are also influenced by the gendered structures of health systems (access to and control of resources, aptitudes, and skills) and socioeconomic structures (gender roles and values in society).",
+    "Research into intersectionality demonstrates how differences in age, culture, race, sexuality, and class mediate the influence of these factors.",
+    "The World Health Organization (WHO) proposes a model for analysis of gender-related needs in healthcare (Figure 1).",
+    "The WHO framework requires researchers evaluating gender inequalities to consider potential biological, clinical, and social mechanisms arising at different levels, from the microlevel variables (such as biology, individual behaviours, and risk factors), the mesolevel variables (including education, family, and employment), and macrolevel variables (such as the role of women in society, and healthcare systems).",
+    "This approach also requires researchers to consider the intersection between the problem and systems both locally and globally.",
+    "To meaningfully address gender inequalities in PAD, complex multilevel strategies are needed across all three contextual levels."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Introduction",
+   "kind": "caption",
+   "s": [
+    "Figure 1 Gender discrepancies in peripheral artery disease (PAD)."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "This review evaluates what is currently known about men and women with lower extremity PAD through a social constructivist perspective, to identify known contributors to gender-related inequalities in the diagnosis, treatment, and management of PAD.",
+    "This methodological approach is unique in PAD research, as it places a stronger emphasis on the social determinants of health and PAD, considering the role of women in society, and provides a useful framework for understanding the influence of sex and gender on healthcare needs."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Methodology",
+   "kind": "p",
+   "s": [
+    "We conducted a comprehensive scoping review using MEDLINE, EMBASE, and SCOPUS, starting with key words: ‘peripheral artery disease’, ‘gender’, ‘sex’, ‘peripheral vascular intervention’.",
+    "Consistent with the broad research questions in scoping reviews, the search was iterative, identifying new search terms with subsequent search rounds to reveal the depth and breadth of research on gender inequalities in PAD.",
+    "We engaged in snowball searching using reference reviews to identify additional publications from selected studies.",
+    "Data were analysed to describe themes related to gender inequalities, grouping results into relevant topic areas as determined by the WHO framework, supported by key references."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Methodology",
+   "kind": "p",
+   "s": [
+    "The authorship team collaboratively developed the study plan, drawing on our interdisciplinary expertise as scientists and clinicians (biomedical science, vascular surgery, and cardiology), which prompted critical reflection and diversity in analysis and interpretation, and supported the rigour of the review methodology.",
+    "The primary review team engaged in reflexive discussion about how their intersectional identities (including gender, various culturally and linguistically diverse backgrounds, and professional backgrounds) influenced the research process at each stage.",
+    "The social constructivist WHO framework used throughout this review helps synthesize the current evidence on gender disparities in PAD and substantially expands on previous review articles to address deeper complexities contributing to inequality, including the social determinates of disease."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Prevalence of PAD",
+   "kind": "p",
+   "s": [
+    "Historical studies reporting at the incidence of intermittent claudication (IC) contributed to the idea that PAD is predominantly a disease affecting men.",
+    "More recent epidemiological studies report women to have at least a similar, if not higher, prevalence of PAD to men, including women from low and middle-income countries (LMIC) and in socioeconomically disadvantaged groups., In 2019, Song and colleagues reported a higher prevalence for PAD from women >25 years of age in high-income countries with the prevalence equalizing by 65 years of age.",
+    "These figures may in fact be an underestimate, since women are often asymptomatic or have atypical symptoms compared with men, making diagnosis difficult."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "p",
+   "s": [
+    "Table 1 summarizes diagnostic and treatment inequalities in women with PAD.",
+    "PAD is traditionally classified into three clinical phases: asymptomatic, IC, and critical limb ischaemia—using systems such as the Fontaine or Rutherford scores; noting that the term critical limb ischaemia (referring to patients with rest pain, ulceration, or necrosis) was recently replaced by chronic limb-threatening ischaemia (CLTI).",
+    "PAD does not always progress through all clinical stages, and these scoring systems are increasingly recognized as poorly representative of many patients’ symptoms of PAD, especially in women.",
+    "Women have a lower prevalence of IC when compared with men, they also have ∼2-fold prevalence of CLTI, and more multi-level arterial occlusive disease.",
+    "Furthermore, the typical presentation (IC) in women generally occurs much later in age than men, ∼10–20 years later, and post-menopause."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "caption",
+   "s": [
+    "Table 1 Diagnostic and treatment inequalities in women with peripheral artery disease (PAD)"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "row",
+   "s": [
+    "Prevalence | • Generally higher prevalence equalizing after menopause.,"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "row",
+   "s": [
+    "Clinical presentation and symptoms | • Atypical or absent symptoms. • Lower rates of intermittent claudication.,, • Greater chronic limb-threatening ischemia as first manifestation of PAD., • Multilevel disease., • Aging."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "row",
+   "s": [
+    "Diagnosis | • Ankle-brachial index measurements, but these are less sensitive with asymptomatic disease.,"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "row",
+   "s": [
+    "Initiating therapy | • Lower rates of guideline-directed medical therapy adherence for PAD. • Less likely to receive guideline-directed therapy., • Lower rates of surgical intervention., • Higher rates of endovascular treatment vs. amputation or open surgery; more complications."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Clinical presentation and symptoms",
+   "kind": "row",
+   "s": [
+    "Responses to therapy | • Reduced or no improvement with supervised exercise therapy. • Higher mortality following amputation or open surgery.,"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Diagnosis of PAD",
+   "kind": "p",
+   "s": [
+    "Most population-based screening studies for PAD use a reduced ankle-brachial index (ABI) of 0.9 to identify PAD.",
+    "In women with reduced ABI, the prevalence of typical symptoms is less than that seen in men, with women more likely to be asymptomatic.",
+    "These findings may represent differences in PAD symptom manifestation, or that the exertional leg pain in women may be attributed to other conditions."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Treatment",
+   "kind": "p",
+   "s": [
+    "The major goal in the treatment of PAD is to manage symptoms to maintain quality of life, decrease major adverse limb events (ulceration and amputation), and minimize the risk of myocardial infarction (MI) and stroke.",
+    "Clinical guidelines recommend lifestyle, pharmacological, exercise, and surgical treatments.",
+    "Considerable inequalities in treatment exist between sexes."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Treatment > Pharmacotherapy",
+   "kind": "p",
+   "s": [
+    "Medical therapy and secondary risk prevention for PAD include statins, antiplatelets, antihypertensives, control of diabetes, and cessation of smoking., Criqui and colleagues recently reported a lack of guideline adherence, with only ∼11–67% adherence observed for the use of evidence-based preventative therapies in PAD.",
+    "Women and older individuals have even lower rates of guideline-directed therapy,, and when given, the impact of therapies may be different with the sexes, e.g. antithrombotic therapies,, as described later."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Treatment > Exercise",
+   "kind": "p",
+   "s": [
+    "Supervised exercise training improves walking distance, reduces leg pain, and improves quality of life and is therefore recommended as first-line therapy for PAD.",
+    "Women appear to have less improvement in walking distance after exercise programmes than men, while other reports show no sex-dependent associations after exercise."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Gender inequalities in current PAD diagnostic and treatment paradigms > Treatment > Surgical intervention",
+   "kind": "p",
+   "s": [
+    "Open or endovascular techniques are recommended for patients with lifestyle-limiting symptoms unresponsive to exercise therapy or with CLTI.",
+    "Less women proceed to surgical intervention for PAD,, and when admitted to hospital for acute management, women often have an endovascular procedure rather than an amputation or bypass surgery compared with men.",
+    "This may reflect a selection bias since females have higher mortality rates following amputation or open surgery., Women also have a greater in-hospital complications after endovascular surgery, including higher rates of bleeding, vessel access site complications, haematoma, or pseudoaneurysm.",
+    "Following endovascular intervention, women also have a higher risk of dissection, amputation, MI, and death., Intersecting multimorbidity, particularly frailty, disproportionally affects women more than men, and leads to increased complications after endovascular and open surgery., This may, in part, be related to the smaller vessel size in females.",
+    "Women also present with more complex lesions and comorbidities than men, as well as greater pain intensity in daily activities following limb loss.",
+    "Conversely, the EUCLID trial reported women with symptomatic PAD (ABI ≤ 0.8) to be protected from major adverse cardiovascular events and all-cause mortality when compared with men, even though the risk of major adverse limb events was the same between sexes over a 30-month follow-up period.",
+    "Other cohort studies report lower rates of PAD diagnosis, complications, and intervention in women.",
+    "Understanding the cause of these disparities is critical in surgical decision-making and treatment outcomes."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Factors contributing to gender inequalities in PAD",
+   "kind": "p",
+   "s": [
+    "Applying the WHO framework for gender evaluation of healthcare equity, we evaluated potential contributing factors for gendered differences in PAD.",
+    "By using this social constructivist approach, we sought to explain the key underlying biological, clinical, and societal contributory mechanisms for the PAD-related gender inequalities reported above."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "p",
+   "s": [
+    "Sex-related changes in disease biology and pathophysiology at a cellular, hormonal, and physiological level result in differences of disease presentation, progression, and responses to treatment.",
+    "Table 2 summarizes the key biological variables that contribute to gender inequality in women."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "caption",
+   "s": [
+    "Table 2 Key biological variables that contribute to gender inequality in women with peripheral artery disease (PAD)"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "row",
+   "s": [
+    "Biological"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "row",
+   "s": [
+    "Female vs. male biology | • Higher risk of thrombosis. • Smaller vessel size. • Unclear impact of antithrombotic therapy and bleeding events.,"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "row",
+   "s": [
+    "Hormones | • Pregnancy and pre-eclampsia independently predict acute peripheral arterial events. • Higher rates associated with maternal placental syndrome. • Increased cardiovascular mortality and hospitalization for PAD associated with maternal/foetal complications. • Higher rates associated with use of oral contraceptives. • Conflicting impact on PAD risk from hormone replacement therapy."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors",
+   "kind": "row",
+   "s": [
+    "Comorbid illness and cardiovascular risk | • Higher PAD risk with comorbidities, e.g. hypertension, diabetes mellitus and chronic kidney disease. • Associated with depression cluster and higher rates of amputation.,"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors > Differences between female and male biology",
+   "kind": "p",
+   "s": [
+    "PAD is caused primarily by atherosclerosis and thrombosis.",
+    "How sex impacts PAD pathogenesis is unclear; however, genetic and epigenetic factors, arterial structure, function, and health, and differences in response to environmental, physical and/or humoral stresses, and ageing can impact atherosclerosis progression and pathobiology.",
+    "Interestingly, a recent study reported that 66% of large peripheral arteries examined in patients with CLTI were blocked by thrombus, in the absence of significant atherosclerosis.",
+    "Women have a higher platelet count, and platelets from females have a higher reactivity when compared with men.",
+    "It is tantalizing to speculate that sex differences play a role in the risk of thrombosis in PAD; however, further evidence is needed to confirm this.",
+    "Interestingly, antithrombotic therapy for PAD was associated with higher bleeding complications in women, which may influence prescribing practices, but the recent COMPASS trial showed comparable bleeding rates between sexes in PAD, highlighting the need to understand sex-dependent pharmacokinetics.",
+    "Women also have more target lesions in smaller vessels with greater diameter stenosis, length, and multilevel disease.",
+    "It is also important not to discount microvascular dysfunction as a mechanism for sex-dependent differences.",
+    "Because the majority of pre-clinical studies examining PAD use male animals, further research efforts using pre-clinical and patient studies in both sexes are essential to increase our understanding of sex-dependent pathophysiology impacting prevalence, clinical manifestations, and outcomes to treatment."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors > Influence of hormones and pregnancy",
+   "kind": "p",
+   "s": [
+    "Reproductive and hormonal factors can influence cardiovascular disease later in life.",
+    "In some observational studies, women taking oral contraceptives had higher rates of PAD, and hormone replacement therapy (HRT) showed conflicting effects.",
+    "A 3.8-fold increase in PAD risk was associated with maternal placental syndrome.",
+    "In a large cohort study, maternal and foetal complications were associated with increased cardiovascular mortality and increased hospitalization for PAD.",
+    "Pregnancy and pre-eclampsia were also independent predictors of acute peripheral arterial events, highlighting the importance of pregnancy and foetal complications as a risk factor for PAD."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Factors contributing to gender inequalities in PAD > Biological factors > Differing comorbid illness and risk factors",
+   "kind": "p",
+   "s": [
+    "Major risk factors for PAD include hypertension, raised serum cholesterol, diabetes mellitus, chronic kidney disease, and cigarette smoking.",
+    "Women with PAD have a greater association with these comorbidities than women without PAD.",
+    "It is generally more common for men with IC to smoke; however, women who smoke have an equal or greater PAD risk, including from second-hand smoke.",
+    "Worse outcomes may also stem from different perceptions of limb loss.",
+    "For example, amputation can affect body image, cognitive function, and psychosocial adjustment, and depression is more prevalent in women than men with PAD, associating with worse health status.,"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "p",
+   "s": [
+    "How individuals engage with healthcare services, their relationships with treating clinicians and how our health systems research, diagnose, and treat PAD are important clinical factors influencing gendered differences.",
+    "These social constructs can enhance or detract from PAD awareness, equitable management, and the quality of evidence that the treatment of PAD is based on women.",
+    "Table 3 describes the health system factors contributing to gendered differences in PAD treatment."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "caption",
+   "s": [
+    "Table 3 Key clinical and health system variables that contribute to gender inequality in women with peripheral artery disease (PAD)"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "row",
+   "s": [
+    "Clinical"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "row",
+   "s": [
+    "Healthcare provider awareness | • Bias of male predominance in PAD. • Low awareness of female PAD. • Misdiagnoses."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "row",
+   "s": [
+    "Low health literacy and PAD awareness | • Poor awareness of PAD risk and preventative strategies, amplified by intersectionality. • Minimize symptoms; less likely to discuss with practioners.,"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "row",
+   "s": [
+    "Inadequate diagnostic criteria | • Lower ankle-brachial index (ABI) ratios than men. • ABI ratio as a measure of functional impairment inconsistent between sexes. • Discrepancy in self-screening questionnaires."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors",
+   "kind": "row",
+   "s": [
+    "Evidence paucity | • Underrepresentation in clinical trials (Figure 2).• Lack of standardization in gender-related differences reported in clinical research."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors > Healthcare provider awareness",
+   "kind": "p",
+   "s": [
+    "Disease literacy and awareness of PAD risks are poor amongst women and healthcare providers, and healthcare providers are less likely to recognize PAD in women compared with men.",
+    "Although women consult general practitioners at similar rates to men prior to their diagnosis with PAD, they are more likely to be misdiagnosed with other conditions, including musculoskeletal disorders.",
+    "Unfamiliarity and a lack of knowledge could contribute to under-recognized symptoms and mismanagement of disease."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors > Healthcare provider awareness",
+   "kind": "p",
+   "s": [
+    "In a cross-sectional, population-based telephone survey, knowledge gaps of PAD were most evident in those at highest risk.",
+    "Women had a greater knowledge base than men, but only 14% of women were aware that PAD increased the risk of MI or death.",
+    "Furthermore, women were less likely to discuss PAD with their treating clinicians.",
+    "This is not surprising since a bias towards an underestimation of pain in women exists and women may minimize their symptoms and underestimate risks.",
+    "Intersectionality contributes to this further; US Hispanic and non-Hispanic black women were less aware of PAD than white women."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors > Diagnostic criteria",
+   "kind": "p",
+   "s": [
+    "Although there are reports that healthy women have a lower ABI than men, the association of lower ABIs with functional impairment in PAD is inconsistent between the sexes.",
+    "This may be due to multiple factors, including calf-muscle size, which could influence occlusion pressures or that women present with atypical disease and are less likely to align with clinical staging criteria.",
+    "There is also a significant discrepancy between the PAD symptoms women report on self-screening questionnaires and the symptoms scored by treating doctors, but less so for men, highlighting differences in perception between the sexes."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors > Evidence paucity",
+   "kind": "p",
+   "s": [
+    "Publication of data that lacks gender, racial, and ethnic diversity can result in clinical care that is not applicable and may be less effective or even harmful to identified groups of the population.",
+    "Women represent only ∼33% of study participants in trials of intervention for PAD in the last 10 years (Figure 2).",
+    "Poor representation of women in clinical trials is multifactorial and complex to address.",
+    "For PAD clinical trials, poor enrolment of women may be exacerbated by inclusion criteria, but also by social and clinical factors elaborated on in this review.",
+    "To improve gender diversity in clinical research, Steinberg et al. propose a standardized system of reporting sex-dependent changes in pathogenesis, prognosis, or treatment outcome, including those individuals who are transgender or non-binary."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Factors contributing to gender inequalities in PAD > Clinical factors > Evidence paucity",
+   "kind": "caption",
+   "s": [
+    "Figure 2 Sex representation in peripheral artery disease-related clinical trials from 2011–2021."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "p",
+   "s": [
+    "The social structures that women live, work, and relate to are important system factors that contribute to overall gender inequality but can also impact gendered differences in PAD.",
+    "These include the socioeconomic determinants of disease, the value and role of women in society, and geographical patterns associated with disease (Table 4).",
+    "Direct causal evidence for social drivers of inequality is limited.",
+    "In this section, we present associations with social factors that drive inequality in health in general, applying it to what is known about PAD."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "caption",
+   "s": [
+    "Table 4 Key societal variables that may contribute to gender inequality in women with peripheral artery disease (PAD)"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Societal"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Socioeconomic status | • Lower socioeconomic status than men globally. • Higher prevalence from low and middle-income countries."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Geographical factors | • Impact of climate/environment., • Physical and cultural barriers reducing access to care."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Gendered roles | • Greater domestic demands result in less engagement with doctors for preventative care. • More accepting of reduced exercise tolerance, pain, and functional restrictions., • Diagnosis restricts lifestyle and quality of life. • Less likely to receive treatment."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Access to resources | • Reduced health insurance, hospital care and physician visits; patients without health insurance more likely to receive amputation than revascularization. • Lower education attainment contributes to increased PAD prevalence and a 2-fold increase in PAD-associated hospitalization risk."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors",
+   "kind": "row",
+   "s": [
+    "Clinician diversity | • Improved patient outcomes with gender concordance. • Improved patient outcomes when treated by female clinicians.,, • Women underrepresented in leadership roles. • Women underrepresented in PAD guidelines.,"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Socioeconomic status",
+   "kind": "p",
+   "s": [
+    "Women have a lower socioeconomic standing than men in most nations, attributed to income inequalities, levels of education, value of women, carer responsibilities, and quality of life.",
+    "The incidence of PAD is greater in LMIC, rising most rapidly in women.",
+    "Since lower socioeconomic status is associated with increased PAD prevalence and PAD-associated hospitalization risk,, the higher poverty and socioeconomic disparities experienced by women globally may contribute to increased rates of PAD in women."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Geographical factors",
+   "kind": "p",
+   "s": [
+    "Women in LMIC are impacted by access and environmental issues, which impact their PAD risk and outcomes.",
+    "Air pollution is a significant environmental risk factor for PAD.",
+    "Women, who are disproportionately affected by indoor pollution, passive smoke, and poor sanitation, may have a higher overall cardiovascular mortality as a result, although the impact on PAD is unclear.",
+    "Physical access to healthcare providers in LMIC presents additional challenges for women, where care may be delayed if the patient is unaccompanied by a male or where they may be refused access to public transport because of their sex.",
+    "These barriers are amplified when intersecting with other sociocultural factors, including reduced financial resources and access to education.",
+    "Collectively, these may contribute to gender disparities observed in PAD outcomes."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Gender roles within society and access to healthcare",
+   "kind": "p",
+   "s": [
+    "Greater domestic demands contribute to women having less engagement with preventative care for cardiovascular diseases.",
+    "Despite higher health needs, women have less hospital care, reduced clinician visits, and lower levels of health insurance and economic resources than men in general.",
+    "In LMIC, these healthcare access barriers are amplified.",
+    "Thus, economic factors may significantly influence how effectively women with PAD can access care.",
+    "For example, health insurance increases the likelihood of receiving limb-saving revascularization vs. amputation."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Gender roles within society and access to healthcare",
+   "kind": "p",
+   "s": [
+    "Compared with men with similar PAD disease stages, women report significantly more functional limitations, pain, and mood disturbances than men.",
+    "Qualitative studies show that women with PAD are more accepting of reductions in exercise tolerance and pain, and experience considerable functional restrictions compared with women without PAD, even with very mild disease.",
+    "In women <50 years old, IC significantly impacted health-related quality of life with severe limitations on the physical requirements of daily living and employment.",
+    "Older women, even with mild PAD, are more isolated and less likely to leave their immediate neighbourhood compared with other ambulatory women in the community.",
+    "In qualitative studies, women tend to describe PAD symptoms more in terms of functional limitations and disability than men."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Lack of diversity in treating clinicians",
+   "kind": "p",
+   "s": [
+    "Gender and ethnic diversity in clinical teams improves performance, resulting in superior patient outcomes.",
+    "Clinician diversity improves clinical care by enhancing patient satisfaction and trust in patient-clinician relationships, and through improving access and utilization of healthcare services, and reducing post-operative deaths, readmissions, or major complications., A total of 14% of vascular surgeons and trainees in the United Kingdom are women.",
+    "A lack of female physicians may contribute to the higher adverse outcomes seen in women with cardiovascular diseases, including PAD.,, Gender discordance between the surgeon and patient could negatively affect the relationship between the physician and patient.",
+    "Vascular training programmes are currently directed to address gender imbalances.",
+    "More research is needed to understand physician-patient relationships, unconscious and conscious biases, and their impact on PAD healthcare outcomes."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Factors contributing to gender inequalities in PAD > Societal factors > Lack of diversity in treating clinicians",
+   "kind": "p",
+   "s": [
+    "The diversity and inclusion in the authorship, peer review, and editorial processes have an impact on publication biases.",
+    "Although female academic vascular surgeons in the US hold more NIH grants, they have less publications and citations than male vascular surgeons.",
+    "Women also continue to be underrepresented in senior academic leadership roles in vascular surgery and in editorial processes, especially Black, Indigenous, or women of colour.",
+    "In the four recent PAD guidelines, women comprised ∼7%, ∼35%, ∼38%, and ∼28% of the authorship team.",
+    "Consequently, research, publications, and policies related to PAD may not be fully reflective of gendered perspectives."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Knowledge gaps and future research",
+   "kind": "p",
+   "s": [
+    "This review evaluates how interacting gender-based inequalities impact the care and prognosis of women with PAD from a social constructivist perspective.",
+    "Whilst this approach facilitated a broader discussion on the contributors to PAD gender inequalities, it has also highlighted limited evidence for specific causal associations for PAD outcomes.",
+    "There are still major gaps in knowledge: from public and health practitioner awareness of PAD to a lack of treatment outcomes for women with PAD because of a lack of recruitment of clinical trials, to our understanding of pathogenesis that is sex dependent.",
+    "A greater understanding of how the positioning of women in society impacts PAD health outcomes is needed, as well as research into biological sex differences."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Knowledge gaps and future research",
+   "kind": "p",
+   "s": [
+    "This paper has focused on gender-related differences, but we recognize the role that intersectionality also plays in health inequalities.",
+    "In line with our social constructivist approach, where possible, we have touched upon how race, socioeconomic status, and sexuality are also important markers of diversity, but it is beyond the scope of this paper to expand in detail into these important intersectional differences.",
+    "Our review is also limited by publication bias and the paucity of evidence from LMICs on gender-related disparities.",
+    "Steps to address gender-bias in research have been taken through, such as the NIH guidelines on the inclusion of women and minorities as subjects in clinical research and the Gender Equality in Academia and Research tool.",
+    "Widespread implementation of these policies in all aspects of PAD research is needed."
+   ]
+  }
+ ]
+}

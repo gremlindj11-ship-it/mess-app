@@ -1,0 +1,538 @@
+{
+ "id": "pmc8486019",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC8486019",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8486019/fullTextXML",
+ "doi": "10.3389/fcvm.2021.734175",
+ "title": "Calcific Aortic Stenosis—A Review on Acquired Mechanisms of the Disease and Treatments",
+ "authors": "Zebhi B, Lazkani M, Bark D",
+ "journal": "Frontiers in Cardiovascular Medicine",
+ "year": "2021",
+ "updated": "2021-09-17",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribu",
+ "credit": "Zebhi B, Lazkani M, Bark D. Calcific Aortic Stenosis—A Review on Acquired Mechanisms of the Disease and Treatments. Frontiers in Cardiovascular Medicine. 2021. https://doi.org/10.3389/fcvm.2021.734175. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "cf3b08e5861ac2fc883fe27fa477b5f57a639cc9f5883709d76e47a7a8914aaf",
+ "sentences": 219,
+ "set_aside": 3,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Calcific aortic stenosis is a progressive disease that has become more prevalent in recent decades.",
+    "Despite advances in research to uncover underlying biomechanisms, and development of new generations of prosthetic valves and replacement techniques, management of calcific aortic stenosis still comes with unresolved complications.",
+    "In this review, we highlight underlying molecular mechanisms of acquired aortic stenosis calcification in relation to hemodynamics, complications related to the disease, diagnostic methods, and evolving treatment practices for calcific aortic stenosis."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Calcific aortic stenosis (AS) is the most common valve disease in developed countries (,), in which valves thicken and stiffen, and in some cases nodular deposits form, limiting valve function.",
+    "This may result in valve regurgitation with concomitant stenosis.",
+    "Calcific AS is a progressive disease that advances with age (,), affecting ~0.2% of people 50–59 years of age and increasing to 9.8% for 80–89 years (,).",
+    "As the general population has become older, the prevalence of calcific AS has increased, igniting multiple improvements in its management ().",
+    "In addition to new diagnostic imaging techniques emerging, novel prosthetic valves have been developed as an effective treatment for calcific AS.",
+    "To date, pharmacotherapy has not been shown to slow down the progression of the disease, or to reverse the calcification process ().",
+    "In this review we highlight engineering perspectives toward recent advancements in the treatment of AS, underlying molecular pathways and mechanisms of the calcification process, clinical characteristics, hemodynamics, complications of calcific AS, diagnoses, and common treatment practices for calcific AS."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Aortic Valve Structure and Calcification",
+   "kind": "p",
+   "s": [
+    "Aortic valve (AV) leaflets consist of three layers: the ventricularis layer is elastin-rich and located on the ventricular side; the spongiosa is made of proteoglycans that provide lubrication for the other layers; and a fibrosa layer made of a dense collagen network is on the aortic side of the valve (,), which provides much of the structural support in response to mechanical forces ().",
+    "These 3 layers are filled with valvular interstitial cells (VICs), and the entire layered structure is covered by endothelial cells () (Figure 1).",
+    "The fibrosa layer is particularly prone to calcification (), while alterations to the endothelial barrier function could impact propensity for calcification.",
+    "For years, calcification was thought to be a passive degenerative process in which calcium accumulates on leaflets (, –), where old age, male gender, diabetes mellitus, coronary artery disease, chronic renal disease, hypertension, hypercholesterolemia, and smoking are known to increase the risk for AV calcification ().",
+    "Now, it is understood that calcification is a complex process involving mechanobiology, molecular signaling, tissue remodeling, and inflammation as the AV opens and closes billions of times during a lifetime."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Aortic Valve Structure and Calcification",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Hemodynamics and Endothelial Cell Mechanotransduction",
+   "kind": "p",
+   "s": [
+    "Due to the sensitivity to hemodynamics (blood flow), endothelial cells may contribute to calcification and AS by responding to shear stress experienced on the cells' apical side (Figure 1).",
+    "Indicating a potential link, calcium formation is more common in the non-coronary cusp, where surrounding fluid wall shear stress is lower relative to coronary cusps ().",
+    "Endothelial cells respond to shear stress by changing their morphology, gene regulation, protein expression, transendothelial transport, alignment, and release of molecules and proteins from the surface ().",
+    "These processes can occur as endothelial cells convert mechanical stimuli to biochemical signals to elicit biological responses, known as mechanotransduction, briefly summarized below."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Hemodynamics and Endothelial Cell Mechanotransduction",
+   "kind": "p",
+   "s": [
+    "Vascular endothelial cells sense their environment through ion channels (which allows membrane depolarization and cell signaling), integrins, intercellular junction proteins, caveolae, the glycocalyx, G protein-coupled receptors (GPCRs), and tyrosine kinase receptors (,), However, only some of these mechanosensors have been observed for valvular endothelial cells (further explained below).",
+    "Integrins function as signaling receptors and play a crucial role in transmitting physical mechanical forces between the extracellular matrix and the actin cytoskeleton via focal adhesion complexes.",
+    "In one example, valvular endothelial cell morphological alignment perpendicular to the direction of flow involves β1 integrin, vinculin and focal adhesion kinase and depends on Rho-kinase and calpain ().",
+    "GPCRs are also highly sensitive to changes in flow and activate downstream signaling by binding to extracellular ligands ().",
+    "The glycocalyx is a mediator for cell-cell adhesion and works as a trap for ions and antibodies that translate to downstream signaling pathways ().",
+    "Using these mechanosensors (and others), mechanical forces are transmitted to the nucleus and can change the nuclear morphology, stiffness, and gene expression ().",
+    "Mechanotransduction in relation to AS calcification continues to be explored and only a brief description of some findings are presented here."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Inflammation Mechanism in Aortic Valve Calcification",
+   "kind": "p",
+   "s": [
+    "Multiple studies indicate a role for an innate and adaptive immune response that leads to calcification.",
+    "This largely initiates with dysregulated valvular endothelial cells, progresses to excessive remodeling of the leaflet ECM, changes in tissue stiffness, tissue mineralization, osteogenesis (formation of bone), and eventually lead to late-stage calcification (,)."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Inflammation Mechanism in Aortic Valve Calcification",
+   "kind": "p",
+   "s": [
+    "The endothelium is most responsive to the magnitude and directionality of fluid shear stress.",
+    "Physiological unidirectional shear stress is protective by downregulating adhesion proteins, vascular cell adhesion molecule 1 (VCAM-1), platelet endothelial cell adhesion molecule-1 (PECAM-1), and chemokines IL-1β and IL-8.",
+    "It also leads to expression of nitric oxide (NO), which can help prevent thrombotic responses that could otherwise play a role in calcification ().",
+    "Notch signaling is increased, which helps prevent calcification (,).",
+    "There is also increased expression of osteoprotegrin (OPG), which regulates aortic valve calcification by inhibiting receptor activator of the nuclear factor κB ligand (RANKL) signaling (,).",
+    "Under oscillatory shear stress, VCAM-1, intercellular adhesion molecule 1 (ICAM-1), endothelial selectin (E-selectin), VEGF, and TGFβ are upregulated, which leads to increased oxidative stress and inflammatory agents such as bone morphogenic protein (BMP)-4 and cytokines: IL-1β and INFγ.",
+    "TGFβ and VEGF can induce cell proliferation, fibrosis, and promotes calcification by enhancing irreversible tissue thickening and stiffening ().",
+    "Increased BMP-2 and BMP-4 can upregulate osteogenic pathways involving the Msx2 transcription factor that activates Wnt/LDL receptor-related protein 5 (Lrp5)/β-catenin signaling (,), and the Runx2/Cbfa1 transcription factor (,) that leads to differentiation of the VICs to an osteoblast-like phenotype.",
+    "Altogether, low and oscillatory shear stress found in stagnating regions of aortic valve leaflets are linked to signaling changes in the endothelium that lead to proinflammatory responses that could be linked to calcification."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Inflammation Mechanism in Aortic Valve Calcification",
+   "kind": "p",
+   "s": [
+    "Endothelial cell responses can also lead to low-density lipoprotein (LDL) deposition in response to altered mechanical forces, which can induce inflammation (,).",
+    "LDL and lipoprotein (a) derived from cholesterol colocalize in the calcified valve tissue in early calcification ().",
+    "Plasma lipoprotein (a) is an independent risk factor of AS identified through genome-wide association studies (–).",
+    "Furthermore, apolipoprotein H (APOH) was identified as a novel locus for lipoprotein (a) levels ().",
+    "Despite the link of LDL with calcification, studies have found that LDL suppression or lipid-lowering therapy with statins (anti-inflammatory and antioxidant agents) do not slow down the progression of disease even when given at early stages of calcification (–)."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Inflammation Mechanism in Aortic Valve Calcification",
+   "kind": "p",
+   "s": [
+    "Macrophages are found in calcified AV leaflets, likely entering through trans-endothelial migration involving ICAM and VCAM ().",
+    "In response to activated endothelial cells, macrophages release pro-osteogenic cytokines like IL-1β, IL-6, tumor necrosis factor-α (TNF-α), and RANKL, all of which could contribute to calcification.",
+    "Activated macrophages produce enzymes that can cause interstitial cell activation, changes in gene expression, and differentiation to osteoblasts, which then leads to excess synthesis and remodeling of collagen fibers in the fibrosa () (Figure 2).",
+    "Cytokines can promote cell proliferation and ECM remodeling.",
+    "Some fibroblasts can differentiate to activated myofibroblasts ().",
+    "The activation of myofibroblasts further induces inflammation through the expression of BMP, MMP-2, and MMP-9 and releases TNF-α and TGF-β1 and eventually differentiate to osteoblast-like phenotype ().",
+    "TNF-α activates nuclear factor-κB (NF-κB) pathways which leads to expression of proinflammatory genes (–).",
+    "Via activation of NF-κB, T cell activation amplifies the inflammatory response by producing cytokine interferon- (IFN-γ) and TNF-α.",
+    "Macrophages (along with vascular smooth muscle cells) also release calcification-prone extracellular vesicles (EVs) (,).",
+    "Excessive production of EVs lead to microcalcification.",
+    "Overall, macrophages can initiate a number of proinflammatory events that can lead to calcification in response to endothelial signals."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Inflammation Mechanism in Aortic Valve Calcification",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Pharmacotherapies",
+   "kind": "p",
+   "s": [
+    "Currently there is no approved pharmaceutical treatment for calcific aortic valve stenosis, but literature provides possible future pharmacological approaches in human and animal models.",
+    "A review by Myasoedova et al. () showed that oxidized low density lipoprotein (Ox-LDL), oxidized phospholipids (Ox-PL), lipoprotein associated phospholipase A2 (Lp-PLA2), Lp(a), proprotein convertase subtilisin/kexin type 9 (PCSK9), high density lipoprotein (HDL), the purinergic receptor 2Y2 (P2Y2R), sodium-dependent phosphate cotransporter (PiT-1), dipeptidyl peptidase-4 (DDP-4) are targetable components for prevention and treatment of calcific AS in human.",
+    "In efforts to target calcific AS, antisense oligonucleotides (ASOs) 2nd generation [inhibitor of apo(a) mRNA translation] was introduced as a new selective Lp(a) inhibitor (,).",
+    "Niacin (nicotinic acid) therapy helps to lower LDL and Lp(a) () and increase HDL ().",
+    "Since statins exhibit limited benefit to calcific AS, the lowering of LDL may not provide benefit.",
+    "Also, a trial study showed that extended-release niacin (ERN) does not reduce the risk of cardiovascular disease despite the favorable effect on lowering Lp(a) ().",
+    "PCSK9 (involve in regulating blood cholesterol) inhibitors can significantly lower LDL and plasma Lp(a) (,) and reduce the risk of cardiovascular disease, but have an unclear impact on calcific AS.",
+    "Sodium phosphonoformate (PFA) as a PiT-1 inhibitor can inhibit calcification in human VICs ().",
+    "DDP-4 inhibitors inhibit progression of calcific AS by blocking insulin-like growth factors and osteogenic activities in VICs.",
+    "Additionally, some animal studies suggest that calcification can be reversible.",
+    "Miller et al. () showed that a “genetic switch” in Reversa mice can reduce plasma lipid and oxidative stress and halt the progression of the calcific AS.",
+    "P2Y2R promotes expression of carbonic anhydrase CAXII, which acidifies the extracellular space and promotes calcification regression by resorbing minerals in mice ().",
+    "There is ongoing effort to develop pharmacotherapies for calcific AS, but due to the complex processes involved, this is a challenging undertaking."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Clinical and Hemodynamic Characteristics of Aortic Stenosis",
+   "kind": "p",
+   "s": [
+    "Severe AS can result in serious problems.",
+    "Patients can experience heart murmur, chest pain, shortness of breath, fatigue and syncope.",
+    "Pressure overload can occur in the left ventricle, and when left untreated, this can lead to hypertrophy ().",
+    "Presence of long-term pressure overload can even eventually lead to systolic failure and congestive heart failure.",
+    "AS can also further create bleeding complications described below."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Clinical and Hemodynamic Characteristics of Aortic Stenosis",
+   "kind": "p",
+   "s": [
+    "Aortic stenosis severity can be assessed based on valve flow velocity, valve orifice area, and the pressure gradient across the valve (,).",
+    "The common flow condition for severe stenosis is defined as a peak aortic velocity ≥ 4 (m/s), pressure gradient ≥40 (mmHg), and AV area <1 (cm 2) (); however, 5–10% of the patients with severe stenosis have low flow (low cardiac output), low pressure gradient <40 (mmHg) due to reduced left ventricle ejection fraction (LVEF) (<40%) (), and 10–35% with severe stenosis have paradoxical (Stage 3D Severe AS) low flow and low pressure gradient due to LV hypertrophy (with normal EF).",
+    "These variations of hemodynamics make the diagnosis and decision making for treatment of AS difficult; therefore other parameters have also been used to make accurate decisions when treating AS; this includes both subjective clinical symptoms and objective data, such as valvulateral impedance, AV resistance, projected AV area at normal flow, and calcium score (,).",
+    "A review by Saikrishnan et al. () provides a comprehensive summary of metrics, units, methods of measurement and the cut-off points for severe AS.",
+    "In order to score AS, maximum velocity and pressure gradient are measured, and valve effective orifice area (EOA) is calculated."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Clinical and Hemodynamic Characteristics of Aortic Stenosis",
+   "kind": "p",
+   "s": [
+    "Blood flow through the valve can be characterized using techniques and imaging modalities described below.",
+    "Blood flowing from left ventricle outflow tract (LVOT), passing through a stiff narrow valve opening, creates a jet with maximum velocity at vena contracta (VC).",
+    "VC is a location where fluid pathlines converge, and the velocity is the highest.",
+    "The area of the VC is known as the EOA.",
+    "Using Doppler echocardiography, pressure drop is approximated using a simplified Bernoulli equation, assuming that proximal velocity is negligible, Δ P = 4 v 2, where Δ P is the transaortic valve pressure gradient (between VC and LVOT), and v is maximum velocity of blood () (Figure 3).",
+    "EOA is calculated using the continuity equation; the volume flow rate passing through LVOT equals to the flow rate passing through VC, i.e., EOA · VTI VC = CSA LVoT · VTI LVoT, where VTI VC and VTI LVoT are the velocity time integrals measured from the parasternal long-axis view at the location of LVOT and VC, and EOA and CSA LVoT are cross sectional areas of VC and LVOT (,,).",
+    "In rare cases when there are discrepancies in Doppler echocardiography measurements, cardiac catheterization is used to obtain a more accurate measurement of pressure directly from the blood vessel.",
+    "Using the Gorlin equation, the geometric orifice area (GOA) is calculated from the flow rate and the pressure drop between the LVOT and VC, which is related to the EOA through the contraction coefficient.",
+    "The GOA the area formed by free edges of the leaflets when valves are fully opened.",
+    "Thus, catheterization measurements are performed at peak systole.",
+    "A review by Saikrishnan et al. () provides a detailed description of diagnostic modalities and formulations.",
+    "Calcific AS can be additionally assessed by computed tomography (CT) which provides high-resolution assessment of calcification, and enables accurate measurement of leaflet anatomy and annulus geometry.",
+    "Calcific deposits have higher density compared with surrounding soft tissues.",
+    "CT imaging uses attenuation coefficients expressed by Hounsfield unit (HU).",
+    "High density calcific deposits have a high attenuation value (>130 HU) which makes the calcific area appear bright in the image.",
+    "A calcium score is quantified by multiplying calcified area by Hounsfield unit, and is known as Agatston score (,).",
+    "Different Agatston scores are used for men and women to diagnose severe stenosis (–).",
+    "Recent studies highlighted that calcification deposits are more prevalent in men, while fibrosis may be more significantly involved in valvular dysfunction in women (–); presence of estrogen in women inhibits aortic valve calcification via suppression of RANKL signaling (,) and suppression of TGFβ-dependent ECM production ().",
+    "Animal studies showed that sex-related differences in calcific aortic valve disease are due to different pathogenetic and signaling pathways in male and female ()."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Clinical and Hemodynamic Characteristics of Aortic Stenosis",
+   "kind": "caption",
+   "s": [
+    "Figure 3 Schematic of blood passing through a stenosed aortic valve.",
+    "Using continuity equation, the effective orifice area (EOA) can be calculated based on velocity time integral (VTI) at vena contracta (VC), cross-sectional area (CSA) of left ventricle outflow tract (LVOT), and VTI at LVOT.",
+    "AAO, ascending aorta; LA, left atrium; LV, left ventricle; RV, right ventricle; GOA, geometric orifice area."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Clinical and Hemodynamic Characteristics of Aortic Stenosis",
+   "kind": "p",
+   "s": [
+    "In addition to impacting energy loss and hemodynamics, an aortic stenosis has a significant impact on the hemostatic capacity of blood.",
+    "It can lead to gastrointestinal, skin, and mucosal bleeding, which may, in-part, be attributed to acquired von Willebrand syndrome (AVWS) also known as Heydes Syndrome (–).",
+    "It appears as though the AVWS stems from turbulence that can occur in an aortic stenosis, whereas it is often alleviated once a diseased valve is replaced, eliminating pathological flow (, –)."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Calcific Aortic Valve Stenosis Treatment",
+   "kind": "p",
+   "s": [
+    "At late stages of calcific AS, no therapies can manage the progression of calcification and the only effective treatment is valve repair or replacement ()."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Repair",
+   "kind": "p",
+   "s": [
+    "Valve repair surgery can be used and is one of the oldest cardiovascular surgical interventions dating back to the early 1920s ().",
+    "Native aortic valve (root and leaflets) repair comes with low mortality risk and is free of most valve-related complications, yet durability of treatments remained limited and reoperation is often required in the short term ().",
+    "This has largely fallen out of favor in modern practice and is not utilized often, except in some centers."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valvuloplasty",
+   "kind": "p",
+   "s": [
+    "Balloon aortic valvuloplasty (BAV) is a catheter-based technique that dilates native valve's narrowed opening by delivering and inflating a balloon at the site of stenosed valve through femoral artery ().",
+    "BAV increases leaflet mobility by creating a fracture in calcified lesions, expanding the aortic annulus and separating calcified commissures ().",
+    "It has become a tool that can even be used in fetal aortic stenosis, to avoid progression into a more complex congenital heart malformation (–).",
+    "Use of an oversized balloon can cause infractions in the valve ring, separation between leaflets and the root, and leaflet tearing ().",
+    "Additionally, balloon inflation may cause complications like coronary ostia occlusion that could lead to myocardial ischemia and dysfunction of left ventricle.",
+    "BAV procedures do not provide long term improvements in adults, as the dilated valve can become restenosed; therefore, BAV is a temporary improvement option and a bridge to SAVR or TAVR for patients who are at high risk and need an urgent intervention ().",
+    "Utilization of BAV is also practiced as a palliative treatment option in terminal patients with <1-year life expectancy to improve quality of life in the short term, often seen in the hospice population."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Replacement",
+   "kind": "p",
+   "s": [
+    "Surgical aortic valve replacement (SAVR) has become the most common treatment for severe calcific aortic stenosis in which patients undergo an open-heart surgery to replace their aortic valve with a mechanical or a bioprosthetic valve; in this procedure calcified native leaflets are cut and removed.",
+    "The mechanical or bioprosthetic valve is subsequently sutured to the aortic root.",
+    "SAVR improves symptoms and survival, but it comes with risks of thrombosis in mechanical valves that can cause stroke or heart attack, or in the case of bioprosthetic valves, durability is an issue with these valves often calcifying over time ().",
+    "Initially, in older patients who are inoperable or are at high risk for surgery, transcatheter aortic valve replacement (TAVR) was an alternative option.",
+    "However, this option is now common practice for lower risk patients, as the devices and procedures have advanced with equal to improved outcomes compared to SAVR (,).",
+    "The first in-human TAVR was performed in 2002 (); since then, more than 50,000 TAVR interventions have been done worldwide ().",
+    "TAVR is a less invasive technology in which a stented valve is delivered to the location of native valve through a catheter and is expanded to replace the calcified native aortic valve and leaflets."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Replacement",
+   "kind": "p",
+   "s": [
+    "Current guidelines set by the American College of Cardiology (ACC) and American Heart Association (AHA) advocate for Aortic Valve Replacement in the setting of symptomatic severe aortic stenosis.",
+    "Timing of intervention depends on the development of clinical symptoms once the valve is classified as severe.",
+    "The main reason is due to durability of bioprosthetic valves.",
+    "Due to the relative development of TAVR being in its infancy within the last decade, long term durability has not been well-established, although expert consensus agree 10 years is a reasonable time frame before expected degeneration and failure of the bioprosthesis.",
+    "However, investigators are currently attempting to determine the benefit of treatment of severe aortic stenosis before the development of symptoms and potentially remodeling and other stressful changes to the heart.",
+    "An ongoing study titled Evaluation of Transcatheter Aortic Valve Replacement Compared to Surveillance for Patients With Asymptomatic Severe Aortic Stenosis (EARLY TAVR) trial is ongoing to address the timing of intervention in severe aortic stenosis (–).",
+    "Furthermore, there is another school of thought that goes beyond waiting for symptoms with severe AS, but in fact challenges the traditional belief to only treat severe AS.",
+    "A clinical trial is being developed, called PROGRESS: Management of Moderate Aortic Stenosis by Clinical Surveillance or TAVR.",
+    "As such, investigators are now looking to examine the benefit of treating moderate AS with TAVR intervention, although facing the same challenges regarding the issue of durability."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Replacement",
+   "kind": "p",
+   "s": [
+    "SAVR and TAVR have various advantages.",
+    "A study of 699 high-risk patients with severe aortic stenosis who were randomly treated with SAVR and TAVR in PARTNER 1 trial showed that 1-year mortality rates were similar between the transcatheter and surgically treated groups (24.2% TAVR vs. 26.8% SAVR), but hemodynamics and post-operative outcomes were significantly different.",
+    "The transcatheter group had a shorter hospitalization with a slightly better mean AV pressure gradient and mean AV area at 1-year.",
+    "However, vascular complications were significantly higher in the transcatheter group at 1-month (11% TAVR vs. 3.2% SAVR).",
+    "The rate of major strokes at 1-year were more than twice as high in the transcatheter group (5.1% TAVR vs. 2.4% SAVR).",
+    "Moderate and severe paravalvular regurgitation was more frequent in the transcatheter group than in the surgical group at 1-year (6.8% TAVR vs. 1.9% SAVR).",
+    "Meanwhile, major bleeding was more frequent in the surgical group (19.5% SAVR vs. 9.3% TAVR) ().",
+    "Other follow-up studies have confirmed similar mortality rates and post-procedural outcomes; at 5 years, Gleason et al. () reported mortality rates of 55.3 and 55.4% for TAVR and SAVR, respectively, and Mack et al. () reported that risk of death at 5 years increases to 67.8% in TAVR and 62.4% in SAVR."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Replacement",
+   "kind": "p",
+   "s": [
+    "In low-risk patients, with severe aortic stenosis that were randomly treated with SAVR and TAVR in PARTNER 3 trial, TAVR was associated with significantly lower risk of mortality at 1 year (2.1% TAVR vs. 3.5% SAVR) and life threatening bleeding (3.9% TAVR vs. 11.2% SAVR); no significant differences in stroke (3.0% TAVR vs. 4.2% SAVR), major vascular complications (3.6% TAVR vs. 2.4% SAVR), and myocardial infarction (1.7% TAVR vs. 2.1% SAVR); and significantly higher moderate to severe paravalvular leak (PVL) (3.6% TAVR vs. 1.7% SAVR) ().",
+    "With 3 trials (PARTNER 1, 2, and 3), TAVR vs. SAVR have been studied in high-, intermediate-, and low-risk patients."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Calcific Aortic Valve Stenosis Treatment > Valve Replacement",
+   "kind": "p",
+   "s": [
+    "The TAVR utilization among underserved and underrepresented populations are lower.",
+    "This was initially thought to be related to lower incident of AS among Black and Hispanic populations (), but further studies suggested that this might be due to limited accesses to care, low socioeconomic status, and treatment biases in the non-White population (–).",
+    "This calls the need for advance clinical care accessible to all patients regardless of their race and ethnicity."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Mechanical Heart valves",
+   "kind": "p",
+   "s": [
+    "Currently implanted mechanical heart valves (MHVs) typically have a bileaflet structure in shape of two disks made of pyrolytic carbon that can open pivotally.",
+    "MHVs are highly durable when compared with other artificial heart valves; they can last up to 25 years in patients without major complications, but they have high risk of thrombosis ().",
+    "High durability makes these valves more suitable for patients younger than age 50, as MHVs have a lower risk of reoperation ()."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Mechanical Heart valves",
+   "kind": "p",
+   "s": [
+    "Fluid high shear stress in the hinge region of these valves can initiate thrombotic events (–).",
+    "Patients treated with mechanical valves need a lifelong anticoagulant drug therapy to prevent thrombosis and thromboembolism (); however these drugs increase the risk of bleeding, stroke, systemic embolism, cardiac tamponade and death ().",
+    "Therefore, multiple groups are attempting to improve the blood-material interactions through surface treatments (–).",
+    "However, the hemodynamic impact on blood from the hinge remains a concern, even with these treatments."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Bioprosthetic Heart Valves",
+   "kind": "p",
+   "s": [
+    "Bioprosthetic heart valves (BHV) are made of porcine or bovine pericardium.",
+    "They have the advantage of being less thrombotic, requiring only short-term anticoagulation after surgery.",
+    "The main disadvantage of BHVs is that they often require reoperation due to structural valve deterioration and calcification, making the average BHV lifetime only ~15 years.",
+    "In recent years, BHVs durability has been improved by anti-calcification and anti-mineralization treatments.",
+    "Therefore, nowadays BHVs are more commonly recommended for implantation, even in younger patients, due to their improved durability and lower risk of structural deterioration ().",
+    "Otherwise, pediatric patients previously exhibited severe complications with calcification of BHVs."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Transcatheter Heart Valves",
+   "kind": "p",
+   "s": [
+    "Transcatheter heart valves (THVs) are gaining traction due to novel designs and delivery systems to replace the calcified aortic valve.",
+    "In TAVR procedures, TAVs are deployed to the location of a calcified aortic valve with stent expansion through one of two main mechanisms: balloon expansion or self-expansion through shape memory alloys.",
+    "The stent permanently opens the native valve by pushing against calcified leaflets.",
+    "Some of the most frequent complications occurring with TAVR procedures are TAV malpositioning, coronary obstruction, paravalvular leak, crimped-induced leaflet damage, thrombosis, conduction abnormalities, and prosthetic-patient mismatch ().",
+    "There are also less common, but potentially fatal complications including valve embolization and annular rupture.",
+    "TAV crimping causes significant structural changes and damages in leaflet tissue that affects the durability of the tissue, and can lead to early thrombosis, early calcification and endocarditis in tissue ().",
+    "Prosthetic-patient mismatch is a condition in which EOA of the TAV is too small relative to patient's body size () causing elevated flow resistance at the valve which should be overcome by increased pressure in the heart ()."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Transcatheter Heart Valves",
+   "kind": "p",
+   "s": [
+    "Valve positioning has an important role in TAV hemodynamics; it has been suggested that TAV be positioned about 5 mm below the annulus of the valve for the best outcome (); however, the deployment site is dependent on the type of the TAV and in recent years, many attempts have been made to customize TAV deployment according to the patient-specific aortic root anatomy.",
+    "If the implant is too-high or a too-low, it can result in moderate to severe paravalvular aortic regurgitation (AR) or PVL ().",
+    "The malpositioned TAV can be manually repositioned; if ineffective, an alternative solution is to deploy a second TAV inside the first TAV, this is known as valve-in-valve (ViV) procedure ().",
+    "Using new generation of TAVR devices, ViV has shown to be very effective in reducing post-procedural AR; a study of 63 patient who had ViV procedure using Edwards Sapien transcatheter valve showed that only 7.9% of the patient still had significant AR after procedure, however, ViV is associated with higher prevalence of cardiac conduction abnormalities which requires permanent pacemaker implantation in patients ()."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Transcatheter Heart Valves",
+   "kind": "p",
+   "s": [
+    "Additionally, undersizing a TAV can lead to malpositioning, valve dislodgement, and embolization ().",
+    "It has been recommended that slightly oversizing the TAV can minimize PVL without causing injury and rupture in aortic root and annulus (–).",
+    "Another cause of PVL after TAVR procedure for calcified AS is the gap between the TAV and soft tissue resulting from stiffened calcified native leaflets and a calcified annulus ().",
+    "The new generation of TAVR devices are designed to reduce some of these complications.",
+    "Edwards Sapien family of valves are balloon expandable TAVs comprised of a cobalt-chromium frame; an inner and an outer sealing skirts made from polyethylene terephthalate (PET) fabric to reduce PVL; and bovine pericardial leaflet tissue treated with anticalcification treatment, ThermaFix, to reduce mineralization.",
+    "In contrast, the Medtronic CoreValve family are self-expandable, owing to nitinol stent material, and are comprised of porcine pericardial leaflet tissue with an antimineralization treatment.",
+    "Numerous studies have investigated performance of Medtronic CoreValve and Edwards Sapien valves with respect to postprocedural PVL.",
+    "Some reported that moderate to severe post-procedural PVL is more common with Medtronic CoreValve (–).",
+    "However, a recent longitudinal study showed that the severity and frequency of PVL at pre-discharge was significantly higher in Medtronic CoreValve (56.7% Medtronic CoreValve vs. 43.2% Edwrads Sapien, p = 0.06), but after 1 year, there was no major differences in frequency and severity of PVL between the two groups, possibly due to coaptation of self-expandable nitinol stent with aortic annulus ()."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Transcatheter Heart Valves",
+   "kind": "p",
+   "s": [
+    "Conduction abnormalities can be caused by tissue damage during valve deployment.",
+    "In general, balloon-expandable valves have lower rates of pacemaker requirements compared to self-expandable TAVs.",
+    "Studies show that the risk of conduction abnormalities and the need for permanent pacemaker implantation is higher after Medtronic CoreValve implantation compared to Edwards Sapien (–), possibly due to the valve design and its self-expansion mechanism; Medtronic CoreValves have a higher height and are implanted deeper into the LVOT.",
+    "The self-expandable nitinol stent may apply pressure on and below the annulus that could result in atrioventricular node and left bundle branches damage (,)."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Coronary Obstruction",
+   "kind": "p",
+   "s": [
+    "Surgical bioprosthetic valves are likely to degenerate within 10–20 years ().",
+    "Since reoperation is a high-risk procedure for elderly patients and increases their mortality risk, in recent years, non-invasive implantation of a TAV inside the degenerative bioprosthetic valve has become an alternative intervention for these patients (–).",
+    "However, it may come with the risk of coronary obstruction.",
+    "Coronary obstruction is a rare consequence of TAVR that occurs during the procedure in <1% of patients, but it is life-threatening (,,) as it restricts blood flow circulation in coronary arteries.",
+    "Coronary obstruction can occur following a TAV implantation in native aortic valve or following a ViV procedure which includes TAV implantation inside another TAV or TAV implantation inside a surgical bioprosthetic valve.",
+    "Coronary obstruction is more common during ViV procedure (about four times greater) than during TAVR in a native aortic valve (,,), and more frequently occurs with use of balloon expandable valves (0.81% balloon expandable vs. 0.34% self-expandable) ().",
+    "This is possibly due to the differences in design and deployment mechanism of the transcatheter valves (,).",
+    "Coronary obstruction following a surgical bioprosthetic ViV procedure occurs more frequently in patients who had stentless or stented valves with bioprosthetic leaflets mounted externally ().",
+    "Additionally, it is proposed that coronary obstruction in surgical bioprosthetic ViV procedures is more related to the model and positioning of the surgical bioprosthetic valve, and is independent of the type of TAV, particularly if a surgical valve is implanted in a non-coaxial tilted position, decreasing the distance between leaflets and coronary ostia ().",
+    "Other surgical bioprosthetic valve risk factors were supra-annular implantation, high leaflet profile, valve design, stentless valves, or bulky bioprosthetic leaflets ()."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Coronary Obstruction",
+   "kind": "p",
+   "s": [
+    "Clinical studies showed that anatomical factors such as low-laying coronary ostium and narrow sinus of Valsava (SOV), narrow sinotubular junction, and low sinus height are associated with coronary occlusion (,), while the left coronary artery (LCA) more commonly becomes obstructed (88.6%) ().",
+    "In this study, the average height of LCA ostia in patients with coronary obstruction was 11 mm in men, and 10 mm in women.",
+    "Most patients with SOV <30 mm and LCA ostium height <12 mm had coronary obstruction ().",
+    "Initially, female sex was identified as a risk factor for coronary obstruction (,), but when aortic root dimensions were adjusted to body surface area, female anatomy was no longer an independent factor for coronary obstruction (,)."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Coronary Obstruction",
+   "kind": "p",
+   "s": [
+    "Coronary obstruction can be caused by calcium deposits, a native leaflet blocking the coronary ostia, a TAV that is positioned too high within the annulus, or through thrombosis ().",
+    "In native TAVR procedures, coronary obstruction was linked to presence of bulky calcified lesions on the aortic leaflet blocking the coronary ostium (97.7%); however, the degree of calcification was not a predictor of coronary obstruction ().",
+    "Even though the location of the calcification is an important factor in coronary obstruction (), to-date no study has been done to evaluate coronary obstruction with respect to anatomical features of coronary ostium and the location of the calcium nodules."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Coronary Obstruction",
+   "kind": "p",
+   "s": [
+    "Coronary obstruction might be prevented by a novel intervention technique called bioprosthetic or native aortic scallop intentional laceration (BASILICA) ()."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Bioprosthetic or Native Aortic Scallop Intentional Laceration of Coronary Artery",
+   "kind": "p",
+   "s": [
+    "The first BASILICA human procedure was performed in 2011 during a surgical bioprosthetic ViV procedure in two patients using Edwards Sapien and Medtronic CoreValve to prevent coronary obstruction ().",
+    "This technique has been originated from the LAMPOON (Intentional Laceration of the Anterior Mitral leaflet to Prevent left ventricular Outflow Obstruction during transcatheter mitral valve implantation) technique ().",
+    "In this procedure, a guiding catheter carrying an electrified wire is directed toward aortic valve through the femoral artery and is positioned at the base of the leaflet; the electrified wire lacerates the leaflet from base to its free edge () and creates a split leaflet that would allow blood flow through the coronary arteries.",
+    "Since the first BASILICA procedure in 2011, some clinical and computational studies have been performed to show the feasibility of BASILICA procedure and to evaluate its overall outcomes and outcomes relative to thrombosis and post-operation coronary obstruction (–); however implications of this procedure on outcomes remain unclear (Figure 4)."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Bioprosthetic or Native Aortic Scallop Intentional Laceration of Coronary Artery",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Bioprosthetic or Native Aortic Scallop Intentional Laceration of Coronary Artery",
+   "kind": "p",
+   "s": [
+    "Leaflet thrombosis remains a concern for TAVR after the BASILICA procedure, despite theoretically creating more washout in the target aortic sinus and neosinus.",
+    "A recent experimental study showed that leaflet laceration can mitigate the risk of thrombosis, while improving washout, with increases in velocity in the sinus and the neosinus by 50% for a Medtronic Evolve ViV, and more than 60% in Edwards Sapien 3 ViV ().",
+    "Similarly, a computational study showed that the average blood residence time (BRT) on the leaflets of BASILICA computational model was about 10% less than that in the ViV computational model without leaflet laceration.",
+    "It has been hypothesized that thrombus is more likely to form in regions with low flow, which can better support fibrin formation due to low advective transport (or increased BRT) (,,).",
+    "Therefore, the BASILICA procedure appears to reduce the risk of leaflet thrombosis in the lacerated leaflets ().",
+    "Additionally, a computational study showed that the hemodynamic outcome of a two-leaflet-lacerated BASILICA model is improved when compared with a one-lacerated BASILICA model and the model without laceration, but no significant difference was observed for additional leaflet laceration (three-leaflet-lacerated model) ().",
+    "Overall, the BASILICA technique is still relatively new and require additional studies to better understand the benefits and when the procedure may be most effective."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Discussion",
+   "kind": "p",
+   "s": [
+    "As the general population has become older, the prevalence of calcific AS has increased in the recent decades; this has led to extensive research to reveal the complex underlying mechanisms of the valvular calcification, which involves mechanobiology, molecular signals, tissue remodeling, and inflammation, and yet our understanding of this complex process is limited."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Discussion",
+   "kind": "p",
+   "s": [
+    "Since pharmacotherapy has been ineffective in preventing progression of the calcification, treatment of calcific AS has become narrowed down to surgical and minimally-invasive interventions to repair or replace the native valve; this has led to design and development of artificial valves such as MHVs, BHVs, and TAVs that can mimic the function of the native valve.",
+    "An immense amount of research has been performed to evaluate the performance of these artificial valves, and to develop better designs that can improve their flaws.",
+    "Yet, there are undesirable post-interventional outcomes that are related to shortcomings of each valve design."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Discussion",
+   "kind": "p",
+   "s": [
+    "TAVR has gained favor as procedures and designs have undergone many improvements in recent decades.",
+    "Despite this, there are still unresolved complications.",
+    "New procedures aimed at overcoming challenges, like the BASILICA procedure continue to be investigated.",
+    "Despite precise measurements on a patient's aortic valve anatomy and calcification, calcified lesions continue to complicate TAVR.",
+    "Other tools like computational modeling have helped surgeons with pre-procedural planning, and with understanding the underlying biomechanics of post-procedural complications.",
+    "However, these many of these tools continue to be validated.",
+    "Overall, more studies are required to evaluate the relationships between new procedures and valves with hemodynamics, patient-specific anatomical characteristics, and deployment.",
+    "This would help surgeons to select patients with suitable characteristics for specific procedures or valves that could improve outcomes."
+   ]
+  }
+ ]
+}

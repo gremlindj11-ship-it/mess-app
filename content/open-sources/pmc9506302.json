@@ -1,0 +1,373 @@
+{
+ "id": "pmc9506302",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC9506302",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9506302/fullTextXML",
+ "doi": "10.3390/jcm11185415",
+ "title": "Endovascular Abdominal Aortic Aneurysm Repair: Overview of Current Guidance, Strategies, and New Technologies, Perspectives from the United Kingdom",
+ "authors": "Bakewell R, Krokidis M, Winterbottom A",
+ "journal": "Journal of Clinical Medicine",
+ "year": "2022",
+ "updated": "2022-09-15",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Bakewell R, Krokidis M, Winterbottom A. Endovascular Abdominal Aortic Aneurysm Repair: Overview of Current Guidance, Strategies, and New Technologies, Perspectives from the United Kingdom. Journal of Clinical Medicine. 2022. https://doi.org/10.3390/jcm11185415. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "5ff70803592bf146d2190e2c6a3591a6f1d6d4aeb9893fd6aead812ef2ed058b",
+ "sentences": 137,
+ "set_aside": 4,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Endovascular aortic aneurysm repair has changed the management of patients affected by this condition, offering a minimally invasive solution with satisfactory outcomes.",
+    "Constant evolution of this technology has expanded the use of endovascular devices to more complex cases.",
+    "The purpose of this review article is to describe the current strategies, guidance, and technologies in this field, with a particular focus on practices in the United Kingdom."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "Abdominal aortic aneurysm (AAA), defined as an abdominal aorta exceeding the normal vessel diameter by over 50%, affects approximately 4% of the male population in the UK .",
+    "The overwhelming majority of cases are secondary to atherosclerosis, with risk factors including smoking, hypertension, age and male sex ."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The natural history of AAA involves the growth of the aneurysm and rupture, with the probability of both increasing with aneurysm size.",
+    "The mortality rate from ruptured AAA is >50% and, therefore, detecting and treating AAAs before this occurs is key to reducing AAA-related morbidity and mortality.",
+    "For aneurysms between 5.5 cm and 6.9 cm, the annual rupture risk is approximately 9%, whereas this increases to >32% when AAAs expand beyond 7 cm .",
+    "Although age-standardised death rates from AAA have reduced in Europe and the USA over the past 30 years, AAA still accounts for 5 and 2 deaths per 100,000 in men and women, respectively .",
+    "The reason for the declining death rates is multifactorial, with contributions from behavioural changes within the population, as well as earlier detection and treatment.",
+    "Tobacco smoking, a major modifiable risk factor, has significantly reduced in Europe and the USA, which is also reflected in the declining incidence of other atherosclerotic diseases, such as myocardial infarction and peripheral arterial disease.",
+    "In addition, the UK, Sweden and the USA have national AAA screening programs, which have been shown to reduce AAA-related mortality ."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The mainstays of management for AAA are open surgical repair (OSR) and endovascular aneurysm repair (EVAR).",
+    "Although OSR is a major abdominal surgery, with the early operative risks that come with it, it is seen as a definitive fix and does not require routine follow-up."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "EVAR is an endovascular technique where stent grafts are deployed from inside the aorta through a distant (typically common femoral) artery access to exclude the aneurysm (Figure 1 and Figure 2).",
+    "While modern technologies push the boundaries of what is possible with EVAR, there are still strict criteria in the manufacturers’ instructions for use (IFU) for anatomy regarding what is and is not suitable for EVAR.",
+    "This mostly relates to ensuring the stent graft is sealed effectively to be able to exclude the aneurysm from the circulation.",
+    "Unlike OSR, patients undergoing EVAR require regular clinical and imaging follow-up to monitor for complications such ‘endoleak’, whereby blood flows into the supposedly excluded aneurysm sac, placing it under tension and risking growth and rupture.",
+    "This can occur through several mechanisms .",
+    "As aneurysmal disease is typically progressive, what was once an adequate sealing zone may, over time, dilate and distort to such an extent that the EVAR seal is no longer satisfactory.",
+    "The post-EVAR aneurysm sac may also fill with blood that flows in a retrograde manner from the aortic branches (typically the inferior mesenteric artery or lumbar arteries), or from loss of the seal of the graft components to each other.",
+    "Depending on the type of endoleak and various other aneurysm and patient factors, revision endovascular procedures can be performed in an attempt to prevent sac rupture."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "1. Introduction",
+   "kind": "caption",
+   "s": [
+    "Figure 1 Volume-rendered CT angiogram showing an infrarenal abdominal aortic aneurysm in frontal (a) and lateral (b) orientations.",
+    "The patient underwent elective EVAR, which is demonstrated in (c, d)."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "1. Introduction",
+   "kind": "caption",
+   "s": [
+    "Figure 2 (a) CT angiogram showing an infrarenal abdominal aortic aneurysm.",
+    "The patient underwent EVAR with follow-up CT 1 year (b) and 16 years (c) post-procedure.",
+    "Note the reduction in sac size over time."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "1. Introduction",
+   "kind": "p",
+   "s": [
+    "The risk of rupture post-EVAR is related to the aneurysm sac size and growth, and hence the major goal of EVAR is to exclude and shrink the sac .",
+    "Since the turn of the century, there has been a general change in practice worldwide towards EVAR over open surgical repair.",
+    "For example, in the USA only 5.2% of patients underwent EVAR for elective AAA in 2000, compared to 74% in 2010 .",
+    "In recent years, there has also been an increase in the endovascular management of AAAs previously considered unsuitable for EVAR.",
+    "These involve more advanced endovascular techniques, such as fenestrated and branched EVAR (FEVAR/BEVAR), chimney/snorkel devices, and endoanchors.",
+    "These will be discussed in more detail later."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "2. EVAR vs. OSR in Unruptured Infrarenal AAA",
+   "kind": "p",
+   "s": [
+    "Despite the global shift towards AAA management with EVAR over OSR in the past 20 years, in recent years there has been much debate and controversy surrounding the optimal management of unruptured infrarenal AAA in the UK."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "2. EVAR vs. OSR in Unruptured Infrarenal AAA",
+   "kind": "p",
+   "s": [
+    "The accepted threshold for infrarenal AAA treatment in the UK (and worldwide) is 5.5 cm or >4 cm, but >1 cm/year growth .",
+    "At this size, the risk of aneurysm rupture during surveillance is higher than the periprocedural mortality from OSR and, therefore, the benefits of repair begin to outweigh the risks.",
+    "Despite the fact that the original trials that informed this decision were performed over 20 years ago and only used OSR as the intervention, no study since has unequivocally proven that there is a mortality benefit to repairing unruptured aneurysms <5.5 cm, either with EVAR or OSR .",
+    "The recommendation for these smaller aneurysms is that they should undergo imaging surveillance and then be assessed for potential repair if and when the size/growth threshold is met."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "2. EVAR vs. OSR in Unruptured Infrarenal AAA",
+   "kind": "p",
+   "s": [
+    "Several randomised controlled trials have assessed the relative benefits of EVAR vs. OSR for unruptured infrarenal AAA, including EVAR-1, OVER, DREAM and ACE .",
+    "The consensus is that 30-day mortality rate is lower for EVAR than OSR .",
+    "However, the all-cause mortality benefits of EVAR reduce relative to OSR over time, with no difference between the two procedures at 3–5 years .",
+    "Indeed, long-term follow-up in the EVAR-1 trial has shown that by 8 years post-intervention, both aneurysm-related mortality and all-cause mortality are higher in patients treated with EVAR vs. OSR .",
+    "In addition, EVAR is associated with a higher reintervention rate and requires lifelong surveillance for endoleak, which adds to the cost, and likely reduces quality of life.",
+    "The delayed AAA-related mortality rate seen in the multiple publications from the EVAR-1 trial, from which these figures are taken, is generally seen as a result of sac expansion and rupture secondary to endoleak.",
+    "[set aside: names guidance a model may not read]",
+    "However, there is controversy around this, as randomised controlled trial data from the EVAR-2 trial have shown a lack of benefit of EVAR in patients unfit for OSR, even relative to nonoperative management ."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "2. EVAR vs. OSR in Unruptured Infrarenal AAA",
+   "kind": "p",
+   "s": [
+    "In any case, in 2020 EVAR still accounted for 60% of all elective AAA repairs in the UK , which was unchanged from the year prior.",
+    "It must be noted that total numbers undergoing repair had reduced, and criteria for repair had been altered (only aneurysms >70 mm were advised for repair by the Vascular Society of Great Britain and British Society of Interventional Radiologists) due to the extreme pressures placed on the National Health Service by the COVID-19 pandemic.",
+    "[set aside: names guidance a model may not read]",
+    "In the majority of cases in Europe, the USA and Australia, EVAR continues to be recommended as the primary treatment for unruptured infrarenal AAA.",
+    "In the USA, EVAR makes up the majority of repairs of unruptured infrarenal AAAs, accounting for >80% of cases .",
+    "Given the evidence presented above, this heavy skew towards EVAR, and so decline in the number of OSRs, has led to concerns around deskilling in this important procedure, which is still the gold standard for definitive aneurysm treatment.",
+    "Despite increasing experience in fixing complications related to EVAR, it is inevitable that a small proportion, approximately 1%, will require open surgical conversion ."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "3. Complex AAA Repair Strategies and New Technologies",
+   "kind": "p",
+   "s": [
+    "Although there is no universally agreed-upon definition, the term complex abdominal aortic aneurysm is being increasingly used to describe AAAs that are anatomically unsuitable for standard infrarenal repair (either OSR or EVAR).",
+    "This, therefore, encompasses a heterogeneous group of aneurysmal diseases, ranging from short- or conical-necked infrarenal aneurysms to suprarenal abdominal aortic aneurysms.",
+    "These aneurysms may, therefore, involve a varying number of visceral arteries arising from the abdominal aorta.",
+    "The open surgical repair of these complex aneurysms is challenging and carries a higher mortality and morbidity rate than OSR for standard infrarenal AAAs, although the exact figures are difficult to determine due to the heterogeneity of the disease processes and a lack of standardised definitions.",
+    "In order for an endovascular repair to be performed in these scenarios, creating an adequate seal to the aorta is essential.",
+    "Endoanchors may be used in infrarenal AAAs with necks too short to seal a standard EVAR device.",
+    "When visceral arteries are involved in the aneurysm, these must be involved in the repair.",
+    "Placing stent grafts into the visceral arteries and running these between the outer wall of a standard EVAR stent graft and the aortic wall itself forms the basis of the chimney technique.",
+    "In the increasingly popular FEVAR/BEVAR (fenestrated EVAR/branched EVAR) procedure, stent grafts with fenestrations or branches at precise locations to allow cannulation and stent grafting of the visceral arteries can also be created.",
+    "This allows large segments of a diseased aorta to be excluded from the circulation.",
+    "While device technology is continually improving and these techniques are becoming ever more popular, there is a lack of high-quality evidence across the board.",
+    "The next section will review these endovascular techniques in more detail."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.1. Chimney EVAR (ChEVAR)",
+   "kind": "p",
+   "s": [
+    "The chimney EVAR (ChEVAR) technique of running stent grafts from visceral arteries parallel to the main body of the EVAR was originally used as a rescue technique to preserve flow in visceral arteries that had been accidentally covered in standard EVAR procedures.",
+    "However, it has now emerged as a technique in its own right for the endovascular management of complex AAA (Figure 3).",
+    "When compared to OSR for juxtarenal AAA and Crawford-type IV thoracoabdominal aneurysms, ChEVAR has a significantly lower 30-day mortality rate (2% vs. 11.9%) .",
+    "In patients with juxtarenal AAA who are deemed unsuitable for FEVAR, there is no significant difference between ChEVAR and OSR in terms of aortic-related mortality rate at five years .",
+    "However, in the same study, the overall mortality rate at five years was found to be higher in the ChEVAR group and there was also a higher aortic reintervention rate (35.4% in ChEVAR vs. 9.5% in OSR).",
+    "The main concerns regarding this technique are the ability to form an adequate seal proximally and, therefore, prevent a type 1a endoleak around the chimney (a so-called ‘gutter leak’), as well as patency of the chimneyed visceral stent graft(s).",
+    "The Pericles registry was created to provide multi-centre international data on outcomes in patients treated with chimney techniques for pararenal aortic aneurysms, with 517 patients treated in 13 centres across Europe and the USA .",
+    "Key points to come out of the primary publication from this study are a 7.9% early gutter leak, with spontaneous resolution in the majority of cases leading to an overall type 1a leak rate of 2.9%, and a primary stent/stent graft patency of 94%.",
+    "A mean aneurysm sac reduction to 61.2% after 17.1 months is also significant, as the goal of any endovascular AAA repair is to shrink the aneurysm to reduce the risk of rupture.",
+    "The Pericles registry has shown that the more chimneys placed, the higher the risk of occlusion and mortality .",
+    "Therefore, it is currently recommended that as few chimneys as possible be placed (ideally one, and maximum two), that stent grafts be used (rather than bare metal stents), and that the ideal sealing zone should not be less than 20 mm.",
+    "In line with this, the European Society of Vascular Surgery has recommended the use of these parallel graft techniques for juxtarenal aortic aneurysms, either in an emergency situation or when a fenestrated device is contraindicated, ideally using no more than two chimneys .",
+    "The benefit of this technique over other advanced endovascular repairs for complex AAA is the use of off-the-shelf devices, meaning that they can be performed in an emergency/semi-elective setting, as opposed to the custom grafts that are typically required for FEVAR/BEVAR.",
+    "Chimney EVAR is also quicker to perform than FEVAR/BEVAR, which is a key benefit in emergency settings.",
+    "Additionally, fenestrated and branched devices typically require larger-calibre iliac arteries for access than the low-profile devices that can be used in ChEVAR."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.1. Chimney EVAR (ChEVAR)",
+   "kind": "caption",
+   "s": [
+    "Figure 3 (a) AP coronal maximum-intensity projection (MIP) image of a patient with a type 1a endoleak (red arrow) post-EVAR.",
+    "The patient underwent chimney stent grafts to both renal arteries with an aortic cuff extending above the renal arteries to create a new proximal neck seal.",
+    "Coronal MIP (b), volume-rendered CT (c), and abdominal radiograph (d) showing the chimney EVAR."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "p",
+   "s": [
+    "Fenestrated/branched EVAR is an increasingly popular method for treating complex abdominal aortic aneurysms, with a more than six-fold increase in these procedures in the USA in the first two years since its introduction in 2011 .",
+    "This has been mirrored in Europe, with a 24% increase in FEVAR/BEVAR in UK vascular units between 2014 and 2020 .",
+    "These typically custom-made aortic stent grafts can, with some anatomical limitations, include any number of the major visceral arteries, and can also be combined with thoracic endovascular stent grafts to manage aneurysms that also involve the descending thoracic aorta (Figure 4)."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "caption",
+   "s": [
+    "Figure 4 (a) Volume-rendered image of a CT angiogram post-FEVAR with thoracic stent grafts for a thoracoabdominal aneurysm.",
+    "(b) Axial slice of the same CT angiogram showing stent grafts in four aortic branches (coeliac, superior mesenteric, and bilateral renal arteries)."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "p",
+   "s": [
+    "It must be highlighted that FEVAR/BEVAR in itself is also a very broad term, with multiple combinations of fenestrations, branches, scallops and additional thoracic and iliac extensions possible.",
+    "Therefore, attempting to give accurate data on outcomes of ‘FEVAR/BEVAR’ as a whole and comparing these with other techniques is problematic and likely to be misleading.",
+    "In addition, there are variations in the type of fenestrated devices that may be used.",
+    "For example, although most fenestrated stent grafts are custom-made to match the visceral artery origins precisely, there are off-the-shelf alternatives that may be used in acute and semi-elective settings to overcome manufacturing times.",
+    "These stent grafts have standardised fenestration locations, which have been shown to be anatomically suitable in up to 70% of juxtarenal aneurysms .",
+    "It is also possible for endovascular specialists to create their own fenestrations in an off-the-shelf stent graft at the time of the procedure.",
+    "These physician-modified endografts (PMEG), in appropriately skilled hands, have been shown to be safe, but there is a lack of standardisation of the technique and limited data comparing their use with other endovascular techniques or OSR ."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "p",
+   "s": [
+    "As with all advanced endovascular techniques for complex AAA, there are a lack of high-quality data comparing FEVAR/BEVAR with open surgical repair or with other endovascular procedures.",
+    "Two of the three systematic reviews that have assessed OSR vs. FEVAR for juxtarenal AAA have found a lower early postoperative mortality rate in those patients treated endovascularly (0.9–1.4% vs. 2.5–3.6% for FEVAR and OSR, respectively) .",
+    "In the third systematic review, early mortality rates were equal between the two procedures at 4.1% .",
+    "A systematic review and network meta-analysis that compared multiple endovascular techniques with OSR for the treatment of short-necked and juxtarenal AAA found a six-fold reduction in perioperative mortality with FEVAR vs. OSR .",
+    "All-cause mortality rates, however, were equal between the two procedures by 2.5 years.",
+    "This study also highlighted the lack of high-quality evidence in this field, with no randomised trials available.",
+    "A key finding across multiple studies is the high reintervention rate post-FEVAR/BEVAR, which is usually as a result of endoleak.",
+    "This, along with the requirement for regular clinical and radiological follow-up, ultimately adds to the cost of the procedure.",
+    "High visceral stent graft patency (>95% at 1 year) has been shown across multiple studies .",
+    "A long-term follow-up to 12 years has been published, which confirms the safety of the FEVAR procedure .",
+    "In this study, while the 8-year survival rate was only 20%, only 2% of deaths were aneurysm-related.",
+    "This reflects the population in question, which is typically of advanced age with multiple comorbidities, and hence the attraction of a less invasive method of fixation."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "p",
+   "s": [
+    "Comparing FEVAR with other endovascular techniques is challenging in this highly heterogeneous population, which creates problems matching patients.",
+    "However, a systematic review and meta-analysis have shown a lower aneurysm-related mortality rate in patients treated with FEVAR vs. ChEVAR (1.4% vs. 3.2%), at the cost of a higher reintervention rate (11.7% vs. 5.6%) .",
+    "The SOCRATES short-necked aneurysm randomised trial, which is currently recruiting, aims to compare FEVAR with endoanchors in short-necked (4–15 mm) abdominal aortic aneurysms.",
+    "This study, with an estimated completion in 2026, should provide some high-level evidence for endovascular treatment in this population."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.2. Fenestrated/Branched EVAR (FEVAR/BEVAR)",
+   "kind": "p",
+   "s": [
+    "While FEVAR/BEVAR is less invasive than open surgical repair for complex AAA, it is still physiologically demanding for the patient, as well as technically demanding for the operator.",
+    "Patent selection is therefore crucial, both from an anatomical and physiological perspective, and appropriate pre-procedure work-up and optimisation is essential ."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.3. Endoanchors",
+   "kind": "p",
+   "s": [
+    "Endoanchors are endovascularly inserted screws that attach a proximal stent graft to the aortic wall.",
+    "They can be inserted either during the primary procedure, in cases where the aneurysm neck would be unfavourable for standard EVAR, or as a secondary procedure to treat a type 1a endoleak (blood leaking into the aneurysm sac past the proximal seal zone) (Figure 5).",
+    "With the use of this technology, infrarenal aneurysms with necks as short as 4 mm (Helix-FX, Medtronic) can be treated with EVAR, whereas the shortest neck that can be safely treated with a standard repair is generally accepted to be 10 mm (Endurant II/IIs, Medtronic).",
+    "While early studies with endoanchors are promising, there is a lack of high-quality evidence, with most studies being observational, and a lack of case-controlled trials.",
+    "The ANCHOR registry is an industry-led prospective observational study following patients with endoanchors (Heli-FX EndoAnchor, Medtronic) inserted in multiple centres in Europe and the USA .",
+    "Four-year data have been presented, which show these devices are safe and effective, with a type 1a endoleak rate of 3.4%.",
+    "There were two systematic reviews published in 2020 assessing studies involving endoanchors .",
+    "Both systematic reviews have commented on the lack of long-term follow-up, but type 1a endoleak rates of 3.5% and 6.2% have been reported for primary endoanchor interventions.",
+    "It is worth noting that within the studies included in these reviews, the mean AAA neck characteristics would not meet the criteria to be labelled as ‘hostile’, which is a major indication for the use of primary endoanchors.",
+    "Therefore, more data are needed on efficacy in the patient cohort in which these devices will be used, which will hopefully come from the ANCHOR registry in due course.",
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.3. Endoanchors",
+   "kind": "caption",
+   "s": [
+    "Figure 5 (a) Coronal oblique MIP image of an abdominal aortic aneurysm with a conical neck unsuitable for conventional EVAR.",
+    "The patient was treated with EVAR with primary endoanchors (Heli-FX, Medtronic).",
+    "Follow-up abdominal radiograph (b), axial (c) and coronal (d) CT angiogram demonstrating the endoanchors attaching the proximal stent graft to the aneurysm neck (red arrows)."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.4. Endovascular Repair of Aortoiliac Aneurysms",
+   "kind": "p",
+   "s": [
+    "With improvement in operator experience and device design, aortic aneurysms that extend into the iliac arteries may also be treated endovascularly.",
+    "The advent of the iliac branch device (IBD) has allowed the treatment of these aneurysms with preservation of the flow into the internal iliac artery (Figure 6).",
+    "This negates the risk of buttock claudication, erectile dysfunction and bowel ischaemia, which has been seen with previous endovascular techniques that required occlusion of this artery."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "3. Complex AAA Repair Strategies and New Technologies > 3.4. Endovascular Repair of Aortoiliac Aneurysms",
+   "kind": "caption",
+   "s": [
+    "Figure 6 (a) CT angiogram showing bilateral internal iliac artery aneurysms (red arrows).",
+    "The patient underwent EVAR with bilateral iliac branch devices (IBD).",
+    "(b) Follow-up CT post-repair.",
+    "(c) Volume-rendered image of the same post-operative CT showing the EVAR and bilateral IBD.",
+    "Note the incidental left ureteric stent."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "4. Conclusions",
+   "kind": "p",
+   "s": [
+    "Endovascular repair of abdominal aortic aneurysms is becoming feasible for ever more complicated aneurysm morphology, thanks to a combination of improved technology and increased operator experience.",
+    "With the rapid adoption of new technologies and techniques, it is vital that high-level evidence is acquired and that outcomes are rigorously scrutinised to ensure patients receive the most appropriate care."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Institutional Review Board Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Informed Consent Statement",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Funding Statement",
+   "kind": "p",
+   "s": [
+    "This research received no external funding."
+   ]
+  }
+ ]
+}

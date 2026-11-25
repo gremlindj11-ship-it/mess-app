@@ -1,0 +1,531 @@
+{
+ "id": "nhs-heart-attack",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/heart-attack/",
+ "fetched_from": "https://www.nhs.uk/conditions/heart-attack/",
+ "title": "Heart attack",
+ "updated": "2026-03-31",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "087a2ce4d5dd3ce5ce70d4b7fb8227a2c78fb535ee33e6ef52c898bb38e5888d",
+ "sentences": 72,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Heart attack",
+   "kind": "p",
+   "s": [
+    "A heart attack happens when blood flow to your heart is blocked.",
+    "It can be life-threatening and needs emergency treatment in hospital."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "p",
+   "s": [
+    "Symptoms of a heart attack may include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "chest pain which may feel like crushing or squeezing on your chest – the pain may also spread to your arm, neck and jaw"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "feeling short of breath"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "feeling sick (nausea) or being sick (vomiting)"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "feeling like you have indigestion – you may have a burning feeling in your chest and feel full or bloated"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "sweating"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Heart attack > Symptoms of a heart attack",
+   "kind": "li",
+   "s": [
+    "pale, blue or grey skin – on black or brown skin this may be easier to see on the palms of the hands"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain that feels tight or like squeezing on your chest"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain that's spreading to your arms, neck or jaw"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "you're having severe difficulty breathing – you're gasping, choking or not able to get words out"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "your lips or skin are pale, blue or grey – on brown or black skin this may be easier to see on the palms of the hands"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "li",
+   "s": [
+    "someone has passed out and is not responding normally"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Heart attack > Immediate action required: Call 999 if:",
+   "kind": "p",
+   "s": [
+    "The person you speak to at 999 will give you advice about what to do."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Heart attack > Urgent advice: Call NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're suddenly more short of breath than usual"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Heart attack > Urgent advice: Call NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain and you feel sick or are being sick"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Heart attack > Urgent advice: Call NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain and you feel like your heart is racing, going too slowly, skipping a beat or have a fluttering feeling in your chest"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "p",
+   "s": [
+    "If you think you or someone else is having a heart attack, there are some things you can do while you wait for help."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "li",
+   "s": [
+    "Sit and rest on the floor in a comfortable position, with your knees bent and your back supported.",
+    "If you cannot do this, you can also sit on a chair."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "li",
+   "s": [
+    "Take aspirin (300mg) if you have any – do not give aspirin to someone who has an aspirin allergy."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "li",
+   "s": [
+    "If you have angina, take your glyceryl trinitrate (GTN) spray if you have it with you."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "li",
+   "s": [
+    "Keep checking someone who may be having a heart attack to make sure they're still responding and breathing."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "li",
+   "s": [
+    "If someone stops responding to you and stops breathing, start CPR."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Heart attack > While you're waiting for medical help",
+   "kind": "p",
+   "s": [
+    "Find out how to do CPR on the St John Ambulance website."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Heart attack > How a heart attack is diagnosed",
+   "kind": "p",
+   "s": [
+    "You'll need tests including an electrocardiogram (ECG) and blood tests to find out if you're having a heart attack."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Heart attack > How a heart attack is diagnosed",
+   "kind": "p",
+   "s": [
+    "If these tests show you're having a heart attack, you may have further tests such as:"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Heart attack > How a heart attack is diagnosed",
+   "kind": "li",
+   "s": [
+    "an echocardiogram, which can find out if your heart has been damaged"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Heart attack > How a heart attack is diagnosed",
+   "kind": "li",
+   "s": [
+    "a coronary angiogram, which can find out exactly where the blood flow to your heart is blocked – the blockage may be treated at the same time"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Heart attack > How a heart attack is diagnosed",
+   "kind": "p",
+   "s": [
+    "A doctor will discuss what your test results may mean for you."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "You'll need treatment in hospital for a heart attack.",
+    "Your treatment will depend on how severe it is."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "Treatments may include:"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "medicines to treat the blockage in your arteries and improve blood flow to your heart"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "a procedure to improve blood flow to your heart (coronary angioplasty) – this involves opening blocked arteries using a small plastic tube called a stent"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "surgery where arteries are taken from another part of your body and used in your heart to take blood around a blocked artery (coronary artery bypass)"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "A heart attack is a life-threatening condition and cannot always be treated.",
+    "There's a chance someone who has one may die."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "Medicines after a heart attack"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "You will be given medicines to take long-term after having a heart attack.",
+    "They treat the causes of your heart attack and help reduce your risk of having another one."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "p",
+   "s": [
+    "These medicines may include:"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "antiplatelets to help stop your arteries getting blocked"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "statins to lower your cholesterol"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Heart attack > Treatments for a heart attack",
+   "kind": "li",
+   "s": [
+    "other medicines to lower high blood pressure, such as ACE inhibitors and beta-blockers"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "p",
+   "s": [
+    "Heart attacks affect people in different ways.",
+    "For some, it may take several weeks to recover, but there will be little impact on their life."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "p",
+   "s": [
+    "For others, recovery can take months or years."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "p",
+   "s": [
+    "After having a heart attack, you'll usually:"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "li",
+   "s": [
+    "need to rest, including taking time off work"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "li",
+   "s": [
+    "be referred to cardiac rehabilitation to help with your recovery – this may involve attending appointments in-person, or taking part remotely from home using video calls or apps"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "p",
+   "s": [
+    "Most people can continue with their normal activities once they've recovered."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Heart attack > Recovering from a heart attack",
+   "kind": "p",
+   "s": [
+    "You may feel anxious or worried about getting back to your usual tasks or going back to work.",
+    "Talk to your GP if you're feeling anxious or you have low mood after having a heart attack.",
+    "They can help you get support."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "p",
+   "s": [
+    "Heart attacks are usually caused by a blood clot stopping enough blood getting to your heart."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "p",
+   "s": [
+    "You're more likely to have a heart attack if you:"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "smoke"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "have high blood pressure"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "have high cholesterol"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "have a close relative who's had a heart attack"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "have diabetes"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Heart attack > Causes of a heart attack",
+   "kind": "li",
+   "s": [
+    "are living with overweight or obesity"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Heart attack > Reducing your risk of having a heart attack",
+   "kind": "p",
+   "s": [
+    "You cannot always prevent a heart attack, but there are lifestyle changes you can make to reduce your risk of having one."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Heart attack > Reducing your risk of having a heart attack > Do stop smoking try to keep your cholesterol at a healthy level try to keep your blood pressure at a healthy level eat a healthy, balanced diet reduce the amount of salt and saturated fat you eat try to maintain a healthy weight exercise regularly cut down on alcohol Support after a heart attack You may find it helpful to get emotional support from other people who've had a heart attack, either at a local group or online. There are also national charities that can offer more information and support. British Heart Foundation",
+   "kind": "p",
+   "s": [
+    "Information and support for anyone affected by heart conditions, including local and online support services."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Heart attack > Reducing your risk of having a heart attack > Do stop smoking try to keep your cholesterol at a healthy level try to keep your blood pressure at a healthy level eat a healthy, balanced diet reduce the amount of salt and saturated fat you eat try to maintain a healthy weight exercise regularly cut down on alcohol Support after a heart attack You may find it helpful to get emotional support from other people who've had a heart attack, either at a local group or online. There are also national charities that can offer more information and support. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "Heart helpline: 0808 802 1234"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Heart attack > Reducing your risk of having a heart attack > Do stop smoking try to keep your cholesterol at a healthy level try to keep your blood pressure at a healthy level eat a healthy, balanced diet reduce the amount of salt and saturated fat you eat try to maintain a healthy weight exercise regularly cut down on alcohol Support after a heart attack You may find it helpful to get emotional support from other people who've had a heart attack, either at a local group or online. There are also national charities that can offer more information and support. British Heart Foundation",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation website"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Heart attack > Heart attack is different to cardiac arrest",
+   "kind": "p",
+   "s": [
+    "Cardiac arrest is when your heart stops suddenly and causes you to lose consciousness.",
+    "It's life-threatening but different to a heart attack, and needs different treatment."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Heart attack > Heart attack is different to cardiac arrest",
+   "kind": "p",
+   "s": [
+    "The British Heart Foundation website has more information about cardiac arrest."
+   ]
+  }
+ ]
+}

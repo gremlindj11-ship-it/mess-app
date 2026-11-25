@@ -1,0 +1,86 @@
+{
+ "id": "nhs-high-cholesterol",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-cholesterol/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-cholesterol/",
+ "title": "What is high cholesterol? - High cholesterol",
+ "updated": "2026-03-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "e61a093418a4f9ee232031c0c912027f2394b60d82265c5a82ec3c7d8d6e242b",
+ "sentences": 12,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "High cholesterol is when you have too much of a fatty substance called cholesterol in your blood."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "You're more likely to get high cholesterol if you're over 50, a man, you've been through the menopause, or you're of South Asian or sub-Saharan African origin.",
+    "It can also run in families."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "It can also be caused by eating fatty food, not exercising enough, being overweight, smoking and drinking alcohol."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "You can lower your cholesterol by eating healthily and getting more exercise.",
+    "Some people also need to take medicine."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "Too much cholesterol can block your blood vessels.",
+    "It makes you more likely to have heart problems or a stroke."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "li",
+   "s": [
+    "High cholesterol does not usually cause symptoms.",
+    "You can only find out if you have it from a blood test."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "p",
+   "s": [
+    "HEART UK has information about inherited high cholesterol that starts at a young age (familial hypercholesterolaemia)."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "What is high cholesterol? - High cholesterol",
+   "kind": "p",
+   "s": [
+    "Find out about familial hypercholesterolaemia on the HEART UK website"
+   ]
+  }
+ ]
+}

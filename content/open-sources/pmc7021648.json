@@ -1,0 +1,917 @@
+{
+ "id": "pmc7021648",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC7021648",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7021648/fullTextXML",
+ "doi": "10.1002/clc.23321",
+ "title": "Heart failure with preserved ejection fraction: New approaches to diagnosis and management",
+ "authors": "Upadhya B, Kitzman DW",
+ "journal": "Clinical Cardiology",
+ "year": "2019",
+ "updated": "2019-12-26",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.",
+ "credit": "Upadhya B, Kitzman DW. Heart failure with preserved ejection fraction: New approaches to diagnosis and management. Clinical Cardiology. 2019. https://doi.org/10.1002/clc.23321. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "9dfbfe1eb037201f5d573b57775a5329a97405abc0f470415681486a7c9c53ac",
+ "sentences": 248,
+ "set_aside": 3,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "The majority of older patients who develop heart failure (HF), particularly older women, have a preserved left ventricular ejection fraction (HFpEF).",
+    "Patients with HFpEF have severe symptoms of exercise intolerance, poor quality‐of‐life, frequent hospitalizations, and increased mortality.",
+    "The prevalence of HFpEF is increasing and its prognosis is worsening.",
+    "However, despite its importance, our understanding of the pathophysiology of HFpEF is incomplete, and drug development has proved immensely challenging.",
+    "Currently, there are no universally accepted therapies that alter the clinical course of HFpEF.",
+    "Originally viewed as a disorder due solely to abnormalities in left ventricular (LV) diastolic function, our understanding has evolved such that HFpEF is now understood as a systemic syndrome, involving multiple organ systems, likely triggered by inflammation and with an important contribution of aging, lifestyle factors, genetic predisposition, and multiple‐comorbidities, features that are typical of a geriatric syndrome.",
+    "HFpEF is usually progressive due to complex mechanisms of systemic and cardiac adaptation that vary over time, particularly with aging.",
+    "In this review, we examine evolving data regarding HFpEF that may help explain past challenges and provide future directions to care patients with this highly prevalent, heterogeneous clinical syndrome."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: aging, geriatric syndrome, heart failure, preserved ejection fraction, therapy"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "INTRODUCTION",
+   "kind": "p",
+   "s": [
+    "Heart failure (HF) with preserved ejection fraction (HFpEF) is the most common form of HF in patients older than 65 years and represents >50% of prevalent HF cases in community.",
+    "In the highest age decile, (≥90 years old), nearly all patients with HF have preserved EF.",
+    "HFpEF is associated with high morbidity and mortality.",
+    "After HF hospitalization, the 5‐year survival of HFpEF is a dismal 35%, worse than many cancers.",
+    "The risk of death in patients with HFpEF increases with increasing comorbidity burden.",
+    "Even after adjustment for comorbid conditions, mortality rates associated with HFpEF are higher than in general population age‐matched controls.",
+    "Patients with HFpEF have similarly high rehospitalization rates as patients with HF with reduced EF (HFrEF).",
+    "In patients hospitalized with HFpEF, 20% are readmitted within 30 days of hospital discharge and >50% within 1 year.",
+    "Quality of life in HFpEF is as poor as or worse than HFrEF and is associated with physical activity levels that are as suppressed as those observed in patients with moderate‐to‐severe chronic obstructive pulmonary disease (COPD).",
+    "Despite this, there are currently few effective therapies for HFpEF, as most approved therapies for HFrEF have been demonstrated to be ineffective for HFpEF, suggesting major differences in fundamental pathophysiology and therapeutic targets in HFpEF compared to HFrEF.",
+    "We review relatively recent data that have enhanced our understanding of this complex disorder and that may lead to improved care of patients with this highly prevalent disorder."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "CASE STUDY",
+   "kind": "p",
+   "s": [
+    "A 79‐year‐old woman with long‐standing hypertension, obesity, and type II diabetes presents with shortness of breath on exertion that began 6 months earlier and has since gradually worsened and interferes with daily activities.",
+    "She denies exertional chest pain.",
+    "While she is able to shop in the local supermarket, carrying her packages home has become increasingly difficult.",
+    "She desires to return to her previously active life.",
+    "Current medications include amlodipine 10 mg daily, metformin 1000 mg daily, Lisinopril 20 mg daily, atorvastatin 20 mg daily.",
+    "On exam, her blood pressure (BP) is 160/80 mm Hg, heart rate (HR) is 78/minutes, body mass index (BMI) 36 kg/m 2.",
+    "She also has peripheral edema; increased jugular venous distention elevated 10 cm above the right atrium.",
+    "An electrocardiogram did not demonstrate ischemic changes.",
+    "Her baseline echocardiogram showed mild left ventricular (LV) hypertrophy with an EF of 55% and right ventricular (RV) systolic pressure of 50 mm Hg.",
+    "During a stress echocardiogram, she exercised for only 3 minutes on a modified Bruce protocol, stopping for extreme shortness of breath.",
+    "Her resting BP was 160/70 mm Hg and her HR was 76 bpm.",
+    "At peak exercise, her BP was 196/90 mmHg, with a peak HR of 105 bpm.",
+    "Echocardiographic images at the end of exercise demonstrated augmentation of contractility of all walls without significant mitral regurgitation.",
+    "What can be done to improve her symptoms and quality of life?"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "CASE STUDY > Making the HFpEF diagnosis: Challenges",
+   "kind": "p",
+   "s": [
+    "Diagnosing HF in older adults poses specific challenges; false‐positive clinical diagnoses are not uncommon.",
+    "The most common symptoms of HFpEF are exertional dyspnea.",
+    "However, symptoms of reduced exercise tolerance are common in the older adults and have been shown to reflect normal physiological changes related to aging or could be related to non‐cardiac etiologies.",
+    "Furthermore, the diagnosis of HF in the older patients may be difficult due to the presence of co‐morbidities, some of which can mimic HF signs and further confound the diagnosis of HF.",
+    "In addition, older patients with HFpEF may not present with “classic” HF symptoms and may instead have very subtle clinical presentations.",
+    "Up to one‐third of HFpEF outpatients may have a B‐type natriuretic peptide (BNP) level that is below the typical diagnostic thresholds.",
+    "This can challenge the common practice of using BNP to make HF diagnosis.",
+    "In addition, limited predictive capabilities of the echocardiographic variables for diagnosis of diastolic dysfunction further puzzle the clinical picture.",
+    "There is also no universally agreed upon definition to define HFpEF.",
+    "The American College of Cardiology/American Heart Association (ACC/AHA) consensus states that the diagnosis of HFpEF is based on typical symptoms and signs of HF in a patient with a normal range LVEF, and no significant valvular abnormalities by echocardiography and no other obvious precipitating factors for HF.",
+    "By contrast, the European Society of Cardiology (ESC) requires diastolic dysfunction for the diagnosis of HFpEF, along with symptoms and signs of HF and normal or mildly abnormal LV function."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "CASE STUDY > Aging: A model for HFpEF as a true geriatric syndrome",
+   "kind": "p",
+   "s": [
+    "Cardiac aging is known to affect many, if not all, of the pathophysiological components present in HFpEF.",
+    "Specific alterations in structural and function in aging, such as ventricular vascular stiffening, vascular dysfunction, impaired [Ca 2+] i regulation, decreased β‐adrenergic reserve, and physical deconditioning, have been identified as important contributing causes for HFpEF.",
+    "Aging is also associated with a decline in a variety of neural, hormonal, and environmental trophic signals; this can leads to loss of muscle mass and mass‐specific strength, characteristic changes in body composition, including decreases in lean body mass and muscle strength, and increases in adiposity which increase vulnerability for sarcopenic obesity.",
+    "In addition, older adults hospitalized with a primary diagnosis of HF often have multiple non‐cardiac comorbidities (5.5 on average) and high proportions are frail.",
+    "The adverse impacts of aging, frailty and comorbidities on functional capacity and clinical outcomes are cumulative and synergistic.",
+    "Indeed, approximately 85% of elderly HFpEF patients are overweight or obese, and the HFpEF epidemic has largely paralleled the obesity epidemic.",
+    "Furthermore, aging and obesity are well established risk factors for both HFpEF.",
+    "Along with comorbidities, aging may initiate and/or aggravate chronic systemic inflammation that may affect myocardial remodeling and dysfunction in HFpEF through a signaling cascade, which begins with coronary microvascular endothelial dysfunction as shown in Figure 1.,"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "CASE STUDY > Aging: A model for HFpEF as a true geriatric syndrome",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Is HFpEF is a single entity or comprised of several different diseases?"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Are there inflammatory biomarkers that may help to diagnose HFpEF and better understand its pathophysiology?"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "p",
+   "s": [
+    "Tables 1 and 2 shows non‐pharmacological and pharmacological clinical trials that were positive in HFpEF on their primary endpoints.",
+    "Not shown here are the trials that were negative or neutral, which are far greater in number.",
+    "However, unlike HFrEF, there are currently no disease‐modifying agents available for HFpEF that improve clinical outcomes.",
+    "Indeed recently, Sacubitril‐valsartan did not result in a significantly lower rate of total hospitalizations for HF and death among patients with HFpEF.",
+    "This leads to the question: Why have most pharmacological therapies to date not shown clear benefit in HFpEF?",
+    "To date, pharmacologic interventions applied in HFpEF have been principally based upon the assumption of underlying, severe neurohormonal abnormalities.",
+    "However, neurohormonal derangements appear more limited in breadth and severity in HFpEF than in HFrEF.",
+    "Furthermore, diagnosis of HFpEF is challenging due to the lack of a single objective marker that defines the syndrome, such as a reduced LVEF in HFrEF and the high frequency of comorbidities that may mimic or accompany the HFpEF syndrome.",
+    "In addition, exercise intolerance, the cardinal manifestation of HF regardless of EF, has a complex pathophysiology and is rarely explained by a single process.",
+    "Furthermore, most HFpEF studies have only measured diastolic function at rest rather than during exercise where symptoms become manifest., So far, clinical trials generally enrolled “all comers” with clinical syndrome of HF and objective evidence of preserved LVEF.",
+    "However, evolving evidence indicates that HFpEF is a much more complex disorder than originally thought, influenced by aging processes as explained before, likely systemic in nature, involving many organs and organ systems in addition to the heart, and also involving abnormalities in vascular and skeletal muscle function as well, and likely has multiple phenotypes.",
+    "These issues and concepts have generally not been addressed in trial designs to date.",
+    "Given such a multi‐factorial, complex milieu, it is not surprising that drugs and interventions aimed primarily at a central hemodynamics repeatedly failed to strongly impact overall outcomes in HFpEF.",
+    "As discussed in more detail below, lifestyle modifications (exercise and diet) have been more consistently successful, likely due to addressing HFpEF as a systemic syndrome, and by addressing peripheral, non‐cardiac factors that appear more mutable than cardiac factors."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "caption",
+   "s": [
+    "Table 1 Non‐pharmacological interventions that were positive in HFpEF on their primary endpoints"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Intervention first author/trial (Ref. #) | HFpEF patient type | Outcomes"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Calorie restriction exercise training | Exercise capacity and QOL"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "SECRET‐1/Kitzman et al (n = 100) | Ambulatory, stable, obese HF patients (body mass index of 39) with NYHA classes II‐III symptoms (aged 67 ± 5 years, 41% female) | Robust increase in exercise capacity.",
+    "QOL scores was improved, and benefit was greatest for calorie restriction"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Exercise training | Exercise capacity and QOL"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "PARIS/Kitzman et al (n = 53) | Ambulatory, stable HF patients with NYHA classes II‐III symptoms (aged 70 ± 6 years, 87% female) | Improved peak and submaximal exercise capacity"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "PARIS‐II/Kitzman et al (n = 63) | Ambulatory, stable HF patients with NYHA classes II‐III symptoms (aged 70 ± 7 years, 76% female) | Improved peak VO 2 and 6MWD"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Ex‐DHF trial (n = 64) | Ambulatory, symptomatic NYHA II/III symptoms, ECHO‐DD (aged 65 ± 7 years, 56% female) | Improved exercise capacity and QOL scores"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Smart et al (n = 25) | Ambulatory, well‐compensated HF (aged 64 ± 8 years, 48% female) | Improved peak VO 2"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Fu et al (n = 30) | NYHA class II/III HF with episodes of acute pulmonary edema (aged 61 ± 3 years, 33% female) | Improved Peak VO 2, diastolic function with reduction of the E/e′ ratio and QOL scores"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Gary et al (n = 32) | NYHA class II/III diastolic HF, h/o ECHO –DD or diastolic HF (aged 67 ± 11 years, all females) | Improved 6MWD, QOL and depression scores"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Angadi et al (n = 9) | NYHA class II/III HF, ECHO‐DD (aged 69 ± 6 years, 11% female) | Improved peak VO 2 and diastolic dysfunction"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Alves et al, (n = 31) | Admission with clinical signs of HF (aged 63 ± 11 years, 29% female) | Improved exercise tolerance, cardiac systolic (LVEF)and diastolic function (E/e′)"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "CardioMEMs sensor | Hospitalization for HF"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "CHAMPION (n = 119, had LVEF ≥40% | NYHA class III symptoms, hospitalization for HF in last 12 months (aged 62 ± 13 years, 29%female) | Significant and large reduction in hospitalization for patients with NYHA class III HF"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Transcatheter interatrial shunt device | LV filling pressure"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "REDUCE LAP‐HF (n = 68) | NYHA class II/IV symptoms, PCWP at rest >15 mm of Hg and during exercise >25 mm of Hg measured invasively, (aged 69 ± 8 years, 61% female) | Reduced PCWP during exercise"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "REDUCE LAP –HF (n = 44) | NYHA class II/IV, PCWP at rest >15 mm Hg and during exercise >25 mm Hg measured invasively, LVEF >40% (aged 70 ± 9 years,50% female) | Reduced PCWP during exercise"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Adaptive servo‐ventilation | Moderate to severe sleep disorder breathing | NYHA class, LV diastolic function, CV hospitalization"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Yoshihisa et al (n = 36) | NYHA class II‐IV HF, stable clinical status, with moderate to severe sleep disorder breathing (age ± 16 years, 11%female) | Improved NYHA class, LA volume, BNP, ECHO‐DD, Proportion of patients had less CV events or hospitalization for HF"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "CAT HF (n = 126) | Hospitalized HF, BNP ≥300 pg/mL, with moderate to severe sleep apnea, 24 (19%) had HFpEF (aged 61 ± 14 years, 26% female) | The risk of the primary composite endpoint was reduced by 62% Composite global rank score (hierarchy of death, CV hospitalizations, and percent changes in 6MWD)"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "note",
+   "s": [
+    "Abbreviations: A‐VO 2 Diff, arterial‐venous oxygen difference; CV, cardiovascular; DD, diastolic dysfunction; ECHO, echocardiographicaly assessed; E, mitral early diastolic velocity; e′, mitral annular velocity; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; LA, left atrium; LV, left ventricle; MWD, minute walk distance; n, number of participants; NYHA, New York Heart Association; QOL, quality of life; PCWP, pulmonary capillary wedge pressure; VO 2, oxygen consumption; B‐type natriuretic peptide."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "caption",
+   "s": [
+    "Table 2 Pharmacological interventions that were positive in HFpEF on their primary endpoints"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Intervention first author/trial (Ref.#) | HFpEF patient type | Primary outcomes"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "ACE‐I/ARB | CV death/HF admissions"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "CHARM‐Preserved/Candesartan (n = 3023) a | NYHA classes II‐IV HF with prior cardiac hospitalization (aged 67 ± 11 years, 40% female) | Fewer HF admissions"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "The PEP‐CHF/Perindopril (n = 852) a | Diagnosis of HF and treated with diuretics and an ECHO‐DD.",
+    "Prior cardiac hospitalization within 6 months.",
+    "(aged 76 ± 5 years, 55% female) | Fewer HF admissions, improved symptoms and exercise capacity"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Aldosterone antagonists | HF admission, LV remodeling and LV filling pressure"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "TOPCAT/Spironolactone (n = 3445) a | Patients had h/o HF hospitalization within previous 12 months and elevated BNP within 60 days before randomization.",
+    "(aged 69 years [median], 52% female) | Modest decline HF hospitalization"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Aldo‐DHF/Spironolactone (n = 422) | Ambulatory patients/NYHA class II‐III symptoms, ECHO‐DD and normal or near‐normal BNP levels.",
+    "(aged 67 ± 8 years, 52% female) | LV remodeling, neurohumoral activation were improved"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Kosmala,et al/Spironolactone (n = 150) | NYHA class II/III, ECHO‐DD, and baseline increased exercise E/e′ ratio.",
+    "(aged 67 ± 9 years; 85% female) | Improvement in exercise capacity.",
+    "Reduction in exercise‐induced ECHO measure of increased LV filling pressure"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Inorganic nitrates | Exercise capacity, Biventricular filling and pulmonary pressure"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Borlaug et al/Inhaled sodium nitrite (n = 26) | Elevated PCWP at rest (>15 mmHg) and with exercise (≥25 mmHg).",
+    "(aged 70 ± 9 years, 54% female) | Acute administration reduced biventricular filling pressures and PAP at rest and during exercise"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Kitzman et al/ Beet root juice (n = 20 | Ambulatory HF patients with NYHA classes II‐III (aged 69 ± 7 years of age) | Improved submaximal Endurance"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Zamani P et al/NO3‐rich beetroot juice (n = 17) | Symptomatic HF, ECHO‐DD, elevated NT‐pro‐BNP or PCWP >12 mmHg on prior cardiac catheterization.",
+    "(aged 66 ± 9, 12% female) | Improved peak VO 2 in subjects with HFpEF by significant reduction in systemic vascular resistance"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Phosphodiesterase‐5 inhibitor | PAP and RV function"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Guazzi, et al, /Sildenafil (n = 44) | HF signs and symptoms, ECHO‐DD, invasively measured PASP >40 mmHg.",
+    "(aged 72 years [median], 20% female) | Improvement in PAP, RV function and dimension, LV ventricular relaxation and distensibility"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "Vericiguat (soluble guanylate cyclase stimulator) a | Change in NT–proBNP and LA volume index"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "SOCRATES‐PRESERVED (n = 477) | 73 ± 10, 48% female, NYHA class II‐IV, LVEF ≥ 45%, increased BNP ≥ 100 pg/mL or NT‐proBNP levels ≥ 300 pg/ML, ECHO evidence of DD, LVEF ≥ 45%. | Improvements in quality of life"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "LCZ696(ARNI) b | NT‐proBNP"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "(Sacubitril/valsartan)"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "row",
+   "s": [
+    "PARAMOUNT/(n = 301) | NYHA class II‐III HF, NT‐pro BNP > 400 pg/nL and be on a diuretic therapy.",
+    "(aged 71 ± 9 years, 57% female) | Significant reduction in NT‐proBNP"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "CASE STUDY > Do any meds improve outcomes in HFpEF?",
+   "kind": "note",
+   "s": [
+    "Abbreviations: ACEI, angiotensin‐converting enzyme inhibitors; ARBs, angiotensin receptor blockers; ARNI, angiotensin receptor‐neprilysin; BNP, B‐type natriuretic peptide; DD, diastolic dysfunction; E, Mitral early diastolic velocity; e′, mitral annular velocity; ECHO, echocardiographicaly assessed; HFpEF, heart failure with preserved ejection fraction; HF, heart failure; LVEF, left ventricular ejection fraction; LA, left atrium; LV, left ventricle; n, number of participants; NT pro BNP; N terminal, B‐type natriuretic peptide; NYHA, New York Heart Association; PCWP, pulmonary capillary wedge pressure; PAP, pulmonary artery pressure; RV, right ventricle.",
+    "Neutral on composite primary outcome.",
+    "Except this trial, among all other trials study drug was compared with placebo.",
+    "In this trial, comparison made between study drug and valsartan."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Was the lack of definite benefits in pharmacological trials to date caused by a flawed study designs or by ineffective study interventions?"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Should future HFpEF trials include broader group of subjects or individual subpopulations?"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "p",
+   "s": [
+    "Table 3 summarizes the practical approaches to managing HFpEF.",
+    "In older patients, multi‐level strategies and interventions aimed at improving adherence to guidelines and tailoring therapy could be the key to improving outcome, and to reducing costs related to HF‐related re‐admissions.",
+    "An important component of treating a patient with HFpEF is treating the contributing factors and comorbidities that are frequently present and significantly impact the clinical course, such as obesity, hypertension, coronary artery disease, diabetes, COPD, anemia, chronic kidney disease, and sleep‐disordered breathing.",
+    "Several hypertension trials, including the systolic BP intervention trial (SPRINT), have shown a reduction in incident HF with treatment of hypertension, although these trials did not differentiate between incident HFpEF and HFrEF.,, Considering the age distribution in these trials and the age‐dependent relative incidence of HFpEF, control of hypertension may be the single most important prevention strategy for HFpEF.",
+    "In SPRINT, both HFpEF and HFrEF incident cases were significantly reduced, including specifically in older patients ≥75 years old.",
+    "The BP goals in the ACC/AHA HF guideline are similar to those in the general population, with the exception that the 2017 ACC/AHA HF guideline update recommends the lower systolic BP target of 130 mm Hg.,, ACC/AHA HF guidelines support the use of beta‐blockers, angiotensin‐converting enzyme inhibitors (ACEI), and angiotensin receptor blockers (ARBs) for hypertension (IIa recommendation) and ARBs and aldosterone antagonists receive a relatively weak recommendation (class IIb, level of evidence B) as reasonable to consider for decreasing hospitalizations in HFpEF.",
+    "Metabolic risk factors: HFpEF patients demonstrate a high prevalence of obesity and diabetes.",
+    "Increased adiposity promotes inflammation, hypertension, insulin resistance, and dyslipidemia and impairs cardiac, arterial, skeletal muscle, and physical function,,, all of which are common in HFpEF and contribute to its pathophysiology.",
+    "Recently, studies in type 2 diabetes patients showed reduced risk of HF hospitalization in patients receiving either empagliflozin or dapagliflozin, which are novel sodium‐glucose cotransporter 2 inhibitors,, Coronary Artery Disease (CAD) Patients with HFpEF and symptoms and signs of ischemia are treated with standard therapy including beta‐blockers and calcium channel blockers.",
+    "Patients with epicardial CAD may require complete coronary revascularization by percutaneous coronary intervention or coronary artery bypass graft surgery.",
+    "However, retrospective data suggest that clinically evident, acute coronary ischemia may not be the key trigger for acute decompensation in HFpEF, that the EF does not decline during an acute episode, and that revascularizing epicardial coronary stenoses has little effect on preventing the recurrence of acute HFpEF.",
+    "Atrial fibrillation (AF) prevalence has been increasing due to an aging general population and increased longevity.",
+    "AF in HFpEF associated with impaired LV systolic, diastolic function and functional reserve, larger left atria (LA) with poor LA function, RV dysfunction, more severe neurohumoral activation, and impaired exercise tolerance., Tachycardia is also deleterious by shortening the time of diastole that may impair adequate diastolic filling.",
+    "For these reasons, restoration and maintenance of sinus rhythm are preferred when AF occurs in patients with HFpEF.",
+    "To restore sinus rhythm, cardioversion is recommended because catheter ablation of AF had limited long‐term success in HFpEF.",
+    "If cardioversion is unsuccessful, rate control and permanent anticoagulation become mandatory.",
+    "Anemia is more prevalent in HFpEF than in HFrEF patients and associated with increased risk of HF hospitalization and overall mortality.",
+    "The 2017 ACC/AHA HF management update included a class IIb recommendation for iron replacement therapy in appropriately selected patients, although HFpEF patients have not been included in the cited trials.",
+    "Treatment of anemia with erythropoietin analogs received a class III recommendation (no benefit)."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "caption",
+   "s": [
+    "Table 3 Practical management of heart failure with preserved ejection fraction"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Diuretics at the lowest effective dose for signs and symptoms of volume overload"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Moderate sodium restriction diet"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Every patient should have a home scale, weigh themselves daily, and be provided with instruction for steps to take based on weight changes"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Comprehensive HF disease management, including education, close follow‐up, particularly for recently hospitalized patients"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Control of blood pressure, diabetes, and other comorbidities"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Avoid iatrogenic volume overload"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Restoration and maintenance of sinus rhythm, control of heart rate in patients with permanent AF"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Search for and treat symptomatic myocardial ischemia"
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Formal sleep assessment in HF patients with suspicion of sleep disordered breathing or excessive daytime sleepiness"
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "row",
+   "s": [
+    "Regular moderate physical activity"
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "CASE STUDY > Prevent and delay the progression of HFpEF",
+   "kind": "note",
+   "s": [
+    "Abbreviations: AF, atrial fibrillation; HF, heart failure."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Is rate control alone or rhythm control the best strategy for treatment in HFpEF patients?"
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "What is the best way to manage comorbidities in HFpEF patients?"
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "CASE STUDY > Lifestyle interventions in HFpEF",
+   "kind": "p",
+   "s": [
+    "Recent data support the beneficial impacts of lifestyle modification, including weight reduction, dietary and nutrient consumption, physical activity, and cardiorespiratory fitness on HF risk.",
+    "In a pooled analysis of 51 000 participants from the Women's Health Initiative, Multiethnic Study of Atherosclerosis, and Cardiovascular Health Study cohorts, the risk for incident HFpEF increased in a dose‐dependent manner as BMI increased and leisure‐time physical activity declined.",
+    "Recently, Kitzman et al showed that among older obese patients with chronic, stable HFpEF, intentional weight loss via calorie restriction (CR) diet significantly improved exercise capacity to a degree similar to and was additive to exercise training (ET).",
+    "In addition, CR but not exercise significantly improved the HF specific quality of life measures (Figure 2, Table 1).",
+    "Even though, a recent meta‐analysis of randomized trials among older patients without HF indicates that CR is associated with a 15% reduction in total mortality, because of the reported “HF obesity paradox,” further studies are needed to determine role of CR in older patients with HFpEF."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "CASE STUDY > Lifestyle interventions in HFpEF",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "CASE STUDY > Lifestyle interventions in HFpEF",
+   "kind": "p",
+   "s": [
+    "In 2010, Kitzman et al reported the first randomized controlled trial evaluating ET as a treatment for HFpEF, showing substantial improvement in cardiorespiratory fitness with training (Table 1).",
+    "Since that time, a number of other studies have substantiated this benefit and demonstrated favorable effects on quality of life (Table 1).",
+    "Existing data suggest that the majority of ET‐related improvement in exercise capacity may be related to microvascular and/or skeletal muscle adaptations that increase diffusive oxygen transport and/or utilization by the active muscles., A supervised maximal exercise test with monitoring for ischemia should be performed before HFpEF patients beginning an exercise program.",
+    "Exercise protocols used in clinical trials primarily included aerobic‐type activities, such as walking, stationary cycling, or rowing.",
+    "After supervised setting with direct supervision and monitoring, depending on individual progress, patients may be able to be transitioned to a home exercise maintenance training program.",
+    "Randomized exercise intervention trials also showed that ET appeared safe in older, deconditioned HFpEF patients (Table 1), although the trials were not large enough or designed to definitively address the question of safety.",
+    "For the same reasons, the potential impact of ET in HFpEF on clinical events, including hospitalizations and death, is unknown.",
+    "Recently, the REHAB‐HF, prospective, multicenter pilot trial which successfully randomized 27 patients ≥60 years of age hospitalized with acute decompensated HF (both HFrEF and HFpEF) showed that a novel, tailored, progressive, multidomain physical rehabilitation is feasible in older patients with acute decompensated HF who have high rates of frailty and comorbidities and has the potential to improve physical function and reduce rehospitalization rates.",
+    "A larger trial is underway to verify these findings."
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "CASE STUDY > Exercise prescription",
+   "kind": "p",
+   "s": [
+    "A supervised maximal exercise test with monitoring for ischemia should be performed before HFpEF patients beginning an ET program.",
+    "The ET program for stable HFpEF patients should consist of continuous large muscle mass moderate intensity endurance exercise performed for 20 to 60 minutes per session, 3 to 5 days per week.",
+    "The exercise is usually performed on a bicycle or treadmill.",
+    "The duration and frequency of effort should be up titrated before intensity is increased.",
+    "Once patients demonstrate a tolerance of aerobic training levels, resistance training activities should be considered.",
+    "It is recommended to initiate ET in a structured, supervised, center‐based program.",
+    "This can be either in‐hospital or in a specialized facility, as long as close supervision are available.",
+    "After supervised setting, depending on individual progress, patients usually should be able to be transitioned to a home exercise maintenance training program.",
+    "Ideally, a patient‐tailored ET program is prescribed instead of a “one size fits all” approach especially in older patients with HFpEF.",
+    "In addition, to increase long‐term adherence to ET, the patient's preferences should be taken into account."
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "CASE STUDY > Exercise prescription",
+   "kind": "p",
+   "s": [
+    "ACC/AHA guidelines recommend moderate, regular physical activity for all HF patients, which seem reasonable.",
+    "However, in the absence of data regarding effect of ET on clinical events, the Centers for Medicare & Medicaid Services does not reimburse for cardiac rehabilitation in either acute or chronic HFpEF patients, in contrast to its policy for chronic (but not acute) HFrEF."
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "What is the most effective and safe exercise prescription for older HFpEF patient?"
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "CASE STUDY > Treatment of congestion",
+   "kind": "p",
+   "s": [
+    "In the CHAMPION trial (CardioMEMS Heart Sensor Allows Monitoring of Pressure to Improve Outcomes in NYHA Class III HF Patients trial), clinical management guided by physician knowledge of central hemodynamics significantly reduced HF hospitalization (Table 1)., This finding was confirmed in more recent analyses of Medicare beneficiaries.",
+    "The CARDIOMEMS device is a wireless, implanted pulmonary artery pressure monitor implanted in the distal PA during right heart catheterization.",
+    "Patients transmit hemodynamic data daily using a wireless RF transmitter."
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "CASE STUDY > Treatment of congestion",
+   "kind": "p",
+   "s": [
+    "Given that rises in left atrial (LA) pressure and pulmonary venous congestion are shown to herald HF events in patients with HFpEF, creating a controlled left‐to‐right interatrial shunt to allow LA decompression could be a rational non‐pharmacological strategy for alleviating symptoms.",
+    "The Reduce Elevated LA Pressure in Patients with HF (REDUCE LAP‐HF) study is a multicenter, prospective, non‐randomized, single‐arm phase 1 study designed to assess the safety and performance of the device in patients with HFpEF with NYHA II‐IV despite optimal medical or device therapy and demonstrated reductions in LA pressure during exercise with improvements in functional capacity and health‐related quality of life scores 6 and 12 months after implantation of this device (Table 2).",
+    "Recently, REDUCE LAP‐HF I, a phase 2 randomized parallel‐groups, and blinded multi‐center sham‐controlled trial published short‐term results (Table 2)."
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Can we do remote hemodynamic monitoring effectively in older patients?"
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "What are the best metrics for determining when a patient is adequately decongested during an acute decompensated HF hospitalization?"
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Thinking like a Geriatrician—“Sometimes the disease is not the most important focus—maintaining the patient's function is” as said by Dr. Covinsky."
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "In older patients hospitalized primarily for HF, many factors outside the heart such as advanced age, globally reduced organ system reserve capacity, physical frailty, impaired cognition, and comorbidities strongly influence outcomes.",
+    "In addition, the hospital environment—with immobilization, fasting, sleep deprivation, and disorientation—can dramatically worsen physical frailty with rapid, severe loss of muscle mass and function.",
+    "When older HF patients are thought to be ready for discharge, careful attention should focus on their multiple comorbidities, globally reduced organ reserve, severe physical deconditioning, and cognitive dysfunction to prevent the “post‐hospitalization syndrome,” consisting of high rates of rehospitalization, mortality, and nursing home admission, prolonged physical disability, poor quality of life, and high health care costs.",
+    "Thus, it is important to treat not just the disease and but the whole patient particularly in the older population.",
+    "Improved care of complex older patients with HFpEF is dependent on a new model of collaboration and teamwork between primary care provider, geriatrician, and cardiologist, with timely access to palliative care to accommodate the fundamental heterogeneity of aging and the patient's choices.",
+    "In addition, cardio‐geriatric clinics are designed to meet the needs of older patients with HF and their caregivers by providing comprehensive care focusing on improving quality of life and functional independency.",
+    "If managed adequately in a multidisciplinary ambulatory care setting, we can potentially prevent most of the unnecessary hospital readmissions.",
+    "To improve care delivery and minimize the need for emergency visit and rehospitalization, development of ambulatory services with effective chronic disease management and integrated care programs are needed urgently."
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "What are the optimal disease management strategies/programs and transitional care for older hospitalized HFpEF patients?"
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "How can we best implement interdisciplinary approaches to treat this unique and rapidly growing population?"
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "CASE STUDY > HFpEF management based on clinical phenotypes",
+   "kind": "p",
+   "s": [
+    "A key evolving concept in HFpEF therapy is that the disorder is highly heterogeneous and manifestations can vary markedly from patient to patient even within a specific HFpEF patient population.",
+    "More recently, Shah et al proposed a matrix combining predisposition phenotypes with clinical presentation phenotypes as a starting point to guide clinical care in HFpEF (Figure 3).",
+    "The approach starts with general treatment recommendations beneficial to the majority of HFpEF patients because they address the presentation phenotypes of lung congestion and the most common phenotype of overweight/obesity, present in >80% of HFpEF patients.",
+    "Subsequently, supplementary recommendations are suggested for additional phenotypes, such as metabolic/obesity, arterial hypertension, renal dysfunction, and coronary artery disease.",
+    "Additional clinical presentation phenotypes are suggested in whom specific therapeutic interventions could be meaningful like chronotropic incompetence, pulmonary hypertension, skeletal muscle weakness, and AF.",
+    "This phenotype‐specific approach may prove a valuable advance."
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "CASE STUDY > HFpEF management based on clinical phenotypes",
+   "kind": "aside",
+   "s": [
+    "[set aside: a table or figure credited to someone else]"
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "CASE STUDY > HFpEF management based on biologic phenotypes",
+   "kind": "p",
+   "s": [
+    "An understanding of which are the causes and which are the downstream effects, may allow the HFpEF syndrome to be concentrated into distinct diagnoses based on the underlying biology.",
+    "From this, specific interventions can follow, targeting individuals identified on the basis of their biological phenotype.",
+    "This concept was recently expanded upon by Lewis et al, suggesting that determining the underlying pathobiologic disease mechanism which ultimately leads to specific clinical phenotypes can drive discernment of “biological phenotype” and integrate with the clinical” phenotypes” thereby further enhancing the potential gains from individualized approaches on the basis of enhanced phenotypic categorization.",
+    "Biological heterogeneity has potentially compromised in prior HFpEF trials, thus HFpEF now needs “to get personal.”"
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "CASE STUDY > Key knowledge gap",
+   "kind": "p",
+   "s": [
+    "Should HFpEF diagnosis and management be clinically or mechanistically based?"
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "CASE STUDY > Proposals for the future: Clues to be remembered",
+   "kind": "p",
+   "s": [
+    "(a) Diastolic dysfunction by itself is not enough to establish HFpEF.",
+    "(b) HFpEF is not simply a disease of aging nor does it occur only in females.",
+    "(c) HFpEF has significant phenotypic and etiologic heterogeneity.",
+    "(d) Due to its heterogeneity, a “one‐size‐fits‐all” strategy is unlikely to work in HFpEF.",
+    "(e) HFpEF is associated with multiple comorbidities.",
+    "(f) HFpEF is a multi‐system disease, with the heart being a major component but with others providing major contributions.",
+    "(g) To date, two strategies that have been shown most definitively to be beneficial for improving clinically meaningful outcomes in HFpEF, ET and CR and both of these interventions have broad, pleotropic, systemic, and anti‐inflammatory effects, as well as favorable effects on multiple organ systems, including on arterial, cardiac, and skeletal muscle.",
+    "(h) Clinical trials defining optimal management for comorbidities have by and large excluded HFpEF patients.",
+    "In addition, much broader research into myocardial and non‐myocardial abnormalities at a tissue level in carefully phenotyped HFpEF subgroups is very much needed."
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "CASE STUDY > Case conclusion",
+   "kind": "p",
+   "s": [
+    "Our 79‐year‐old woman should be placed on diuretics at the lowest effective dose for symptomatic relief.",
+    "She should have a home scale and weigh herself daily.",
+    "We should provide instruction for steps to take diuretics based on weight changes.",
+    "Her BP was not well controlled and lisinopril to be adjusted to keep SBP < 130 mm of Hg.",
+    "She should be advised regarding dietary compliance.",
+    "She should be encouraged to exercise daily.",
+    "She should be provided comprehensive HF disease management, including education, diet, exercise therapy, and close follow‐up.",
+    "Ideally as described earlier, she is recommended to participate in a structured, supervised ET program; however, lack of CMS coverage can be a major barrier to formal cardiac rehab in older HFpEF patients."
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "CONCLUSIONS",
+   "kind": "p",
+   "s": [
+    "HFpEF is the most common form of HF in the community, its prevalence is increasing, and prognosis has not improved or even worsened.",
+    "It is nearly unique to older adults and is a true geriatric syndrome.",
+    "Despite a moderate number of clinical trials, therapeutic successes to date have been few, and clinical management is largely empiric.",
+    "An evolving paradigm suggests that, like other geriatric syndromes, HFpEF is complex and multifactorial, probably systemic, and clinically heterogeneous and has a multifactorial pathophysiology, underlying age‐related changes, frequent multiple chronic comorbidities and multiorgan involvement.",
+    "Understanding the relationship between HFpEF and aging may help with understanding the biology of HFpEF more generally.",
+    "In addition, machine learning techniques suggested by Shah et al, when applied to large phenotyped (both biological and clinical) datasets in combination with clinical outcomes may help to improve our understanding of how biological phenotypes integrate with clinical phenotypes.",
+    "Efforts are underway to utilize these concepts to identify novel therapeutic targets, improve the design of future clinical trials, and to develop effective clinical management algorithms.",
+    "Finally, the complexities of these patients demand an approach that is more holistic by addressing not only direct HF‐related conditions but also optimal management of geriatric syndromes, focusing on quality of life."
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Upadhya B, Kitzman DW.",
+    "Heart failure with preserved ejection fraction: New approaches to diagnosis and management.",
+    "Clin Cardiol.",
+    "2020;43:145–155.",
+    "10.1002/clc.23321"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "nhs-aortic-valve-replacement",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/aortic-valve-replacement/",
+ "fetched_from": "https://www.nhs.uk/conditions/aortic-valve-replacement/",
+ "title": "Heart valve replacement",
+ "updated": "",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "994eec35d3b75890688c74e105c5d9279176b5866a3330db53050393869bd3d5",
+ "sentences": 6,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Heart valve replacement",
+   "kind": "p",
+   "s": [
+    "Find out what a heart valve replacement involves, what to expect after the operation and possible complications."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Heart valve replacement",
+   "kind": "li",
+   "s": [
+    "What it is"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Heart valve replacement",
+   "kind": "li",
+   "s": [
+    "Why it's done"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Heart valve replacement",
+   "kind": "li",
+   "s": [
+    "How it's done"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Heart valve replacement",
+   "kind": "li",
+   "s": [
+    "Recovery"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Heart valve replacement",
+   "kind": "li",
+   "s": [
+    "Complications"
+   ]
+  }
+ ]
+}

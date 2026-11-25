@@ -1,0 +1,502 @@
+{
+ "id": "nhs-angina",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/angina/",
+ "fetched_from": "https://www.nhs.uk/conditions/angina/",
+ "title": "Angina",
+ "updated": "2025-03-18",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "820250fad17147fe2f7fe2c9b97a2325257162d3fc9c94a8de7150e1a8b0027d",
+ "sentences": 64,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Angina",
+   "kind": "p",
+   "s": [
+    "Angina is a feeling of pain or tightness, usually in your chest.",
+    "It can be a sign of a heart problem, so it's important to see a GP as soon as possible if you think you may have it."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Angina > Symptoms of angina",
+   "kind": "p",
+   "s": [
+    "The main symptom of angina is sudden pain in your chest, neck, shoulders, jaw or arms."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Angina > Symptoms of angina",
+   "kind": "p",
+   "s": [
+    "The pain may:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Angina > Symptoms of angina",
+   "kind": "li",
+   "s": [
+    "feel like tightness, squeezing or pressure, or like a dull ache"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Angina > Symptoms of angina",
+   "kind": "li",
+   "s": [
+    "make you feel sick, breathless, dizzy or sweaty"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Angina > Symptoms of angina",
+   "kind": "p",
+   "s": [
+    "These symptoms may be called an angina attack, episode or pain."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Angina > Symptoms of angina",
+   "kind": "p",
+   "s": [
+    "They are often brought on by exercise, stress, emotion or cold temperatures – although sometimes there's no obvious trigger."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Angina > Symptoms of angina",
+   "kind": "p",
+   "s": [
+    "Angina attacks usually last less than 10 minutes and should stop after resting for a few minutes or taking your angina medicine."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Angina > How to treat an angina attack",
+   "kind": "p",
+   "s": [
+    "If you've been diagnosed with angina and get chest pain, follow the instructions you've been given for treating your angina:"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Angina > How to treat an angina attack",
+   "kind": "li",
+   "s": [
+    "Stop what you're doing and rest."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Angina > How to treat an angina attack",
+   "kind": "li",
+   "s": [
+    "Use any medicine you've been prescribed – this is usually glyceryl trinitrate (GTN)."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Angina > How to treat an angina attack",
+   "kind": "li",
+   "s": [
+    "Take another dose after 5 minutes if the first dose does not help."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Angina > How to treat an angina attack",
+   "kind": "p",
+   "s": [
+    "If you still have symptoms 5 minutes after taking the 2nd dose, call 999 for an ambulance."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "li",
+   "s": [
+    "you've been diagnosed with angina and have chest pain that does not stop after resting for a few minutes or after taking your angina medicine"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "li",
+   "s": [
+    "you get sudden pain or discomfort in your chest that does not go away – the pain can feel like squeezing or pressure inside your chest, burning or indigestion"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "li",
+   "s": [
+    "you get pain that spreads to your left or right arm, or your neck, jaw, shoulder, stomach or back"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain and you feel sweaty, sick, light-headed or short of breath"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "p",
+   "s": [
+    "You could be having a heart attack.",
+    "Call 999 straight away as you need immediate treatment in hospital."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Angina > Immediate action required: Call 999 now if:",
+   "kind": "p",
+   "s": [
+    "The person you speak to at 999 will give you advice about what to do."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Angina > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have chest pain or other symptoms of angina that come and go"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Angina > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you've been diagnosed with angina and it feels worse than before, is happening more often, lasts longer or happens when you're resting"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Angina > Urgent advice: Get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "p",
+   "s": [
+    "If a GP thinks you may have angina, you'll be referred to a heart specialist (cardiologist)."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "p",
+   "s": [
+    "You may have tests including:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "li",
+   "s": [
+    "blood tests"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "li",
+   "s": [
+    "an electrocardiogram (ECG) to check the electrical activity of your heart"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "li",
+   "s": [
+    "checking the level of oxygen in your blood"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Angina > What happens at your GP appointment",
+   "kind": "li",
+   "s": [
+    "scans, such as an angiogram, MRI scan or CT scan"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Angina > Causes of angina",
+   "kind": "p",
+   "s": [
+    "Angina happens when the heart does not get enough blood."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Angina > Causes of angina",
+   "kind": "p",
+   "s": [
+    "This is usually due to coronary heart disease, where the blood vessels supplying blood to the heart become narrowed or blocked by fatty deposits."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Angina > Causes of angina",
+   "kind": "p",
+   "s": [
+    "But it can also be caused by the blood vessels in your heart tightening when they should not (vasospastic angina or microvascular angina)."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Angina > Causes of angina",
+   "kind": "p",
+   "s": [
+    "You're more likely to get angina if you:"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "are a man aged 45 or over, or a woman aged 55 or over"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "smoke"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "drink more than 14 units of alcohol a week"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "are living with obesity or overweight"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "have high blood pressure or high cholesterol"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "have had heart problems before, like a heart attack or heart rhythm problem (arrhythmia)"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "have close relatives who have heart problems"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Angina > Causes of angina",
+   "kind": "li",
+   "s": [
+    "have another condition, such as diabetes, arthritis or kidney disease"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Angina > Causes of angina",
+   "kind": "p",
+   "s": [
+    "British Heart Foundation has more information about vasospastic angina and microvascular angina."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Angina > Treatment for angina",
+   "kind": "p",
+   "s": [
+    "If you have angina, you may be given medicine to:"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Angina > Treatment for angina",
+   "kind": "li",
+   "s": [
+    "treat an angina attack if you have one (glyceryl trinitrate)"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Angina > Treatment for angina",
+   "kind": "li",
+   "s": [
+    "lower your chances of having an angina attack, such as beta blockers"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Angina > Treatment for angina",
+   "kind": "li",
+   "s": [
+    "reduce your risk of having a stroke or heart attack, such as low-dose aspirin or statins"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Angina > Treatment for angina",
+   "kind": "p",
+   "s": [
+    "Sometimes you may be recommended to have surgery to increase the blood flow to your heart (coronary angioplasty or a coronary artery bypass)."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Angina > Things you can do to help prevent angina attacks",
+   "kind": "p",
+   "s": [
+    "If you have angina, there are things you can do to help symptoms or reduce the chance of attacks."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Angina > Things you can do to help prevent angina attacks > Do avoid things that trigger your angina attacks as much as possible, like stress, cold temperatures or eating large meals always have your angina medicine with you – use it as you have been told by your doctor try to quit smoking, if you smoke try to keep to a healthy weight eat a balanced diet have the most active lifestyle your symptoms will allow try to cut down on alcohol if you drink more than 14 units a week Information: NHS help to get healthy",
+   "kind": "p",
+   "s": [
+    "NHS Better Health has free tools and support to help you lose weight, quit smoking, drink less and get active."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Angina > Things you can do to help prevent angina attacks > Do avoid things that trigger your angina attacks as much as possible, like stress, cold temperatures or eating large meals always have your angina medicine with you – use it as you have been told by your doctor try to quit smoking, if you smoke try to keep to a healthy weight eat a balanced diet have the most active lifestyle your symptoms will allow try to cut down on alcohol if you drink more than 14 units a week Information: NHS help to get healthy",
+   "kind": "p",
+   "s": [
+    "Visit the NHS Better Health website"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "Having angina means you're at higher risk of having a heart attack or stroke.",
+    "It's important to treat it and make healthy lifestyle changes to reduce this risk."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "With treatment, the symptoms should improve over time and may eventually stop."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "If your symptoms are well controlled, angina will not usually have a big impact on your life.",
+    "You'll usually be able to continue with most things, including exercise and sex."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "But angina may affect your work if you have a job that involves a lot of physical activity, or if you drive buses, coaches or lorries."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "Your doctor will talk to you about any changes you may need to make, and whether you need to inform the DVLA about your condition."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "It's also best to speak to your doctor before you take up a new activity or if you're worried about exercising."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Angina > How angina affects your life",
+   "kind": "p",
+   "s": [
+    "You may also need to think about practical things like always carrying your angina medicine, having spare medicine available and making sure you have enough with you when travelling."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Angina > How angina affects your life > More information",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation: understanding angina booklet"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Angina > How angina affects your life > More information",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation: support with everyday life"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Angina > Video: Angina",
+   "kind": "p",
+   "s": [
+    "In this video an expert describes the symptoms, stages and treatment of angina."
+   ]
+  }
+ ]
+}
