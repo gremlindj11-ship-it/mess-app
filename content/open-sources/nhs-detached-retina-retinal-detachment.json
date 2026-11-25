@@ -1,0 +1,321 @@
+{
+ "id": "nhs-detached-retina-retinal-detachment",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/detached-retina-retinal-detachment/",
+ "fetched_from": "https://www.nhs.uk/conditions/detached-retina-retinal-detachment/",
+ "title": "Detached retina (retinal detachment)",
+ "updated": "2023-08-04",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "314f011b171eb26533e02b9e854f7ea32698f9707e2c70ed4be8b531abc885a1",
+ "sentences": 44,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Detached retina (retinal detachment)",
+   "kind": "p",
+   "s": [
+    "A detached retina is when the thin layer at the back of your eye (retina) becomes loose.",
+    "It needs to be treated quickly to stop it permanently affecting your sight."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Detached retina (retinal detachment) > Symptoms of a detached retina",
+   "kind": "p",
+   "s": [
+    "Symptoms of a detached retina include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Detached retina (retinal detachment) > Symptoms of a detached retina",
+   "kind": "li",
+   "s": [
+    "floaters (dots and lines) or flashes of light in your eye"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Detached retina (retinal detachment) > Symptoms of a detached retina",
+   "kind": "li",
+   "s": [
+    "a dark \"curtain\" or shadow in your vision"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Detached retina (retinal detachment) > Symptoms of a detached retina",
+   "kind": "li",
+   "s": [
+    "changes to your eyesight, such as blurred vision"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Detached retina (retinal detachment) > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "floaters (dots and lines) suddenly appear in your vision or suddenly increase in number"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Detached retina (retinal detachment) > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you get flashes of light in your vision"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Detached retina (retinal detachment) > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have a dark \"curtain\" or shadow moving across your vision"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Detached retina (retinal detachment) > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your vision gets suddenly blurred"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Detached retina (retinal detachment) > Urgent advice: Get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "You'll be referred to hospital for surgery if tests show your retina may be detached or has started to come away (retinal tear)."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "Surgery will usually stop your vision getting worse."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "summary",
+   "s": [
+    "What happens during surgery for a detached retina or tear"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "Surgery to re-attach the retina or fix a retinal tear may involve:"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "li",
+   "s": [
+    "removing and replacing the jelly inside your eye (vitrectomy)"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "li",
+   "s": [
+    "attaching a small band around your eye to push the wall of your eye and retina closer together (scleral buckling)"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "li",
+   "s": [
+    "injecting a bubble of gas into your eye to push the retina against the back of your eye (pneumatic retinopexy)"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "li",
+   "s": [
+    "sealing the tear in your retina with laser or freezing treatment (cryotherapy)"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "It's usually done with local anaesthetic, so you're awake but your eye is numbed."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "You do not normally need to stay in hospital overnight."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Detached retina (retinal detachment) > Treatment for a detached retina",
+   "kind": "p",
+   "s": [
+    "You may be asked to lie or sit in a particular position for up to 7 days after the surgery.",
+    "This is so that your retina is in the correct position to help it heal."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "p",
+   "s": [
+    "Recovery time after surgery for a detached retina varies.",
+    "But as a general guide, for 2 to 6 weeks after surgery:"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "li",
+   "s": [
+    "your vision may be blurry"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "li",
+   "s": [
+    "your eye may be sore and red – take paracetamol if you need to"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "li",
+   "s": [
+    "you may need to take time off work"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "li",
+   "s": [
+    "you may not be able to drive"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "li",
+   "s": [
+    "you may need to avoid flying (if you've had a bubble of gas put into your eye)"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina",
+   "kind": "p",
+   "s": [
+    "Most people are eventually able to return to all their normal activities."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Detached retina (retinal detachment) > Recovering from a detached retina > Important",
+   "kind": "p",
+   "s": [
+    "Call the hospital or go to A&E if the pain, redness or blurriness gets worse after surgery.",
+    "You may need further treatment."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "p",
+   "s": [
+    "A detached retina is usually caused by changes to the jelly inside your eye, which can happen as you get older.",
+    "This is called posterior vitreous detachment (PVD)."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "p",
+   "s": [
+    "It's not clear exactly why PVD can lead to retinal detachment in some people and there's nothing you can do to prevent it.",
+    "But it's more likely to happen if you:"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "li",
+   "s": [
+    "are short-sighted"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "li",
+   "s": [
+    "have had an eye operation (such as cataract surgery)"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "li",
+   "s": [
+    "have had an eye injury"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "li",
+   "s": [
+    "have a family history of retinal detachment"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Detached retina (retinal detachment) > Causes of a detached retina",
+   "kind": "p",
+   "s": [
+    "Find out more about posterior vitreous detachment from RNIB"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Detached retina (retinal detachment) > Important: If your symptoms come back",
+   "kind": "p",
+   "s": [
+    "You can get a detached retina more than once.",
+    "Get medical help as soon as possible if the symptoms come back."
+   ]
+  }
+ ]
+}

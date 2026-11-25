@@ -1,0 +1,287 @@
+{
+ "id": "nhs-ectropion",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/ectropion/",
+ "fetched_from": "https://www.nhs.uk/conditions/ectropion/",
+ "title": "Ectropion",
+ "updated": "2025-07-17",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "ed3342fe26c43b1e17897700c263f15f75fc16ef12444e1c297031bd36af9b01",
+ "sentences": 38,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Ectropion",
+   "kind": "p",
+   "s": [
+    "Ectropion is when your lower eyelid droops or sags away from your eye and turns outwards.",
+    "It's not usually serious but can be uncomfortable."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/256885/view"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "p",
+   "s": [
+    "Ectropion mainly affects your lower eyelid and can happen in 1 or both eyelids at the same time.",
+    "It's more common in older people."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "p",
+   "s": [
+    "The main symptoms of ectropion include:"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "li",
+   "s": [
+    "a drooping and sagging lower eyelid"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "li",
+   "s": [
+    "a sore, irritated and red eye and eyelid – eyelid redness may be harder to see on brown or black skin"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "li",
+   "s": [
+    "difficulty closing your eye"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "li",
+   "s": [
+    "watery eyes"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "li",
+   "s": [
+    "dry and gritty feeling eyes"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "p",
+   "s": [
+    "It also means you're more likely to get infections like conjunctivitis."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Ectropion > Symptoms of ectropion",
+   "kind": "p",
+   "s": [
+    "There are other problems that can affect your eyelid.",
+    "Find out more about eyelid problems."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Ectropion > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you think you have ectropion"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "very red eyes (1 or both eyes)"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "pain in your eyes"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "changes in your vision"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "sensitivity to light"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "a headache and you feel sick or are vomiting"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Ectropion > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "p",
+   "s": [
+    "A GP will be able to diagnose ectropion by examining your eye.",
+    "They may refer you to an eye specialist (ophthalmologist) for further assessment."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "p",
+   "s": [
+    "Treatment depends on what symptoms you have and what's causing ectropion."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "p",
+   "s": [
+    "If your symptoms are mild, you may not need treatment."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "p",
+   "s": [
+    "If you cannot shut your eye properly, treatment may include:"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "li",
+   "s": [
+    "using eye ointment or drops to soothe your eye and stop it becoming dry"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "li",
+   "s": [
+    "taping your lower and upper eyelids together to protect your cornea (the clear, outer part at the front of the eye) – your eye specialist will show you how to do this with special skin tape"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Ectropion > Treatment for ectropion",
+   "kind": "p",
+   "s": [
+    "Try to avoid wiping or rubbing your eyes too much, as this can make ectropion worse.",
+    "If you need to wipe your eyes, dab them gently and carefully with a clean tissue."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Ectropion > Treatment for ectropion > Surgery for ectropion",
+   "kind": "p",
+   "s": [
+    "If ectropion is causing severe symptoms, you may need surgery to tighten the skin and muscles around your eye."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Ectropion > Treatment for ectropion > Find out more",
+   "kind": "li",
+   "s": [
+    "Cambridge University Hospitals: ectropion surgery"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "p",
+   "s": [
+    "Ectropion is usually caused by aging, as the muscles around your eye become weaker."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "p",
+   "s": [
+    "Less commonly it can be caused by:"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "li",
+   "s": [
+    "using eye drops continuously for a long time"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "li",
+   "s": [
+    "nerve problems or conditions that cause facial paralysis, like Bell's palsy"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "li",
+   "s": [
+    "a lump, cyst or tumour on your eyelid"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Ectropion > Causes of ectropion",
+   "kind": "li",
+   "s": [
+    "damage to the skin around your eye because of an injury, burn or scarring from previous surgery"
+   ]
+  }
+ ]
+}

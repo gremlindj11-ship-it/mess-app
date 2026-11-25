@@ -1,0 +1,252 @@
+{
+ "id": "nhs-eye-injuries",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/eye-injuries/",
+ "fetched_from": "https://www.nhs.uk/conditions/eye-injuries/",
+ "title": "Eye injuries",
+ "updated": "2026-03-12",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "929f62c728b58f581867a3214837bb3a4dea6a11c668a7e705f28ac4bbc44922",
+ "sentences": 31,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Eye injuries",
+   "kind": "p",
+   "s": [
+    "Minor eye injuries, such as shampoo or dust in your eye, often get better on their own within a day.",
+    "Get medical help if you have a chemical in your eye or something pierces it."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "a strong chemical, such as oven cleaner or bleach, is in your eye – keep rinsing your eye with water while waiting for medical help, and take the container with you as the information on it may help with treatment"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "a sharp object has pierced your eye"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "something has hit your eye at high speed – for example, while using power tools or mowing the lawn"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "there are any changes to your sight after an eye injury"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "you have severe pain in your eye"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "you have a headache or sensitivity to light"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "you're feeling sick or being sick after an eye injury"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "you cannot move your eye or keep it open"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "blood or pus is coming from your eye"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Eye injuries > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Eye injuries > How to treat an eye injury at home > Do wash your eye with clean water if there's something in it follow the advice on the packaging if any cosmetics or household products get in your eyes take painkillers like paracetamol or ibuprofen to help ease any pain or discomfort Don't",
+   "kind": "li",
+   "s": [
+    "do not try to remove any object that's pierced your eye"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Eye injuries > How to treat an eye injury at home > Do wash your eye with clean water if there's something in it follow the advice on the packaging if any cosmetics or household products get in your eyes take painkillers like paracetamol or ibuprofen to help ease any pain or discomfort Don't",
+   "kind": "li",
+   "s": [
+    "do not touch or rub your eye until it's better"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Eye injuries > How to treat an eye injury at home > Do wash your eye with clean water if there's something in it follow the advice on the packaging if any cosmetics or household products get in your eyes take painkillers like paracetamol or ibuprofen to help ease any pain or discomfort Don't",
+   "kind": "li",
+   "s": [
+    "do not wear make-up around your eye until it's better"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Eye injuries > How to treat an eye injury at home > Do wash your eye with clean water if there's something in it follow the advice on the packaging if any cosmetics or household products get in your eyes take painkillers like paracetamol or ibuprofen to help ease any pain or discomfort Don't",
+   "kind": "li",
+   "s": [
+    "do not wear contact lenses until your eye is better"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Eye injuries > How to treat an eye injury at home > How to wash your eye",
+   "kind": "p",
+   "s": [
+    "You should:"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Eye injuries > How to treat an eye injury at home > How to wash your eye",
+   "kind": "li",
+   "s": [
+    "use clean water (not hot) – this can be from a tap or shower, or bottled water if you're not at home"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Eye injuries > How to treat an eye injury at home > How to wash your eye",
+   "kind": "li",
+   "s": [
+    "hold your eye open"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Eye injuries > How to treat an eye injury at home > How to wash your eye",
+   "kind": "li",
+   "s": [
+    "run lots of water over your eyeball for at least 20 minutes"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Eye injuries > How to treat an eye injury at home > How to wash your eye",
+   "kind": "p",
+   "s": [
+    "Make sure the flow of water is not too strong."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Eye injuries > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you've injured your eye and it is not getting better after 24 hours"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Eye injuries > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're worried about an eye injury – particularly if it's a child that's injured"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Eye injuries > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "it's very painful"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Eye injuries > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online.",
+    "Always call 111 if you need help for a child under 5 years old."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Eye injuries > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You could also visit an optician for advice."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Eye injuries > Other eye injuries",
+   "kind": "p",
+   "s": [
+    "There is separate information about:"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Eye injuries > Other eye injuries",
+   "kind": "li",
+   "s": [
+    "What to do if you have a black eye"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Eye injuries > Other eye injuries",
+   "kind": "li",
+   "s": [
+    "What to do if you have a red eye"
+   ]
+  }
+ ]
+}

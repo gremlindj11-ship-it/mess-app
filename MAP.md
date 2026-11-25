@@ -12,7 +12,7 @@ Start here instead of searching the repo. One line per folder or file: what it i
 
 ## The app (`app/`): plain scripts, no build step, one shared global scope
 - `app/index.html`: loads every script in order. `app/404.html` **must stay an exact copy** (it opens addresses like `/app/topic-copd`).
-- `app/sw.js`: the offline cache. **Line 1 is the cache version: bump it on any change under `app/`.**
+- `app/sw.js`: the offline cache. **Line 1 is the cache version: bump it on any change under `app/`.** `tests/cache-version.test.js` fails if you don't, or if `app/404.html` is not a copy of `app/index.html`.
 - `app/styles.css`: all styles. Search for the class you need.
 - `app/data.js` (50 KB): themes, glossary, OSCE stations, the Links page rows. Search for the constant (`STATIONS`, `GLOSSARY`...).
 - `app/js/*.js`: one file per area. Each starts with a one-line comment saying what it does. The ones most jobs touch:

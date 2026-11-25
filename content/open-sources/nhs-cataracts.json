@@ -1,0 +1,361 @@
+{
+ "id": "nhs-cataracts",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/cataracts/",
+ "fetched_from": "https://www.nhs.uk/conditions/cataracts/",
+ "title": "Cataracts in adults",
+ "updated": "2025-03-12",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "d8e60c58819cef7bfe2e68b74d233478a5da464b8de992f9721204d95be69712",
+ "sentences": 49,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Cataracts in adults",
+   "kind": "p",
+   "s": [
+    "Cataracts is where the lens in your eye becomes cloudy, causing blurred vision and loss of sight.",
+    "It usually affects older adults and can be treated with surgery."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Cataracts in adults",
+   "kind": "p",
+   "s": [
+    "This page is about cataracts in adults.",
+    "Find out about cataracts in children."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "Symptoms of cataracts usually develop slowly."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "You'll often have cataracts in both eyes but the symptoms may be different in each eye."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "Symptoms include:"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "blurred vision"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "difficulty seeing at night"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "difficulty reading and watching television"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "your eyes being uncomfortable in, or sensitive to, light and glare"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "looking at 1 object but seeing 2 (double vision)"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "seeing glowing rings (halos) around lights"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "colours look faded, especially blue"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Cataracts in adults > Symptoms of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "If you wear glasses, you may notice that you need to change the prescription of your glasses more often than usual."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Cataracts in adults > Non-urgent advice: See an optician if:",
+   "kind": "li",
+   "s": [
+    "you have symptoms of cataracts"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Cataracts in adults > Non-urgent advice: See an optician if:",
+   "kind": "p",
+   "s": [
+    "If they think you have cataracts, they'll refer you to an eye specialist for more tests or treatment."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "You may be more likely to get cataracts if:"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you're aged 60 or over"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you've had an eye injury or eye surgery in the past"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you have another eye condition, such as uveitis or being very short-sighted"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you've taken steroid medicines for long periods of time"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you smoke"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "a parent, brother or sister has had cataracts"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "you're a woman"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "li",
+   "s": [
+    "your eyes have been regularly exposed to a lot of sunlight without protection such as sunglasses"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Cataracts in adults > Causes of cataracts in adults",
+   "kind": "p",
+   "s": [
+    "Some long-term health conditions can also increase your risk of getting cataracts, such as type 2 diabetes, severe dermatitis and high blood pressure."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "Cataracts do not usually need treatment straight away."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "Over time cataracts will get worse and you'll need cataract surgery if you want to to improve your sight."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "A GP or eye specialist will talk to you about whether or not you want surgery.",
+    "This may depend on:"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "li",
+   "s": [
+    "how cataracts are affecting your daily life"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "li",
+   "s": [
+    "if cataracts are in one or both eyes"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "If you decide to have surgery, there may be a wait for treatment.",
+    "Ask your eye specialist how long you'll have to wait."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "Cataract surgery is done under a local anaesthetic.",
+    "This means you'll be awake but you will not feel any pain."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "The cloudy lens is replaced with an artificial one.",
+    "You should be able to go home on the same day."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery)",
+   "kind": "p",
+   "s": [
+    "If you have cataracts in both eyes, they'll be treated on separate days."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Cataracts in adults > Treatment for cataracts (cataract surgery) > Find out more:",
+   "kind": "li",
+   "s": [
+    "Cataract surgery"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Cataracts in adults > How cataracts affect your life",
+   "kind": "p",
+   "s": [
+    "Cataracts affect your sight and without treatment will eventually cause sight loss."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Cataracts in adults > How cataracts affect your life",
+   "kind": "p",
+   "s": [
+    "Using stronger glasses and brighter light for reading may help for a while."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Cataracts in adults > How cataracts affect your life",
+   "kind": "p",
+   "s": [
+    "For most people, cataract surgery will help to improve their vision.",
+    "Recovery from surgery is quick and serious complications are rare."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Cataracts in adults > How cataracts affect your life > Driving with cataracts",
+   "kind": "p",
+   "s": [
+    "You may still be able to drive if your vision is good enough."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Cataracts in adults > How cataracts affect your life > Driving with cataracts",
+   "kind": "p",
+   "s": [
+    "You must let the Driver and Vehicle Licensing Agency (DVLA) know if your eyesight does not meet the minimum standards needed for driving."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Cataracts in adults > How cataracts affect your life > Driving with cataracts",
+   "kind": "p",
+   "s": [
+    "Ask an optician if you are not sure."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Cataracts in adults > How cataracts affect your life > Find out more",
+   "kind": "li",
+   "s": [
+    "GOV.UK: eye conditions and driving"
+   ]
+  }
+ ]
+}

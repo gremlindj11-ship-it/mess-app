@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # tests/cache-version.test.js compares app/ with origin/main, which a depth-1 checkout does not have
       - uses: actions/setup-node@v4
         with:
           node-version: 20

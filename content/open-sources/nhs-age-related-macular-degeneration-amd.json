@@ -1,0 +1,53 @@
+{
+ "id": "nhs-age-related-macular-degeneration-amd",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/",
+ "fetched_from": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/",
+ "title": "What is AMD? - Age-related macular degeneration (AMD)",
+ "updated": "2025-01-22",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "5827eef5f7dbc9e3d09875d2ba27bc7aa2ac1a779e42415ac1fab2d36cbbfbab",
+ "sentences": 7,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "What is AMD? - Age-related macular degeneration (AMD)",
+   "kind": "li",
+   "s": [
+    "Age-related macular degeneration (AMD) is a common condition that affects the middle part of your vision.",
+    "It usually first affects people in their 50s."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "What is AMD? - Age-related macular degeneration (AMD)",
+   "kind": "li",
+   "s": [
+    "It does not cause total blindness, but it can make things like reading and recognising faces difficult."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "What is AMD? - Age-related macular degeneration (AMD)",
+   "kind": "li",
+   "s": [
+    "Without treatment, your vision may get worse.",
+    "This can happen gradually over several years, before it can then get worse quickly over a few weeks or months."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "What is AMD? - Age-related macular degeneration (AMD)",
+   "kind": "li",
+   "s": [
+    "The exact cause is unknown.",
+    "It's been linked to things such as ageing, smoking, high blood pressure, being overweight and having a family history of AMD."
+   ]
+  }
+ ]
+}

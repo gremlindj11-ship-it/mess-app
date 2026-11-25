@@ -1,0 +1,510 @@
+{
+ "id": "nhs-cataract-surgery",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/cataract-surgery/",
+ "fetched_from": "https://www.nhs.uk/conditions/cataract-surgery/",
+ "title": "Cataract surgery",
+ "updated": "2025-03-06",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "bb7b1fed2e57e0e5a22348df0a1680679bb67c0fb9ee3f9edff2095f2bbc0eed",
+ "sentences": 72,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Cataract surgery",
+   "kind": "p",
+   "s": [
+    "Cataract surgery is an operation to replace a cloudy lens in your eye with an artificial lens."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Cataract surgery > Why cataract surgery is done",
+   "kind": "p",
+   "s": [
+    "Cataract surgery is done to improve your vision if you have cataracts."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Cataract surgery > Why cataract surgery is done",
+   "kind": "p",
+   "s": [
+    "This is where the lens in your eye becomes cloudy, which can cause blurry vision and loss of sight.",
+    "It mainly affects older adults (age-related cataracts) but can also affect children (childhood cataracts)."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Cataract surgery > Why cataract surgery is done",
+   "kind": "p",
+   "s": [
+    "Surgery is the only way to get rid of cataracts."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Cataract surgery > Why cataract surgery is done",
+   "kind": "p",
+   "s": [
+    "For children with cataracts, surgery is usually done as soon as possible to help their vision develop properly.",
+    "Surgery in adults is not always needed straight away but may be recommended if cataracts are affecting your daily life."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Cataract surgery > Why cataract surgery is done",
+   "kind": "p",
+   "s": [
+    "If you have cataracts in both eyes, they'll be treated on separate days."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Cataract surgery > How to prepare for cataract surgery",
+   "kind": "p",
+   "s": [
+    "Before you have cataract surgery, you'll have an appointment with a specialist who will examine and measure your eye."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Cataract surgery > How to prepare for cataract surgery",
+   "kind": "p",
+   "s": [
+    "If you wear contact lenses, you may need to leave them out for a few days before you have cataract surgery."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Cataract surgery > How to prepare for cataract surgery",
+   "kind": "p",
+   "s": [
+    "The operation is usually done under a local anaesthetic, which means you can eat and drink as normal before surgery."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "You'll have cataract surgery in a hospital."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "It's usually done under a local anaesthetic.",
+    "This means you'll be awake but you should not feel any pain.",
+    "The local anaesthetic may be given as eye drops, an injection or both."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "During the surgery, you may see movement and changes of light and shade, but you are unlikely to see any detail of what's happening."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "The main steps of cataract surgery are:"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "You'll be given eye drops to widen (dilate) your pupil."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "The nurse or surgeon will clean your eye and the area around it."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "Your face will be covered with a sterile sheet so that only the eye being operated on is exposed."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "When your eye is numb, your surgeon will make a tiny hole through the front of your eye (the cornea) and through the clear layer at the front of the lens (the lens capsule)."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "Your surgeon may use sound waves (ultrasound) to break up the lens inside the lens capsule."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "They'll remove the old lens using suction."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "li",
+   "s": [
+    "They'll place a clear plastic lens inside the lens capsule, which will hold the new lens in place."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Cataract surgery > What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "The operation usually takes between 20 minutes and 45 minutes."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Cataract surgery > What happens during cataract surgery > After the surgery",
+   "kind": "p",
+   "s": [
+    "Usually, you will not need stitches after cataract surgery and your eye will heal by itself.",
+    "If you do need stitches, your surgeon will talk to you about what type of stitch has been used and whether they need to be removed."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Cataract surgery > What happens during cataract surgery > After the surgery",
+   "kind": "p",
+   "s": [
+    "Your eye may be covered with a dressing to keep it clean."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Cataract surgery > What happens during cataract surgery > After the surgery",
+   "kind": "p",
+   "s": [
+    "You should be able to go home on the same day, but do not drive yourself home.",
+    "You should be able to walk safely but take care on stairs."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Cataract surgery > Video: What happens during cataract surgery",
+   "kind": "p",
+   "s": [
+    "In this video, an eye surgeon from Moorfields eye hospital explains what happens during cataract surgery."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "p",
+   "s": [
+    "Most people recover quickly after cataract surgery."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "p",
+   "s": [
+    "Your surgeon will talk to you about what to expect and what you should do.",
+    "They'll check your eye and talk to you about when to remove the dressing.",
+    "They'll also tell you about pain relief you can take while you recover."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "p",
+   "s": [
+    "You'll be given eye drops to help your eye to heal and prevent infection.",
+    "You'll usually need to take these eye drops for about 4 weeks."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "p",
+   "s": [
+    "After cataract surgery:"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "your vision may be blurry for a few hours – this is because of the eye drops used to widen your pupils"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "your eye may hurt for a few days"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "you may need to use a plastic shield to protect your eye at night while your eye is healing"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "it may take several days for your vision to improve"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "you may feel more tired than usual but you'll start to feel normal again after a few days"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Cataract surgery > Recovering from cataract surgery",
+   "kind": "li",
+   "s": [
+    "you may still need to wear glasses for reading or seeing long distances – your prescription may be different to before surgery"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery",
+   "kind": "p",
+   "s": [
+    "There are things you can do until your eye is back to normal or until your doctor says you can return to your normal activities."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not rub your eye"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not drive until your vision is back to normal"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not do any heavy lifting or play sports"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not wear eye make up"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not get water in your eye"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Cataract surgery > Recovering from cataract surgery > Things you can do to help your recovery > Do follow the instructions you've been given about changing your dressing take painkillers such as paracetamol or ibuprofen if you need them wear an eye shield or glasses if you go out in windy weather wear sunglasses if lights seem brighter than normal Don't",
+   "kind": "li",
+   "s": [
+    "do not go swimming, even with goggles"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "p",
+   "s": [
+    "As with any operation, complications can happen during or after cataract surgery."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "p",
+   "s": [
+    "The procedure is usually successful and serious complications are rare."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "p",
+   "s": [
+    "Your surgeon will explain the possible complications before you have surgery.",
+    "Some complications may need further surgery."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "p",
+   "s": [
+    "Possible complications include:"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "li",
+   "s": [
+    "problems with your vision, such as cloudiness, blurriness, dark shadows or areas of light"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "li",
+   "s": [
+    "problems in your eye such as a detached retina, an eye infection, bleeding or inflammation in the eye, or problems with the position of the new lens"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Cataract surgery > Possible complications of cataract surgery",
+   "kind": "p",
+   "s": [
+    "If you have complications, most are likely to happen immediately after surgery.",
+    "But sometimes your vision can become cloudy months or years after surgery.",
+    "This may be a condition called posterior capsule opacification (PCO)."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Non-urgent advice: Go to an opticians if:",
+   "kind": "li",
+   "s": [
+    "your vision gets cloudy or blurry"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Non-urgent advice: Go to an opticians if:",
+   "kind": "li",
+   "s": [
+    "you're finding it hard to focus your vision"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Non-urgent advice: Go to an opticians if:",
+   "kind": "li",
+   "s": [
+    "your eye becomes red or painful"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Non-urgent advice: Go to an opticians if:",
+   "kind": "li",
+   "s": [
+    "you see light or dark areas in your vision"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Non-urgent advice: Go to an opticians if:",
+   "kind": "li",
+   "s": [
+    "it becomes uncomfortable or painful to look at bright light"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "floaters (dots and lines) suddenly appear in your vision or suddenly increase in number"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you get flashes of light in your vision"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have a dark \"curtain\" or shadow moving across your vision"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your vision gets suddenly blurred"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "These could be signs of a detached retina."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Cataract surgery > Possible complications of cataract surgery > Urgent advice: Get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  }
+ ]
+}
