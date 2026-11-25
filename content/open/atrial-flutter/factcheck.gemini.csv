@@ -12,7 +12,7 @@ row,verdict,population,trigger,action,strength,numbers,alternatives,exceptions,s
 12,"confirmed","yes","n.a.","yes","yes","yes","n.a.","n.a.","n.a.","The claim accurately details the two barriers favoring initiation and maintenance of the atrial flutter circuit.","fd3f3cb2c45d"
 13,"confirmed","yes","n.a.","yes","yes","n.a.","n.a.","n.a.","n.a.","The claim correctly describes the role and vulnerability of the cavotricuspid isthmus in atrial flutter.","858bfcbbb0f8"
 14,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim accurately reflects the electrophysiological characteristics and excitable gap mechanisms described in the quote.","41c3d5118bfd"
-15,"disputed","yes","n.a.","n.a.","yes","no","yes","yes","n.a.","The claim omits the number 'two' specifying the two vena cava from the guideline quote.","040773e33d9b"
+15,"confirmed","yes","n.a.","n.a.","n.a.","yes","yes","n.a.","n.a.","The claim accurately reflects the pathophysiological hypothesis detailed in the guideline quote regarding the line of block between the two vena cava, paroxysmal atrial fibrillation, and atrial flutter maintenance or termination.","4407b424b771"
 16,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim matches all the clinical findings attributed to atrial remodelling in patients with atrial flutter as per the quote.","6345de1f7fb9"
 17,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim correctly lists all the known risk factors for developing atrial flutter listed in the quote.","5666d7222d83"
 18,"confirmed","yes","n.a.","n.a.","yes","yes","yes","yes","n.a.","The claim accurately reflects the association with structural heart disease and the 15–20% percentage reported in the quote.","a7d67a954164"
