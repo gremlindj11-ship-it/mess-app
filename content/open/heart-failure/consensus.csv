@@ -1,6 +1,6 @@
 row,status,checked_by,confirmed_by,disagreement
 2,agreed,"gemini qwen","gemini qwen",""
-3,unresolved,"gemini","gemini",""
+3,agreed,"gemini qwen","gemini qwen",""
 4,agreed,"gemini qwen","gemini qwen",""
 5,agreed,"gemini qwen","gemini qwen",""
 6,agreed,"gemini qwen","gemini qwen",""
