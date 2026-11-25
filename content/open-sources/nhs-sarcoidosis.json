@@ -1,0 +1,556 @@
+{
+ "id": "nhs-sarcoidosis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+ "fetched_from": "https://www.nhs.uk/conditions/sarcoidosis/",
+ "title": "Sarcoidosis",
+ "updated": "2022-10-06",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "2295327d5be07efcc61d691dfbc6b02e196b7861bdef1e33e3b4a41176d80ccb",
+ "sentences": 90,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Sarcoidosis is a rare condition that causes small patches of swollen tissue, called granulomas, to develop in the organs of the body.",
+    "It often affects the lungs and lymph nodes, and can also affect your skin."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Sarcoidosis",
+   "kind": "p",
+   "s": [
+    "The symptoms of sarcoidosis depend on which organs are affected, but typically include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Sarcoidosis",
+   "kind": "li",
+   "s": [
+    "tender bumps on the skin"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Sarcoidosis",
+   "kind": "li",
+   "s": [
+    "shortness of breath"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Sarcoidosis",
+   "kind": "li",
+   "s": [
+    "a persistent cough"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Sarcoidosis",
+   "kind": "p",
+   "s": [
+    "For many people with sarcoidosis, symptoms often improve without treatment within a few months or years.",
+    "In these cases, the symptoms are not usually severe."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Sarcoidosis",
+   "kind": "p",
+   "s": [
+    "However, some people find their symptoms develop gradually and get worse over time, to the point where their health becomes severely affected.",
+    "This is known as chronic sarcoidosis."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Sarcoidosis",
+   "kind": "p",
+   "s": [
+    "There is currently no cure but symptoms can usually be managed with medicine."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "It's impossible to predict how sarcoidosis will affect a person, as the condition can affect any organ and the symptoms vary widely depending on which organs are involved."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Most people with sarcoidosis develop symptoms suddenly, but these usually clear within a few months or years and the condition does not come back.",
+    "This is known as acute sarcoidosis."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Some people do not have any symptoms at all, and the condition is diagnosed after an X-ray carried out for another reason."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "A few people find their symptoms develop gradually and get worse over time, to the point where they become severely affected.",
+    "Lots of granulomas may form in an organ and prevent it from working properly.",
+    "This is known as chronic sarcoidosis."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Sarcoidosis most often affects the lungs, skin and lymph nodes (glands)."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Lung symptoms",
+   "kind": "p",
+   "s": [
+    "The lungs are affected in about 9 out of 10 of people with sarcoidosis.",
+    "This is known as pulmonary sarcoidosis."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Lung symptoms",
+   "kind": "p",
+   "s": [
+    "The main symptoms are shortness of breath and a persistent dry cough.",
+    "Some people with pulmonary sarcoidosis experience pain and discomfort in their chest, but this is uncommon."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Skin symptoms",
+   "kind": "p",
+   "s": [
+    "CNRI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/262539/view"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Skin symptoms",
+   "kind": "p",
+   "s": [
+    "The skin is also affected in many people with sarcoidosis."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Skin symptoms",
+   "kind": "p",
+   "s": [
+    "This can cause tender bumps or patches to develop on the skin (particularly the lower legs and arms), as well as bumps on the upper body.",
+    "These can be reddish-brown or purple, depending on your skin colour and the type of sarcoidosis you have."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "p",
+   "s": [
+    "If other organs are affected, you may also have some of the following symptoms:"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "tender and swollen glands in the face, neck, armpits or groin"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "tiredness and a general feeling of being unwell"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "painful joints"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "red or sore eyes"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "an abnormal heart rhythm (arrhythmia)"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "a blocked or stuffy nose"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "pain in the bones"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "kidney stones"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Sarcoidosis > Symptoms of sarcoidosis > Other symptoms",
+   "kind": "li",
+   "s": [
+    "headache"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "The exact cause of sarcoidosis is not known."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Possible causes include:"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "li",
+   "s": [
+    "exposure to substances in the environment – such as mould, wood stoves, soil, tree pollen, insecticides, silica and other substances"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "li",
+   "s": [
+    "viral or bacterial infections"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "li",
+   "s": [
+    "genetics – as sarcoidosis is more common in certain groups of people, such as African-Americans, and in certain areas of the world, such as Scandinavia"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "li",
+   "s": [
+    "the body’s immune system attacking its own tissues and organs (autoimmunity)"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Sarcoidosis > Causes of sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Sarcoidosis can occasionally occur in more than one family member, but there's no evidence that the condition is inherited.",
+    "The condition is not infectious, so it cannot be passed from person to person."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Sarcoidosis > Who's affected",
+   "kind": "p",
+   "s": [
+    "Sarcoidosis can affect people of any age, but usually starts in adults aged between 30 and 40.",
+    "It's rare in childhood."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Sarcoidosis > Who's affected",
+   "kind": "p",
+   "s": [
+    "The condition affects people from all ethnic backgrounds.",
+    "It's also more common in women than men."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Sarcoidosis > Diagnosing sarcoidosis",
+   "kind": "p",
+   "s": [
+    "A number of different tests may be carried out to diagnose sarcoidosis, depending on which organs are affected."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Sarcoidosis > Diagnosing sarcoidosis",
+   "kind": "p",
+   "s": [
+    "If your symptoms suggest you have pulmonary sarcoidosis (sarcoidosis affecting the lungs), you may have a chest X-ray or a CT scan of your lungs to look for signs of the condition."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Sarcoidosis > Diagnosing sarcoidosis",
+   "kind": "p",
+   "s": [
+    "In some cases, doctors may want to examine the inside of your lungs using a long, thin, flexible tube with a light source and a camera at the end (an endoscope) that's passed down your throat.",
+    "A small sample of lung tissue may also be removed during this test so it can be studied under a microscope.",
+    "This is known as a biopsy."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Sarcoidosis > Diagnosing sarcoidosis",
+   "kind": "p",
+   "s": [
+    "If doctors think you may have sarcoidosis affecting other organs – such as the skin, heart or eyes – scans or examinations of these areas will usually be carried out."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Sarcoidosis > How sarcoidosis is treated",
+   "kind": "p",
+   "s": [
+    "Many people with sarcoidosis do not need treatment as the condition often goes away on its own, usually within a few months or years."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Sarcoidosis > How sarcoidosis is treated",
+   "kind": "p",
+   "s": [
+    "In this case, simple lifestyle changes and over-the-counter painkillers (such as paracetamol or ibuprofen) are often all that's needed to control the pain of any flare-ups."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Sarcoidosis > How sarcoidosis is treated",
+   "kind": "p",
+   "s": [
+    "Doctors will monitor your condition to check if it's getting any better or worse without treatment.",
+    "This can be done with regular X-rays, breathing tests and blood tests."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "If treatment is recommended, steroid tablets are usually used."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "This helps relieve symptoms and prevent damage to affected organs by reducing inflammation and preventing scarring."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "However, steroid tablets can cause side effects such as weight gain and mood swings if taken in high doses.",
+    "Other side effects, such as weakening of the bones (osteoporosis), can also develop if steroids are taken for a long time.",
+    "Therefore, they're only used when necessary."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "You may initially be given a high dose of steroid medicine for a short period of time, before switching to a low dose for the months or years that follow.",
+    "Your condition will be monitored during this time to see how well the treatment is working."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "In some cases, taking calcium or vitamin D supplements can help reduce the risk of osteoporosis caused by long-term use of steroid medicine.",
+    "However, you should only take these if advised to by a doctor.",
+    "Some people with sarcoidosis may have an increased risk of developing complications, including kidney stones, while taking steroid medicine."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Sarcoidosis > How sarcoidosis is treated > Medicines",
+   "kind": "p",
+   "s": [
+    "Other medicines may sometimes be used if steroids are not enough or there are concerns about side effects.",
+    "In these cases, a medicine called an immunosuppressant might be recommended.",
+    "This may help to improve your symptoms by reducing the activity of your immune system."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "p",
+   "s": [
+    "The following lifestyle measures may help if you have sarcoidosis:"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "stop smoking, if you smoke"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "eat a balanced diet"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "maintain a healthy weight"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "try to reduce stress"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "get regular exercise"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "li",
+   "s": [
+    "get enough sleep"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Sarcoidosis > Living with sarcoidosis",
+   "kind": "p",
+   "s": [
+    "Find a support group on the Sarcoidosis UK website"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Sarcoidosis > Outlook",
+   "kind": "p",
+   "s": [
+    "Symptoms of sarcoidosis may come and go, and can often be managed with over-the-counter painkillers so they do not affect everyday life.",
+    "Most people with the condition find their symptoms have disappeared within a few years of their diagnosis."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Sarcoidosis > Outlook",
+   "kind": "p",
+   "s": [
+    "However, for some people the condition slowly gets worse over time and they end up with organ damage.",
+    "For example, their lungs may stop working properly, causing increasing breathlessness."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Sarcoidosis > Outlook",
+   "kind": "p",
+   "s": [
+    "Help is available for people with severe, persistent sarcoidosis.",
+    "Ask your doctor for advice and visit the Sarcoidosis UK website (which has a list of support groups) or the Asthma + Lung UK website."
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Sarcoidosis > Information about you",
+   "kind": "p",
+   "s": [
+    "If you have sarcoidosis, your clinical team will pass information about you on to the National Congenital Anomaly and Rare Disease Registration Service (NCARDRS)."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Sarcoidosis > Information about you",
+   "kind": "p",
+   "s": [
+    "This helps scientists look for better ways to prevent and treat this condition.",
+    "You can opt out of the register at any time."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Sarcoidosis > Information about you",
+   "kind": "p",
+   "s": [
+    "Find out more about the register on the National Disease Registration Service website"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+n,group,item
+1,Definition,What sarcoidosis is (a multisystem granulomatous disease)
+2,Definition,The granulomas are non-caseating
+3,Causes and who gets it,Cause is unknown; an abnormal immune response
+4,Causes and who gets it,"Who gets it: age, sex, ethnicity, family history"
+5,Presentation,Often found by chance or with few symptoms
+6,Presentation,"Lung symptoms: breathlessness, dry cough"
+7,Presentation,Bilateral hilar lymphadenopathy
+8,Presentation,Skin: erythema nodosum
+9,Presentation,Skin: lupus pernio and other skin lesions
+10,Presentation,"Eyes: uveitis, red or painful eyes"
+11,Presentation,Joints: arthralgia and arthritis
+12,Presentation,"General: fatigue, fever, weight loss, night sweats"
+13,Presentation,Lofgren syndrome (acute onset) and what it means for outlook
+14,Presentation,"Heart: arrhythmia, heart block, cardiomyopathy"
+15,Presentation,"Nervous system: facial nerve palsy, neurosarcoidosis"
+16,Presentation,"Other organs: liver, spleen, parotid and lymph glands, kidney"
+17,Investigations,Chest X-ray and its stages
+18,Investigations,CT of the chest
+19,Investigations,Raised serum calcium and urinary calcium
+20,Investigations,Serum ACE and its limits
+21,Investigations,Lung function tests (restrictive pattern and reduced gas transfer)
+22,Investigations,Biopsy to confirm
+23,Investigations,ECG and eye examination to look for other organ involvement
+24,Investigations,Excluding other causes of granulomas such as tuberculosis
+25,Management,Many people need no treatment and it often resolves
+26,Management,When to treat
+27,Management,Corticosteroids first
+28,Management,Other immunosuppressants when steroids are not enough
+29,Management,Monitoring over time
+30,Outlook and complications,Acute versus chronic disease and how often it resolves
+31,Outlook and complications,"Pulmonary fibrosis, pulmonary hypertension"
+32,Outlook and complications,Kidney stones and kidney damage from high calcium
+33,Differential,How it differs from tuberculosis and lymphoma
+34,Differential,How it differs from systemic lupus erythematosus and other multisystem diseases
+35,Confused with,Tuberculosis: both cause granulomas and enlarged hilar nodes; what tells them apart
+36,Confused with,Lymphoma: enlarged hilar nodes with fever, sweats and weight loss; what tells them apart
+37,Confused with,"Lupus pernio is a sign of sarcoidosis, not of lupus"
+38,Often missed,Eye involvement can have no symptoms and needs to be looked for
+39,Often missed,Heart involvement: heart block and sudden death
+40,Often missed,Vitamin D or calcium supplements can make a high calcium worse
+41,Why,Why calcium is raised (granulomas activate vitamin D)
+42,Why,Why serum ACE is raised and why it is not a reliable test
+43,Why,Why steroids work and why untreated inflammation leads to fibrosis

@@ -1,0 +1,441 @@
+{
+ "id": "nhs-lupus",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/lupus/",
+ "fetched_from": "https://www.nhs.uk/conditions/lupus/",
+ "title": "Lupus",
+ "updated": "2023-07-19",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "3edb317b945abb694700866d03ccc139a744e1d7f8253eff68fcb9aadc284f3f",
+ "sentences": 59,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Lupus",
+   "kind": "p",
+   "s": [
+    "Lupus (systemic lupus erythematosus) is a long-term condition that causes joint pain, skin rashes and tiredness.",
+    "There's no cure, but symptoms can improve if treatment starts early."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "p",
+   "s": [
+    "There are lots of possible symptoms of lupus."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "p",
+   "s": [
+    "The main symptoms include:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "joint and muscle pain"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "extreme tiredness that will not go away no matter how much you rest"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "rashes that usually come on after being in the sun – the rash is often over the nose and cheeks"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "p",
+   "s": [
+    "You might also have:"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "headaches"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "mouth ulcers"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "a high temperature"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "hair loss"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "weight loss"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "swollen glands, usually in the neck, armpits or groin"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "depression and anxiety"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "chest or tummy pain"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Lupus > Symptoms of lupus",
+   "kind": "li",
+   "s": [
+    "changes in the colour of your fingers and toes when you're cold, anxious or stressed (Raynaud's)"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Lupus > Symptoms of lupus > Symptom flare-ups",
+   "kind": "p",
+   "s": [
+    "Lupus often flares up (relapses) and symptoms become worse for a few weeks, sometimes longer."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Lupus > Symptoms of lupus > Symptom flare-ups",
+   "kind": "p",
+   "s": [
+    "Symptoms then settle down (remission).",
+    "The reason why symptoms flare up or settle down is not known."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Lupus > Symptoms of lupus > Symptom flare-ups",
+   "kind": "p",
+   "s": [
+    "Some people do not notice any difference and their symptoms are constant."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Lupus > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you often get symptoms of lupus"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Lupus > Non-urgent advice: See a GP if:",
+   "kind": "p",
+   "s": [
+    "Lupus is better managed if it's found and treated early."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Lupus > Tests for lupus",
+   "kind": "p",
+   "s": [
+    "Lupus is not always easy to diagnose because the symptoms can be similar to other conditions."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Lupus > Tests for lupus",
+   "kind": "p",
+   "s": [
+    "A GP will usually do some blood tests.",
+    "They may diagnose lupus if the tests show you have high levels of a certain type of antibody, and you also have the typical symptoms of lupus."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Lupus > Tests for lupus",
+   "kind": "p",
+   "s": [
+    "You might be referred for X-rays and scans of your heart, kidneys and other organs if the doctor thinks they might be affected."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Lupus > Tests for lupus",
+   "kind": "p",
+   "s": [
+    "If lupus is confirmed, you'll be advised to have regular checks and tests, such as blood tests to check for anaemia and urine tests to check for kidney problems."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Lupus > Tests for lupus",
+   "kind": "tr",
+   "s": [
+    "Severity | How it affects the body"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Lupus > Tests for lupus",
+   "kind": "tr",
+   "s": [
+    "Mild | Joint and skin problems, tiredness"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Lupus > Tests for lupus",
+   "kind": "tr",
+   "s": [
+    "Moderate | Inflammation of other parts of the skin and body, including your lungs, heart and kidneys"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Lupus > Tests for lupus",
+   "kind": "tr",
+   "s": [
+    "Severe | Inflammation causing severe damage to the heart, lungs, brain or kidneys, which can be life- threatening"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "p",
+   "s": [
+    "Treatment you may have for lupus includes:"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "li",
+   "s": [
+    "anti-inflammatory medicines like ibuprofen"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "li",
+   "s": [
+    "hydroxychloroquine for fatigue and skin and joint problems"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "li",
+   "s": [
+    "steroid tablets, injections and creams for kidney inflammation and rashes"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "p",
+   "s": [
+    "Immunosuppressant or biological medicines are sometimes used to treat severe lupus.",
+    "They help to calm or control your body's immune system."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Lupus > Treatment for lupus",
+   "kind": "p",
+   "s": [
+    "Find out more about lupus and how it's treated on the Arthritis UK website"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Lupus > Things you can do if you have lupus",
+   "kind": "p",
+   "s": [
+    "Although medicines are important in controlling lupus, you can help manage your symptoms and reduce the risk of it getting worse."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Lupus > Things you can do if you have lupus > Do use high-factor (at least factor 50) sunscreen and wear a hat in the sun – you can get sunscreen on prescription if you have lupus learn to pace yourself to avoid getting too tired try to stay active, even on a bad day try relaxation techniques to manage stress – stress can make symptoms worse tell your employer about your condition – you might be able to adjust your working pattern ask for help from family, friends and health professionals eat a healthy, balanced diet, including vitamin D and calcium Don’t",
+   "kind": "li",
+   "s": [
+    "do not smoke – smoking makes lupus worse so it's important to stop smoking"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Lupus > Things you can do if you have lupus > Do use high-factor (at least factor 50) sunscreen and wear a hat in the sun – you can get sunscreen on prescription if you have lupus learn to pace yourself to avoid getting too tired try to stay active, even on a bad day try relaxation techniques to manage stress – stress can make symptoms worse tell your employer about your condition – you might be able to adjust your working pattern ask for help from family, friends and health professionals eat a healthy, balanced diet, including vitamin D and calcium Don’t",
+   "kind": "li",
+   "s": [
+    "do not sit in direct sunlight or spend a lot of time in rooms with fluorescent lights"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Lupus > Things you can do if you have lupus > Help and support",
+   "kind": "li",
+   "s": [
+    "Lupus UK: information, advice and support"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Lupus > Causes of lupus",
+   "kind": "p",
+   "s": [
+    "Lupus is an autoimmune condition.",
+    "This means the body's natural defence system (immune system) attacks healthy parts of your body."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Lupus > Causes of lupus",
+   "kind": "p",
+   "s": [
+    "It's not contagious."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Lupus > Causes of lupus",
+   "kind": "p",
+   "s": [
+    "The causes of lupus are not fully understood.",
+    "Possible causes include:"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "viral infection"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "certain medicines"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "sunlight"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "puberty"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "childbirth"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Lupus > Causes of lupus",
+   "kind": "li",
+   "s": [
+    "menopause"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Lupus > Causes of lupus",
+   "kind": "p",
+   "s": [
+    "More women than men get lupus, and it's more common in women with an African, Caribbean, Asian or Chinese background."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Lupus > Lupus in pregnancy",
+   "kind": "p",
+   "s": [
+    "Lupus can cause complications in pregnancy."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Lupus > Lupus in pregnancy",
+   "kind": "p",
+   "s": [
+    "See a doctor before trying to get pregnant.",
+    "They can discuss the risks and check if your medicine needs to be changed."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Lupus > Video: lupus in children",
+   "kind": "p",
+   "s": [
+    "Watch this video to find out how lupus (an autoimmune condition) affects children."
+   ]
+  }
+ ]
+}

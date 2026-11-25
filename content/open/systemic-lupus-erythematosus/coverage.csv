@@ -1,0 +1,48 @@
+n,group,item
+1,Definition,What systemic lupus erythematosus is (a multisystem autoimmune disease)
+2,Definition,Other forms of lupus: discoid and drug-induced
+3,Causes and who gets it,"Who gets it: sex, age, ethnicity"
+4,Causes and who gets it,"Causes and triggers: genes, hormones, sunlight, infection"
+5,Causes and who gets it,Drugs that can cause lupus
+6,Pathophysiology,Autoantibodies and immune complexes cause the damage
+7,Presentation,Relapsing and remitting course with flares
+8,Presentation,"General: fatigue, fever, weight loss"
+9,Presentation,Joints: pain and non-erosive arthritis
+10,Presentation,Skin: malar (butterfly) rash
+11,Presentation,Skin: photosensitivity and discoid lesions
+12,Presentation,Mouth ulcers and hair loss
+13,Presentation,Raynaud's phenomenon
+14,Presentation,Serositis: pleurisy and pericarditis
+15,Presentation,Kidney: lupus nephritis
+16,Presentation,"Blood: anaemia, low white cells, low platelets"
+17,Presentation,"Nervous system and mental health: seizures, psychosis, headaches"
+18,Presentation,Antiphospholipid syndrome and clots
+19,Investigations,Antinuclear antibody (ANA) and what a negative result means
+20,Investigations,Anti-dsDNA and anti-Sm antibodies
+21,Investigations,Complement (C3 and C4)
+22,Investigations,ESR and CRP in a flare
+23,Investigations,"Urine dipstick, protein:creatinine ratio, kidney function"
+24,Investigations,Full blood count
+25,Investigations,Kidney biopsy when nephritis is suspected
+26,Investigations,Classification criteria
+27,Management,Sun protection and lifestyle
+28,Management,Hydroxychloroquine for everyone unless contraindicated
+29,Management,NSAIDs for joint symptoms
+30,Management,Corticosteroids for flares
+31,Management,"Immunosuppressants: methotrexate, azathioprine, mycophenolate, cyclophosphamide"
+32,Management,"Biologics: rituximab, belimumab"
+33,Management,Monitoring disease activity and drug safety (including eye checks on hydroxychloroquine)
+34,Pregnancy,Planning pregnancy and risks in pregnancy
+35,Pregnancy,Anti-Ro antibodies and neonatal lupus or congenital heart block
+36,Outlook and complications,Cardiovascular disease and infection risk
+37,Outlook and complications,Kidney failure
+38,Differential,How it differs from sarcoidosis and other multisystem diseases
+39,Confused with,Rheumatoid arthritis: what tells the joint disease apart
+40,Confused with,Drug-induced lupus: what tells it apart
+41,Confused with,Infection versus a flare
+42,Often missed,Lupus nephritis with no symptoms: checking the urine at every review
+43,Often missed,Antiphospholipid antibodies before pregnancy or oestrogen-containing contraception
+44,Often missed,Eye screening on long-term hydroxychloroquine
+45,Why,Why complement falls in a flare
+46,Why,Why sunlight triggers rashes and flares
+47,Why,Why CRP can stay normal in a flare while ESR rises

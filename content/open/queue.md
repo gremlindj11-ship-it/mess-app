@@ -22,3 +22,11 @@ A topic may also use any other saved source that covers it. `hypertension` is do
 | peripheral-arterial-disease | Peripheral arterial disease | nhs-peripheral-arterial-disease-pad, pmc9320565, pmc8645843, pmc10284269 |
 | deep-vein-thrombosis | Deep vein thrombosis | nhs-deep-vein-thrombosis-dvt, pmc10601227, pmc7286578, pmc9964264 |
 | pulmonary-embolism | Pulmonary embolism | nhs-pulmonary-embolism, pmc9504600, pmc9104204, pmc6375098, pmc9964264 |
+
+### Elsewhere in the world: cardiovascular
+Saved sources for the fourth required group. Use them for any topic they bear on.
+| Saved source | What it covers | Topics it serves |
+|---|---|---|
+| pmc8878614, pmc7757241 | Rheumatic fever and rheumatic heart disease | mitral-regurgitation, aortic-stenosis, infective-endocarditis, heart-failure, atrial-fibrillation |
+| pmc6614205, pmc7218776 | Chagas disease and its heart disease | heart-failure, atrial-fibrillation |
+| pmc8510921 | Peripartum cardiomyopathy | heart-failure |

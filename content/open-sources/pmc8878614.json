@@ -1,0 +1,593 @@
+{
+ "id": "pmc8878614",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC8878614",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8878614/fullTextXML",
+ "doi": "10.3390/pathogens11020179",
+ "title": "Recent Advances in the Rheumatic Fever and Rheumatic Heart Disease Continuum",
+ "authors": "Rwebembera J, Nascimento BR, Minja NW et al",
+ "journal": "Pathogens",
+ "year": "2022",
+ "updated": "2022-01-28",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+ "credit": "Rwebembera J, Nascimento BR, Minja NW et al. Recent Advances in the Rheumatic Fever and Rheumatic Heart Disease Continuum. Pathogens. 2022. https://doi.org/10.3390/pathogens11020179. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "c6bb7150591145ec1e1f3d918759fbc1a8120bc90f6c48d76f9c68675b2599f8",
+ "sentences": 214,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Nearly a century after rheumatic fever (RF) and rheumatic heart disease (RHD) was eradicated from the developed world, the disease remains endemic in many low- and middle-income countries (LMICs), with grim health and socioeconomic impacts.",
+    "The neglect of RHD which persisted for a semi-centennial was further driven by competing infectious diseases, particularly the human immunodeficiency virus (HIV) pandemic.",
+    "However, over the last two-decades, slowly at first but with building momentum, there has been a resurgence of interest in RF/RHD.",
+    "In this narrative review, we present the advances that have been made in the RF/RHD continuum over the past two decades since the re-awakening of interest, with a more concise focus on the last decade’s achievements.",
+    "Such primary advances include understanding the genetic predisposition to RHD, group A Streptococcus (GAS) vaccine development, and improved diagnostic strategies for GAS pharyngitis.",
+    "Echocardiographic screening for RHD has been a major advance which has unearthed the prevailing high burden of RHD and the recent demonstration of benefit of secondary antibiotic prophylaxis on halting progression of latent RHD is a major step forward.",
+    "Multiple befitting advances in tertiary management of RHD have also been realized.",
+    "Finally, we summarize the research gaps and provide illumination on profitable future directions towards global eradication of RHD."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background",
+   "kind": "p",
+   "s": [
+    "The history of rheumatic fever (RF) and rheumatic heart disease (RHD) is a mixture of remarkable spurts and frustrating gaps in progress.",
+    "Much of what we know today about the pathogenesis, diagnosis, prevention, and treatment of RHD originates from now high-income areas in the mid-20th century, where improved socioeconomic standards and access to healthcare boosted by extensive research resulted in a striking reduction of disease burden.",
+    "However, recent years have seen a reemergence of global RHD research and advocacy, which has largely been grassroots, conducted in low resource settings in populations where RHD remains endemic.",
+    "Figure 1 provides an illustration of these sequential phases in the RF and RHD arena.",
+    "On the historical backdrop, we capture the recent progress and highlight the many remaining knowledge and practice gaps."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background > 1.1. Decades of Discovery: 1930s–1950s",
+   "kind": "p",
+   "s": [
+    "Streptococcus , and slightly later Streptococcus pyogenes (group A strep, GAS), were discovered during the ‘golden age of bacteriology’ in the late 19th and early 20th century.",
+    "Concurrently, RF was gaining attention as the leading cause of death among individuals between 5 and 20 years , with the critical link between the two conditions established by 1889 .",
+    "By 1944, the diagnosis of RF was standardized by Dr. T. Duckett Jones, (The Jones Criteria ), and treatment remained limited to salicylates and bed rest .",
+    "By the 1950s, antibiotics became more widely available and strong evidence emerged that proper treatment of GAS pharyngitis, both with sulfonamides and penicillins , could prevent the development of RF .",
+    "Almost concurrently, the utility of secondary antibiotic prophylaxis to prevent RF recurrence was established , long-acting intramuscular was formulated , and every-4-week administration of this compound was found to effectively suppress RF recurrences .",
+    "Thereafter, the use of intramuscular long acting benzathine penicillin G (BPG) at monthly intervals was shown to be superior to daily oral penicillin G in the prevention of streptococcal infections and recurrences of RF , establishing a key tenet of RHD management which is still accepted as dogma today."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background > 1.1. Decades of Discovery: 1930s–1950s",
+   "kind": "p",
+   "s": [
+    "The early 20th century was also a time of RHD surgical pioneering.",
+    "The first recorded valvotomy for a patient with RHD occurred at the House of the Good Samaritan (HGS), a RF/RHD specialty hospital in 1923 (Cutler and Levine) ."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background > 1.2. Decades of Dissemination: 1960s–1970s",
+   "kind": "p",
+   "s": [
+    "While improved living conditions in high-resource settings (less crowding and better hygiene) drove down the incidence of RF even before many of the scientific advances described above , targeted advocacy, education, and awareness in the second half of the 20th century greatly accelerated progress.",
+    "Among the leading advocates of that time was the American Heart Association, an organization that largely coalesced to fight ‘Childhood’s greatest enemy .",
+    "By the 1970s, the annual incidence of RF in the US had plummeted to 0.6 per 100,000 population in those aged 5 to 19 years , Similar gains were seen during this time in other high-income countries (much of Europe and Australia), and in some isolated lower income countries (such as Cuba and Costa Rica ) which implemented comprehensive RF prevention programs, without the benefit of improved socio-economic conditions at that point in time."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background > 1.3. Decades of Stagnation: 1970s–2000s",
+   "kind": "p",
+   "s": [
+    "By the late 20th century, RF and RHD were largely controlled in high-income countries, and new research and funding for research in RF/RHD nearly ceased.",
+    "However, the waning of interest and research only reflected the waning burden among a fraction of the world’s population, but not where the highest proportion of individuals at social risk lived.",
+    "During this period, the World Health Organization (WHO) briefly invested in a large-scale program to disseminate knowledge and best practices around the globe .",
+    "However, these efforts were not sustained as the problem of RF/RHD was progressively overshadowed and dwarfed by the epidemics of malaria, tuberculosis, yellow fever and especially—HIV/AIDS.",
+    "Consequently, despite the persisting burden, and proven interventions known to reduce this burden, RF/RHD was steadily relegated until it became a ‘neglected disease’."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "1. Rheumatic Fever and Rheumatic Heart Disease: A Historical Background > 1.4. The Re-Awakening: From 2000 to Date",
+   "kind": "p",
+   "s": [
+    "However, over the last two decades, there has been a resurgence of interest in RF/RHD.",
+    "The increasingly wide-spread availability of echocardiography, in particular portable echocardiography, unmasked the large number of children and adults living undiagnosed with RHD in low-resource settings , and provided irrefutable evidence of the persistent and disparate global burden.",
+    "In response, calls to action began to emerge from individuals and research groups and regional meetings, particularly in sub-Saharan Africa, were convened and produced position papers and guiding statements .",
+    "These and other regional efforts were crowned by the 2018 World Health Assembly Resolution to end RHD .",
+    "In addition, research and research funding have increased, with the exciting application of modern technology and research methodologies to build new knowledge in the RHD cascade of management."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "2. Advances in Understanding the Global Burden of RHD",
+   "kind": "p",
+   "s": [
+    "The last decade has dramatically changed our understanding of the prevailing burden of RHD, from 15 million estimated cases in 2005 to 40.5 million estimated cases in 2019 .",
+    "However, despite this global trend, surveys in some individual countries such as India have revealed consistent decline in the burden of RHD before and after 2000, using similar screening methods among school children.",
+    "This particular decline was associated with improvement in the indicators of socioeconomic state and health-care services.",
+    "Three main advances have led to the knowledge gain of the global burden of RHD, including (a) screening echocardiography; (b) RHD registries and country-wide administrative health data; and (c) big data sources, namely the Global Burden of Disease repository."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "2. Advances in Understanding the Global Burden of RHD > 2.1. Screening Echocardiography (Echo)",
+   "kind": "p",
+   "s": [
+    "RHD remains largely silent until patients become symptomatic with the advanced form of disease.",
+    "Echo screening , which has been one of the most important advancements in our understanding of the global burden of RHD, has resulted from school, community, and clinical echo screening to define the epidemiological burden.",
+    "Critically, echo screening birthed the ‘latent RHD’ paradigm—rallied as an opportunity for early intervention to prevent disease progression.",
+    "Active case finding through echo screening has gained further traction in the past decade particularly following the publication of standardized diagnostic criteria by the World Heart Federation (WHF) in 2012 .",
+    "The value of echo screening in the control of RHD has been a subject of debate over the recent years through the lenses of criteria for ‘screenable’ diseases .",
+    "However, we have just witnessed the addition of one critical piece of evidence to justify screening—robust data from a landmark randomized-controlled trial strongly suggest that secondary antibiotic prophylaxis prevents the progression of latent RHD to moderate or severe stages of disease, as compared to no prophylaxis ."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "2. Advances in Understanding the Global Burden of RHD > 2.1. Screening Echocardiography (Echo)",
+   "kind": "p",
+   "s": [
+    "Further developments toward a more pragmatic uptake of echocardiographic screening in LMICs have included: (a) development of hand-held echo devices which are less expensive, generate smaller and shareable file sizes, and have a smaller profile without reliance on wired electricity ; (b) task-shifting of echo image acquisition, from highly trained cardiologists and echocardiographers to non-expert health care workers (HCW) with limited training, allowing for expansion of screening capabilities; (c) supportive cloud-based telemedicine programs for remote echo image interpretation; and finally, (d) expanding technological advances , with several companies now offering artificial intelligence guidance technology built into hand-held devices, thus empowering novice operators to perform screening echoes even after only minimal training, and promising deep learning approaches for automated flagging of abnormalities in the near future .",
+    "There is also ongoing effort to improve and simplify the WHF criteria for the diagnosis of latent RHD , with additional development of risk scores to predict outcomes in both borderline and definite latent RHD ."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "2. Advances in Understanding the Global Burden of RHD > 2.2. RHD Registries and Big Data",
+   "kind": "p",
+   "s": [
+    "Recent studies in LMICs, mainly registry-based, have provided some illumination on the dire epidemiology of clinical RHD in these endemic settings .",
+    "Data from the hospital-based sub-Saharan Africa Survey of Heart Failure (THESUS-HF) registry study showed that RHD was the second major cause of acute heart failure hospitalizations, with an in-patient mortality of 4.2% and 180-day mortality of 17.8% .",
+    "The VALVAFRIC , REMEDY , and some national registry studies provide the most recent descriptions of chronic RHD complications in patients residing in low- and middle-income countries (LMICs).",
+    "In summary, clinical disease in LMICs is characterized by late presentation with already established complications .",
+    "The clinical course punctuated by recurrent hospitalizations, and ultimately, unacceptably early mortality (mean age at death of 29.4 years), with most of these deaths occurring within the first 3 months of diagnosis.",
+    "Similar trends have been described in India and the Northern territory of Australia.",
+    "The public health and other multi-faceted global impact of RHD has been recently reviewed."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "2. Advances in Understanding the Global Burden of RHD > 2.2. RHD Registries and Big Data",
+   "kind": "p",
+   "s": [
+    "On the global scene, the burden of RHD continues to reveal worldwide disparities with low-income countries bearing the brunt of the disease.",
+    "RHD currently affects 40.5 million people across the globe and accounts for 306,000 deaths annually—representing 1.6% of all mortality from cardiovascular disease, the leading cause of death worldwide .",
+    "The increased prevalence is most likely related to improved case detection from increasing availability of echocardiography, better survival and the chronic nature of the disease .",
+    "Sub-Saharan Africa retains the highest prevalence of clinically apparent RHD , and there is some evidence that the true burden of RHD in some African settings may be much higher than previous estimates .",
+    "Today, the highest age-standardized DALY rates lost to RHD are observed in the regions of Oceania (627.4 per 100,000) and South Asia (348.5 per 100,000).",
+    "In Australia and New Zealand, the highest rates of RF and RHD are found among indigenous populations .",
+    "Unfortunately, epidemiological data on RHD prevalence is least robust from the most affected regions .",
+    "National, regional and global RHD registries continue to report female predominance with several postulated theories, however with no gender-based differences in complications such as heart failure, atrial fibrillation, stroke and pulmonary hypertension."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "3. Advances in Understanding RF/RHD Pathogenesis",
+   "kind": "p",
+   "s": [
+    "The consensus remains that immune-mediated pathology is the hallmark of RHD.",
+    "Although we have a more refined understanding of the factors contributing to RHD pathogenesis, the exact mechanisms underlying this complex process have yet to be completely unveiled.",
+    "Traditional dogma holds that GAS pharyngitis is responsible for triggering the immune reaction that leads to RHD pathology .",
+    "However, more recently, other superficial streptococcal infections, such as impetigo and pyoderma, have been associated with RHD .",
+    "There is also emerging evidence potentially implicating group C and group G streptococcus in contributing to the pathogenesis of RHD ."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "3. Advances in Understanding RF/RHD Pathogenesis",
+   "kind": "p",
+   "s": [
+    "The most widely accepted hypothesis in the pathogenesis of RF/RHD is molecular mimicry, but more recent data suggests a more complex cascade of events, such as the hypothesis of collagen-associated neo-antigens and additional mechanisms such as epitope spreading and T cell receptor (TCR) degeneracy that may participate in pathology.",
+    "Additionally, specific CD4+ T cells, as well as NK cells and CD4-CD8- T cells, might be important players in tissue destruction in RHD .",
+    "Recent efforts have been developed to take advantage of the intense response triggered by GAS antigens toward the establishment of vaccines, which have remained elusive largely due to lack of investment .",
+    "Dissecting the immunopathogenic responses using state-of-the-art methods such as single cell RNA sequencing combined with TCR CDR3 region usage may open new insights to advance this field."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "4. Advances in Understanding the Genetic Predisposition to RF/RHD",
+   "kind": "p",
+   "s": [
+    "Only a minority (roughly 3–6%) of GAS-endemic populations develop RF and RHD is largely understood to have complex genetic risk .",
+    "Historical RHD studies in twins have supported this postulation , and more recently modern genetic interrogation is shedding new light on RHD pathogenesis and predisposition."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "4. Advances in Understanding the Genetic Predisposition to RF/RHD",
+   "kind": "p",
+   "s": [
+    "Genetic associations in RHD have been explored through numerous candidate gene studies—reviewed by Martin et al. and Muhamed et al. eliciting genetic associations in RHD through candidate gene studies has yielded conflicting and heterogeneous results, implicating a variety of genes with several listed study limitations several studies have reported on the association of human leukocyte antigen (HLA) molecules, encoded by genes on chromosome 6, and susceptibility to develop RF/RHD .",
+    "Within HLA genes, class II has been widely reported, the majority linking to HLA-DR7 and HLA-DR4 ."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "4. Advances in Understanding the Genetic Predisposition to RF/RHD",
+   "kind": "p",
+   "s": [
+    "There has also been interest in evaluating genetic polymorphisms coding for inflammatory mediators in RHD and their phenotypic expression.",
+    "Polymorphisms in IL-2, IL-4, IL-6 and IL-10 genes have shown association with clinical disease, and the discriminative value of IL-4 to differentiate latent versus clinical RHD has been demonstrated .",
+    "Additionally, interleukins IL-4, IL-8 and IL-1RA seem to predict progression from latent to clinical disease, while in individuals with advanced RHD co-regulated expression of IL-6 and TNF-α associate with severe valvular dysfunction, and higher IL-10 and IL-4 levels predicted adverse clinical outcomes ."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "4. Advances in Understanding the Genetic Predisposition to RF/RHD",
+   "kind": "p",
+   "s": [
+    "The biggest advance in the field of RHD genetics has been genome-wide association studies (GWAS), of which four studies have been published to date (Table 1) .",
+    "GWAS are considered more suitable studies for complex diseases in which large numbers of variants can be tested by comparing single-nucleotide polymorphism (SNP) distributions in patients with the disease against selected controls ."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "4. Advances in Understanding the Genetic Predisposition to RF/RHD",
+   "kind": "p",
+   "s": [
+    "These GWAS studies have thus far landed support for the presence of significant heritability in RHD, which is likely to be polygenic.",
+    "The RhEumatiC Heart diseAse Genetics (RECHARGE) study is currently running in Rwanda, using next generation genetic sequencing on an approximate sample of 1000 participants, and is expected to be completed in 2024 (ClinicalTrials.gov Identifier: NCT02118818).",
+    "The importance of investing resources in the genetic association of RHD lies in the potential to substantially contribute towards understanding disease pathogenesis and etiology and subsequently the prospect of contributing towards novel or repurposed therapeutics and vaccine development ."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "5. Advances in the RF/RHD Continuum",
+   "kind": "p",
+   "s": [
+    "Even though all RHD is, in theory, preventable, advances in prevention of RHD in low-resource settings have been slow.",
+    "Nevertheless, the past decade has seen a revived dedication and commitment to further understanding and best clinical practices at the primordial, primary, secondary and tertiary levels of prevention.",
+    "The search for a safe and effective GAS vaccine continues, and this will likely form the monumental advance that will deal the final blow to RF/RHD in all regions of the world, regardless of prevailing socioeconomic and health system determinants."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "5. Advances in the RF/RHD Continuum > 5.1. Advances in Primordial Prevention",
+   "kind": "p",
+   "s": [
+    "Recent studies have aimed to provide a better description of the influence of socioeconomic determinants, health hardware, and transmission dynamics of GAS.",
+    "Household crowding has been shown to have the strongest evidence of causal association with GAS infection and ARF/ RHD, increasing the risk by 1.7- to 2.8-fold.",
+    "Dwelling characteristics such as construction type, house condition, dampness, and ventilation are also associated with an increased risk of infection that ranges from 1.8 to 3.6-fold .",
+    "The greater risk of having RHD among first degree relatives of individuals with clinical RHD may be secondary to the shared socioeconomic conditions .",
+    "Approaches targeting these primordial determinants have been designed and are being implemented via a community approach in Australia ."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "5. Advances in the RF/RHD Continuum > 5.1. Advances in Primordial Prevention > Group A Streptococcus Vaccines",
+   "kind": "p",
+   "s": [
+    "Efforts to create a vaccine to prevent GAS infections have been ongoing since 1923.",
+    "However, the first vaccines were ineffective and highly reactogenic, raising concerns, though likely unfounded or overblown, about the potential for vaccines to increase ARF predisposition; this resulted in the US FDA stopping GAS vaccine trials in 1970s for over 30 years .",
+    "In the past two decades, studies on vaccine development have improved with advances in genomics, proteomics, and immunomics; still, most vaccines are in pre-clinical testing, and few have reached phase I and II trials.",
+    "Currently, there are no licensed vaccines available ."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "5. Advances in the RF/RHD Continuum > 5.1. Advances in Primordial Prevention > Group A Streptococcus Vaccines",
+   "kind": "p",
+   "s": [
+    "Vaccine candidates include multivalent M protein-based vaccines, M protein vaccines containing conserved C-repeat epitopes, cell wall carbohydrate vaccines, and non-M protein multi-component vaccines.",
+    "Table 2 provides a summary of vaccines that are in the development pipeline.",
+    "Vaccines based on group A carbohydrate (GAC), a polysaccharide present in Streptococcus pyogenes cell wall, have not shown expressive results yet ."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "5. Advances in the RF/RHD Continuum > 5.1. Advances in Primordial Prevention > Group A Streptococcus Vaccines",
+   "kind": "p",
+   "s": [
+    "Prevailing challenges in vaccine development are multifactorial, ranging from incomplete understanding of the basic science of GAS/RF/RHD to lack of commercial stakeholder interest.",
+    "Specific challenges for GAS vaccine development include: (a) extensive genomic heterogenicity of Strep A and subsequent protein sequence variations, limiting the effectiveness of the vaccine over different populations ; (b) complexity of global GAS epidemiology; (c) incomplete understanding of ARF pathogenesis; (d) risk of serious autoimmune reactions to vaccines ; (e) dependence on controlled human infection models for vaccine development as GAS is strictly a human pathogen, thus precluding the use of animal models ; (f) lack of consensus on clinical endpoints for establishment of proof of concept, (g) limited market in high-income countries; and h) lack of commercial interest ."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "5. Advances in the RF/RHD Continuum > 5.1. Advances in Primordial Prevention > Group A Streptococcus Vaccines",
+   "kind": "p",
+   "s": [
+    "In order to overcome the myriad of challenges in GAS vaccine development, in 2018 the World Health Assembly (WHA) launched a Global Resolution calling for better control and prevention of GAS infections and RHD .",
+    "In 2019, the Strep A Vaccine Consortium (SAVAC) was formed to work along with WHO .",
+    "Furthermore, through the Coalition to Advance Vaccines Against Group A Streptococcus (CANVAS), the Australian and New Zealand governments have designated significant funding to support the development of a vaccine against GAS pharyngitis .",
+    "If the current momentum in vaccine development is maintained, it would be reasonable for research teams to start mapping out and developing potential GAS vaccine trial sites in different RHD endemic regions and countries."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Microbiological culture of a throat swab remains the gold standard for diagnosing GAS pharyngitis despite the prevailing limitations of prohibitive cost at a population level, the long turn-around time precluding confirmed diagnosis in a single clinic visit, and lack of readily available culture-able laboratories in LMICs.",
+    "Recognizing these limitations, alternative diagnostic tests which are less resource intensive have been developed and continue to evolve."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Clinical decision rules can obviate the need for expensive bacteriological diagnostic tools since they do not require specialized equipment and are easy for providers to implement .",
+    "There has been a proliferation of Clinical Decision Rules (CDRs) for diagnosis of GAS pharyngitis in recent years .",
+    "Recent developments relevant to RHD endemic regions include: (a) validation studies of existing CDRs in RHD endemic regions with the conclusion that diagnostic performance varies considerably in different regions of the world, thus highlighting the importance of evaluating and validating CDRs in local settings before they are rolled out as the standard of care; and, (b) development of CDRs in RHD endemic regions, such as the Cape Town Clinical Decision Rule in South Africa.",
+    "The Cape Town Clinical Decision Rule is likely a more relevant application to similar settings in sub-Saharan Africa.",
+    "Tailoring decision rules to a specific population is a critical research area for population specific investment in LMICs."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Rapid Antigen Detection Tests (RADTs) have been in clinical use for four decades, with attractive features such as a quick turn-around time (<10 min), low cost, and ease of use.",
+    "Recently, we have learnt that some external performance factors, such as inadequate staff training, substantially reduced the accuracy of these tests .",
+    "There is also greater understanding of factors that potentially increase heterogeneity for tests that have similar sensitivity and specificity , such as differences in throat culture sample collection , experience of the person performing the RADT, absence of a universally accepted blood agar plate culture method to serve as a reference standard , patient-level characteristics like clinical presentation and inoculum size , and spectrum bias .",
+    "However, despite multiple advantages, RADTs remain vastly unavailable and are considered expensive for many low resource settings.",
+    "There is an overarching need to make existing RADTs available and affordable for use in low resource settings."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "More recent progress in the area of point-of-care tests for GAS pharyngitis include Nucleic Acid Amplification Tests (NAATs), which have much better sensitivity and specificity than RADTs .",
+    "For example, the sensitivity and specificity of the Illumigene assay are estimated to be in excess of 99% .",
+    "This high performance, coupled with speed of results, makes NAATs ideal candidates for point-of-care use in the clinical environment.",
+    "Several NAATs have received approval over the past six years , but their high cost has precluded widespread use.",
+    "Despite the prevailing cost, NAATs are being increasingly investigated as low-cost, integrated tools for use in low resource settings .",
+    "Research should strive towards the development of molecular diagnostic tests using a “pharyngitis panel” of targets."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Electrochemical detection which uses DNA has been proposed as an affordable, effective method for diagnosing GAS; results are available in 30 min and 100% specificity has been reported ."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.1. Diagnosis of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Machine learning and artificial intelligence techniques are in development to aid the diagnosis of strep throat through throat image processing and automated examination of throat cultures to identify GAS .",
+    "Neural networks have also been suggested to assist diagnosis, with reported correct diagnosis of pharyngitis in 95.4% of cases .",
+    "The Strepic ® device, a qualitative point-of-care clinical prototype, has been designed specifically as a viable, low-cost, commercially realizable autofluorescence-based diagnostic test (ClinicalTrials.gov Identifier: NCT03777098)."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.2. Treatment of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Penicillin remains the first line recommendation for the treatment of GAS pharyngitis.",
+    "Two Cochrane reviews have found no evidence to change this recommendation .",
+    "Monthly intramuscular injections of benzathine benzyl penicillin (BPG) also remain the gold standard for secondary antibiotic prophylaxis for the prevention of RHD .",
+    "Recent strategies to diminish pain associated with BPG administration include the addition of lignocaine to BPG solution and the use of pain distraction methods (buzzy R) .",
+    "There is also work under way in developing implantable and longer acting BPG delivery devices .",
+    "The WHO added BPG to the essential medicines list for member states as a way to increase access, however, disruptions in global and local BPG supply chains are not uncommon .",
+    "Additionally, on a threatening note, a recent report described geographically widespread reduced in-vitro susceptibility of Streptococcus pyogenes to beta-lactam antibiotics associated with mutations in the pbp2× gene , warranting enhanced surveillance and further epidemiological and molecular genetic study of this potential emergent antimicrobial problem."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.2. Treatment of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Community and provider knowledge and awareness remain a pillar of primary prevention strategies.",
+    "While the previous campaigns heavily utilized print and mass media , increasing technologies, access to electronic devices and internet usage (including in low resource settings), have resulted in the employment of electronic avenues of education .",
+    "The COVID-19 pandemic has exerted further pressure for change in communication strategies."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "5. Advances in the RF/RHD Continuum > 5.2. Advances in Primary Prevention > 5.2.2. Treatment of Group A Strep Pharyngitis",
+   "kind": "p",
+   "s": [
+    "Streptococcal carriage rates often vary between communities and by season, especially in endemic countries .",
+    "It has been postulated that the GAS carrier state is not implicated in the pathogenesis of RF/RHD and that transmission of GAS is almost limited exclusively to individuals with acute GAS infection .",
+    "Therefore, antibiotic treatment for eradication of GAS is only recommended for individuals with acute GAS infection.",
+    "However, this traditional benign dogma of the carrier state is being challenged and re-visited.",
+    "A GAS carriage paradigm seeks to gain a better understanding of the role of GAS carriage in the pathogenesis of RF and RHD."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "5. Advances in the RF/RHD Continuum > 5.3. Advances in Secondary Prevention",
+   "kind": "p",
+   "s": [
+    "The Jones criteria for the diagnosis for ARF were first established in 1944 .",
+    "Since their inception, the criteria have undergone multiple revisions and updates, most recently in 2015 .",
+    "This most recent revision addressed two significant features: (a) distinguished criteria between low-risk and moderate-to-high risk populations based on ARF incidence or RHD prevalence; and (b) recommending echocardiography of all suspected cases of ARF and incorporating subclinical carditis as evidenced by echocardiography as a major criteria.",
+    "Differentiating criteria for low-risk and moderate-to-high risk populations aimed to increase sensitivity in endemic regions while retaining specificity in low-risk areas, thus making the criteria more globally relevant.",
+    "However, ARF still remains a clinical diagnosis with no single confirmatory test, and there is ongoing work attempting to identify a unique immune signature that could be used to reliably diagnose ARF ."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "5. Advances in the RF/RHD Continuum > 5.3. Advances in Secondary Prevention",
+   "kind": "p",
+   "s": [
+    "In routine clinical practice it is often not feasible to obtain both acute and convalescent sera and therefore, the absolute quantitative measure of anti-streptolysin (ASO) titers is used for diagnostic value .",
+    "However, there is wide geographic variability of the 80th percentile upper limit of normal (ULN) cutoffs for ASO titers .",
+    "It is therefore important to establish ULN ranges of ASO titers for various age groups in different geographic locations.",
+    "Accordingly, there have been recent studies in some RHD endemic regions describing their population-specific streptococcal antibody titers ."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "5. Advances in the RF/RHD Continuum > 5.3. Advances in Secondary Prevention",
+   "kind": "p",
+   "s": [
+    "As previously mentioned, there is recent evidence for the benefit of secondary antibiotic prophylaxis in latent RHD .",
+    "The GOAL trial showed that among children and adolescents 5 to 17 years of age with latent RHD, secondary antibiotic prophylaxis reduced the risk of disease progression at 2 years .",
+    "This new evidence provides added justification for echocardiographic screening and active case detection of RHD as a viable approach for the control of RHD."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.1. Valve Surgery vs. Valve Repair",
+   "kind": "p",
+   "s": [
+    "Mitral valve (MV) repair, rather than MV replacement, is currently the preferred surgical management for patients with mitral regurgitation (MR) as evidence suggests better short and long-term outcomes , including shorter hospital stays and fewer infections .",
+    "However, MV repair requires refined surgical skills with an associated learning curve, adequate surgical environment, and echocardiographic guidance by an expert, in addition to relatively favorable valve anatomy.",
+    "For these reasons, in low-income areas where RHD is prevalent, surgical teams often have more expertise in performing MV replacement, making it the first choice for surgical intervention despite recent reports demonstrating higher survival rates in patients undergoing MV repair vs MV replacement."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.2. From Valvotomy to Balloon Mitral Valvuloplasty (BMV)",
+   "kind": "p",
+   "s": [
+    "There is a growing body of evidence about BMV for RHD, and the indications have considerably expanded in the past decade to include challenging and unfavorable MV involvement.",
+    "Furthermore, additional prognostic parameters have been investigated—such as asymmetrical commissural fusion and atrioventricular compliance—and the Wilkins score was updated with parameters derived from international RHD cohorts .",
+    "Meanwhile, percutaneous valve interventions continue to evolve worldwide, with transcatheter aortic valve implantation for the treatment of aortic stenosis being a prime example .",
+    "With its successful implementation, percutaneous valve intervention is gaining attention as a feasible treatment for aortic and mitral disease, as well as an option for repeated interventions—common in RHD—and should be established in the upcoming decades ."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.3. Transcatheter Aortic Valve Replacement (TAVR) for Rheumatic Aortic Stenosis",
+   "kind": "p",
+   "s": [
+    "TAVR is an established minimally invasive alternative to surgical aortic valve replacement (SAVR) in patients with severe aortic stenosis (AS) and calcific aortic valve disease .",
+    "In RHD with aortic involvement, SAVR is still the first choice due to the lower degree of valve calcification in most cases , younger age of patients, and limited scientific evidence of TAVR .",
+    "Until recently, knowledge surrounding TAVR’s application for RHD patients was limited to case series and reports .",
+    "However, there is contemporary evidence for non-inferiority of TAVR to SAVR in rheumatic AS, safety of TAVR, and short and intermediate term outcomes of TAVR .",
+    "These novel data have changed the perspective of TAVR for RHD, suggesting TAVR as a feasible approach for RHD patients with predominant aortic valve involvement.",
+    "However, wider spectrum studies are warranted in order to achieve generalization of findings."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.4. Medical Management of Clinical RHD",
+   "kind": "p",
+   "s": [
+    "Patients with symptomatic RHD are a burden of low-income regions where surgical treatment options are limited.",
+    "As medical therapy has yet to slow the progression of the disease, treatment targets symptom relief by addressing underlying left ventricular dysfunction and heart failure .",
+    "There have been no significant developments to advance medical management strategies."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.4. Medical Management of Clinical RHD",
+   "kind": "p",
+   "s": [
+    "Atrial fibrillation (AF) is a major cause of morbidity and mortality in patients with RHD .",
+    "Anticoagulation is recommended to reduce the risk of cardioembolic events in patients with AF .",
+    "Oral Vitamin K antagonists are the recommended drugs of choice , but they are associated with multiple challenges both for health care providers and patients .",
+    "New evidence may revolutionize anticoagulation in rheumatic atrial fibrillation, as novel oral anticoagulants (NOACs)—not yet formally recommended for AF in the presence of RHD—have proven to be non-inferior to warfarin in a Brazilian trial which allowed the inclusion of RHD patients with atrial fibrillation and bioprosthetic mitral valves .",
+    "The multicenter INVICTUS trial for warfarin versus rivaroxaban in rheumatic AF is nearing completion and may bring more definite conclusions in the near future.",
+    "However, even if NOACs become a standard for anticoagulation in RHD, access and cost-effectiveness will require careful discussion for their use in LMICs ."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "5. Advances in the RF/RHD Continuum > 5.4. Advances in Tertiary Prevention > 5.4.4. Medical Management of Clinical RHD",
+   "kind": "p",
+   "s": [
+    "Given the lack of scientific evidence in the reduction of infective endocarditis (IE) burden in the absence of prosthetic valves or previous history of IE, new guidelines indicate a limited role of antibiotic prophylaxis for dental procedures .",
+    "Today, recommendation for prophylaxis is limited to high-risk patients—noticeably those following valve replacement or with a previous IE episode—undergoing high-risk procedures with potential bacterial translocation .",
+    "Good dental hygiene and regular dental cleanings likely play an important role in IE prevention and should be emphasized ."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "6. Rheumatic Heart Disease in Pregnancy",
+   "kind": "p",
+   "s": [
+    "Preexisting cardiac disease is a major contributor to maternal mortality worldwide, especially in LMICs .",
+    "Recognition of RHD in pregnancy is extremely important, especially given the higher prevalence of RHD in women, younger age of patients with RHD in LMICs , and the significant risk posed by RHD during pregnancy.",
+    "Recent echocardiographic screening studies in sub-populations of pregnant women in RHD endemic regions have provided epidemiologic descriptions of the burden and outcomes of RHD in pregnancy , reinforcing the need for programs dedicated to early diagnosis and prioritization of cardiovascular care during family planning and pregnancy in RHD-endemic regions.",
+    "Family planning with adequate preconception counseling should be provided to known RHD patients.",
+    "However, that is often not the reality.",
+    "For example, only 5% of women with prosthetic valves and 2% of women with severe mitral stenosis in the REMEDY study were on contraception Finally, in pregnant women with primary indications for anticoagulation, particularly mechanical valves, management remains complex and challenging .",
+    "The ideal choice of bioprosthetic valves in women of child bearing potential to circumvent the need for anticoagulation is still not feasible in many RHD endemic regions because of the need for re-operation."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "7. Other Recent Advances > 7.1. Understanding of RHD-HIV Co-Infection",
+   "kind": "p",
+   "s": [
+    "The regions of the world with the highest RF and RHD prevalence are also those with the greatest human immunodeficiency virus (HIV) prevalence, but there has been little investigation into the epidemiology of the dual burden of these diseases .",
+    "Previous small cross-sectional surveys in Uganda have reported conflicting results regarding the association between HIV and RHD .",
+    "A recent description of the epidemiologic profile and longitudinal outcomes of an HIV-RHD comorbid population, however, revealed that the prevalence of HIV in this cohort was not significantly higher than that of the general Ugandan population, with rates of 3.6%, compared to a national range of 2.1% in children and 6.2% in people over 15 years of age .",
+    "Furthermore, comorbid individuals did not appear to suffer higher mortality rates than those with RHD alone.",
+    "However, HIV-RHD comorbid subjects had nearly threefold higher odds of having suffered a stroke or transient ischemic attack compared to those without HIV .",
+    "Overall, these data imply that aside from elevated cerebrovascular accident risk, RHD defines the short-term clinical outcomes of this group of people more than HIV does .",
+    "As major innovations in HIV treatment have significantly improved the long-term survival of people living with HIV, comorbid noncommunicable diseases have begun to dominate their morbidity and mortality .",
+    "This presents an opportunity for RHD care networks to leverage and adopt tools and innovations developed for the HIV public health effort, such as the Cascade of Care, to benefit not just HIV-RHD comorbid patients, but also individuals residing in LMICs affected by RHD in general ."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "7. Other Recent Advances > 7.2. Understanding of RHD-Associated Costs in Endemic Regions",
+   "kind": "p",
+   "s": [
+    "RHD costing data from endemic countries and regions has been sparse through the years.",
+    "However, incremental cost-effectiveness ratios (ICERs) have been recently calculated with comparison of primary, secondary, and tertiary prevention in the African setting .",
+    "Findings revealed that scaling up primary prevention would be a cost saving approach, with a negative ICER (USD −2539 per DALY averted), whilst putting efforts into secondary prevention programs would be cost-effective (USD 752 per DALY averted) .",
+    "The investments required for local surgery capacity were high with limited impact (ICER of USD 23,827 per DALY averted for building a local center) .",
+    "Several other publications have separately explored optimum cost-effective strategies for primary prevention , secondary prevention , and a combination of both .",
+    "A most recent modeling study for the prevention and management of RHD in the African Union concluded that, “In the short term, costs of secondary prevention and secondary and tertiary care for RHD are lower than for primary prevention, and benefits accrue earlier ”.",
+    "Most analyses make use of Markov models, and similar challenges relating to lack of precise transition probabilities on which to base the calculations have been reported ."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "7. Other Recent Advances > 7.2. Understanding of RHD-Associated Costs in Endemic Regions",
+   "kind": "p",
+   "s": [
+    "Additionally, recent studies have described the near-atrocious economic impact of RHD at the household, health system, and national level in endemic countries such as Uganda , South Africa , India , and others ."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "7. Other Recent Advances > 7.3. Global Efforts, Advocacy, and Stakeholder Engagement in the Fight against RHD",
+   "kind": "p",
+   "s": [
+    "The growing research and healthcare/awareness projects in RHD worldwide, combined with a considerable boost in research interest over the past two decades, has raised multisectoral attention on this neglected disease.",
+    "This has resulted in international coordination of efforts which have been multifaceted, with ambitious aims (Table 3)."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "7. Other Recent Advances > 7.3. Global Efforts, Advocacy, and Stakeholder Engagement in the Fight against RHD",
+   "kind": "p",
+   "s": [
+    "As an example of practical outcomes of this international coordination, in 2011 the United Nations set key targets to reach by 2025, including a reduction in the risk of premature noncommunicable disease death–markedly cardiovascular disease–by 25% by 2025; RHD was inclusive in this agenda , premiering its position in a broad recommendation of development goals.",
+    "Consequently, multiple authoritative individuals , societies, task forces, unions and federations, at regional, continental and international levels have published position statements , serving as a basis for guiding research and healthcare initiatives, helping define “next steps” and priorities for the world scientific agenda, and definition of priority actions.",
+    "The WHF has played a particularly pivotal role, with its first broad position statement on RHD released in 2013 reinforcing key aims and actions in a similar direction of African statements .",
+    "More recently, there was a re-dedication of the American Heart Association (AHA) on the RHD agenda with resumption of its intensive work on the development of guidelines and statements , research funding through its councils, and a working group dedicated to RF and RHD."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "7. Other Recent Advances > 7.3. Global Efforts, Advocacy, and Stakeholder Engagement in the Fight against RHD",
+   "kind": "p",
+   "s": [
+    "These aforementioned position papers and statements from different organizations and regions, and the intensive collaborative multisectoral efforts worldwide, were crowned by the 2018 World Health Assembly Global Resolution to end RHD .",
+    "The key charges that this resolution brings to member states are listed in Table 3.",
+    "Following this unprecedented and supportive resolution, health systems should move towards its recommendations, increasing investment in primary care and infrastructure, sanitation and housing, medical supply and building capacity for RHD prevention and management, including advanced resources."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "8. Conclusions",
+   "kind": "p",
+   "s": [
+    "In conclusion, we have entered a period in history that could again be marked by rapid progress towards elimination of RHD, this time on the global stage.",
+    "Application of modern scientific techniques for improving RHD prevention, diagnosis and treatment have the potential to revolutionize our approach to RHD and are urgently needed.",
+    "Progress is being made in basic science, clinical, translational, and population-based research.",
+    "However, to sustain and accelerate this trajectory, substantial multisector investment, including research funding, capacity building, and resources for education and awareness are urgently needed.",
+    "The solutions are within our grasp and with adequate investment, we can substantially reduce the global burden of RHD in our lifetime."
+   ]
+  }
+ ]
+}

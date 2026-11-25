@@ -1,0 +1,735 @@
+{
+ "id": "pmc8510921",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC8510921",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8510921/fullTextXML",
+ "doi": "10.1007/s10741-020-10061-x",
+ "title": "Peripartum cardiomyopathy: a review",
+ "authors": "Iorgoveanu C, Zaghloul A, Ashwath M",
+ "journal": "Heart Failure Reviews",
+ "year": "2021",
+ "updated": "2021-06-17",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are",
+ "credit": "Iorgoveanu C, Zaghloul A, Ashwath M. Peripartum cardiomyopathy: a review. Heart Failure Reviews. 2021. https://doi.org/10.1007/s10741-020-10061-x. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-25",
+ "sha256": "b613f5c0ee463a82ebc18b475eb3bb8e4213aa2d7aa9e2d8d92e5cb25590d9e8",
+ "sentences": 202,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Peripartum cardiomyopathy is a form of idiopathic systolic heart failure which occurs during the end of pregnancy or the early post-partum in the absence of an identifiable etiology.",
+    "The exact pathogenesis remains unknown, and the incidence is higher in African ancestry, multiparous and hypertensive women, or older maternal age.",
+    "Delay in diagnosis is common, mainly because symptoms of heart failure mimic those of normal pregnancy.",
+    "Echocardiography showing decreased myocardial function is at the center of the diagnosis.",
+    "Management relies on the general guidelines of management of other forms of non-ischemic cardiomyopathy; however, special attention should be paid when choosing medications to ensure fetal safety.",
+    "Outcomes can be variable and can range from complete recovery to persistent heart failure requiring transplant or even death.",
+    "High rates of relapse with subsequent pregnancies can occur, especially with incomplete myocardial recovery.",
+    "Additional research about the etiology, experimental drugs, prognosis, and duration of treatment after recovery are needed."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "",
+   "kind": "p",
+   "s": [
+    "Keywords: Peripartum cardiomyopathy, Heart failure"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Introduction",
+   "kind": "p",
+   "s": [
+    "Peripartum cardiomyopathy (PPCM) is a form of systolic heart failure (HF) with reduced ejection fraction that occurs in women during last trimester of pregnancy or in the first 5 to 6 months of the postpartum period.",
+    "Initially described in 1849 , it was recognized as a distinct clinical entity in the 1930s .",
+    "Diagnosis of PPCM is challenging since symptoms may mimic those encountered in a normal pregnancy.",
+    "Because of this, delays in diagnosis and subsequent complications may occur.",
+    "This clinical review will define the disease and describe the pathophysiology, management, prognostic factors, and counseling considerations."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Definition",
+   "kind": "p",
+   "s": [
+    "PPCM is a diagnosis of exclusion in women presenting with heart failure and systolic dysfunction of unclear identifiable etiology.",
+    "The diagnosis is based on three criteria based on the 2010 ESC Working Group Definition including development of heart failure (HF) toward the end of pregnancy or in the months following delivery, absence of another identifiable cause of HF, and left ventricular (LV) systolic dysfunction with an LV ejection fraction (LVEF) generally < 45 percent .",
+    "The definition has since been expanded to include the last trimester of pregnancy and the first 6 months postpartum."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "The incidence of PPCM varies widely, depending mostly on racial and geographical background of the patients .",
+    "Overall, multiple studies have shown that Africans and African Americans seem to be at a higher risk for developing PPCM, with estimates of 1:100 pregnancies .",
+    "In one large United States (US) cohort study of well-phenotyped patients, it was found that African American women were not only at a higher risk of developing a more severe form of PPCM but they were also diagnosed with PPCM at a younger age and later in the post-partum period ."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "A cross-sectional study using more than 14 million hospitalizations for pregnancy in the US between 2004 and 2006 showed that the rate of hospitalizations for PPCM was 0.18 per 1000 deliveries and 0.28 for other cardiomyopathies ."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Epidemiology",
+   "kind": "p",
+   "s": [
+    "A recent study using the US Nationwide Inpatient Sample databases found that the incidence of PPCM increased from one in 1181 live births to one in 849 live births from 2004 to 2011.",
+    "Proposed explanations are increased rates of advanced maternal age, pre-eclampsia, multiple gestations, and rising prevalence of cardiovascular risk factors ."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Pathophysiology",
+   "kind": "p",
+   "s": [
+    "Although a complete understanding of the etiology of PPCM is still ill-defined, many potential causes have been suggested.",
+    "These include genetic factors, myocarditis (viral or antigen induced), pathological immune response to pregnancy (i.e., to fetal antigens), pathological response to hemodynamic changes of pregnancy (i.e., increased cardiac demand of pregnancy, hypertension), hormonal abnormalities, angiogenic imbalance, stress activated cytokines, and nutritional deficiencies (e.g., selenium) ."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Risk factors",
+   "kind": "p",
+   "s": [
+    "Although no casual association has been proven, a higher incidence of PPCM was seen in multiparous women, African ancestry, maternal age > 30 years, twin pregnancies, hypertensive women, women with history of eclampsia/preeclampsia, in vitro fertilization, or with use of tocolytic agents ."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Genetic predisposition",
+   "kind": "p",
+   "s": [
+    "Although PPCM has been classified as a non-genetic form of dilated cardiomyopathy, several studies have documented familial clustering , supporting the theory that PPCM may have a hereditary or genetic component.",
+    "One of the first reflections on the familial clustering of PPCM was reported in a retrospective case series of 17 patients, among which 3 had a known family history of PPCM, then described as “post-natal heart failure” .",
+    "First systematized approaches to examining the genetics of PPCM as part of the spectrum of Dilated Cardiomyopathy (DCM) were studies done by Morales et al. and van Spaendonck-Zwarts et al. .",
+    "Their results promote the theory that pregnancy-associated changes may trigger dormant disease susceptibility into active PPCM.",
+    "Recent research was conducted to sequence DNA from 172 women with diagnosis of PPCM in order to establish the contribution of variants in 43 genes that have been previously associated with DCM .",
+    "The prevalence of different variant types was compared between patients with DCM and population controls.",
+    "It was noted that the prevalence of the truncating variants (26 of 172: 15%) was remarkably higher than that in a reference population (4.7%), but was comparable with that in a group of patients with DCM (17%).",
+    "Two thirds of identified truncating variants were TTN, the gene encoding the protein titin, which is the third most abundant striated-muscle protein.",
+    "Titin accounts for 1 of the 3 major filaments of the cardiac sarcomere, acting as the essential scaffold for the development of the sarcomere, and it is also the defining structural component that spans from the Z-disk to the M-line.",
+    "The authors also distinguished heterozygous truncations in 2 genes on the X chromosome (DMD and LAMP2), as well as truncations in DSP, MYH6, SYNM, TPM1, and VCL.",
+    "In a subgroup of 83 women, prospectively followed in the Investigations in Pregnancy Associated Cardiomyopathy (IPAC) study, the presence of TTN truncating variants was particularly correlated with a lower LVEF at 1-year follow-up .",
+    "Herman et al. conducted a study which showed that TTN truncating mutations were a common cause of DCM, occurring in 25% of familial cases and in 18% of sporadic cases ."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Genetic predisposition",
+   "kind": "p",
+   "s": [
+    "Although these studies bring up new awareness into potential genetic mechanisms of PPCM, evidence of causation varied, leading to a limited genetic evidence.",
+    "Therefore, a comprehensive family history is essential in patients with PPCM, but routine genetic testing is not routinely indicated except in those cases with a history of cardiomyopathy."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Oxidative stress and prolactin",
+   "kind": "p",
+   "s": [
+    "Oxidative stress seems to be part of the key factors involved in disease pathogenesis.",
+    "Serum markers of inflammation and apoptosis are significantly elevated, concordant with the proposition that oxidative stress may contribute to the pathogenesis of PPCM ."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Oxidative stress and prolactin",
+   "kind": "p",
+   "s": [
+    "In normal pregnancy, in order to build up the maternal defense mechanism against pathogens, given higher infection risk than normal, the production of reactive oxygen species (ROS) increases, which culminates in the last trimester.",
+    "As an effort to counterbalance the deleterious effect of ROS, the antioxidant capacity also increases during normal pregnancy .",
+    "Unfortunately, unlike normal pregnancy, in PPCM the level of oxidative stress is more amplified and it does not match with an increase in anti-oxidant levels; thus, eliciting a shift towards increased oxidative stress, which is thought to predispose to PPCM ."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Oxidative stress and prolactin",
+   "kind": "p",
+   "s": [
+    "Kleiner et al. proposed an explanation for the increased oxidative stress in PPCM based on a genetic mouse model with cardiomyocyte restricted deletion of signal transducer and activator of transcription 3 (STAT-3) .",
+    "The activation of STAT3 generates a defensive effect on hypoxia/reoxygenation-induced cardiomyocyte injury, mainly by upregulating the ROS scavenging enzyme manganese superoxide dismutase MnSOD .",
+    "It was noted that the female mice with a homozygous or heterozygous cardiomyocyte-specific knockout of STAT3 develop PPCM in a dose-dependent manner.",
+    "Oxidative stress triggers, through unclear mechanisms, cardiomyocytes to express cathepsin D, which in turn, enhances the conversion of prolactin into an antiangiogenic and proapoptotic 16 kDa derivative.",
+    "The production of 16 kDa significantly promotes cardiac injury caused by oxidative stress, further reinforced by injection of adenoviral vectors expressing 16 kDa in non-pregnant mice, which led to cardiac dysfunction and decreased myocardial capillary density ."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Oxidative stress and prolactin",
+   "kind": "p",
+   "s": [
+    "This theory was further reinforced by the beneficial effect of blockade of prolactin cleavage with bromocriptine in some limited studies and by the elevated levels of the oxidized low-density lipoprotein (oxo-LDL), which is a marker of oxidative stress ."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Inflammation",
+   "kind": "p",
+   "s": [
+    "A pro-inflammatory state might play a role in the pathophysiology of PPCM.",
+    "The theory was supported by studies that found significant circulating levels of pro-inflammatory cytokines (interleukin-6, tumor necrosis factor-α, interferon-ϒ, and C-reactive protein, soluble death receptor sFas/Apo1).",
+    "This process is further emphasized by the clinical benefit of the antiinflammatory agent pentoxifylline in a nonrandomized trial in 58 patients with PPCM ."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Myocarditis (viral myocarditis and antigen-induced autoimmune myocarditis) > Viral myocarditis",
+   "kind": "p",
+   "s": [
+    "Results from multicenter IPAC study showed that patients with PPCM had decreased levels of natural killer cells , which are involved in destruction of virus-infected cells.",
+    "This has led to the hypothesis that a viral cardiomyopathy might be another possible cause of PPCM.",
+    "This was first reported by Goulet et al. .",
+    "The first study to identify viral genomes in cardiac tissue of PPCM patients was done by Bultmann et al. in 2005.",
+    "The viruses identified in 8 out of 26 patients included Epstein Barr virus, human cytomegalovirus, human herpes virus 6, and parvovirus B19 ."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Myocarditis (viral myocarditis and antigen-induced autoimmune myocarditis) > Viral myocarditis",
+   "kind": "p",
+   "s": [
+    "On the other hand, Lamparter et al. found no evidence of viral infection in endomyocardial biopsy samples from 7 PPCM patients.",
+    "Their patients underwent PCR testing for adenovirus, coxsackievirus B, influenza virus A, cytomegalovirus, Epstein Barr virus, herpes simplex virus 1 + 2, human herpes virus 6, and parvovirus B19 .",
+    "It is unclear if viruses play any role in the pathogenesis at this time."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Myocarditis (viral myocarditis and antigen-induced autoimmune myocarditis) > Antigen-induced autoimmune myocarditis",
+   "kind": "p",
+   "s": [
+    "Several research studies supported the theory that because of natural immunosuppression during pregnancy, fetal cells are not rejected when they escape into the maternal circulation and induce an autoimmune myocarditis.",
+    "This process is known as microchimerism, when two genetically different populations of cells emerge in the same tissue or organ.",
+    "Kara et al. conducted an experimental study that demonstrated that fetal cells selectively concentrate on sites of maternal cardiac injury, where they eventually differentiate into diverse cardiac cell types.",
+    "Although those fetal cells were found to express a variety of markers, the novel findings in this study was that approximately 40% of these cells expressed Caudal-related homeobox2 (Cdx2).",
+    "Cdx2 is expressed in trophoblast stem cells but it is absent in the mature trophoblast.",
+    "This led to the suggestion that the cells with regenerative potential may have originated from the placenta ."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Myocarditis (viral myocarditis and antigen-induced autoimmune myocarditis) > Malnutrition:",
+   "kind": "p",
+   "s": [
+    "Several studies mentioned that deficiency in selenium and other micronutrients might play a role in the pathogenesis of PPCM .",
+    "This theory was not supported by Fett et al. who found that neither selenium deficiency nor low serum levels of other micronutrients (vitamin A, B12, C,E) play a notable role in the etiology of PPCM in Haitian women ."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Most women with pre-existing cardiac disease develop symptomatic HF in the 2 nd trimester, when the maximal cardiovascular changes occur.",
+    "In contrast, the majority of women with PPCM typically develop symptoms in the first month postpartum, but it can occur in the third trimester or up to 6 months postpartum .",
+    "While most patients present with typical heart failure signs and symptoms, patients can also present with thromboembolic complications, life-threatening arrhythmias, and even cardiac death ."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Common symptomatology includes congestive symptoms (dyspnea on exertion, orthopnea, paroxysmal nocturnal dyspnea, dry cough, or pedal edema) or nonspecific symptoms, such as fatigue, malaise, palpitations, lightheadedness, or abdominal discomfort .",
+    "Diagnosis of PPCM is challenging since symptoms may mimic those encountered in a normal pregnancy.",
+    "When symptoms persist or are disproportionate to what is expected for pregnancy, PPCM should be suspected and evaluation undertaken."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Physical examination often reveals jugular venous distention, displaced apical impulse, presence of S3, pansystolic murmur consistent with functional mitral regurgitation, pulmonary rales, or peripheral edema.",
+    "In rarer instances, patients can present with cardiogenic shock, severe arrhythmias, or neurological deficits secondary to cardiac thrombus embolization ."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "A prospective study (ESC-EORP registry) which included 740 women with suspected peripartum cardiomyopathy showed that traditional signs were unreliable when seeking to recognize PPCM, with 42% of patients having no signs of peripheral edema and 41% with no pulmonary rales.",
+    "A quarter of patients with mild symptoms (NYHA I/II) had a LVEF < 25%, suggesting poor relationship between symptoms and degree of myocardial dysfunction.",
+    "Thus, a high index of suspicion and quick approach for cardiac testing are required.",
+    "A quarter of patients had concomitant preeclampsia, which has been presumed to share pathophysiological mechanisms with PPCM.",
+    "Deep venous thrombosis, pulmonary embolism, and ischemic stroke were diagnosed in approximatively 7% of patients at 6 months from diagnosis.",
+    "In this registry, mortality at 6 months was 6%, and it was mainly due to heart failure (42%), and sudden death (30%) ."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Some studies suggest that patients who present with heart failure symptomatology before delivery might have a worse outcome, including decreased rate of left ventricular function recovery .",
+    "Diagnostic testing: Since PPCM is a diagnosis of exclusion, a thorough investigation is required in order to rule out other causes of cardiomyopathy.",
+    "The diagnosis can be challenging because of the potential impediment in initially differentiating PPCM from worsening of a pre-existing and unrecognized heart disease by pregnancy-mediated hemodynamic changes."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Unfortunately, no specific diagnostic test for PPCM is available at present.",
+    "The current diagnostic criteria for PPCM include development of an unclear cause of HF in last month of pregnancy up until 6 months postpartum in the absence of known preexisting heart disease, with an LVEF of < 45% and often (but not required) LV dilatation .",
+    "Echocardiography should be performed in any suspected case and remains at the central point of diagnosis."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Initial blood profiling is aimed at excluding other causes that can explain patient’s symptomatology (significant anemia, active infection, thyroid dysfunction, electrolyte abnormalities, renal or liver dysfunction) .",
+    "Initial blood works also assist with prognosis, as it was found that BNP and NT-proBNP levels correlate with clinical outcomes, including recovery of LVEF ."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Electrocardiographic findings may be nonspecific, but a normal electrocardiogram does not rule out PPCM .",
+    "Sinus tachycardia and arrhythmia, atrial fibrillation/flutter, and ventricular tachycardia have been reported .",
+    "Despite the nonspecific findings, QRS prolongation of more than 120 ms is related to increased mortality .",
+    "Chest radiography may show cardiomegaly or signs of congestion (vascular redistribution, pleural effusions, interstitial edema) .",
+    "Echocardiographic evaluation of the LVEF is key in evaluation of PPCM.",
+    "Echocardiogram does not only confirm the diagnosis but also evaluates for other causes of heart failure (valvular disorder or any other structural abnormalities), assesses for complications of PPCM (e.g., LV thrombus), and it also provides prognostic data ."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Although echocardiographic finding of LVEF less than 45% is necessary to make the diagnosis of PPCM, other findings can also be present, including left ventricular dilatation, four-chamber enlargement, mitral or tricuspid regurgitation, elevated pulmonary artery pressures, and right ventricular enlargement .",
+    "A left-ventricular end-systolic diameter of < 5.5 cm portends better cure rates and shorter recovery times .",
+    "Intracardiac thrombus has been visualized on initial echocardiogram in about 10 to 17% of patients with PPCM, posing an increased incidence of thromboembolism .",
+    "Conventionally used in postpartum period due to fetal toxicity of gadolinium, cardiac magnetic resonance imaging may provide a more precise measurement of chamber volumes and ventricular function than echocardiogram ."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Diagnosis > Clinical presentation",
+   "kind": "p",
+   "s": [
+    "Since there is no histological criteria to confirm PPCM, endomyocardial biopsy is not typically proposed, but can be considered if there is suspicion for an alternative diagnosis, especially giant cell myocarditis, which would require a different treatment strategy , especially in the setting of significant cardiomyopathy, leading to cardiogenic shock."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Diagnosis > Differential diagnosis",
+   "kind": "p",
+   "s": [
+    "PPCM is a diagnosis of exclusion.",
+    "Due to the pregnancy associated hemodynamic changes, some pre- existing cardiac lesions may become manifest during pregnancy.",
+    "It is important to consider pre-existing cardiomyopathy that can be unmasked during pregnancy.",
+    "Most of these patients present in the second trimester, if they are not diagnosed antepartum, in contrast to PPCM patients who present in the early postpartum, although the timing can overlap."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Diagnosis > Differential diagnosis",
+   "kind": "p",
+   "s": [
+    "Pre-existing acquired or congenital valvular heart disease including mitral or aortic stenosis or regurgitation can unmasked by pregnancy and should be excluded with an echo.",
+    "Pre-existing undetected congenital heart disease lesions including atrial septal defects, ventricular septal defects, and patent ductus arteriosus can sometimes be unmasked during pregnancy.",
+    "The clinical presentation and echocardiography are helpful in distinguishing these lesions."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Diagnosis > Differential diagnosis",
+   "kind": "p",
+   "s": [
+    "Hypertensive heart disease should be considered in cases of significant longstanding hypertension.",
+    "Hypertrophic cardiomyopathy and noncompaction cardiomyopathy are in the differential and can be excluded by echo or cardiac MRI."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Diagnosis > Differential diagnosis",
+   "kind": "p",
+   "s": [
+    "Myocarditis should be considered if there is a viral prodrome or fulminant presentation."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Diagnosis > Differential diagnosis",
+   "kind": "p",
+   "s": [
+    "Ischemia due to thromboembolic disease or coronary artery dissection can be excluded based on the presentation with anginal chest pain, EKG and cardiac biomarker changes, and regional wall motion abnormalities on echocardiogram."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Diagnosis > Management",
+   "kind": "p",
+   "s": [
+    "A multidisciplinary approach involving cardiologist, obstetrician, intensivist, and pediatrician is crucial for management of PPCM patients ."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Diagnosis > Management",
+   "kind": "p",
+   "s": [
+    "Initial management relies on the general guidelines of other forms of nonischemic cardiomyopathy, but a special attention is required when choosing agents that have a safe profile in the settings of pregnancy and lactation ."
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Management is based focus on relief of symptoms, acute, and chronic therapies (Table 1)."
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "caption",
+   "s": [
+    "Table 1 Clinical scenario, treatment, and level of care during pregnancy"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Clinical scenario | Treatment | Level of care"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Mild PPMC | • Subacute HF • Hemodynamic stability | • Oral HF medications • Oral diuretics | • General ward • Ambulatory treatment in selected cases"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Moderate PPMC | • Acute HF • Hemodynamic stability • Respiratory failure | • Oral HF medication • Diuretics i.v. • Consider bromocriptine and anticoagulation • Optimization of oxygenation | • Intermediate care"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Serve PPMC | • Cardiogenic shock • Hemodynamic stability • Respiratory failure | • Diuretics i.v • Vasodilators i.v (nitroglycerin) • Inotropes/pressors as needed • Consider bromocriptine and anticoagulation • Optimization of oxygenation | • Cardiac intensive care unit"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Diuretics like furosemide and hydrochlorothiazide, although considered safe during pregnancy, should be used carefully as they may alter perfusion of the placenta and create potential distress to the fetus .",
+    "Diuretics should be generally reserved for symptomatic relief of pulmonary or peripheral edema .",
+    "Vasodilators like hydralazine, amlodipine, and nitroglycerin are considered safe during pregnancy, but nitroprusside should be avoided due to concerns of cyanide toxicity ."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Due to concern of beta-blockers action on uterine tone, beta-1 selective blockers (metoprolol, bisoprolol, carvedilol) are the preferred agents.",
+    "Because most available data is on metoprolol and due to its shorter half-life, this agent is most commonly prescribed.",
+    "Since beta-blockers may cause fetal bradycardia and hypoglycemia, frequent fetal monitoring is warranted ."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Angiotensin-converting enzyme (ACE) inhibitors, angiotensin II receptor blockers (ARBs), mineralocorticoid receptor antagonists, and neprilysin inhibitors should be avoided during pregnancy.",
+    "ACE inhibitors and ARBs associated with teratogenic effects (renal dysgenesis, calvarial and pulmonary hypoplasia, neonatal anuric renal failure).",
+    "These medications should be withheld also in the pre-conception period ."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Anticoagulation: Since both pregnancy and heart failure are hypercoagulable states, anticoagulation has been proposed in PPCM patients if LVEF is less than 35%, but is not recommended in general .",
+    "Anticoagulation is recommended if Bromocriptine is used or if a documented left ventricular thrombus is present.",
+    "Bromocriptine is associated with increased thromboembolic events but is however considered investigational at this time as noted below.",
+    "Warfarin is the preferred anticoagulant if the dose is less than 5 mg.",
+    "Unfractionated and low molecular heparin are alternate agents.",
+    "Warfarin is the preferred agent in the second and third trimesters.",
+    "Warfarin should be discontinued prior to planned vaginal delivery and transitioned to dose adjusted continuous infusion of unfractionated heparin to avoid risks of fetal intracranial hemorrhage.",
+    "The direct oral anticoagulants are not considered safe during pregnancy ."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "When mechanical circulatory support is indicated, devices such as intra-aortic balloon counter pulsation (IABP), venoarterial extracorporeal membrane oxygenation (ECMO), LV assist device (LVAD), and Impella devices can be used as needed."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Although crucial in preserving hemodynamic stability in patient with CS, a prolonged course of vasopressors and inotropes is associated with high morbidity and mortality.",
+    "The hemodynamic support with Impella heart pump for management of women with peripartum cardiogenic shock was analyzed by Elkayam et al. in a study which included 15 patients with a mean LVEF of 14%.",
+    "More than 85% of these patients survived to discharge, and 50% of them had improvement of their baseline heart function.",
+    "A similar outcome was highlighted by Sieweke et al. in a study that included 5 PPCM patients with refractory CS who received intensive care treatment with mechanical circulatory support (with either Impella device or in combination with veno-arterial extracorporeal membrane oxygenation in the setting of biventricular failure) along with bromocriptine therapy.",
+    "It was observed that early LV unloading with the Impella device was related to LV recovery, which was not noted in patients with delayed Impella placement.",
+    "LV unloading using Impella devices can be favorably used as a bridge to either heart recovery, implantation of more durable devices like LVAD or heart transplantation ."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Older studies found that transplantation was performed in up to one-third of women with PPCM.",
+    "More recent data suggest that transplantation rates can be much lower from 4 to 23% of patients.",
+    "However, women who have been transplanted for PPCM have worse outcomes compared with other cardiac transplant recipients with higher mortality, higher incidence of rejection, poorer graft survival, and higher retransplantation rates ."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Future therapies: Several treatment strategies (Bromocriptine, immunosuppressive agents, intravenous immune globulin (IVIG), Pentoxifylline) remain experimental."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Bromocriptine is the most studied agent amongst these (Table 2).",
+    "Because of the acknowledgment of the potential detrimental role of prolactin, bromocriptine has been suggested as a novel treatment of PPCM.",
+    "Bromocriptine inhibits prolactin secretion, thus preventing the 16 kDA N terminal prolactin fragment from formation.",
+    "Since several studies showed inconsistent clinical benefit, there are no definite guidelines in the US regarding the use of bromocriptine in PPCM patients .",
+    "The 2018 European Society of Cardiology guidelines include a IIb recommendation for the use of bromocriptine."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "caption",
+   "s": [
+    "Table 2 Study, outcomes, and total number of patients/patients receiving bromocriptine"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Study | Total number of patients/patients receiving bromocriptine | Type of study | Outcomes"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Sliwa et al. | 20/10 | Prospective single-center, randomized | Patients treated with bromocriptine had greater improvement in LVEF at 6 months than the control group, and fewer experienced the composite endpoint compared with the control group (death, NYHA class III/IV, or LVEF < 35% at 6 months)"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Yameogo et al. | 96/48 | Prospective single-center, randomized | LVEF was similar at entry but higher in the bromocriptine group at 2 weeks and at 3, 6, and 12 months.",
+    "Mortality at 6 months was higher in both groups but lower in the bromocriptine-treated women"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Hilfiker-Kleiner et al. | 2 different regiments of bromocriptine (1 week in 27 patients vs. 8 weeks in 31 patients) | Randomized trial | The investigators postulated an association between bromocriptine and the favorable outcomes.",
+    "The study was limited by the lack of a control group not receiving bromocriptine"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "Haghikia et al. | 115/64 | Observational | Bromocriptine in addition to standard therapy was associated with higher rate of improvement in LVEF, but there was no significant difference in overall rates of recovery"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "row",
+   "s": [
+    "REBIRTH (Randomized Evaluation of Bromo-criptine in Myocardial Recovery Therapy) | 200 | A randomized double-blind, placebo control study | Under evaluation"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Due to the association with thromboembolic phenomenon, therapeutic anticoagulation is recommended in conjunction with bromocriptine.",
+    "Bromocriptine also stops production of breast milk making breastfeeding impossible ."
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "The Myocarditis Treatment Trial did not show any benefit of immunosuppressive medications, and given the risks associated with these medications, they are currently not widely used."
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Likewise, IMAC (Controlled trial of Intravenous Immune Globulin in Recent Onset Dilated Cardiomyopathy) trial failed to show any significant improvement of IVIG in patients with recent onset cardiomyopathy; thus, IVIG is not routinely recommended in PPCM patients."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Pentoxifylline was studied in small trials that yielded positive results.",
+    "In the study by Sliwa et al. which involved 59 patients, Pentoxifylline was an independent predictor of favorable outcome with better LVEF, NYHA class, and survival ."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Diagnosis > During pregnancy",
+   "kind": "p",
+   "s": [
+    "Given the small sample sizes of the above experimental drugs, the generalizability of these studies is unclear."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Diagnosis > Delivery",
+   "kind": "p",
+   "s": [
+    "In women with PPCM with advanced heart failure, prompt delivery can be considered for maternal cardiovascular indications or hemodynamic instability.",
+    "Planned cesarean delivery is preferred for women with advanced HF requiring inotropic therapy or mechanical circulatory support."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Diagnosis > Delivery",
+   "kind": "p",
+   "s": [
+    "Early delivery is not required if the maternal and fetal conditions are stable and most pregnant patients can safely be delivered vaginally."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Diagnosis > Postpartum",
+   "kind": "p",
+   "s": [
+    "For women with peripartum cardiomyopathy who have delivered and are not breastfeeding, acute and chronic HF should be managed using standard GDMT therapy.",
+    "Given the benefits of breastfeeding, women who are clinically stable should not be discouraged from breastfeeding as long as it is compatible with their heart failure medications."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Diagnosis > Postpartum",
+   "kind": "p",
+   "s": [
+    "In breast feeding women, beta blockers, enalapril, and spironolactone are compatible with breast feeding.",
+    "ARBs, Neprilysin inhibitors, and Ivabradine do not have enough information and should be avoided during pregnancy and lactation.",
+    "Captopril and enalapril were found in clinically insignificant amounts in the breast milk and are deemed to be compatible with breast feeding according to the American Academy of Pediatrics ."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Diagnosis > Postpartum",
+   "kind": "p",
+   "s": [
+    "In the ESC-EORP registry, 30% of demises at 6 months were due to sudden cardiac death, which might suggest that defibrillators might play an important role.",
+    "Wearable defibrillators can be an acceptable option to prevent sudden cardiac death while either monitoring for LVEF recovery or for patients awaiting heart transplantation .",
+    "Thus, it is reasonable to wait for 6 months of optimal medical therapy when considering the timing of implantable defibrillators or Cardiac Resynchronization Therapy."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Diagnosis > Prognosis",
+   "kind": "p",
+   "s": [
+    "No significant long-term studies of the natural history of patients with PPCM have been published, so long-term implications remain unclear.",
+    "Many studies have tried to investigate the predictors for LV recovery in patients with PPCM.",
+    "Increased LV end-diastolic diameters (LVEDD ≥ 6 cm), LVEF < 35% at time of diagnosis, right ventricular dysfunction, African ancestry, older age, later diagnosis, and elevated inflammatory markers predict adverse outcomes and a lower probability of full recovery .",
+    "The Task Force on the Management of Cardiovascular Diseases during Pregnancy of the European Society of Cardiology discourages subsequent pregnancy when the LVEF has not returned to the values from before pregnancy.",
+    "Continuation of guideline-directed medical therapy (GDMT) is recommended for the long term in these patients.",
+    "Women with PPCM with persistent left ventricular (LV) dysfunction or LV ejection fraction (LVEF) ≤ 25% at diagnosis are at high risk of recurrent PPCM and should avoid future pregnancy."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Diagnosis > Prognosis",
+   "kind": "p",
+   "s": [
+    "Patients with PPCM with recovered LVEF have a better prognosis but can have a high rate of PPCM recurrence with future pregnancies .",
+    "There is also a risk of future HF and LV dysfunction even without pregnancy .",
+    "These patients must remain under regular cardiac care.",
+    "Specific recommendations re-continuation of GDMT cannot be made at this time.",
+    "If subsequent pregnancies are planned, echocardiography should be performed, and dobutamine stress testing may be helpful to determine the contractile reserve and further risk-stratify the potential for recurrence ."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Diagnosis > Prognosis",
+   "kind": "p",
+   "s": [
+    "In summary, PPCM is a cardiomyopathy of unknown etiology occurring in the last trimester or the first 6 months postpartum.",
+    "Multidisciplinary care, with a focus on maternal and fetal well-being, is needed for the appropriate management of these patients."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Diagnosis > Counseling of women with PPCM",
+   "kind": "p",
+   "s": [
+    "Heart Failure Association PPCM Study Group recommends a regular, 6-month follow-up with echocardiography until LVEF recovers to > 50%.",
+    "Although there are no guidelines yet on whether goal directed medical therapy can be stopped once LVEF recovers, some of the PPCM study group members advocate for life-long therapy based on the risk of HF and LV dysfunction even without subsequent pregnancies.",
+    "If the decision is to wean the medical therapy, then cautious and frequent monitoring of patient’s clinical and cardiac performance should be conducted.",
+    "All subsequent pregnancies are associated with a risk of worsening of cardiac function, and thus, it is imperative for the patients to be evaluated by a multi-disciplinary team.",
+    "From obstetric perspective, fetal growth should be evaluated by ultrasound every 4 weeks starting from week 24.",
+    "Early delivery can be undertaken if a decline in cardiac function is noted, with an optimal target of 37 weeks.",
+    "Post-partum, women with recent PPCM, should be informed about the use of contraceptives ."
+   ]
+  }
+ ]
+}
