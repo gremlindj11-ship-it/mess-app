@@ -1,9 +1,9 @@
 row,verdict,population,trigger,action,strength,numbers,alternatives,exceptions,safety,notes,stamp
 2,"confirmed","yes","n.a.","n.a.","yes","n.a.","n.a.","n.a.","n.a.","The claim accurately reflects the definition, lack of cure, and management options for heart failure as stated in the guideline.","0434542ac056"
-3,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim accurately lists all the symptoms of heart failure described in the guideline quote.","4df67b91cf3a"
+3,"confirmed","yes","n.a.","yes","n.a.","n.a.","yes","n.a.","n.a.","The claim accurately lists all the symptoms of heart failure specified in the guideline quote.","2976b1a3259a"
 4,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim accurately captures the causes and modes of onset of heart failure from the guideline.","c660c9cf4466"
 5,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim correctly details the other potential causes of heart failure mentioned in the guideline.","04a4d4b726b8"
-6,"confirmed","yes","n.a.","n.a.","yes","yes","yes","n.a.","n.a.","The claim accurately specifies the populations at higher risk for developing heart failure.","777c916511bb"
+6,"confirmed","yes","n.a.","yes","yes","yes","yes","n.a.","n.a.","The claim correctly identifies all risk factors and the age threshold of 65 or older as given in the guideline quote.","777c916511bb"
 7,"confirmed","yes","yes","yes","yes","n.a.","n.a.","n.a.","n.a.","The claim accurately presents the actions a doctor will take if heart failure is suspected.","0f9d648710a3"
 8,"confirmed","yes","n.a.","n.a.","yes","n.a.","yes","n.a.","n.a.","The claim accurately reflects the list of possible heart failure tests and setting requirements.","4e608742302b"
 9,"confirmed","yes","yes","yes","yes","n.a.","n.a.","n.a.","n.a.","The claim accurately describes the types and stages of heart failure and what the doctor will discuss following a diagnosis.","6a080106a19b"

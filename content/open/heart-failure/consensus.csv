@@ -1,6 +1,6 @@
 row,status,checked_by,confirmed_by,disagreement
 2,agreed,"gemini qwen","gemini qwen",""
-3,unresolved,"gemini qwen","gemini","qwen: disputed — The claim omits the specific symptom 'feeling out of breath when doing everyday activities' by only listing 'breathlessness with everyday activities or lying down', which merges two distinct symptom descriptions from the quote."
+3,unresolved,"gemini","gemini",""
 4,agreed,"gemini qwen","gemini qwen",""
 5,agreed,"gemini qwen","gemini qwen",""
 6,agreed,"gemini qwen","gemini qwen",""
