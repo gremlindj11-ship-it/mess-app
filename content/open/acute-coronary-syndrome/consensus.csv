@@ -11,7 +11,7 @@ row,status,checked_by,confirmed_by,disagreement
 11,agreed,"gemini qwen","gemini qwen",""
 12,agreed,"gemini qwen","gemini qwen",""
 13,agreed,"gemini qwen","gemini qwen",""
-14,unresolved,"gemini qwen","gemini","qwen: disputed — The claim states that diagnosing a heart attack 'requires' tests, implying a definitive diagnostic criterion, whereas the guideline states tests are needed 'to find out if you're having a heart attack', which is a screening/confirmation step rather than a strict requirement for the diagnosis itself in all contexts, and the strength 'requires' is stronger than the guideline's 'You'll need... to find out'."
+14,unresolved,"gemini","gemini",""
 15,agreed,"gemini qwen","gemini qwen",""
 16,agreed,"gemini qwen","gemini qwen",""
 17,agreed,"gemini qwen","gemini qwen",""
