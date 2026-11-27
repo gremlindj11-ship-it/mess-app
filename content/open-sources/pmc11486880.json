@@ -1,0 +1,1078 @@
+{
+ "id": "pmc11486880",
+ "register": "open-access-article",
+ "kind": "article",
+ "url": "https://europepmc.org/article/PMC/PMC11486880",
+ "fetched_from": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11486880/fullTextXML",
+ "doi": "10.1186/s13613-024-01389-w",
+ "title": "Oxygen therapy and noninvasive respiratory supports in acute hypoxemic respiratory failure: a narrative review",
+ "authors": "Thille AW, Balen F, Carteaux G et al",
+ "journal": "Annals of Intensive Care",
+ "year": "2024",
+ "updated": "2024-10-18",
+ "licence": "CC-BY-4.0",
+ "licence_evidence": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are",
+ "credit": "Thille AW, Balen F, Carteaux G et al. Oxygen therapy and noninvasive respiratory supports in acute hypoxemic respiratory failure: a narrative review. Annals of Intensive Care. 2024. https://doi.org/10.1186/s13613-024-01389-w. Licensed under CC BY 4.0. Reworded by Mess.",
+ "fetched": "2026-11-27",
+ "sha256": "4dc655c2d6a823ac77d7026404a4c7a91a821d9584f7fee8cffbbd8bb2deefef",
+ "sentences": 285,
+ "set_aside": 1,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Background",
+   "kind": "p",
+   "s": [
+    "This narrative review was written by an expert panel to the members of the jury to help in the development of clinical practice guidelines on oxygen therapy."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Results",
+   "kind": "p",
+   "s": [
+    "According to the expert panel, acute hypoxemic respiratory failure was defined as PaO 2 < 60 mm Hg or SpO 2 < 90% on room air, or PaO 2 /FiO 2 ≤ 300 mm Hg.",
+    "Supplemental oxygen should be administered according to the monitoring of SpO 2, with the aim at maintaining SpO 2 above 92% and below 98%.",
+    "Noninvasive respiratory supports are generally reserved for the most hypoxemic patients with the aim of relieving dyspnea.",
+    "High-flow nasal cannula oxygen (HFNC) seems superior to conventional oxygen therapy (COT) as a means of avoiding intubation and may therefore be should probably be used as a first-line noninvasive respiratory support in patients requiring more than 6 L/min of oxygen or PaO 2 /FiO 2 ≤ 200 mm Hg and a respiratory rate above 25 breaths/minute or clinical signs of respiratory distress, but with no benefits on mortality.",
+    "Continuous positive airway pressure (CPAP) cannot currently be recommended as a first-line noninvasive respiratory support, since its beneficial effects on intubation remain uncertain.",
+    "Despite older studies favoring noninvasive ventilation (NIV) over COT, recent clinical trials fail to show beneficial effects with NIV compared to HFNC.",
+    "Therefore, there is no evidence to support the use of NIV or CPAP as first-line treatment if HFNC is available.",
+    "Clinical trials do not support the hypothesis that noninvasive respiratory supports may lead to late intubation.",
+    "The potential benefits of awake prone positioning on the risk of intubation in patients with COVID-19 cannot be extrapolated to patients with another etiology."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Conclusions",
+   "kind": "p",
+   "s": [
+    "Whereas oxygen supplementation should be initiated for patients with acute hypoxemic respiratory failure defined as PaO 2 below 60 mm Hg or SpO 2 < 90% on room air, HFNC should be the first-line noninvasive respiratory support in patients with PaO 2 /FiO 2 ≤ 200 mm Hg with increased respiratory rate.",
+    "Further studies are needed to assess the potential benefits of CPAP, NIV through a helmet and awake prone position in patients with acute hypoxemic respiratory failure not related to COVID-19."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Definition of acute hypoxemic respiratory failure",
+   "kind": "p",
+   "s": [
+    "Respiratory failure is defined as the failure of the respiratory system to perform its gas exchange functions, including oxygenation and carbon dioxide elimination.",
+    "Acute hypoxemic respiratory failure, also referred to as type 1, specifically denotes oxygenation failure and refers to de novo respiratory failure, i.e. excluding hypoxemia caused by cardiogenic pulmonary edema and exacerbation of chronic lung diseases.",
+    "The main etiology of such de novo respiratory failure is pneumonia .",
+    "Thus, acute hypoxemic respiratory failure does not encompass acute hypercapnic respiratory failure, also referred to as type 2, characterized by a ventilation failure defined by arterial carbon dioxide pressure (PaCO 2) exceeding 45 mm Hg and pH below 7.35, indicative of respiratory acidosis.",
+    "This review will not address the latter form of respiratory failure."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Definition of acute hypoxemic respiratory failure",
+   "kind": "p",
+   "s": [
+    "According to the panel of experts participating in these guidelines on oxygen therapy , acute hypoxemic respiratory failure can be defined as partial pressure of arterial oxygen (PaO 2) less than 60 mm Hg or peripheral oxygen saturation measured by pulse oximetry (SpO 2) less than 90% on room air, or a ratio of the partial pressure of arterial oxygen to the fraction of inspired oxygen (PaO 2 /FiO 2) of 300 mm Hg or less ratio less in patients receiving oxygen therapy.",
+    "Whereas FiO 2 is not measured under conventional oxygen therapy (COT) delivered through nasal cannula or facemask, it can be best estimated using the following formula: FiO 2 in % = Flow of oxygen (L/min) x 3 + 21% .",
+    "Regardless of the oxygenation strategy, hypoxemia can be considered as severe in patients with PaO 2 /FiO 2 ratio equal to or below 100 mm Hg, moderate in patients with PaO 2 /FiO 2 ratio between 101 and 200 mm Hg, and mild in patients with PaO 2 /FiO 2 ratio between 201 and 300 mm Hg, as in patients with acute respiratory distress syndrome (ARDS) .",
+    "Clinical signs of acute hypoxemic respiratory failure include increased respiratory rate above 25 breaths per minute, activation of accessory respiratory muscles, paradoxical abdominal respiration, cyanosis, dyspnea, and breathlessness.",
+    "Several oxygenation strategies can be proposed as alternatives to COT for oxygen supplementation, including high-flow nasal cannula oxygen therapy (HFNC), continuous positive airway pressure (CPAP), and noninvasive ventilation (NIV).",
+    "Among patients with acute hypoxemic respiratory failure, a vast majority have pulmonary bilateral infiltrates on chest radiograph and could be considered as having ARDS criteria .",
+    "However, as the Berlin definition of ARDS stated that PaO 2 /FiO 2 ratio had to be measured with positive airway pressure of at least 5 cmH 2 O , patients treated with COT or HFNC still cannot be considered as ARDS .",
+    "Indeed, positive airway pressure levels generated with HFNC are most often around 2–3 cm H 2 O and remain lower than the levels required to reach ARDS criteria .",
+    "To modify this definition, recent guidelines suggested considering patients treated with HFNC at a minimal 30 L/min flow as having ARDS if they have pulmonary bilateral infiltrates and PaO 2 /FiO 2 ratio of 300 mm Hg or less ."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hypoxemia",
+   "kind": "p",
+   "s": [
+    "While the deleterious effects of hypoxemia are widely known in clinical practice, this concept has been poorly evaluated.",
+    "In a large retrospective cohort study including 152,680 patients admitted to 150 ICUs, hypoxemia occurring within the first 24 h following admission was associated with an increased risk of death .",
+    "The same findings were also reported in a systematic review including 7,410 critically ill children .",
+    "A more recent multicenter clinical trial comparing conservative oxygen therapy (PaO 2 between 55 and 70 mm Hg and SpO 2 between 88 and 92%) versus liberal oxygen therapy (PaO 2 between 90 and 105 mm Hg and SpO 2 of at least 96%) in mechanically ventilated ARDS patients was prematurely stopped after including 205 patients because of safety concerns .",
+    "Indeed, mortality was significantly higher in the arm receiving the lower oxygen therapy strategy.",
+    "These findings lend credence to an oxygen administration strategy that aims at avoiding hypoxemia by maintaining PaO 2 above 70 mm Hg and SpO 2 above 92% in patients with acute hypoxemic respiratory failure, even though most of the data come from mechanically ventilated patients."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "p",
+   "s": [
+    "Animal studies have consistently shown that exposure to high FiO 2 can cause respiratory failure and early death .",
+    "From the beginnings of artificial ventilation, there has been concern that high FiO 2 values might induce pulmonary lesions .",
+    "Whereas ventilator-induced lung injury (VILI) is well- established , the specific pulmonary lesions attributable to oxygen toxicity remain hypothetical.",
+    "Literature from the past 15 years has yielded extensive yet conflicting findings.",
+    "The challenge in interpreting the different clinical trials stems from their varied methodologies while some focused exclusively on mechanically ventilated patients, while others included any patients breathing spontaneously under oxygen.",
+    "Additionally, oxygenation targets have varied, with some studies using SpO 2 and others PaO 2, often with significant overlap between the two targets (Table 1).",
+    "A first seminal single-center clinical trial including 434 unselected patients admitted to an ICU showed that a higher oxygen strategy (SpO 2 between 97 and 100%) significantly increased the risk of death as compared to a lower oxygen strategy (SpO 2 between 94 and 98%) .",
+    "To date, this is the only randomized controlled trial showing increased risk of death with a higher oxygen strategy and subsequent clinical trials have found no significant differences in mortality between lower and higher oxygenation strategies .",
+    "Nevertheless, a recent clinical trial showed the potentially deleterious effects of higher oxygen strategy, with a decreased number of days without life support in COVID-19 patients admitted to ICUs .",
+    "Furthermore, a separate clinical trial revealed that administration of maximal FiO 2 (set at 100% for 24 h) in mechanically ventilated patients with septic shock led to a higher incidence of serious adverse events and a trend toward increased mortality, prompting the study to be stopped due to safety concerns .",
+    "Additionally, in a large retrospective cohort study including 19,593 patients admitted to five ICUs in the United Kingdom, exposure to hyperoxia (defined as PaO 2 ≥ 100 mm Hg), no matter its duration, increased risk of death when compared to patients non-exposed to hyperoxia .",
+    "Nevertheless, even though hyperoxia may have deleterious effects in critically ill patients, a recent meta-analysis pooling RCTs comparing higher versus lower oxygenation strategies suggested that it was still not possible to draw definitive conclusions about the effects on mortality .",
+    "Only studies targeting particularly high oxygenation levels have shown harmful effects on mortality .",
+    "These findings support an oxygen administration strategy that aims at avoiding hyperoxia by maintaining PaO 2 below 90–100 mm Hg and SpO 2 below 98%."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "caption",
+   "s": [
+    "Table 1 Main RCTs comparing different targets of oxygenation"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Study, year N patients – centers | Targets PaO 2 (mm Hg) – SpO 2 (%) higher vs. lower | Inclusion criteria: % of intubated patients | Mortality rates"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Nielsen, 2024 N = 726–13 centers | High PaO 2 90 mm Hg vs. Low PaO 2 60 | COVID-19: 24% | Mortality day-90: higher 35% vs. lower 30%, p = 0.18"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Van der Wal, 2023; N = 664–9 centers | High PaO 2 110–150 mm Hg, SpO 2 96–100% vs. Low PaO 2 55–80, SpO 2 91–94% | Patients receiving MV > 24 h: 100% | Mortality day-28: higher 35% vs. lower 39%, p = 0.34"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Schmidt, 2022 N = 789–2 centers | High PaO 2 98–105 mm Hg vs. Low PaO 2 68–75 | After cardiac arrest: 100% | Mortality day-90: higher 29% vs. lower 31%, p = NS"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Semler, 2022 N = 2541–1 center | High SpO 2 98% (96–100) vs. Intermediate SpO 2 94% (92–96) vs. Low SpO 2 90% (88–92) | Patients receiving MV: 100% | Mortality day-28: higher 33% vs. intermediate 34% vs. lower 35%, p = NS"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Gelissen, 2021 N = 574–4 centers | Higher PaO 2 105–135 mm Hg vs. Lower: PaO 2 60–90 | SIRS: 70% | Mortality day-90: higher 34% vs. lower 35%, p = 0.91"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Mackle, 2020 N = 1000–14 centers | High SpO 2 > 90% vs. Low SpO 2 > 90% and < 97% | Patients receiving MV: 100% | Mortality day-90: higher 33% vs. lower 35%, p = NS"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Schjørring, 2020 N = 2928–35 centers | High PaO 2 90 mm Hg vs. Low PaO 2 60 | Patients with oxygen (> 10 L/min): 59% | Mortality day-90: higher 42% vs. lower 43%, p = 0.60"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Barrot, 2020 N = 201–13 centers | High PaO 2 90–105 mm Hg, SpO 2 ≥ 96% vs. Low PaO 2 55–70, SpO 2 88–92% | Patients with ARDS: 100% | Mortality day-90: higher 30% vs. lower 44%, p < 0.05 *Stopped for safety reason"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Yang, 2019 N = 14–1 center | Higher PaO 2 105–135 mm Hg vs. Lower PaO 2 60–90 | Expected ICU stay > 72 h: 85% | Mortality day-28: higher 33% vs. lower 26%, p = 0.30"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Asfar, 2017 N = 442–22 centers | High FiO 2 100% for 24 h vs. Low SpO 2 88–95% | Septic shock: 100% | Mortality day-28: higher 43% vs. lower 35%, p = 0.12 *Stopped for safety reason"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Panwar, 2016 N = 103–4 centers | Higher SpO 2 ≥ 96% vs. Lower SpO 2 88–92% | Patients receiving MV > 24 h: 100% | Mortality day-90: higher 37% vs. lower 40%, p = 0.74"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "row",
+   "s": [
+    "Girardis, 2016 N = 434–1 center | High PaO 2 up to 150 mm Hg, SpO 2 97–100 vs. Low PaO 2 70–100, SpO 2 94–98 | Expected ICU stay > 72 h: 67% | Mortality ICU: higher 20% vs. lower 12%, p = 0.01"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Indications and targets for oxygen therapy > Deleterious effects of hyperoxia",
+   "kind": "note",
+   "s": [
+    "Abbreviations: RCT = Randomized Controlled Trials; PaO 2 = Partial pressure of arterial oxygen; SpO 2 = peripheral oxygen saturation measured by pulse oximetry; FiO 2 = Fraction of inspired oxygen"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Indications and targets for oxygen therapy > Indications for oxygen therapy",
+   "kind": "p",
+   "s": [
+    "Supplemental oxygen is frequently administered in emergency departments (EDs) and more than half of patients admitted to ICUs receive oxygen therapy for hypoxemia .",
+    "Oxygen is a treatment for hypoxemia, not breathlessness, and supplemental oxygen does not improve dyspnea and breathlessness in non-hypoxemic patients .",
+    "Supplemental oxygen should be administered in patients with acute hypoxemic respiratory failure according to the monitoring of SpO 2 values.",
+    "In case of severe hypoxemia, oxygen therapy should be immediately administered using a non-rebreathing reservoir mask at a flow rate of at least 15 L/min.",
+    "For less severe cases, oxygen should be administered using nasal prongs when the flow rate is between 1 and 6 L/min, or using a standard facemask when the flow rate is between 6 and 10 L/min.",
+    "To avoid deleterious effects of hypoxemia and hyperoxia, SpO 2 values should be maintained above 92% and below 98%.",
+    "However, technical problems and measurement biases, such as low peripheral blood flow, anemia, and skin pigmentation can significantly compromise the accuracy of SpO 2 measurements .",
+    "Moreover, there may be considerable discrepancies in SpO 2 measurements between different monitoring devices, with errors ranging from − 3% to + 1% relative to arterial oxygen saturation (SaO 2) as the reference ."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "p",
+   "s": [
+    "Several oxygenation strategies can be proposed as an alternative to COT in patients with acute hypoxemic respiratory failure.",
+    "These oxygenation strategies, most often referred as noninvasive respiratory supports because of positive airway pressure and relief of respiratory effort include HFNC, CPAP, and NIV.",
+    "Whereas supplemental oxygen should be offered to all patients with acute hypoxemic respiratory failure regardless of the level of breathlessness, noninvasive respiratory supports are reserved for the most hypoxemic patients with clinical signs of respiratory distress and are aimed at relieving dyspnea.",
+    "In most clinical trials assessing noninvasive respiratory supports in acute hypoxemic respiratory failure, the patients included had moderate-to-severe hypoxemia (PaO 2 /FiO 2 ≤ 200 mm Hg), and either an increased respiratory rate above 25 breaths per minute or clinical signs of respiratory distress (Tables 2 and 3, and 4).",
+    "These operational criteria could enable identification of the most severe forms of acute hypoxemic respiratory failure, and help in deciding when to initiate a noninvasive respiratory support."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "caption",
+   "s": [
+    "Table 2 Main RCTs comparing high-flow nasal cannula oxygen therapy (HFNC) vs. conventional oxygen therapy (COT) in acute hypoxemic respiratory failure"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Study, year N centers | N Patients | HFNC vs. COT | Outcomes"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Crimi, 2023 27 centers – wards | N = 362 – Mild-to-moderate COVID-19 | HFNC (n = 181) vs. COT (n = 182) | Intubation day-28: HFNC 7% vs. COT 10% (p = NS) – Timing not specified Mortality day-28: HFNC 8% vs. COT 7% (p = 0.84)"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Bouadma, 2022 19 centers – ICU | N = 333 –COVID-19 | HFNC (n = 115) vs. COT (n = 109) vs. CPAP (n = 109) | Intubation day-28: HFNC 33% vs. COT 29% vs. CPAP 31% (p = NS) – Timing not specified Mortality day-60: HFNC 26% vs. COT 29% vs. CPAP 28% (p = NS)"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Nazir, 2022 1 center – ICU | N = 120 - Mild-to-moderate COVID-19 | HFNC vs. COT (n = 60) | Intubation: HFNC 3% vs. COT 13% (p = NS) – Timing not specified Mortality: HFNC 5% vs. COT 8% (p = NS)"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Perkins, 2022 48 centers – ICUs and wards | N = 783 – COVID-19 | HFNC (415) vs. COT (n = 368) | Intubation day-30: HFNC 41% vs. COT 42% (p = 0.86) – Timing: HFNC 1 day [0–3] vs. COT 1 day [0–3] (p = 0.82) Mortality day-30: HFNC 19% vs. COT 20% (p = 0.66)"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Frat, 2022 34 centers – ICU | N = 711 – COVID-19 | HFNC (n = 357) vs. COT (n = 354) | Intubation day-28: HFNC 45% vs. COT 53% (p = 0.04) – Timing: HFNC 36 h [12–84] vs. COT 26 h [12–54] (p = 0.10) Mortality ICU: HFNC 10% vs. COT 11% (p = 0.60)"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Ospina-Tascón, 2021 3 centers – ICU | N = 199 – COVID-19 | HFNC (n = 99) vs. COT (n = 100) | Intubation day-28: HFNC 34% vs. COT 51% (p = 0.03) – Timing: HFNC 22 h [13–60] vs. COT 29 h [14–58] (p = 0.69) Mortality day-28: HFNC 8% vs. COT 16% (p = 0.11)"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Andino, 2020 1 center – ICU | N = 46 – Acute hypoxemic respiratory failure | HFNC (n = 24) vs. COT (n = 24) | Intubation: HFNC 33% vs. COT 63% (p = 0.04) – Timing not specified Mortality: HFNC 25% vs. COT 18% (p = 0.70)"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Azoulay, 2018 32 centers – ICU | N = 776 – Immuno-compromised | HFNC (n = 388) vs. COT (n = 388) | Intubation: HFNC 39% vs. COT 44% (p = 0.17) – Timing not specified Mortality day-28: HFNC 36% vs. COT 36% (p = 0.94)"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Frat, 2015 24 centers – ICU | N = 310 – Acute hypoxemic respiratory failure | HFNC (n = 106) vs. COT (n = 94) vs. NIV (n = 110) | Intubation day-28: HFNC 38% vs. COT 47% vs. NIV 50% (p = 0.18) – Timing: HFNC 27 h [8–46] vs. COT 15 h [5–39] vs. NIV 27 h [8–53] (p = 0.27) Mortality ICU: HFNC 11% vs. COT 19% vs. NIV 25% (p = 0.047)"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "note",
+   "s": [
+    "Values are given in mean ± standard deviation or median [25 ème – 75 ème percentiles] Abbreviations: RCT = Randomized Controlled Trials; COT = Conventional Oxygen Therapy; HFNC = High-Flow Nasal Cannula oxygen therapy; CPAP = Continuous Positive Airway Pressure; ICU = Intensive Care Unit; NS = Not Significant"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "caption",
+   "s": [
+    "Table 3 Main RCTs comparing CPAP vs. COT or HFNC in acute hypoxemic respiratory failure"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Study, year N centers | N Patients | CPAP vs. COT or HFNC | Outcomes"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Bouadma, 2022 19 centers – ICU | N = 333; COVID-19 | CPAP facemask (n = 109) vs. COT (n = 109) vs. HFNC (n = 115) | Intubation day-28: CPAP 31% vs. COT 29% vs. HFNC 33% (p = NS) – Timing not specified Mortality day-60: CPAP 28% vs. COT 29% vs. HFNC 26% (p = NS)"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Perkins, 2022 48 centers – ICUs and wards | N = 733; COVID-19 | CPAP facemask (n = 377) vs. COT (n = 356) | Intubation day-30: CPAP 33% vs. COT 41% (p = 0.03) – Timing: CPAP 2 days [1–4] vs. COT 1 day [0–4] (p = 0.03) Mortality day-30: CPAP 17% vs. COT 19% (p = 0.65)"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Brambilla, 2014 4 centers | N = 81; Pneumonia | CPAP helmet (n = 40) vs. COT (n = 41) | Intubation: CPAP 5% vs. COT 2% (p = NS) – Timing not specified Mortality hospital: CPAP 5% vs. 17% (p = 0.15)"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Squadrone, 2010 1 center – wards | N = 40; Hematologic with respiratory failure | CPAP helmet (n = 20) vs. COT (n = 20) | Intubation: CPAP 10% vs. COT 70% (p < 0.01) – Timing not specified Mortality hospital: CPAP 15% vs. 25% (p < 0.01)"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Cosentini, 2010 1 center – wards | N = 47; Pneumonia | CPAP helmet (n = 20) vs. COT (n = 27) | No patient was intubated or died"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Delclaux, 2000 6 centers – ICU | N = 123; Acute hypoxemic respiratory failure | CPAP facemask (n = 62) vs. COT (n = 61) | Intubation: CPAP 34% vs. COT 39% (p = 0.53) – Timing not specified Mortality ICU: CPAP 21% vs. COT 25% (p = 0.63)"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "note",
+   "s": [
+    "Values are given in mean ± standard deviation or median [25 ème – 75 ème percentiles] Abbreviations: RCT = Randomized Controlled Trials; ICU = Intensive Care Unit; ED = Emergency Department; RF = Respiratory Failure; ARDS = Acute Respiratory Distress Syndrome; COPD = Chronic Obstructive Pulmonary Disease; CPE = Cardiogenic Pulmonary Edema; COT = Conventional Oxygen Therapy; HFNC = High-Flow Nasal Cannula oxygen therapy; NIV = Non-Invasive Ventilation; NS = Not Significant"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "caption",
+   "s": [
+    "Table 4 Main RCTs comparing NIV vs. COT or HFNC in acute hypoxemic respiratory failure"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Study, year N centers | N Patients | NIV vs. COT or HFNC | Outcomes"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Coudroy, 2022 29 ICUs | N = 299; Immuno- Compromised – COPD/CPE: No | NIV facemask + HFNC (n = 145) vs. HFNC (n = 154) | Intubation day-28: NIV 46% vs. HFNC 51% (p = 0.44) – Timing: NIV 29 h [9–72] vs. HFNC 20 h [5–58] (p = 0.24) Mortality day-28: NIV 35% vs. 36% (p = 0.83)"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Grieco, 2021 4 ICUs | N = 109; COVID-19 – COPD/CPE: No | NIV helmet (n = 55) vs. HFNC (n = 54) | Intubation: NIV 30% vs. HFNC 51% (p = 0.03) – Timing: NIV 29 h [8–71] vs. HFNC 21 h [4–65] (p = 0.45) Mortality day-28: NIV 15% vs. 18% (p = 0.80)"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Nair, 2021 1 ICU | N = 109; COVID-19 – COPD/CPE: No | NIV facemask (n = 54) vs. HFNC (n = 55) | Intubation day-7: NIV 46% (n = 25) vs. HFNC 27% (n = 15) (p = 0.045) – Timing not specified Mortality hospital: NIV 46% (n = 25) vs. 29% (n = 16) (p = 0.06)"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "He, 2019 21 ICUs | N = 200; Mild Acute Respiratory Distress Syndrome – COPD/CPE: No | NIV facemask (n = 102) vs. COT (n = 98) | Intubation: NIV 9% vs. COT 7% (p = 0.66) – Timing: NIV 4.7 ± 6.7 days vs. COT 2.6 ± 2.9 (p = 0.38) Mortality ICU: NIV 7% vs. 7% (p = 0.72)"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Doshi, 2018 5 EDs | N = 204; Acute hypoxemic respiratory failure – COPD: 39% | NIV facemask (n = 100) vs. HFNC (n = 104) | Intubation at 72 h: NIV 13% vs. HFNC 7% (p = 0.13) – Timing: NIV 2.5 h [1.0-6.4] vs. HFNC 4.0 h [2.1–5.5] (p = NS)"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Lemiale, 2015 28 ICUs | N = 374; Immuno- Compromised – COPD/CPE: No | NIV facemask ± HFNC (n = 191) vs. COT or HFNC (n = 183) | Intubation day-28: NIV 38% vs. COT or HFNC 45% (p = 0.20) – Timing not specified Mortality day-28: NIV 24% vs. 27% (p = 0.47)"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Frat, 2015 24 ICUs | N = 310; Acute hypoxemic respiratory failure – COPD/CPE: No | NIV facemask (n = 110) vs. COT (n = 94) or HFNC (n = 106) | Intubation day-28: NIV 50% vs. COT 47% or HFNC 38% (p = 0.18) – Timing: NIV 27 h [8–53] vs. COT 15 h [5–39] or HFNC 27 h [8–46] (p = 0.27) Mortality ICU: NIV 25% vs. COT 19% or HFNC 11% (p = 0.047)"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Zhan, 2012 10 ICUs | N = 40; Mild Acute Respiratory Distress Syndrome – COPD/CPE: No | NIV facemask (n = 21) vs. COT (n = 19) | Intubation: NIV 5% vs. COT 21% (p = 0.17) – Timing not specified Mortality ICU: NIV 5% vs. 26% (p = 0.08)"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Ferrer, 2003 3 ICUs | N = 105; Acute hypoxemic respiratory failure – CPE: 29% | NIV facemask (n = 51) vs. COT (n = 54) | Intubation: NIV 25% vs. COT 52% (p = 0.03) – Timing not specified Mortality ICU: NIV 18% vs. 39% (p = 0.03)"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Hilbert, 2001 1 ICU | N = 52 Immuno-compromised – COPD/CPE: No | NIV facemask (n = 26) vs. COT (n = 26) | Intubation: NIV 46% vs. COT 77% (p = 0.03) – Timing: NIV 63 ± 16 h vs. COT 51 ± 23 h (p = NS) Mortality ICU: NIV 38% vs. 69% (p = 0.03)"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Antonelli, 2000 1 ICU | N = 40 Immuno- compromised – CPE: 22.5% – Hypercapnia 25% | NIV facemask (n = 20) vs. COT (n = 20) | Intubation: NIV 20% vs. COT 70% (p = 0.02) – Timing not specified Mortality ICU: NIV 20% vs. 50% (p = 0.05)"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Martin, 2000 1 ICU | N = 61 Pneumonia – COPD: 38% | NIV facemask (n = 32) vs. COT (n = 29) | Intubation: NIV 28% vs. COT 59% (p = 0.02) – Timing not specified Mortality ICU: NIV 16% vs. 34% (p = 0.14)"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Confalonieri, 1999 3 ICUs | N = 56 Acute hypoxemic RF – COPD: 41% | NIV facemask (n = 28) vs. COT (n = 28) | Intubation: NIV 21% vs. COT 50% (p = 0.03) – Timing: NIV 44 ± 24 h vs. COT 42 ± 13 h (p = NS) Mortality hospital: NIV 25% vs. 21% (p = NS)"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Wood, 1998 1 ED | N = 27; Acute hypoxemic respiratory failure – CPE 37% - COPD 22% | NIV facemask (n = 16) vs. COT (n = 11) | Intubation: NIV 44% vs. COT 45% (p = 0.93) – Timing: NIV 26 ± 27 h vs. COT 4.8 ± 6.9 h (p = 0.055) Mortality hospital: NIV 25% vs. 0% (p = 0.12)"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Kramer, 1995 1 ICU | N = 31; Acute hypoxemic respiratory failure – COPD: 74% | NIV facemask (n = 16) vs. COT (n = 15) | Intubation: NIV 31% vs. COT 73% (p = 0.03) – Timing not specified Mortality hospital: NIV 6% vs. 13% (p = NS)"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "row",
+   "s": [
+    "Wysocki, 1995 1 ICU | N = 41; Acute hypoxemic respiratory failure – CPE 34% – Hypercapnia 41% | NIV facemask (n = 21) vs. COT (n = 20) | Intubation: NIV 62% vs. O 2 70% (p = 0.88) – Timing: NIV 16 ± 24 h vs. O 2 17 ± 25 h (p = 0.75) Mortality ICU: NIV 33% vs. O 2 50% (p = 0.46)"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Noninvasive respiratory supports for management of respiratory failure",
+   "kind": "note",
+   "s": [
+    "Values are given in mean ± standard deviation or median [25 ème – 75 ème percentiles] Abbreviations: RCT = Randomized Controlled Trials; ICU = Intensive Care Unit; ED = Emergency Department; RF = Respiratory Failure; ARDS = Acute Respiratory Distress Syndrome; COPD = Chronic Obstructive Pulmonary Disease; CPE = Cardiogenic Pulmonary Edema; COT = Conventional Oxygen Therapy; HFNC = High-Flow Nasal Cannula oxygen therapy; NIV = Non-Invasive Ventilation; NS = Not Significant"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > High-flow nasal cannula oxygen therapy (HFNC)",
+   "kind": "p",
+   "s": [
+    "While COT cannot deliver FiO 2 exceeding 60–70% in the upper airways , even with non-rebreathing facemask and especially in patients generating strong efforts, HFNC can achieve FiO 2 levels exceeding 80–90% .",
+    "Beyond improving oxygenation and enhancing comfort, dead space washout of the upper airways and, to a lesser extent, continuous delivery of low levels of positive airway pressure can reduce work of breathing as compared with COT .",
+    "Indeed, relief of respiratory workload could be the main objective of noninvasive respiratory supports in severe forms of respiratory failure, possibly leading to improved outcomes .",
+    "The FLORALI study was the seminal study, showing clinical benefits of HFNC as compared to COT or NIV in patients with acute hypoxemic respiratory failure .",
+    "Whereas the risk of mortality was significantly lower with HFNC as compared with COT or NIV, the risk of intubation decreased only in patients with moderate-to-severe hypoxemia (PaO 2 /FiO 2 ≤ 200 mm Hg), a finding suggesting that beneficial effects were more pronounced in patients with greater respiratory severity.",
+    "In another large-scale clinical trial including immunocompromised patients, HFNC did not show any difference in terms of intubation or mortality as compared with COT Another small-scale study reported lower intubation rates with HFNC than with COT .",
+    "Despite these contradictory results, clinical practice guidelines drawn up before the COVID-19 pandemic suggested the utilization of HFNC as opposed to COT or NIV in patients with acute hypoxemic respiratory failure, although this was only a conditional recommendation .",
+    "HFNC was widely used for management of respiratory failure during the COVID-19 pandemic.",
+    "The first retrospective observational studies conducted in China and then in Europe suggested decreased risk of intubation with HFNC as compared with COT, while no reduction in mortality was observed .",
+    "After which, 6 clinical trials compared HFNC vs. COT in acute hypoxemic respiratory failure due to COVID-19 (Table 2) .",
+    "Two of them showed lower intubation rates with HFNC without reduction of mortality , while a third one showed benefits on mortality or intubation but only in the subgroup of the most hypoxemic patients .",
+    "A recent meta-analysis pooling these randomized controlled trials confirmed that HFNC significantly reduced the risk of intubation compared with COT without changes in mortality rates in patients with respiratory failure due to COVID-19 .",
+    "However, early initiation of HFNC in the specific population with mild hypoxemia seems pointless, and HFNC should be considered mainly in patients with moderate-to-severe hypoxemia (PaO 2 /FiO 2 ratio ≤ 200 mm Hg) .",
+    "A large-scale clinical trial (1110 patients planned to be included) comparing HFNC and COT is currently ongoing in patients with moderate-to-severe hypoxemia and will probably make it possible to reinforce or not the recommendation for the use of HFNC as first-line therapy in acute hypoxemic respiratory failure (NCT04468126)."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Continuous positive airway pressure (CPAP)",
+   "kind": "p",
+   "s": [
+    "Whereas CPAP significantly improves oxygenation and increases end-expiratory lung volumes compared with COT and even HFNC, it has almost no effect on work of breathing in acute hypoxemic respiratory failure not related to cardiogenic pulmonary edema .",
+    "In 2000, a first clinical trial did not show any benefit of CPAP over COT (Table 3) .",
+    "Two other trials failed to show a decrease risk of intubation with CPAP delivered through a helmet vs. COT .",
+    "Thereafter, a small-scale clinical trial including 40 patients with hematologic malignancy found that CPAP decreased the need for intubation and mortality when administered early in the ward as compared with COT .",
+    "More recently, a large platform trial conducted during the COVID-19 pandemic showed significantly lower intubation rates with CPAP through a facemask as compared with COT, a difference not observed between HFNC and COT .",
+    "This trial revived the interest in this noninvasive respiratory support which was nonetheless not as frequently used for management of respiratory failure .",
+    "However, another clinical trial conducted during the COVID-19 pandemic did not replicate these results, showing similar intubation and mortality rates for CPAP, COT or HFNC .",
+    "However, these recent studies have highlighted frequent discomfort using CPAP, leading to discontinuation of this respiratory support in approximately 15 to 20% of cases .",
+    "Although discomfort may be lower when CPAP is delivered with a helmet, only a few small-scale clinical trials have compared CPAP-helmet vs. COT, with contradictory results ."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Noninvasive ventilation (NIV)",
+   "kind": "p",
+   "s": [
+    "The early 1990s saw the first studies demonstrating the benefits of NIV through a facemask over COT in patients with acute exacerbation of chronic obstructive pulmonary disease or cardiogenic pulmonary edema .",
+    "Later, in the 90–2000 s, several small-scale clinical trials involving patients with acute hypoxemic respiratory failure reported lower intubation rates with NIV compared COT (Table 4) .",
+    "From 2015, new clinical trials including larger populations (between 100 and more than 300 patients) compared NIV with HFNC .",
+    "None of them reported beneficial effects of NIV with facemask as compared to HFNC .",
+    "Two clinical trials have even shown deleterious effects of NIV with higher intubation or mortality rates than with HFNC ."
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Noninvasive ventilation (NIV)",
+   "kind": "p",
+   "s": [
+    "Whereas COT was used as control group in all the old studies showing beneficial effects of NIV , HFNC was used in more recent studies as a control group .",
+    "Given the potential superiority of HFNC over COT in reducing intubation , it is probably more difficult to show the superiority of NIV over HFNC than over COT.",
+    "Moreover, the older studies included heterogeneous populations with a number of patients with underlying chronic lung disease or with cardiogenic pulmonary edema , i.e. situations where NIV is particularly effective.",
+    "By contrast, these patients were systematically excluded in more recent studies .",
+    "Lastly, the number of included patients was markedly lower in older than in most recent studies, with results appearing particularly contradictory in immunocompromised patients .",
+    "Whereas two clinical trials conducted in 2000s showed superiority of NIV over COT on a sample of 40–50 patients , two large-scale trials conducted more recently and including approximately 300 patients did not find any superiority of NIV over COT or HFNC ."
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Noninvasive ventilation (NIV)",
+   "kind": "p",
+   "s": [
+    "The interface may also significantly impact the outcome of NIV.",
+    "Whereas NIV is most frequently delivered in ICUs with a facemask, it may also be delivered with a helmet.",
+    "Potential advantages of a helmet include delivering higher pressures (inspiratory and expiratory) than with a facemask due to fewer leaks, and more prolonged sessions of NIV due to a more comfortable interface without face pressure points .",
+    "Several physiological studies have shown that NIV through helmet improved oxygenation, decreased patient inspiratory effort and relieved dyspnea as compared to HFNC .",
+    "A recent clinical trial showed lower rates of intubation with NIV through helmet than with HFNC in patients with acute hypoxemic respiratory failure due to COVID-19 .",
+    "Two other randomized controlled trials have compared NIV through helmet versus NIV through facemask with contradictory results .",
+    "In a first trial including 83 patients, the risks of intubation and mortality significantly decreased with NIV-helmet as compared to NIV-facemask .",
+    "In a more recent trial including 320 patients with acute hypoxemic respiratory failure due to COVID-19, NIV-helmet did not decrease the risk of intubation or mortality as compared to usual respiratory supports that included NIV-facemask in approximately 70% of cases and HFNC in 75% of cases ."
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Noninvasive ventilation (NIV)",
+   "kind": "p",
+   "s": [
+    "Thereby, this strategy cannot be recommended to date, and further studies are needed to assess the clinical efficacy of this interface.",
+    "Indeed, even though NIV through helmet seems to be an effective noninvasive respiratory support in terms of oxygenation, work of breathing and relief of dyspnea, to date only one clinical trial has compared NIV through a helmet vs. HFNC .",
+    "However, a large-scale clinical trial (1200 patients planned to be included) comparing NIV through helmet, CPAP through helmet and HFNC in patients with acute respiratory failure is currently ongoing, and will probably make it possible to better specify the clinical benefits of each strategy, and the respective effects of the ventilation mode and the interface (NCT05089695)."
+   ]
+  },
+  {
+   "at": "b71",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Noninvasive ventilation (NIV)",
+   "kind": "p",
+   "s": [
+    "Lastly, it has been suggested that the magnitude of inspiratory effort relief under NIV may be a good predictor of NIV success .",
+    "However, measurement of inspiratory effort is not performed in daily practice and whether the escalation to NIV may be personalized according to a patient’s inspiratory effort remains to be determined ."
+   ]
+  },
+  {
+   "at": "b72",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Which first-line noninvasive respiratory support should we propose in acute hypoxemic respiratory failure?",
+   "kind": "p",
+   "s": [
+    "To summarize, HFNC seems superior over COT to avoid intubation and should probably be used as a first-line treatment in patients with acute hypoxemic respiratory failure requiring more than 6 L/min of oxygen (i.e. FiO 2 at least 40%) or PaO 2 /FiO 2 ≤ 200 mm Hg and a respiratory rate above 25 breaths per minute or clinical signs of respiratory distress, despite no benefits on mortality.",
+    "Given that its beneficial effects on intubation remain uncertain, especially when compared with HFNC, CPAP cannot currently be recommended as a first-line of noninvasive respiratory support strategy in patients with acute hypoxemic respiratory failure.",
+    "Despite older studies favoring NIV over COT, recent clinical trials fail to show beneficial effects with NIV as compared to HFNC.",
+    "Although HFNC is easier to use than NIV, it is not available in all units, especially in emergency rooms.",
+    "NIV or even CPAP may therefore be proposed as alternatives to COT in acute hypoxemic respiratory failure if HFNC is not available or in situations with constraints as was the case during the pandemic.",
+    "By contrast, there is no evidence to support the use of NIV or CPAP as first-line treatment if HFNC is available.",
+    "The main limitation of such recommendations could be their restricted applicability to low-income countries due to costs or constraints, the choice of the noninvasive respiratory support decided according to the availability on site."
+   ]
+  },
+  {
+   "at": "b73",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Is it the same in patients with do-not-intubate (DNI) order?",
+   "kind": "p",
+   "s": [
+    "Initiation of a noninvasive respiratory support in patients with acute hypoxemic respiratory failure and a do-not-intubate order is frequent.",
+    "In a systematic review of observational studies including more than 10,000 patients with acute respiratory failure treated with NIV or HFNC, the overall rate of do-not-intubate orders was 27% .",
+    "However, two clinical situations must be distinguished.",
+    "The first is when there is a reasonable prospect of survival.",
+    "In this case, the goal of the non-invasive respiratory support is hospital survival, even though a decision has been made to forgo intubation in case of respiratory worsening.",
+    "The second case scenario is an end-of-life setting and the goal of the treatment is symptom alleviation and quality of dying.",
+    "In the first situation, the choice should be the same as for patients with full resuscitation code leading to intubation in case of respiratory worsening.",
+    "In a systematic review including more than 2,000 patients with a do-not-intubate order, overall survival rate was 56% at hospital discharge and 32% at 1-year .",
+    "Whereas hospital survival reached 68% for chronic obstructive pulmonary disease and cardiogenic pulmonary edema, it was only 41% for pneumonia, and 37% for patients with malignancy.",
+    "Although few studies have evaluated the quality of life of survivors, it would not be altered when compared with baseline.",
+    "In a prospective observational cohort study, the prevalence of anxiety, depression, and post-traumatic stress disorder-related symptoms in patients with do-not-intubate order were similar to those who were treated without do-not-intubate order ."
+   ]
+  },
+  {
+   "at": "b74",
+   "path": "Noninvasive respiratory supports for management of respiratory failure > Is it the same in patients with do-not-intubate (DNI) order?",
+   "kind": "p",
+   "s": [
+    "In the end-of-life setting, a randomized controlled trial compared NIV vs. COT for management of acute respiratory failure in 200 patients with a life expectancy of less than 6 months .",
+    "Although dyspnea decreased more rapidly with NIV than with COT and morphine consumption was reduced, NIV was discontinued due to poor tolerance in 11% of cases, mainly related to mask intolerance and anxiety.",
+    "NIV impairs the ability to communicate, and therefore, does not appear to be compatible with the psychological and spiritual needs of patients in this setting.",
+    "Consequently, NIV cannot be recommended in terminally ill patients.",
+    "Several clinical trials have shown that HFNC was superior to COT for dyspnea alleviation, and reduced dyspnea to the same extent as NIV , and several observational studies have used HFNC in first-line treatment as an alternative to NIV .",
+    "Given its good tolerance and its efficacy on dyspnea, HFNC could be considered as the first-line noninvasive respiratory support for management of acute respiratory failure in end-of life settings."
+   ]
+  },
+  {
+   "at": "b75",
+   "path": "Other treatments",
+   "kind": "p",
+   "s": [
+    "Positioning and mobilization are part of the adjuvant treatments that can be offered in patients with acute hypoxemic respiratory failure."
+   ]
+  },
+  {
+   "at": "b76",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "p",
+   "s": [
+    "As prone positioning has been shown to improve survival in intubated patients with acute respiratory distress syndrome (ARDS) , during the COVID-19 pandemic “awake” prone positioning (APP) was used early in non-intubated patients with acute respiratory failure .",
+    "These first observational studies showed significant improvement in oxygenation and reduction in respiratory rate without major complications.",
+    "Following which, several clinical trials compared APP vs. usual care on the risk of intubation and mortality (Table 5) .",
+    "In these clinical trials, APP was started in ICUs or hospital wards, in patients treated with COT, HFNC or NIV, with a wide range of respiratory severity and APP duration.",
+    "Consequently, intubation rates ranged from 10 to 40%.",
+    "By pooling all RCTs, several meta-analyses showed that APP was associated with a significant decreased risk of intubation without improving survival .",
+    "In fact, these findings are mainly driven by one large meta-trial showing a decreased risk of intubation .",
+    "In this meta-trial pooling 6 different RCTs conducted in six countries and including 1111 patients, a decreased risk of intubation was significant in only one participating country (Mexico) where APP sessions were much longer.",
+    "A post-hoc analysis of this Mexican study suggested that APP sessions lasting at least 8 h/day were associated with treatment success .",
+    "With the exception of this study, no other randomized controlled trial has shown a significant reduction in the risk of intubation or mortality using APP.",
+    "However, thanks to this large-scale positive study, meta-analyses are favor APP, with beneficial effects on oxygenation and on the risk of intubation, especially using prolonged APP sessions in the most severe patients .",
+    "The potential benefits of APP on the risk of intubation in patients with COVID-19 cannot be extrapolated to patients with another etiology of acute hypoxemic respiratory failure.",
+    "Thus, further clinical trials are needed to assess APP in patients with acute hypoxemic respiratory failure from various causes."
+   ]
+  },
+  {
+   "at": "b77",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "caption",
+   "s": [
+    "Table 5 Main multicenter RCTs comparing awake prone positioning (APP) vs. standard position in acute hypoxemic respiratory failure due to COVID-19"
+   ]
+  },
+  {
+   "at": "b78",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Study, year N patients – centers | Noninvasive respiratory support and APP duration | Outcomes"
+   ]
+  },
+  {
+   "at": "b79",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Nay, 2023 (103) N = 267–12 centers | Under COT (96%) or HFNC: usual care (n = 132) vs. APP (n = 135) for 90 min/d [30–133] | Intubation: APP 7% vs. 10% (p = NS) Mortality: APP 0% vs. 3% (p = NS)"
+   ]
+  },
+  {
+   "at": "b80",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Alhazzani, 2022 (104) N = 400–21 centers | Under HFNC (70%), COT, or NIV: usual care (n = 195) vs. APP (n = 205) for 4.8 h/d [1.8-8.0] | Intubation day-30: APP 34% vs. 41% (p = NS) Mortality day-60: APP 22% vs. 24% (p = NS)"
+   ]
+  },
+  {
+   "at": "b81",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Fralick, 2022 (105) N = 248–15 centers | Under HFNC or NIV: usual care (n = 122) vs. APP (n = 126) for 6 h [1.5–12.8] within the first 72 h | Intubation: APP 5% vs. 4% (p = NS) Mortality: APP 1% vs. 1% (p = NS)"
+   ]
+  },
+  {
+   "at": "b82",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Gopalakrishnan, 2022 (106) N = 502–1 center | Room air or COT: usual care (n = 245) vs. APP (n = 257) for 4.3 h ± 2.9/d | Intubation: APP 10% vs. 10% (p = NS) Mortality: APP 16% vs. 15% (p = NS)"
+   ]
+  },
+  {
+   "at": "b83",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Qian, 2022 (107) N = 501–2 centers | Under COT (66%), NIV or HFNC: usual care (n = 243) vs. APP (n = 258) for 4.2 h/d [1.8–6.7] | Intubation: APP 12% vs. 12% (p = NS) Mortality: APP 21% vs. 23% (p = NS)"
+   ]
+  },
+  {
+   "at": "b84",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Rosén, 2021 (108) N = 75–3 centers | Under HFNC or NIV: standard (n = 39) vs. APP (n = 36) for 9.0 h/d [4.4–10.6] | Intubation day-30: APP 33% vs. 33% (p = NS) Mortality day-30: APP 17% vs. 8% (p = NS)"
+   ]
+  },
+  {
+   "at": "b85",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "row",
+   "s": [
+    "Ehrmann, 2021 (109) N = 1111–6 countries | Under HFNC: standard (n = 557) vs. APP (n = 564) for 5.0 h/d [1.6–8.8] | Intubation day-28: APP 33% vs. 40% (p = 0.004) Mortality day-28: APP 21% vs. 24% (p = NS)"
+   ]
+  },
+  {
+   "at": "b86",
+   "path": "Other treatments > What are the potential beneficial effects of awake prone positioning (APP)?",
+   "kind": "note",
+   "s": [
+    "Values are given in mean ± standard deviation or median [25 ème – 75 ème percentiles] Abbreviations: RCT = Randomized Controlled Trials; APP = Awake Prone Positioning; COT = Conventional Oxygen Therapy; HFNC = High-Flow Nasal Cannula oxygen therapy; NIV = Non-Invasive Ventilation; NS = Not Significant"
+   ]
+  },
+  {
+   "at": "b87",
+   "path": "Other treatments > Is physiotherapy a beneficial adjuvant measure?",
+   "kind": "p",
+   "s": [
+    "To date, no randomized controlled trial has assessed the impact of physiotherapy in patients with acute hypoxemic respiratory failure.",
+    "However, some techniques can be proposed to improve the clinical condition or comfort of patients during the management of respiratory failure.",
+    "Motor physiotherapy such as exercises in bed, sitting on a chair, cycloergometer could help to reduce the shunt effect caused by parenchymal consolidations through alveolar recruitment.",
+    "Several studies have evaluated the effects of physical activity on lung aeration using electrical impedance tomography .",
+    "In these studies, however, the changes in ventilation distribution were not sustained over time and regressed after the various interventions.",
+    "[set aside: names guidance a model may not read]",
+    "Bronchial clearance techniques should be reserved for patients with bronchial congestion and sputum difficulties.",
+    "Respiratory physiotherapy should be tailored rather than routinely offered to all patients with acute hypoxemic respiratory failure.",
+    "Among the various techniques used for respiratory physiotherapy, none has been shown to be superior to another, and the choice of the technique must take into account the patient’s tolerance, preference and clinical condition .",
+    "However, the physiotherapist can legitimately participate in the installation and monitoring of devices such as aerosol therapy or non-invasive ventilation .",
+    "In all cases, the benefit-risk balance should be evaluated before and during each physiotherapy session."
+   ]
+  },
+  {
+   "at": "b88",
+   "path": "Indications for invasive mechanical ventilation > Patient self-inflicted lung injury associated with noninvasive respiratory supports",
+   "kind": "p",
+   "s": [
+    "After several small-scale studies showing beneficial effects of NIV, a large-scale clinical trial including more than 300 patients showed for the first time higher mortality rates with NIV than with HFNC .",
+    "A post-hoc analysis of this study suggested that large tidal volumes generated by the patient from NIV initiation (exceeding 9.5 ml/kg of predicted body weight) were associated with increased risk of death .",
+    "This finding was consistent with another observational study , and that gave birth to the concept of “PSILI” for Patient Self-Inflicted Lung Injury .",
+    "Patients producing strong inspiratory efforts generate large tidal volumes under NIV, and that may lead to worsening of lung injury by increasing transpulmonary pressures, in the same way that large tidal volumes are harmful in patients with ARDS under invasive mechanical ventilation .",
+    "However, such large tidal volumes observed in patients treated with NIV may simply reflect respiratory disease severity, and one cannot exclude the possibility that effects of NIV may be different according to severity.",
+    "An observational study suggested that NIV may be associated with an increased risk of death in the most severe patients, i.e. patients with ARDS and a PaO 2 /FiO 2 ratio below 150 mm Hg .",
+    "Similarly, another observational study showed that patients who still had significant inspiratory efforts after NIV initiation had increased risk of intubation as compared to the others .",
+    "Although tidal volumes do not increase when switching form COT to HFNC , patients with strong inspiratory efforts could still develop lung injury, regardless of the type of noninvasive respiratory support .",
+    "Up until now, no clinical trial has shown any benefit to switch from a noninvasive respiratory support to another according to tidal volumes or intensity of effort."
+   ]
+  },
+  {
+   "at": "b89",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "p",
+   "s": [
+    "Most clinical trials comparing different noninvasive respiratory supports have proposed pre-specified criteria for intubation to ensure the consistency of indications across sites and reduce the risk of delayed intubation.",
+    "Criteria for intubation usually include worsening respiratory failure, hemodynamic failure and neurological failure.",
+    "Major and minor criteria for intubation were determined by experts using a Delphi method and proposed to the guideline panel (Table 6).",
+    "The presence of only one major criterion should lead to consider immediate intubation whereas a combination of several minor criteria should prompt intubation."
+   ]
+  },
+  {
+   "at": "b90",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "caption",
+   "s": [
+    "Table 6 Major and minor criteria for intubation proposed to the committee using Delphi method.",
+    "The presence of only one major criterion should lead to consider immediate intubation whereas combination of several minor criteria should prompt intubation"
+   ]
+  },
+  {
+   "at": "b91",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "Major criteria"
+   ]
+  },
+  {
+   "at": "b92",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "- Cardiac or respiratory arrest"
+   ]
+  },
+  {
+   "at": "b93",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "- Altered consciousness defined as a Glasgow coma scale < 9"
+   ]
+  },
+  {
+   "at": "b94",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "- Persistent hypoxemia despite maximal oxygen delivery or maximal inspired fraction of oxygen (FiO 2) defined as PaO 2 < 60 mm Hg, PaO 2 /FiO 2 < 60 mm Hg, or SpO 2 < 88%"
+   ]
+  },
+  {
+   "at": "b95",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "- Respiratory acidosis defined as pH < 7.20"
+   ]
+  },
+  {
+   "at": "b96",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "Minor criteria"
+   ]
+  },
+  {
+   "at": "b97",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "1.",
+    "Clinical signs of Respiratory distress with increased accessory muscle activity"
+   ]
+  },
+  {
+   "at": "b98",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "2.",
+    "Increased respiratory rate > 30 breaths per minute"
+   ]
+  },
+  {
+   "at": "b99",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "3.",
+    "Persistent hypoxemia despite maximal oxygen delivery or maximal inspired fraction of oxygen (FiO 2) defined as PaO 2 < 100 mm Hg; PaO 2 /FiO 2 < 100 mm Hg; or SpO 2 < 92%"
+   ]
+  },
+  {
+   "at": "b100",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "4.",
+    "Episodes of oxygen desaturation defined as SpO 2 < 86%"
+   ]
+  },
+  {
+   "at": "b101",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "5.",
+    "Intolerance to device delivering oxygen"
+   ]
+  },
+  {
+   "at": "b102",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "6.",
+    "Abundant secretions"
+   ]
+  },
+  {
+   "at": "b103",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "7.",
+    "Respiratory acidosis defined as pH < 7.30"
+   ]
+  },
+  {
+   "at": "b104",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "8.",
+    "Agitation"
+   ]
+  },
+  {
+   "at": "b105",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "9.",
+    "Altered consciousness defined as Glasgow coma scale < 12"
+   ]
+  },
+  {
+   "at": "b106",
+   "path": "Indications for invasive mechanical ventilation > Criteria for intubation",
+   "kind": "row",
+   "s": [
+    "10.",
+    "Shock requiring with increased lactate level at least 2 mmol/L"
+   ]
+  },
+  {
+   "at": "b107",
+   "path": "Indications for invasive mechanical ventilation > Timing of intubation",
+   "kind": "p",
+   "s": [
+    "Several observational studies have suggested that late or delayed intubation may be associated with increased risk of death .",
+    "However, there may be a major bias of interpretation between late intubation and delayed intubation.",
+    "Delayed intubation means a delay between occurrence of criteria for intubation and the decision to intubate.",
+    "Late intubation can occur without being delayed, for example when criteria for intubation emerge later due to secondary worsening.",
+    "An observational study including more than 800 patients treated with NIV has showed that patients intubated early (i.e. within the first 12 h after ICU admission) had markedly higher severity at admission than those intubated later .",
+    "However, the severity assessed at the time of intubation was similar for both early and late intubations, meaning that intubation was late but not delayed.",
+    "Thereby, late intubation could be associated with worse outcomes simply because it indicates failure of the initial treatment.",
+    "Randomized controlled trials are the best way to answer the question of whether the use of noninvasive respiratory supports risks delaying intubation.",
+    "Among all randomized controlled trials that compared HFNC vs. COT, none showed significantly later intubation with HFNC than with COT (Table 2).",
+    "Similarly, among all randomized controlled trials that compared NIV vs. HFNC or COT, none showed significant later intubation than with one of those respiratory supports (Table 4).",
+    "Only one RCT showed later intubation with CPAP than with COT in patients with respiratory failure due to COVID-19, knowing that 40% of patients were treated in the hospital wards and not in ICUs due to a wave of the pandemic (Table 3) .",
+    "Therefore, although late intubation per-se may be associated with poor outcomes, randomized controlled trials do not show that noninvasive respiratory supports may lead to late or delayed intubation."
+   ]
+  },
+  {
+   "at": "b108",
+   "path": "Indications for invasive mechanical ventilation > Where to manage patients receiving noninvasive respiratory support?",
+   "kind": "p",
+   "s": [
+    "The huge influx of ICU patients during the COVID-19 pandemic led intensivists to treat a large number of patients with noninvasive respiratory supports outside ICUs due to the limited number of available beds .",
+    "These patients were treated in wards with HFNC, CPAP or NIV, and only those requiring intubation were admitted to an ICU, with intubation rates around 30–40% .",
+    "In an observational study including 608 patients in 10 hospitals in the Netherlands during the pandemic, initiation of HFNC outside ICUs was shown to be safe, and intubation or mortality rates did not differ between patients treated first in ICUs and those treated first outside ICUs .",
+    "In a French observational study, 85 patients with acute hypoxemic respiratory failure due to COVID-19 received open valve CPAP treatment in intermediate care units from non-ICU staff who were trained using a simple short tutorial video .",
+    "In a retrospective study conducted in Italy before the pandemic, patients were treated with CPAP or NIV outside ICUs without major complication .",
+    "However, these patients were managed by a rapid response team with a daily visit in collaboration with ward staff highly experienced in noninvasive respiratory supports.",
+    "The pandemic has shown that initiation of noninvasive respiratory support outside ICUs was feasible and potentially safe for patients with respiratory failure, especially when the hospital faces such constraints.",
+    "However, intubation rates in patients with acute hypoxemic respiratory failure range from 30 to 50%, and in more than half of cases occur within the first 24 h (Tables 2 and 3 and Table 4).",
+    "Therefore, these patients should be closely monitored in ICUs rather than in wards, if ICU beds are available."
+   ]
+  },
+  {
+   "at": "b109",
+   "path": "Conclusion",
+   "kind": "p",
+   "s": [
+    "Oxygen supplementation should be initiated for patients with acute hypoxemic respiratory failure defined as PaO 2 below 60 mm Hg or SpO 2 < 90% on room air.",
+    "HFNC should be the first-line noninvasive respiratory support in patients with moderate-to-severe hypoxemia (PaO 2 /FiO 2 ≤ 200 mm Hg).",
+    "Further studies are needed to assess potential benefits of CPAP, NIV through a helmet and awake prone position, especially in patients with acute hypoxemic respiratory failure not related to COVID-19."
+   ]
+  },
+  {
+   "at": "b110",
+   "path": "Declarations > Ethics approval and consent to participate",
+   "kind": "p",
+   "s": [
+    "Not applicable."
+   ]
+  }
+ ]
+}

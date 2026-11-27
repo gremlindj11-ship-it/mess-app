@@ -1,27 +1,29 @@
-# Aortic stenosis from open sources only: record (27 Nov 2026)
+# Aortic stenosis from open sources only: record (26 Nov 2026)
 
-Writer: GPT (through Codex, 27 Nov 2026). GPT therefore cannot be a checker here.
+Writer: Claude (the unattended content line, 26 Nov 2026). Claude therefore cannot be a checker here. Checkers still to run: two models that are not Claude, through the "Gemini fact check" Action with `condition: content/open/aortic-stenosis`, or by hand with `--packet` (planted faults are mixed in by the tool).
+
+Level reached: **mapped, first statements written and quote-checked. Nothing is agreed and nothing is in the app.**
+
+## Why this topic
+`content/coverage.md` does not exist; `content/open/queue.md` is the ordered list. Its first five rows are Codex's (`codex/open-atrial-fibrillation`), hyperlipidaemia and pulmonary embolism are done by this line, so aortic stenosis is the top row with no folder on any branch.
 
 ## Sources (saved copies in `content/open-sources/`)
+| Short name | Source | Licence |
+|---|---|---|
+| CR | Calcific Aortic Stenosis: A Review on Acquired Mechanisms of the Disease and Treatments (2021), pmc8486019 | CC BY 4.0 |
+| EC | Echocardiographic Evaluation of Aortic Stenosis: A Comprehensive Review (2023), pmc10417789 | CC BY 4.0 |
+| NV | NHS website: Heart valve disease (updated 22 Jan 2025) | OGL v3 |
+| RH | Recent Advances in the Rheumatic Fever and Rheumatic Heart Disease Continuum (2022), pmc8878614 | CC BY 4.0 |
 
-| Short name | Source | Licence | Updated |
-|---|---|---|---|
-| N1 | NHS website, Heart valve disease (`nhs-heart-valve-disease`) | OGL-UK-3.0 | 22 Jan 2025 |
-| N2 | NHS website, Heart valve replacement (`nhs-aortic-valve-replacement`, read with no statement drawn from it) | OGL-UK-3.0 | Not stated |
-| A | Zebhi et al., Calcific Aortic Stenosis—A Review on Acquired Mechanisms of the Disease and Treatments, Frontiers in Cardiovascular Medicine (`pmc8486019`) | CC-BY-4.0 | 17 Sep 2021 |
-| E | Manzo et al., Echocardiographic Evaluation of Aortic Stenosis: A Comprehensive Review, Diagnostics (`pmc10417789`) | CC-BY-4.0 | 29 Jul 2023 |
-| R | Rwebembera et al., Recent Advances in the Rheumatic Fever and Rheumatic Heart Disease Continuum, Pathogens (`pmc8878614`) | CC-BY-4.0 | 28 Jan 2022 |
-| R2 | Rheumatic heart disease anno 2020: Impacts of gender and migration on epidemiology and management (`pmc7757241`, read with no statement drawn from it) | CC-BY-4.0 | 29 Aug 2020 |
-
-## What was kept from a model
-
-- `find-open.mjs show` hid the sentences set aside in the saved copies.
+All four were already saved and in the register. Sources were read only with `node tools/find-open.mjs show`. The NHS heart valve replacement page saved as `nhs-aortic-valve-replacement` holds only its contents list, so it gave nothing. Sentences in the reviews that report ACC/AHA or ESC guideline recommendations were not used.
 
 ## How it was written
+- The checklist (`coverage.csv`, 41 items, including the Confused with, Often missed, Why and Elsewhere in the world groups) was written first, before any source was read. It is one model's list, not a curriculum document.
+- 79 statements in `statements.src.txt`; `check-open.mjs --fill` copied every quote, and the check without `--fill` confirms each is word for word.
+- The NHS page is about heart valve disease in general; statements from it say "heart valve disease, such as aortic stenosis" rather than claiming the NHS said it of aortic stenosis alone.
+- Nothing clinical was written from memory.
 
-- The 43-item checklist in `coverage.csv` was written before opening the saved sources. All 24 statements name the sentence addresses from which `check-open.mjs --fill` copied their quotes.
-- Management statements use the NHS heart valve disease page and keep its general scope. The rheumatic heart disease statements keep the settings named in that review.
-
-## Not covered by anything found
-
-See `coverage.md` and the `p` markers in `statements.src.txt`. Gaps include the murmur and other examination findings, ECG and chest X-ray findings, the role of CT calcium scoring, aortic disease with a bicuspid valve, prognosis after symptoms develop, and why exertion can cause syncope. The NHS valve replacement copy is an index. It did not supply severity thresholds, aortic stenosis-specific prescribing or replacement criteria, selection for transcatheter intervention, or advice for older people with frailty. The rheumatic review describes late presentation in endemic settings but does not give an aortic stenosis-specific estimate for those settings.
+## Not covered by anything saved
+Nothing found: the murmur and where it radiates; signs of severe disease (slow-rising pulse, narrow pulse pressure, soft second sound); aortic sclerosis; other causes of chest pain and fainting; why exertion causes fainting; why the second sound goes soft.
+Thin: ECG and chest X-ray (only the NHS valve disease test list), UK choice between TAVI and surgery, UK follow-up intervals. These should link to the guideline.
+Next source to find: a CC BY review of the clinical assessment of aortic stenosis on Europe PMC. `find-open.mjs search` got "503 Service Unavailable" on 26 Nov, so none was searched for or saved.

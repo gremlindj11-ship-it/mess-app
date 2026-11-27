@@ -2,58 +2,56 @@
 
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
-- Statements written: 24. Checked by at least one checker: 0. **Agreed by two: 0.**
-- Checklist items: 43. **With an agreed statement: 0.** Partly: 0. Written but not agreed: 31. Nothing found in the sources: 12.
+- Statements written: 79. Checked by at least one checker: 0. **Agreed by two: 0.**
+- Checklist items: 41. **With an agreed statement: 0.** Partly: 0. Written but not agreed: 35. Nothing found in the sources: 6.
 
 | Source | Statements | Agreed |
 |---|---|---|
-| pmc10417789 | 10 | 0 |
-| pmc8486019 | 4 | 0 |
-| nhs-heart-valve-disease | 8 | 0 |
-| pmc8878614 | 2 | 0 |
+| nhs-heart-valve-disease | 7 | 0 |
+| pmc8486019 | 32 | 0 |
+| pmc10417789 | 37 | 0 |
+| pmc8878614 | 3 | 0 |
 
 | # | Area | Item | State | Statement rows |
 |---|---|---|---|---|
-| 1 | Definition and measurement | What aortic stenosis is | written, not agreed | 2 |
-| 2 | Definition and measurement | Valve area and Doppler measures used to grade severity | written, not agreed | 3 |
-| 3 | Definition and measurement | Thresholds for grading severity | nothing found |  |
-| 4 | Causes and risk factors | Degenerative calcification | written, not agreed | 2 |
-| 5 | Causes and risk factors | Bicuspid aortic valve | written, not agreed | 4 |
-| 6 | Causes and risk factors | Rheumatic aortic valve disease | written, not agreed | 5 |
-| 7 | Causes and risk factors | Risk factors for developing calcific aortic stenosis | written, not agreed | 6 |
-| 8 | Pathophysiology | Left ventricular pressure overload and hypertrophy | written, not agreed | 7 |
-| 9 | Pathophysiology | Progression from remodelling to left ventricular dysfunction | written, not agreed | 7 |
-| 10 | Presentation | Breathlessness, angina and syncope | written, not agreed | 8 |
-| 11 | Presentation | Character and radiation of the systolic murmur | written, not agreed | 8 |
-| 12 | Presentation | Carotid pulse and second heart sound findings | nothing found |  |
-| 13 | Presentation | Features of heart failure in advanced disease | written, not agreed | 9 |
-| 14 | Presentation | Asymptomatic disease | written, not agreed | 10 |
-| 15 | Assessment | Role of transthoracic echocardiography | written, not agreed | 11 |
-| 16 | Assessment | What the ECG and chest X-ray may show | nothing found |  |
-| 17 | Assessment | How to approach discordant Doppler measurements | written, not agreed | 12 |
-| 18 | Assessment | Role of dobutamine stress echocardiography in low-flow disease | written, not agreed | 13 |
-| 19 | Assessment | Role of CT aortic valve calcium scoring | nothing found |  |
-| 20 | Lifestyle | Advice about physical activity | written, not agreed | 14 |
-| 21 | Lifestyle | Heart-healthy lifestyle advice during follow-up | written, not agreed | 14 |
-| 22 | Drug treatment | What medicines can achieve in aortic stenosis | written, not agreed | 15 |
-| 23 | Drug treatment | Prescribing cautions in severe aortic stenosis | nothing found |  |
-| 24 | Valve replacement | When aortic valve replacement is considered | written, not agreed | 16 |
-| 25 | Valve replacement | Transcatheter aortic valve implantation | nothing found |  |
-| 26 | Valve replacement | Surgical replacement and the choice of prosthesis | written, not agreed | 16 |
-| 27 | Emergencies and referral | Symptoms that require emergency assessment | written, not agreed | 17 |
-| 28 | Emergencies and referral | When suspected aortic stenosis needs specialist review | written, not agreed | 18 |
-| 29 | Special groups | Associated aortic disease in people with a bicuspid valve | nothing found |  |
-| 30 | Special groups | Aortic stenosis in pregnancy | written, not agreed | 19 |
-| 31 | Special groups | Frailty and suitability for intervention in older people | nothing found |  |
-| 32 | Outcomes | Progression and follow-up of asymptomatic disease | written, not agreed | 20 |
-| 33 | Outcomes | Complications including heart failure | written, not agreed | 9 |
-| 34 | Outcomes | Prognosis after symptoms develop | nothing found |  |
-| 35 | Telling it apart | Aortic sclerosis and obstructive aortic stenosis on echocardiography | nothing found |  |
-| 36 | Confused with | Hypertrophic obstructive cardiomyopathy and its murmur | written, not agreed | 21 |
-| 37 | Confused with | An apical aortic stenosis murmur and the murmur of mitral regurgitation | nothing found |  |
-| 38 | Often missed | Severe low-flow low-gradient stenosis with a preserved ejection fraction | written, not agreed | 22 |
-| 39 | Often missed | Symptoms concealed by reducing activity | written, not agreed | 23 |
-| 40 | Why | Why exertion can cause syncope | nothing found |  |
-| 41 | Why | Why angina can occur without obstructive coronary disease | written, not agreed | 7 |
-| 42 | Elsewhere in the world | Aortic stenosis as part of valve disease in rheumatic-endemic settings | written, not agreed | 24 |
-| 43 | Elsewhere in the world | Barriers to recognising rheumatic valve disease where echocardiography is hard to access | written, not agreed | 25 |
+| 1 | Definition | What aortic stenosis is (narrowing of the aortic valve opening) | written, not agreed | 2, 3, 4 |
+| 2 | Definition | How common it is and that it rises with age | written, not agreed | 3, 5, 6, 7 |
+| 3 | Causes and risk factors | Age-related calcific (degenerative) valve disease as the usual cause in older adults | written, not agreed | 8 |
+| 4 | Causes and risk factors | Bicuspid aortic valve as a cause in younger people | written, not agreed | 9, 10, 13 |
+| 5 | Causes and risk factors | Rheumatic heart disease as a cause | written, not agreed | 11 |
+| 6 | Causes and risk factors | Shared risk factors with atherosclerosis (age, smoking, high cholesterol, high blood pressure, diabetes) | written, not agreed | 14, 15 |
+| 7 | Pathophysiology | How the valve narrows over time (calcification and fibrosis) | written, not agreed | 4, 16, 17, 18 |
+| 8 | Pathophysiology | Pressure overload and left ventricular hypertrophy | written, not agreed | 19, 20 |
+| 9 | Pathophysiology | Progression from compensated to heart failure | written, not agreed | 21, 22, 23, 76 |
+| 10 | Symptoms | Classic symptoms: chest pain (angina), breathlessness, fainting or dizziness on exertion | written, not agreed | 24, 25 |
+| 11 | Symptoms | Long symptom-free period and symptoms appearing late | written, not agreed | 26 |
+| 12 | Signs | Ejection systolic murmur radiating to the carotids | nothing found |  |
+| 13 | Signs | Signs of severe disease: slow-rising pulse, narrow pulse pressure, soft second heart sound | nothing found |  |
+| 14 | Investigations | Echocardiography to diagnose and grade severity | written, not agreed | 28, 29, 30 |
+| 15 | Investigations | Severity measures: peak velocity, mean gradient, valve area | written, not agreed | 31, 32, 33, 34, 35, 36 |
+| 16 | Investigations | ECG, chest X-ray, CT calcium score and exercise testing in asymptomatic disease | written, not agreed | 45, 46, 47, 48 |
+| 17 | Investigations | Low-flow low-gradient aortic stenosis | written, not agreed | 41, 42, 43, 44 |
+| 18 | Grading | Mild, moderate and severe aortic stenosis | written, not agreed | 37, 38, 39, 40 |
+| 19 | Management | Watchful waiting and regular echo follow-up in asymptomatic disease | written, not agreed | 54 |
+| 20 | Management | Valve replacement for severe symptomatic aortic stenosis | written, not agreed | 53, 61 |
+| 21 | Management | Surgical aortic valve replacement (SAVR) | written, not agreed | 55, 56 |
+| 22 | Management | Transcatheter aortic valve implantation (TAVI) | written, not agreed | 57 |
+| 23 | Management | Choosing between SAVR and TAVI (age and surgical risk) | written, not agreed | 58, 59, 60 |
+| 24 | Management | Mechanical versus biological (tissue) valves and anticoagulation | written, not agreed | 62, 63, 64 |
+| 25 | Management | No medicine stops progression | written, not agreed | 51, 52, 53 |
+| 26 | Management | Balloon valvuloplasty | written, not agreed | 65, 66, 67, 68 |
+| 27 | Prognosis | Poor outlook once symptoms start without valve replacement | written, not agreed | 74, 75 |
+| 28 | Complications | Heart failure, arrhythmias, sudden death | written, not agreed | 69 |
+| 29 | Complications | Complications of TAVI or surgery (stroke and pacemaker need) | written, not agreed | 70, 71, 72 |
+| 30 | Complications | Heyde's syndrome (bleeding from the gut with aortic stenosis) | written, not agreed | 73 |
+| 31 | Confused with | Aortic sclerosis (valve thickening without obstruction) | nothing found |  |
+| 32 | Confused with | Hypertrophic cardiomyopathy (another cause of outflow obstruction and an ejection murmur) | written, not agreed | 49, 50 |
+| 33 | Confused with | Other causes of chest pain and fainting (coronary disease) | nothing found |  |
+| 34 | Often missed | Symptoms put down to old age, or people cutting back activity to avoid them | written, not agreed | 27, 45 |
+| 35 | Often missed | Aortic stenosis found as a murmur in someone with no symptoms | written, not agreed | 26 |
+| 36 | Often missed | Endocarditis risk and dental hygiene with a replaced valve | written, not agreed | 77 |
+| 37 | Why | Why exertion causes fainting (fixed outflow cannot raise output) | nothing found |  |
+| 38 | Why | Why angina occurs without coronary disease (thick muscle needs more oxygen) | written, not agreed | 20 |
+| 39 | Why | Why the second heart sound becomes soft | nothing found |  |
+| 40 | Elsewhere in the world | Rheumatic aortic valve disease where rheumatic fever is common | written, not agreed | 11, 12, 78 |
+| 41 | Elsewhere in the world | Access to valve replacement where resources are short | written, not agreed | 78, 79, 80 |

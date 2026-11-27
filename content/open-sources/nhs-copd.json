@@ -1,0 +1,586 @@
+{
+ "id": "nhs-copd",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+ "fetched_from": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+ "title": "Chronic obstructive pulmonary disease (COPD)",
+ "updated": "2026-11-02",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-27",
+ "sha256": "d0cecad42081b7b601c45f90396982d46e45af4736f3ffbb34893e2d111c929e",
+ "sentences": 78,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Chronic obstructive pulmonary disease (COPD) is a condition that affects your lungs and causes coughing and shortness of breath.",
+    "There is no cure, but treatments can help."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Symptoms of chronic obstructive pulmonary disease (COPD) include:"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "shortness of breath during or after activities you used to do easily, such as walking uphill"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "a cough that does not go away and has mucus (phlegm)"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "frequent chest infections"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "The symptoms of COPD usually start gradually and get worse over time.",
+    "For example, when COPD reaches an advanced stage, you may find you're short of breath all the time."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "p",
+   "s": [
+    "You may have times when your symptoms get worse.",
+    "These are known as COPD flare-ups."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "p",
+   "s": [
+    "Flare-ups can be triggered by:"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "li",
+   "s": [
+    "chest infections"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "li",
+   "s": [
+    "breathing in smoke"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "li",
+   "s": [
+    "breathing in a strong smell from things like cleaning products, hairspray or perfume"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Symptoms of chronic obstructive pulmonary disease (COPD) > COPD flare-ups",
+   "kind": "li",
+   "s": [
+    "very hot, cold or windy weather, high pollen or high humidity"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Chronic obstructive pulmonary disease (COPD) is caused by damage to your airways and lungs."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "This can include inflammation of your main breathing tubes (chronic bronchitis) or damage to tiny air sacs inside your lungs (emphysema)."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "You may be more likely to get COPD if you:"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "smoke, or have smoked in the past"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "have a job where you might breathe in dust, fumes, chemicals, or other types of pollution"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Causes of chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "had a lung condition as a child, such as asthma, or regularly breathed in other people’s cigarette smoke"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help",
+   "kind": "p",
+   "s": [
+    "It's important to get medical help if you think you have chronic obstructive pulmonary disease (COPD)."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you're getting out of breath doing things that never used to take much effort"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you've been coughing for 3 weeks or more"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you keep getting chest infections"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have chronic obstructive pulmonary disease (COPD) and you're more short of breath than usual"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're coughing up blood"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have pain or swelling in 1 of your legs"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have heart palpitations – this may feel like your heart is racing, going too slowly or skipping a beat, or like a fluttering feeling in your chest"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have severe difficulty breathing – you’re gasping, choking or not able to get words out"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "your chest feels tight or heavy"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have pain that spreads to your arms, back, neck and jaw"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "your lips or skin are turning very pale, blue or grey – on brown or black skin, this may be easier to see on the palms of the hands"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you feel suddenly confused – for example, you do not know where you are"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive yourself to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Chronic obstructive pulmonary disease (COPD) > When and where to get medical help > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "If a GP thinks you may have chronic obstructive pulmonary disease (COPD), they will ask if you smoke and what sort of job you have."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "You may need tests, including:"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "spirometry tests (a type of breathing test) to check how much air you breathe out"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "a chest X-ray"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "li",
+   "s": [
+    "blood tests"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Tests for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "These tests are used to see how well your lungs are working and to check for any problems."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "There is no cure for chronic obstructive pulmonary disease (COPD), but there are treatments."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "p",
+   "s": [
+    "It’s likely you’ll be offered different medicines to help with symptoms of COPD."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "p",
+   "s": [
+    "These could include:"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "li",
+   "s": [
+    "tablets or a liquid you swallow to make your mucus thinner, so it’s easier to cough up"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "li",
+   "s": [
+    "inhalers that contain medicines to help widen your airways (bronchodilators)"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "li",
+   "s": [
+    "inhalers that contain steroids you can use during a COPD flare-up"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "p",
+   "s": [
+    "If your symptoms do not improve after trying these treatments, you may be offered medicines that you inject, called biologics."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Medicines",
+   "kind": "p",
+   "s": [
+    "Your doctor may give you some antibiotics and steroids to keep at home to use if you have a chest infection.",
+    "This is called a rescue pack."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Airway clearance devices",
+   "kind": "p",
+   "s": [
+    "Your care team may offer you an airway clearance device.",
+    "This is a small handheld device you breathe into."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Airway clearance devices",
+   "kind": "p",
+   "s": [
+    "It can help keep your airways open and clear the mucus out of them."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Home oxygen therapy",
+   "kind": "p",
+   "s": [
+    "You may be offered home oxygen therapy if other treatments do not help."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Home oxygen therapy",
+   "kind": "p",
+   "s": [
+    "Home oxygen therapy involves breathing in air that contains more oxygen than normal through a mask or tube connected to a device in your home."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Nebuliser",
+   "kind": "p",
+   "s": [
+    "A nebuliser is a machine that delivers COPD medicines as a fine mist, so they can reach your lungs faster.",
+    "You may be treated with a nebuliser if you're admitted to a hospital."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Nebuliser",
+   "kind": "p",
+   "s": [
+    "Nebulisers are available to buy, but there is no evidence they work better than inhalers for most people with COPD."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Surgery",
+   "kind": "p",
+   "s": [
+    "Rarely, you may be offered surgery to help treat COPD if your symptoms are very bad, or other treatments are not helping."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Surgery",
+   "kind": "p",
+   "s": [
+    "Surgery usually involves removing damaged areas of your lungs so the undamaged parts can work better."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Treatments for chronic obstructive pulmonary disease (COPD) > Find out more",
+   "kind": "li",
+   "s": [
+    "Treatments and medicines for COPD (Asthma + Lung UK)"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Managing chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Making lifestyle changes can help you manage chronic obstructive pulmonary disease (COPD)."
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Managing chronic obstructive pulmonary disease (COPD) > Do quit smoking if you smoke – it's the main thing you can do to improve COPD try to increase your activity levels with regular, gentle exercise, such as walking, cycling, yoga and tai chi keep a diary of things that can cause flare-ups – this can help you avoid triggers have your flu and COVID vaccinations Pulmonary rehabilitation",
+   "kind": "p",
+   "s": [
+    "Your doctor may also offer to refer you for pulmonary rehabilitation.",
+    "This is usually a 6- to 8-week course where you learn about how COPD affects your body and how exercises can help with symptoms."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Managing chronic obstructive pulmonary disease (COPD) > Find out more",
+   "kind": "li",
+   "s": [
+    "Keeping active with a lung condition (Asthma + Lung UK)"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Managing chronic obstructive pulmonary disease (COPD) > Find out more",
+   "kind": "li",
+   "s": [
+    "Pulmonary rehabilitation (Asthma + Lung UK)"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Chronic obstructive pulmonary disease (COPD) can affect you physically and mentally."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "Tell your doctor if you think living with COPD is affecting your mental health as they can help."
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "You may also find it helpful to get support from other people with COPD.",
+    "This could be done in person, or online if you prefer."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD)",
+   "kind": "p",
+   "s": [
+    "There are also national charities that can offer support and information about COPD."
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD) > Asthma + Lung UK",
+   "kind": "p",
+   "s": [
+    "Asthma + Lung UK is a charity for people who are living with lung conditions."
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD) > Asthma + Lung UK",
+   "kind": "li",
+   "s": [
+    "Website: https://www.asthmaandlung.org.uk/"
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD) > Asthma + Lung UK",
+   "kind": "li",
+   "s": [
+    "Helpline: 0300 222 5800"
+   ]
+  },
+  {
+   "at": "b69",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD) > Asthma + Lung UK",
+   "kind": "li",
+   "s": [
+    "Living with a lung condition (Asthma + Lung UK)"
+   ]
+  },
+  {
+   "at": "b70",
+   "path": "Chronic obstructive pulmonary disease (COPD) > Help and support for chronic obstructive pulmonary disease (COPD) > Asthma + Lung UK",
+   "kind": "li",
+   "s": [
+    "Groups + support (Asthma + Lung UK)"
+   ]
+  }
+ ]
+}
