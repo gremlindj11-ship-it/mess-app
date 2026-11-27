@@ -164,8 +164,8 @@ function pageBundle(o = {}) {
   } catch (e) { return null; }
 }
 // The bundle as plain text for a model.
-function bundleText(b) {
-  return `the topic ${b.topic}, step ${b.k + 1} of ${b.steps}: "${b.step}".\nThe big idea of the page: ${b.idea}\nMess's points for this step, each with its source in brackets:\n${b.points.map(p => '- ' + p.t + ' [' + p.src + ']' + (p.deeper ? ' (go deeper)' : '')).join('\n')}${b.cut ? '\n(More points on this step were left out for length.)' : ''}\nSources: ${b.credits.map(c => c.t).join(' | ')}${b.moreCredits ? ' | (more are listed on the page)' : ''}${b.guess ? '\nThis page opens with a guess-first question they have not answered yet. Do not give its answer away unless they ask for it.' : ''}${b.sel ? '\nThey selected this text: "' + b.sel + '"' : ''}${b.notes.length ? '\nTheir own notes on this topic (written by the student, not checked by Mess): ' + b.notes.join(' ') : ''}`;
+function bundleText(b, notify = true) {
+  return `the topic ${b.topic}, step ${b.k + 1} of ${b.steps}: "${b.step}".\nThe big idea of the page: ${b.idea}\nMess's points for this step, each with its source in brackets:\n${b.points.map(p => '- ' + p.t + ' [' + p.src + ']' + (p.deeper ? ' (go deeper)' : '')).join('\n')}${b.cut ? '\n(More points on this step were left out for length.)' : ''}\nSources: ${b.credits.map(c => c.t).join(' | ')}${b.moreCredits ? ' | (more are listed on the page)' : ''}${b.guess ? '\nThis page opens with a guess-first question they have not answered yet. Do not give its answer away unless they ask for it.' : ''}${b.sel ? '\nThey selected this text: "' + aiOut(b.sel, false) + '"' : ''}${b.notes.length ? '\nTheir own notes on this topic (written by the student, not checked by Mess): ' + aiOut(b.notes.join(' '), notify) : ''}`;
 }
 const BUNDLE_RULE = ' If their question is about this page, answer from Mess\'s points for this step first. If you add anything that is not in those points, say plainly that it is not from Mess\'s page and that they should check it.';
 // The two lines under "Ask or search" that say where the ? thinks you are. Redrawn after every render and on scroll,

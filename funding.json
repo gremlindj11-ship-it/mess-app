@@ -42,12 +42,6 @@
   "funding": {
     "channels": [
       {
-        "guid": "github-sponsors",
-        "type": "payment-provider",
-        "address": "https://github.com/sponsors/gremlindj11-ship-it",
-        "description": "GitHub Sponsors, one-time or monthly."
-      },
-      {
         "guid": "bank",
         "type": "bank",
         "description": "Bank transfer; details on request from hello@messmed.co.uk."
@@ -63,7 +57,6 @@
         "currency": "USD",
         "frequency": "one-time",
         "channels": [
-          "github-sponsors",
           "bank"
         ]
       },
@@ -71,12 +64,11 @@
         "guid": "any-amount",
         "status": "active",
         "name": "Support Mess",
-        "description": "Any amount, once or monthly, to keep Mess free.",
+        "description": "Any amount, to keep Mess free.",
         "amount": 0,
         "currency": "USD",
-        "frequency": "monthly",
+        "frequency": "one-time",
         "channels": [
-          "github-sponsors",
           "bank"
         ]
       }

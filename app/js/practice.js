@@ -162,7 +162,7 @@ Object.assign(act, {
   rxcal: () => { const n = parseFloat($('#rxcal').value); ui.rx.calc = $('#rxcal').value; rxLog('Calculate', n === 10 ? 1 : 0, 1); ui.rx.calcMsg = (n === 10 ? 'Correct. ' : 'Not quite. ') + '500 ÷ 250 = 2, and 2 × 5 mL = 10 mL.'; render(); },
   rxpick: (v) => { if (ui.rx.pick === null) rxLog('Interpret', +v === 2 ? 1 : 0, 1); ui.rx.pick = +v; render(); },
   rxstats: () => { db.rxStatsOn = !db.rxStatsOn; save(); render(); },
-  csend: async () => { const t = val('cin'); if (!t) return; ui.chat.push({ me: true, text: t }, { me: false, text: '...' }); render(); const st = STYLES[db.cStyle], pre = (st ? st.p : 'You are a consultant with this manner: ' + db.cStyle + '.') + CONSULTANT_BASE + ((db.profile.name || '').trim() ? ' The student is called ' + db.profile.name.trim() + '. Use their name now and then, not every message.' : ''); const last = ui.chat[ui.chat.length - 1]; try { last.text = await callAI(pre, toTurns(ui.chat.slice(0, -1))); } catch (e) { last.text = aiMsg(e); } render(); }
+  csend: async () => { const t = val('cin'); if (!t) return; ui.chat.push({ me: true, text: t }, { me: false, text: '...' }); render(); const st = STYLES[db.cStyle], pre = (st ? st.p : 'You are a consultant with this manner: ' + aiOut(db.cStyle) + '.') + CONSULTANT_BASE + ((db.profile.name || '').trim() ? ' The student is called ' + db.profile.name.trim() + '. Use their name now and then, not every message.' : ''); const last = ui.chat[ui.chat.length - 1]; try { last.text = await callAI(pre, toTurns(ui.chat.slice(0, -1))); } catch (e) { last.text = aiMsg(e); } render(); }
 });
 Object.assign(act, {
   qgo2: (v) => { ui.mode = 'Questions'; ui.q.only = null; go('Practice'); act.qgo(v); }

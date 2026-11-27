@@ -434,3 +434,5 @@ details:not([open])>.ddmenu{display:none}
 /* The link back to the page you came from */
 .camefrom,.tag.camefrom,.slink.camefrom{background:var(--soft);color:#0E1B33;box-shadow:0 0 0 1.5px #0E1B33;border-radius:4px}.tag.camefrom{border-radius:999px}
 .fromtop{margin:4px 0 8px;display:flex;align-items:center;gap:6px}.fromtop .tag{min-height:32px;padding:0 12px}
+
+.ask.askthis{width:auto;min-width:0;padding:0 18px;border-radius:26px;font-size:15px;white-space:nowrap}
