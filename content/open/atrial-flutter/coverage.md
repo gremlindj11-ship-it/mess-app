@@ -3,7 +3,7 @@
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
 - Statements written: 23. Checked by at least one checker: 23. **Agreed by two: 23.**
-- Checklist items: 36. **With an agreed statement: 9.** Partly: 9. Written but not agreed: 0. Nothing found in the sources: 18.
+- Checklist items: 38. **With an agreed statement: 9.** Partly: 9. Written but not agreed: 0. Nothing found in the sources: 20.
 
 | Source | Statements | Agreed |
 |---|---|---|
@@ -47,3 +47,5 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 34 | Why | Why an organised atrial circuit causes rapid activation | agreed | 7, 12, 13, 14 |
 | 35 | Why | Why ventricular rate differs from atrial rate | agreed | 19, 22 |
 | 36 | Why | Why rate control can be difficult | nothing found |  |
+| 37 | Elsewhere in the world | Regional burden and presentation of atrial flutter | nothing found |  |
+| 38 | Elsewhere in the world | Detection and care of atrial flutter where resources are limited | nothing found |  |
