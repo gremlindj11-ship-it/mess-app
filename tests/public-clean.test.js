@@ -18,7 +18,9 @@ for (const f of all) {
   if (/(^|\/)\.env(\.|$)|\.pem$|id_rsa|\.p12$/.test(f)) errs.push('a file that usually holds a secret: ' + f);
 }
 // 2. The frozen file is empty, and nothing is recorded as a frozen statement.
-if (fs.existsSync('app')) errs.push('the app is in the copy: it stays private until its older files have sources');
+// The app is public since 27 Nov 2026 (Sofia: "Going public through mess-app"), but never with frozen material in it:
+// no old evidence, no frozen packs, and the frozen stories file holds only comments (checked below).
+for (const f of all) if (/^private\//.test(f) || /^packs\/(copd-set|af-essentials)/.test(f) || /^site-img\//.test(f)) errs.push('frozen material: ' + f);
 const fz = fs.existsSync('app/assets/frozen.js') ? read('app/assets/frozen.js') : ''; if (/Object\.assign|STORIES|NOTES/.test(fz.replace(/^\/\/.*$/gm, ''))) errs.push('app/assets/frozen.js is not empty');
 const ids = JSON.parse(read('content/rights-frozen.json')).ids; if (Object.values(ids).some(a => a.length)) errs.push('content/rights-frozen.json lists frozen statements');
 // 3. No citation of a frozen source as the basis of content. A citation is a source tag: "NICE NG136", "[BTS 2023 ...]",

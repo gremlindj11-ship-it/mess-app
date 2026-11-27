@@ -1,0 +1,477 @@
+{
+ "id": "nhs-cellulitis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/cellulitis/",
+ "fetched_from": "https://www.nhs.uk/conditions/cellulitis/",
+ "title": "Cellulitis",
+ "updated": "2024-04-18",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "633e15b8084d3e454026aea61343d072cd19ebc26900dd70bb6b6d20132296f7",
+ "sentences": 60,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Cellulitis",
+   "kind": "p",
+   "s": [
+    "Cellulitis is a skin infection that's treated with antibiotics.",
+    "It can be serious if it's not treated quickly."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Cellulitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your skin is painful, hot and swollen"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Cellulitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "Early treatment with antibiotics can stop cellulitis becoming more serious."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Cellulitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "Cellulitis makes your skin painful, hot and swollen.",
+    "The area usually looks red, but this may be less obvious on brown or black skin.",
+    "Your skin may also be blistered."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "You may also feel unwell and have flu-like symptoms, with swollen, painful glands."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "You can get cellulitis on any part of your body but it's more common on your lower limbs."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252466/view"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/608470/view"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "Casa nayafana https://www.shutterstock.com/image-photo/cellulitis-right-lower-limb-685424695"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Cellulitis > Symptoms of cellulitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI / SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252613/view"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "For mild cellulitis affecting a small area of skin, a doctor will prescribe antibiotic tablets, usually for a week."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "Your symptoms might get worse in the first 48 hours of treatment, but should then start to improve."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "Contact your GP if you do not start to feel better 2 to 3 days after starting antibiotics."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "It's important to keep taking antibiotics until they're finished, even when you feel better."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "Most people make a full recovery after 7 to 10 days."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Cellulitis > Treatment for cellulitis",
+   "kind": "p",
+   "s": [
+    "If cellulitis is severe, you might be referred to hospital for treatment."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Cellulitis > Treatment for cellulitis > To stop cellulitis coming back",
+   "kind": "p",
+   "s": [
+    "Some people with recurring cellulitis might be prescribed low-dose long-term antibiotics to stop infections coming back."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "p",
+   "s": [
+    "As well as taking antibiotics for cellulitis, you can help speed up your recovery by:"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "taking paracetamol or ibuprofen for the pain"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "raising the affected body part on a pillow or chair when you're sitting or lying down, to reduce swelling"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "regularly moving the joint near the affected body part, such as your wrist or ankle, to stop it getting stiff"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "drinking plenty of fluids to avoid dehydration"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "not wearing compression stockings until you're better"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "p",
+   "s": [
+    "You can reduce the chances of getting cellulitis again by:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "keeping skin clean and well moisturised"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "cleaning any cuts or wounds and using antiseptic cream"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "preventing cuts and scrapes by wearing appropriate clothing and footwear"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Cellulitis > Things you can do to help with cellulitis",
+   "kind": "li",
+   "s": [
+    "wearing gloves if working outside"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Cellulitis > Complications of cellulitis",
+   "kind": "p",
+   "s": [
+    "If cellulitis is not treated quickly, the infection can spread to other parts of the body, such as the blood, muscles and bones."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "You have cellulitis with:"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "a very high temperature, or you feel hot, cold or shivery"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "a fast heartbeat or fast breathing"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "purple patches on your skin, but this may be less obvious on brown or black skin"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "feeling dizzy or faint"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "confusion or disorientation"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "cold, clammy or pale skin"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "unresponsiveness or loss of consciousness"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "These are symptoms of serious complications, which can be life threatening."
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Cellulitis > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "Cellulitis is usually caused by a bacterial infection."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "The bacteria can infect the deeper layers of your skin if it's broken, for example, because of an insect bite or cut, or if it's cracked and dry."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "Sometimes the break in the skin is too small to notice."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "You cannot catch cellulitis from another person, as it affects the deeper layers of the skin."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "You're more at risk of cellulitis if you:"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "have poor circulation in your arms, legs, hands or feet, for example, because you're overweight"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "find it difficult to move around"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "have a weakened immune system, for example, because of chemotherapy treatment or diabetes"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "have lymphoedema, which causes fluid build-up under the skin"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "inject drugs"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "have a wound from surgery"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "li",
+   "s": [
+    "have had cellulitis before"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Cellulitis > How you get cellulitis",
+   "kind": "p",
+   "s": [
+    "People who are more at risk of cellulitis should treat athlete's foot promptly."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Cellulitis > Social care and support guide",
+   "kind": "p",
+   "s": [
+    "Our guide to care and support explains your options and where you can get support if you:"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Cellulitis > Social care and support guide",
+   "kind": "li",
+   "s": [
+    "need help with day-to-day living because of illness or disability"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Cellulitis > Social care and support guide",
+   "kind": "li",
+   "s": [
+    "care for someone regularly because they're ill or disabled or because of their age, including family members"
+   ]
+  }
+ ]
+}

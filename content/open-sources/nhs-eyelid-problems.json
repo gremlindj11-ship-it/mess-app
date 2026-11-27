@@ -1,0 +1,299 @@
+{
+ "id": "nhs-eyelid-problems",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/eyelid-problems/",
+ "fetched_from": "https://www.nhs.uk/conditions/eyelid-problems/",
+ "title": "Eyelid problems",
+ "updated": "2023-11-17",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "5fa4dc4e19a0ca0b7e2c4cf12b1cb3607146e7929aecb2d2c6ef4878eb659e7a",
+ "sentences": 36,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Eyelid problems",
+   "kind": "p",
+   "s": [
+    "Find out what to do if you have a lump on your eyelid, or an eyelid that's swollen, sticky, itchy or painful."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "p",
+   "s": [
+    "Many eyelid problems are not serious."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "p",
+   "s": [
+    "It's fairly common to have any of these problems:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "li",
+   "s": [
+    "a lump that goes away by itself after several days or weeks"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "li",
+   "s": [
+    "mildly itchy, flaky or sticky eyelids that clear up by themselves"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "li",
+   "s": [
+    "swelling from a nearby insect bite, injury or operation that goes away after a week or so"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "li",
+   "s": [
+    "twitching or blinking from time to time – often when you're tired"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Eyelid problems > Most eyelid problems are harmless",
+   "kind": "li",
+   "s": [
+    "eyelids that droop (or get more \"hooded\") as you get older"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "p",
+   "s": [
+    "Your symptoms might give you an idea of what's causing your eyelid problem.",
+    "But do not self-diagnose – see a pharmacist, GP or optician."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Eyelid problem | Possible cause"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Lump or swelling on eyelid | Stye or meibomian cyst (chalazion)"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Itchy, flaky, sticky or swollen eyelid | Allergy, blepharitis, or conjunctivitis"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Yellow lump or patch on eyelid | Xanthelasma (yellow patches sometimes caused by high cholesterol)"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Eyelid turning outwards or inwards | Ectropion or entropion"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "tr",
+   "s": [
+    "Hot, painful and swollen eyelid | Cellulitis"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Eyelid problems > Types of eyelid problems",
+   "kind": "p",
+   "s": [
+    "There is separate information about twitching eyelids."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Eyelid problems > A pharmacist can help with eyelid problems",
+   "kind": "p",
+   "s": [
+    "You can ask a pharmacist about:"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Eyelid problems > A pharmacist can help with eyelid problems",
+   "kind": "li",
+   "s": [
+    "what you can do to treat common eyelid problems, like a stye or conjunctivitis, yourself"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Eyelid problems > A pharmacist can help with eyelid problems",
+   "kind": "li",
+   "s": [
+    "if you can buy anything to help – for example, cleaning solutions for sticky eyelids"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Eyelid problems > A pharmacist can help with eyelid problems",
+   "kind": "li",
+   "s": [
+    "if you need to see an optician or GP"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Eyelid problems > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you're worried about an eyelid problem"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Eyelid problems > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "your eyelid symptoms are not improving or they're lasting a long time"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Eyelid problems > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have yellow lumps or patches around your eyes"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your swollen eyelid is red, hot, painful, tender or blistered"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your eyelid droops suddenly"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you cannot open your eye or keep it open"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "the pain is in your eye (not your eyelid)"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "the white of your eye is very red, in part or all over"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have eye symptoms and a headache or you feel sick or are being sick"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "a newborn baby (less than 1 month old) has a sticky, red eye"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you're sensitive to light (photophobia)"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your eyesight changes – for example, you have blurred vision and see wavy flashing lights, zigzag patterns or coloured spots or lines"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have a very high temperature, feel hot, cold or shivery, or you feel generally unwell"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you think it's an allergic reaction"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Eyelid problems > Urgent advice: Ask for an urgent GP or optician appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  }
+ ]
+}

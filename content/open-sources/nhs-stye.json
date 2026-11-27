@@ -1,0 +1,270 @@
+{
+ "id": "nhs-stye",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/stye/",
+ "fetched_from": "https://www.nhs.uk/conditions/stye/",
+ "title": "Stye",
+ "updated": "2024-04-18",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "4059afa7e5801720c2fd1dd4f5e0d4c7a40a3368547989d36643e8010c617a5c",
+ "sentences": 35,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Stye",
+   "kind": "p",
+   "s": [
+    "A stye is a small, painful lump on the eyelid.",
+    "They're common and should go away within a week.",
+    "Styes are rarely a sign of anything serious, but may be painful until they heal."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "Cn Boon / Alamy Stock Photo https://www.alamy.com/stock-photo-eye-stye-14783282.html?pv=1&stamp=2&imageid=9AEC8DFF-2B63-49E1-95E3-559FC938EDC2&p=14162&n=0&orientation=0&pn=1&searchtype=0&IsFromSearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d3%26resultview%3dsortbyRelevant%26npgs%3d0%26qt%3dstye%26qt_raw%3dstye%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xFF%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveQry%3d%26editorial%3d%26nu%3d%26t%3d%26edoptin%3d%26bespoke%3d4%26customgeoip%3dGB%26apaid%3d%7b18B189B6-6A83-41BD-8442-2448A6B7E281%7d%26custspecid%3d14369B5F-24B7-4344-B743-D5DE569A1F46%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "WESTERN OPHTHALMIC HOSPITAL/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252333/view"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "FRANCOISE SAUZE/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/252669/view"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "A stye usually only affects 1 eye, but it's possible to have more than 1 at a time and on both eyes."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "It's probably not a stye if:"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "li",
+   "s": [
+    "there's no lump – if your eye or eyelid is swollen, red and watery it's more likely to be conjunctivitis or blepharitis"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "li",
+   "s": [
+    "the lump is hard but not very painful – this is more likely to be a chalazion"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Stye > Symptoms of a stye",
+   "kind": "p",
+   "s": [
+    "Find out more about chalazions on the Moorfields Eye Hospital website"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "p",
+   "s": [
+    "To reduce swelling and help the stye heal:"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "li",
+   "s": [
+    "Soak a clean flannel in warm water."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "li",
+   "s": [
+    "Hold it against your eye for 5 to 10 minutes."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "li",
+   "s": [
+    "Repeat this 2 to 4 times a day."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "p",
+   "s": [
+    "To relieve the pain, take painkillers such as paracetamol or ibuprofen.",
+    "Do not give aspirin to children under 16."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Stye > How you can treat a stye yourself",
+   "kind": "p",
+   "s": [
+    "Avoid wearing contact lenses and eye make-up until the stye has burst and healed."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Stye > How you can treat a stye yourself > Important: Do not burst a stye",
+   "kind": "p",
+   "s": [
+    "Do not try to burst a stye or remove an eyelash yourself.",
+    "This can spread the infection."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Stye > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "a stye does not get better within a few weeks"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Stye > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "a stye is very painful or swollen"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Stye > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "it affects your vision"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Stye > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your eye is producing pus"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Stye > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "the infection has spread to your eye or eyelid"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Stye > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Stye > Treatment from a GP",
+   "kind": "p",
+   "s": [
+    "If you have a stye, the GP may:"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Stye > Treatment from a GP",
+   "kind": "li",
+   "s": [
+    "burst the stye with a thin, sterilised needle"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Stye > Treatment from a GP",
+   "kind": "li",
+   "s": [
+    "remove the eyelash closest to the stye"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Stye > Treatment from a GP",
+   "kind": "li",
+   "s": [
+    "refer you to an eye specialist in hospital"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Stye > How to prevent a stye",
+   "kind": "p",
+   "s": [
+    "You can help avoid stye by keeping your eyes clean."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Stye > How to prevent a stye",
+   "kind": "p",
+   "s": [
+    "Styes are often caused by bacteria infecting an eyelash follicle or eyelid gland."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Stye > How to prevent a stye",
+   "kind": "p",
+   "s": [
+    "You're also more likely to get a stye if you have long-term blepharitis or rosacea."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Stye > How to prevent a stye > Do wash your face and remove eye make-up before bed keep your eyelids and eyelashes clean, especially if you have blepharitis wash your hands before putting contact lenses in or taking them out Don’t",
+   "kind": "li",
+   "s": [
+    "do not share towels or flannels with someone who has a stye"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Stye > How to prevent a stye > Do wash your face and remove eye make-up before bed keep your eyelids and eyelashes clean, especially if you have blepharitis wash your hands before putting contact lenses in or taking them out Don’t",
+   "kind": "li",
+   "s": [
+    "do not rub your eyes if you have not recently washed your hands"
+   ]
+  }
+ ]
+}

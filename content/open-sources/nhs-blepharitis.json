@@ -1,0 +1,277 @@
+{
+ "id": "nhs-blepharitis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/blepharitis/",
+ "fetched_from": "https://www.nhs.uk/conditions/blepharitis/",
+ "title": "Blepharitis",
+ "updated": "2025-06-12",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "62e124cae44e48f5b81ff6a0286a83fa5ed90151bea4a64265e50b08f5af3687",
+ "sentences": 35,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Blepharitis",
+   "kind": "p",
+   "s": [
+    "Blepharitis causes swollen, itchy eyelids.",
+    "It's not usually serious and can often be treated by washing your eyelids every day."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "p",
+   "s": [
+    "Blepharitis symptoms often come and go."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "p",
+   "s": [
+    "Symptoms of blepharitis include:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "li",
+   "s": [
+    "sore eyelids"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "li",
+   "s": [
+    "itchy eyes"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "li",
+   "s": [
+    "a gritty feeling in the eyes"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "li",
+   "s": [
+    "flakes or crusts around the roots of the eyelashes"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "li",
+   "s": [
+    "eyelids sticking together in the morning when you wake up"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Blepharitis > Symptoms of blepharitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/256626/view"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Blepharitis > Symptoms of blepharitis > If you're not sure it's blepharitis",
+   "kind": "p",
+   "s": [
+    "Find out more about eyelid problems"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > Do clean your eyelids twice a day continue to clean your eyes, even if your symptoms clear up Don’t",
+   "kind": "li",
+   "s": [
+    "do not wear contact lenses while you have symptoms"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > Do clean your eyelids twice a day continue to clean your eyes, even if your symptoms clear up Don’t",
+   "kind": "li",
+   "s": [
+    "do not use eye makeup, especially eyeliner and mascara, while you have symptoms"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > How to clean your eyes",
+   "kind": "li",
+   "s": [
+    "Soak a clean flannel or cotton wool in warm water and place it on your closed eyelid for 5 to 10 minutes."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > How to clean your eyes",
+   "kind": "li",
+   "s": [
+    "Gently massage your eyelids for around 30 seconds."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > How to clean your eyes",
+   "kind": "li",
+   "s": [
+    "Clean your eyelids using cotton wool or a cotton bud.",
+    "It might help to use a small amount of baby shampoo in water.",
+    "Gently wipe along the edge of your eyelids to remove any flakes or crusts."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > A pharmacist can help with blepharitis",
+   "kind": "p",
+   "s": [
+    "A pharmacist might be able to suggest things to help keep your eyelids clean, including:"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > A pharmacist can help with blepharitis",
+   "kind": "li",
+   "s": [
+    "eye pads and wipes"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Blepharitis > Things you can do to treat and prevent blepharitis > A pharmacist can help with blepharitis",
+   "kind": "li",
+   "s": [
+    "eyedrops"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Blepharitis > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "blepharitis symptoms do not improve, or get worse"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Blepharitis > Treatment for blepharitis from a GP",
+   "kind": "p",
+   "s": [
+    "A GP might suggest using an antibiotic cream or ointment that you rub on your eyelid if your blepharitis does not clear up after cleaning your eyelids regularly."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Blepharitis > Treatment for blepharitis from a GP",
+   "kind": "p",
+   "s": [
+    "If blepharitis has caused other problems, such as a lump of fluid under the skin (cyst), antibiotic eyedrops or tablets may be recommended."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Blepharitis > Treatment for blepharitis from a GP",
+   "kind": "p",
+   "s": [
+    "If your blepharitis is severe, or if you also have other eye symptoms, the GP may refer you to an eye specialist (ophthalmologist)."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Blepharitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "pain in your eyes"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Blepharitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "changes to your vision, such as vision loss or blurred vision"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Blepharitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "very red eyes"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Blepharitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "These can be signs of a more serious eye problem."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Blepharitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Blepharitis > Causes of blepharitis",
+   "kind": "p",
+   "s": [
+    "Blepharitis can be caused by:"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Blepharitis > Causes of blepharitis",
+   "kind": "li",
+   "s": [
+    "a type of bacteria that lives on the skin"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Blepharitis > Causes of blepharitis",
+   "kind": "li",
+   "s": [
+    "a skin condition, such as seborrhoeic dermatitis"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Blepharitis > Causes of blepharitis",
+   "kind": "li",
+   "s": [
+    "the glands inside the eyelids not producing enough oil"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Blepharitis > Causes of blepharitis",
+   "kind": "p",
+   "s": [
+    "Blepharitis cannot be spread to other people."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "id": "nhs-glaucoma",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/glaucoma/",
+ "fetched_from": "https://www.nhs.uk/conditions/glaucoma/",
+ "title": "Glaucoma",
+ "updated": "2025-06-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "747dae8ee3f03901c3e558edee9a2ea315be757066620c6179312dc2b549ef5e",
+ "sentences": 75,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Glaucoma",
+   "kind": "p",
+   "s": [
+    "Glaucoma is an eye condition where the main nerve, which connects the eye to the brain, becomes damaged.",
+    "It's most common in adults aged 50 and over and can cause vision loss if it's not diagnosed and treated early."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "p",
+   "s": [
+    "Glaucoma does not usually have symptoms and most people do not realise they have it.",
+    "It develops slowly over many years and is usually picked up during routine eye tests."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "p",
+   "s": [
+    "Glaucoma usually affects both eyes, but it may be worse in 1 eye."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "p",
+   "s": [
+    "Sometimes glaucoma can develop suddenly and cause symptoms such as:"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "intense eye pain"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "a red eye"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "tenderness around the eyes"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "seeing rainbow-coloured circles around bright lights"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "blurred vision"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "feeling sick (nausea) and being sick"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "li",
+   "s": [
+    "a headache"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Glaucoma > Symptoms of glaucoma",
+   "kind": "p",
+   "s": [
+    "Other conditions can cause similar symptoms, including uveitis and an eye injury."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Glaucoma > Non-urgent advice: See a GP or optician if:",
+   "kind": "li",
+   "s": [
+    "you have any concerns about your vision"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Glaucoma > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you develop symptoms of glaucoma suddenly"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Glaucoma > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "This is a medical emergency that may require immediate treatment."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Glaucoma > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Glaucoma > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Glaucoma > Tests for glaucoma",
+   "kind": "p",
+   "s": [
+    "Glaucoma is usually found during a routine eye test, often before it causes any symptoms."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Glaucoma > Tests for glaucoma",
+   "kind": "p",
+   "s": [
+    "If you're told you have glaucoma, you should be referred to a specialist eye doctor (ophthalmologist) for further tests."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Glaucoma > Tests for glaucoma > Regular eye tests",
+   "kind": "p",
+   "s": [
+    "Everyone should have regular eye tests, at least every 2 years."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Glaucoma > Tests for glaucoma > Regular eye tests",
+   "kind": "p",
+   "s": [
+    "If you're at a higher risk of glaucoma – for example if you have a brother, sister or parent with it – you may be advised to have eye tests more often."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Glaucoma > Tests for glaucoma > Regular eye tests",
+   "kind": "p",
+   "s": [
+    "You can get an eye test at a local opticians, and the tests are carried out by an optometrist."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Glaucoma > Tests for glaucoma > Regular eye tests",
+   "kind": "p",
+   "s": [
+    "Some people can receive free eye tests on the NHS."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Glaucoma > Tests for glaucoma > Find out more",
+   "kind": "li",
+   "s": [
+    "Glaucoma UK: glaucoma diagnosis"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "p",
+   "s": [
+    "There's currently no cure for glaucoma, but there are treatments that can slow down the damage and help stop your vision getting worse."
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "p",
+   "s": [
+    "The treatment you'll have depends on how your sight is affected and the type of glaucoma you have."
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "p",
+   "s": [
+    "Treatment may include:"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "li",
+   "s": [
+    "eye drops – to decrease the amount of fluid in the eye and help it drain"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "li",
+   "s": [
+    "laser treatment – to decrease the amount of fluid in the eye"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "li",
+   "s": [
+    "surgery – there are several different types of operation to treat glaucoma"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Glaucoma > Treatment for glaucoma",
+   "kind": "p",
+   "s": [
+    "You'll have follow-up appointments to monitor your eyes and check that treatment is working.",
+    "It's important not to miss any of these appointments."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Glaucoma > Treatment for glaucoma > Find out more",
+   "kind": "li",
+   "s": [
+    "Glaucoma UK: treatments and surgery"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "p",
+   "s": [
+    "Glaucoma is usually caused by a build-up of pressure in the eye.",
+    "This happens when the fluid in your eye cannot drain as it should."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "p",
+   "s": [
+    "This increase in pressure damages the nerve that connects the eye to the brain (optic nerve)."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "p",
+   "s": [
+    "Sometimes the pressure in the eye is in the normal range but damage is still caused to the optic nerve."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "p",
+   "s": [
+    "It's not always known why this happens, but your risk may be higher if:"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "li",
+   "s": [
+    "you're over 50 years old"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "li",
+   "s": [
+    "you have a brother, sister or parent with glaucoma"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "li",
+   "s": [
+    "you're from a Black African, Caribbean or Asian background"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Glaucoma > Causes of glaucoma",
+   "kind": "li",
+   "s": [
+    "you have other medical conditions – such as short-sightedness, long-sightedness or diabetes"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Glaucoma > Types of glaucoma",
+   "kind": "p",
+   "s": [
+    "There are several different types of glaucoma."
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Glaucoma > Types of glaucoma",
+   "kind": "p",
+   "s": [
+    "These can include:"
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Glaucoma > Types of glaucoma",
+   "kind": "li",
+   "s": [
+    "primary glaucoma – this is the most common type, which usually develops slowly over many years"
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Glaucoma > Types of glaucoma",
+   "kind": "li",
+   "s": [
+    "secondary glaucoma – usually caused by another condition or eye injury"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Glaucoma > Types of glaucoma",
+   "kind": "li",
+   "s": [
+    "childhood glaucoma – a rare type that affects young children"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Glaucoma > Types of glaucoma > Find out more",
+   "kind": "li",
+   "s": [
+    "Glaucoma UK: types"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "If you have glaucoma, it's normal to worry about how much your vision might change and how you will manage if it does."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "If glaucoma is diagnosed and treated early, it may not change your vision much.",
+    "But sometimes your sight is affected, and in rare cases you may lose your sight."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "Your specialist eye doctor will advise you on how it may affect your sight, and how to live as independently as you can."
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "Having glaucoma may mean you need to do things to prevent it from getting worse.",
+    "For many people this includes using eye drops daily and attending regular eye clinic appointments."
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "If you do have some sight loss, it can be difficult to come to terms with.",
+    "You might find it helpful to contact a support group for people with sight loss."
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Glaucoma > How glaucoma affects your life",
+   "kind": "p",
+   "s": [
+    "There are also lots of practical ways you can adapt your lifestyle to make it safer and easier for you to keep doing things you enjoy."
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Glaucoma > How glaucoma affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "Glaucoma UK: living with glaucoma"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Glaucoma > How glaucoma affects your life > Find out more",
+   "kind": "li",
+   "s": [
+    "RNIB: living with sight loss"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Glaucoma > What is glaucoma?",
+   "kind": "p",
+   "s": [
+    "This video explains what glaucoma is and why it's important to have regular eye tests"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Glaucoma > Help and support for glaucoma",
+   "kind": "p",
+   "s": [
+    "As well as support from your doctor and specialist eye doctor, you may find it helpful to get support from other people with glaucoma, either at a local support group or online."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Glaucoma > Help and support for glaucoma",
+   "kind": "p",
+   "s": [
+    "There are national charities that can offer support and information about glaucoma and living with sight loss."
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "p",
+   "s": [
+    "Information and support for anyone affected by glaucoma"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "li",
+   "s": [
+    "Website: www.glaucoma.uk"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "li",
+   "s": [
+    "Helpline: 01233 64 81 70"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "li",
+   "s": [
+    "forum (Glaucoma UK)"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "li",
+   "s": [
+    "support groups (Glaucoma UK)"
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Glaucoma > Help and support for glaucoma > Glaucoma UK",
+   "kind": "li",
+   "s": [
+    "buddy scheme (Glaucoma UK)"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Glaucoma > Help and support for glaucoma > Royal National Institute of Blind People (RNIB)",
+   "kind": "p",
+   "s": [
+    "Information and support for blind and partially sighted people, their families and carers."
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Glaucoma > Help and support for glaucoma > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "Website: www.rnib.org.uk"
+   ]
+  },
+  {
+   "at": "b66",
+   "path": "Glaucoma > Help and support for glaucoma > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "Helpline: 0303 123 9999"
+   ]
+  },
+  {
+   "at": "b67",
+   "path": "Glaucoma > Help and support for glaucoma > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "sight loss counselling (RNIB)"
+   ]
+  },
+  {
+   "at": "b68",
+   "path": "Glaucoma > Help and support for glaucoma > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "Connect Facebook groups (RNIB)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,550 @@
+{
+ "id": "nhs-diabetic-retinopathy",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/diabetic-retinopathy/",
+ "fetched_from": "https://www.nhs.uk/conditions/diabetic-retinopathy/",
+ "title": "Diabetic retinopathy",
+ "updated": "2025-07-17",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "a7800d4e8339f03500362eef916ef010f623fd6def582d1ab199ca4741858548",
+ "sentences": 77,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Diabetic retinopathy is an eye condition caused by diabetes.",
+    "It can lead to sight loss, but finding and treating it early reduces the risk."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Diabetic retinopathy does not usually have any symptoms at first.",
+    "It's usually found when you go to your diabetic eye screening appointments."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "In the later stages, symptoms can include:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "your eyesight getting worse"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "blurred vision"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "dots and lines (floaters) in your vision"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "finding it harder to see in the dark or low light"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "The symptoms may gradually get worse over time.",
+    "It can eventually lead to sight loss."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Diabetic retinopathy > Symptoms of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Symptoms can affect one or both eyes."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Diabetic retinopathy > Non-urgent advice: Contact a GP, your diabetes care team or an opticians if:",
+   "kind": "p",
+   "s": [
+    "You have diabetes and problems with your eyes or vision, such as:"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Diabetic retinopathy > Non-urgent advice: Contact a GP, your diabetes care team or an opticians if:",
+   "kind": "li",
+   "s": [
+    "your eyesight getting worse over time"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Diabetic retinopathy > Non-urgent advice: Contact a GP, your diabetes care team or an opticians if:",
+   "kind": "li",
+   "s": [
+    "floaters in your vision"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Diabetic retinopathy > Non-urgent advice: Contact a GP, your diabetes care team or an opticians if:",
+   "kind": "li",
+   "s": [
+    "difficulty seeing in low light"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Diabetic retinopathy > Non-urgent advice: Contact a GP, your diabetes care team or an opticians if:",
+   "kind": "p",
+   "s": [
+    "These symptoms do not always mean you have diabetic retinopathy, but it's important to get them checked."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Diabetic retinopathy > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You have diabetes and:"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Diabetic retinopathy > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your eyesight suddenly gets worse"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Diabetic retinopathy > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you get blurred vision"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Diabetic retinopathy > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Diabetic retinopathy > Screening for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Diabetic retinopathy is usually found during a diabetic eye screening appointment, which involves taking photographs of the back of your eye."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Diabetic retinopathy > Screening for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you have diabetes and you're aged 12 or over, you'll be invited for diabetic eye screening every 1 or 2 years."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Diabetic retinopathy > Screening for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "You'll also need to have regular eye tests at an opticians, to check for other eye problems that can be linked to diabetes such as glaucoma."
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Diabetic retinopathy > Screening for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you think you're due for diabetic eye screening and you have not had an invitation letter in the post, contact your GP surgery or your local eye screening service."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Diabetic retinopathy > Screening for diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "Diabetic eye screening"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Diabetic retinopathy develops in 3 stages.",
+    "It usually gets worse gradually, over several years.",
+    "Treatment can help stop it from progressing to the next stage."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "tr",
+   "s": [
+    "Stage | What it means"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "tr",
+   "s": [
+    "Background diabetic retinopathy | There are some signs of damage to blood vessels in your eye but your vision is not affected"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "tr",
+   "s": [
+    "Pre-proliferative diabetic retinopathy | There are more signs of damage to blood vessels in your eye, and there's a risk that your vision will be affected in the future.",
+    "You will not need treatment yet but you'll be offered more frequent screening"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "tr",
+   "s": [
+    "Proliferative diabetic retinopathy | There are more serious changes to blood vessels in your eye that could affect your vision or cause sight loss.",
+    "You'll need to see a specialist for treatment"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "There is also a type of diabetic retinopathy called diabetic maculopathy.",
+    "In the early stages it has no symptoms and does not affect your vision."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Diabetic retinopathy > Stages and types of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "In a very small number of people it progresses to an advanced stage and affects the central part of your vision.",
+    "This means you may be able to see around the edges of your vision, but not be able to read clearly."
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "It's not possible to cure sight loss caused by diabetic retinopathy.",
+    "The aim of treatment is to help stop your vision from getting worse."
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you're diagnosed with diabetic retinopathy it's important to manage your diabetes well to help stop it getting worse."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you have background or pre-proliferative diabetic retinopathy, you will not need treatment.",
+    "You'll be monitored at your regular eye screening appointments."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you have proliferative diabetic retinopathy, you'll be referred to an eye specialist for treatment."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "The main treatments are:"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "laser treatment on the blood vessels at the back of your eye (laser photocoagulation)"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "regular eye injections of a medicine called anti-VEGF, which reduces damage to blood vessels"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "an implant in your eye that gradually releases steroid medicine, to reduce swelling in your eye"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "eye surgery, such as an operation to remove scar tissue or blood from the back of your eye"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Your specialist will advise on what treatment is best for you.",
+    "They'll explain the risks and benefits of the procedure, and what will happen."
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Diabetic retinopathy > Treatment for diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "Diabetes UK: treatment for diabetic retinopathy"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "Diabetic retinopathy happens when high blood glucose (sugar) damages the blood vessels in your retina, which is at the back of your eye."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "It's more likely to happen if you've had diabetes for a long time, and if you have high blood pressure or high cholesterol."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If you have diabetes, you can reduce the risk of diabetic retinopathy by:"
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "managing your blood glucose as well as possible – you can learn how to do this by attending a diabetes course"
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "making healthy lifestyle changes to lower high blood pressure and high cholesterol"
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy",
+   "kind": "li",
+   "s": [
+    "not smoking"
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy > Important",
+   "kind": "p",
+   "s": [
+    "It's important to go to all of your diabetic eye screening appointments, as these can help find and treat any problems as soon as possible."
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "Living with type 1 diabetes"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "Treatment for type 1 diabetes"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "Treatment for type 2 diabetes"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Diabetic retinopathy > How to reduce your risk of diabetic retinopathy > Find out more",
+   "kind": "li",
+   "s": [
+    "NHS Better Health – free tools and support to help you get healthy"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "If diabetic retinopathy affects your vision it can be difficult to live with, both practically and emotionally."
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "As well as support from your diabetes team, you may find it helpful to get support from other people with diabetes or sight loss, either at a local support group or online."
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy",
+   "kind": "p",
+   "s": [
+    "There are also national charities that can offer support and information about diabetic retinopathy or sight loss."
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "p",
+   "s": [
+    "Information and support for anyone with diabetes."
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "li",
+   "s": [
+    "Website: www.diabetes.org.uk"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "li",
+   "s": [
+    "Helpline: 0345 123 2399"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "li",
+   "s": [
+    "Email: helpline@diabetes.org.uk"
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "li",
+   "s": [
+    "Diabetes UK: local support groups"
+   ]
+  },
+  {
+   "at": "b61",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Diabetes UK",
+   "kind": "li",
+   "s": [
+    "Diabetes UK: diabetic retinopathy"
+   ]
+  },
+  {
+   "at": "b62",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Royal National Institute of Blind People (RNIB)",
+   "kind": "p",
+   "s": [
+    "Information and support for blind and partially sighted people, their families and carers."
+   ]
+  },
+  {
+   "at": "b63",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "Website: www.rnib.org.uk"
+   ]
+  },
+  {
+   "at": "b64",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "Helpline: 0303 123 9999"
+   ]
+  },
+  {
+   "at": "b65",
+   "path": "Diabetic retinopathy > Help and support for diabetic retinopathy > Royal National Institute of Blind People (RNIB)",
+   "kind": "li",
+   "s": [
+    "RNIB: practical and emotional support"
+   ]
+  }
+ ]
+}

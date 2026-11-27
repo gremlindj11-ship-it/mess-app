@@ -2,14 +2,14 @@
 
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
-- Statements written: 95. Checked by at least one checker: 95. **Agreed by two: 92.**
+- Statements written: 95. Checked by at least one checker: 95. **Agreed by two: 95.**
 - Checklist items: 49. **With an agreed statement: 42.** Partly: 4. Written but not agreed: 0. Nothing found in the sources: 3.
 
 | Source | Statements | Agreed |
 |---|---|---|
-| nhs-high-blood-pressure | 7 | 6 |
-| bihs-2025-resistant | 37 | 36 |
-| bihs-2024-young-onset | 21 | 20 |
+| nhs-high-blood-pressure | 7 | 7 |
+| bihs-2025-resistant | 37 | 37 |
+| bihs-2024-young-onset | 21 | 21 |
 | bihs-2025-thresholds-targets | 6 | 6 |
 | bihs-2024-referral-management | 7 | 7 |
 | clinmed-2026-secondary-hypertension | 7 | 7 |
