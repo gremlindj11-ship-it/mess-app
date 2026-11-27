@@ -30,6 +30,19 @@ try {
   // A statement in the app that is not in any claims file is still caught.
   expect('new statement in the app', { 'app/assets/evidence.js': 'const EVIDENCE = {"Asthma":[{"id":"claim-0000000000000000","topic":"Asthma","source":"NICE NG245 1.1.1","source_url":"https://www.nice.org.uk/guidance/ng245"}]};' }, false, /evidence\.js.*frozen|frozen/);
 
+  // Since NICE's reply (26 Nov 2026) even a statement that existed at the stop may not be in the app, and the live
+  // frozen.js and pack library stay empty of frozen material. An open-source statement built by build-evidence passes.
+  const oldId = require(join(root, 'content', 'rights-frozen.json')).ids.nice[0];
+  expect('a pre-stop NICE statement in the app', { 'app/assets/evidence.js': `const EVIDENCE = {"Asthma":[{"id":"${oldId}","topic":"Asthma","source":"NICE NG245 1.1.1","source_url":"https://www.nice.org.uk/guidance/ng245"}]};` }, false, /Since 26 Nov 2026 nothing from a frozen source is served/);
+  expect('an open statement in the app', { 'app/assets/evidence.js': 'const EVIDENCE = {"Hypertension":[{"id":"open-0000000000000000","topic":"Hypertension","source":"NHS website: High blood pressure","source_url":"https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"}]};' }, true);
+  expect('an app statement not built from open statements', { 'app/assets/evidence.js': 'const EVIDENCE = {"Hypertension":[{"id":"claim-0000000000000000","topic":"Hypertension","source":"NHS website: High blood pressure","source_url":"https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"}]};' }, false, /not an open-source statement/);
+  expect('frozen.js with stories in it', { 'app/assets/frozen.js': '// comment\nObject.assign(STORIES, {});\n' }, false, /frozen\.js holds more than comments/);
+  expect('frozen.js with comments only', { 'app/assets/frozen.js': '// empty on purpose\n' }, true);
+  expect('a frozen pack in the library', { 'packs/index.json': '{"packs":[{"id":"x","file":"x.mess-pack.json"}]}', 'packs/x.mess-pack.json': '{"cards":[{"src":"NICE NG115"}]}' }, false, /names a frozen source/);
+  expect('a frozen pack nobody listed', { 'packs/index.json': '{"packs":[]}', 'packs/y.mess-pack.json': '{"cards":[{"url":"https://www.nice.org.uk/guidance/ng115"}]}' }, false, /y\.mess-pack\.json names a frozen source/);
+  expect('a pack citing only a guideline number', { 'packs/z.mess-pack.json': '{"cards":[{"src":"NG115 1.2.3"}]}' }, false, /names a frozen source/);
+  expect('a pack with ordinary words', { 'packs/w.mess-pack.json': '{"cards":[{"q":"A nice sign of a gold standard test"}]}' }, true);
+
   // New-process statements: allowed only from a saved source that a model may read, under an open licence.
   const S = 'topic,step,subject,relation,object,source,source_url,source_id\nHypertension,management,A made-up subject,should,pass,Test,https://www.nhs.uk/conditions/x/,test-source\n';
   expect('open statement, allowed', { 'content/open/t/statements.csv': S, 'content/open-sources/test-source.json': saved('nhs-website', 'https://www.nhs.uk/conditions/x/', 'OGL-UK-3.0') }, true);

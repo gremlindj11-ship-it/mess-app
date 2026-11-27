@@ -60,7 +60,20 @@ const judge = (c, id, at) => {
 for (const c of claims) judge(c, claimId(c), c.at);
 const evFile = join(root, 'app', 'assets', 'evidence.js');
 if (existsSync(evFile)) { const ctx = {}; vm.runInNewContext(readFileSync(evFile, 'utf8') + '\nthis.out = EVIDENCE;', ctx);
-  for (const c of Object.values(ctx.out).flat()) { c.reg = sourceFor({ label: c.source, url: c.source_url }); judge(c, c.id, `app/assets/evidence.js ${c.id} (${c.topic})`); } }
+  // Since NICE's reply (26 Nov 2026) the app serves nothing made from a frozen source, even what existed at the stop:
+  // every statement here must come from open sources (tools/build-evidence.mjs builds it from content/open/ only).
+  for (const c of Object.values(ctx.out).flat()) { const s = sourceFor({ label: c.source, url: c.source_url }), at = `app/assets/evidence.js ${c.id} (${c.topic})`;
+    if (!s) errs.push(`${at}: source "${c.source || c.source_url}" is not in the rights register`);
+    else if (s.use === 'frozen') errs.push(`${at}: made from ${s.name}, which is frozen. Since 26 Nov 2026 nothing from a frozen source is served; it stays in private/frozen/`);
+    else if (!mayWrite(s) || !/^open-/.test(c.id)) errs.push(`${at}: not an open-source statement built by tools/build-evidence.mjs (${s.name})`); } }
+// The frozen stories, notes and packs are kept in private/frozen/ only. The app's frozen.js stays comments only.
+const fzFile = join(root, 'app', 'assets', 'frozen.js');
+if (existsSync(fzFile) && readFileSync(fzFile, 'utf8').replace(/^\s*\/\/.*$/gm, '').trim()) errs.push('app/assets/frozen.js holds more than comments. The frozen stories and notes stay in private/frozen/ and are never served (26 Nov 2026)');
+// Every pack the site serves (listed in the library or not) is checked for a frozen source: its name, its site, or a NICE-style number.
+const FROZEN_MARK = /\b(NICE|BTS|SIGN|GOLD)\b|nice\.org\.uk|brit-thoracic\.org\.uk|sign\.ac\.uk|goldcopd\.org|\b(NG|CG|QS|TA|PH)\s?\d{2,3}\b/;
+const packDir = join(root, 'packs');
+if (existsSync(packDir)) for (const n of readdirSync(packDir).filter(n => n.endsWith('.json'))) { const t = readFileSync(join(packDir, n), 'utf8'), m = t.match(FROZEN_MARK);
+  if (m) errs.push(`packs/${n} names a frozen source ("${m[0]}"). Packs made from frozen statements stay in private/frozen/packs/, never served`); }
 
 // 3. New-process statements.
 const srcDir = join(root, 'content', 'open-sources'), saved = new Map();

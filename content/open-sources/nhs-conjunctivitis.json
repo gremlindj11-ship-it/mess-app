@@ -1,0 +1,312 @@
+{
+ "id": "nhs-conjunctivitis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/conjunctivitis/",
+ "fetched_from": "https://www.nhs.uk/conditions/conjunctivitis/",
+ "title": "Conjunctivitis",
+ "updated": "2024-04-23",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "01796813681160cbd15ef30c7c1a0cfea0d15d3dcf0a953cc67cf1f4c8340a96",
+ "sentences": 42,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Conjunctivitis is an eye condition caused by infection or allergies.",
+    "It usually gets better in a couple of weeks without treatment."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Conjunctivitis is also known as red or pink eye."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "It usually affects both eyes and makes them:"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "li",
+   "s": [
+    "red"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "li",
+   "s": [
+    "burn or feel gritty"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "li",
+   "s": [
+    "produce pus that sticks to lashes"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "li",
+   "s": [
+    "itch"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "li",
+   "s": [
+    "water"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/711964/view"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/694220/view"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "kumaragurubaran kg / Alamy Stock Photo https://www.alamy.com/mediacomp/imagedetails.aspx?ref=2D12E7H"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis",
+   "kind": "p",
+   "s": [
+    "DR P. MARAZZI/SCIENCE PHOTO LIBRARY https://www.sciencephoto.com/media/633822/view"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Conjunctivitis > Symptoms of conjunctivitis > If you're not sure it's conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Find out about other conditions that can cause red eyes"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself",
+   "kind": "p",
+   "s": [
+    "There are things you can do to help ease the symptoms of conjunctivitis."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself",
+   "kind": "li",
+   "s": [
+    "Wash your eyelids with clean water.",
+    "Boil the water and let it cool down, then gently wipe your eyelashes with a clean cotton wool pad to clean off crusts (1 piece for each eye)."
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself",
+   "kind": "li",
+   "s": [
+    "Hold a cold flannel on your eyes for a few minutes to cool them down."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself",
+   "kind": "p",
+   "s": [
+    "Do not wear contact lenses until your eyes are better."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself > A pharmacist can help with conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Speak to a pharmacist about conjunctivitis.",
+    "They can give you advice and suggest eyedrops or antihistamines to help with your symptoms."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Conjunctivitis > How to treat conjunctivitis yourself > A pharmacist can help with conjunctivitis",
+   "kind": "p",
+   "s": [
+    "If you need treatment for a child under 2 years old, you'll need a prescription from a GP."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Conjunctivitis > Stop infectious conjunctivitis from spreading",
+   "kind": "p",
+   "s": [
+    "There are things you can do to stop conjunctivitis spreading to other people."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Conjunctivitis > Stop infectious conjunctivitis from spreading > Do wash your hands regularly with warm soapy water wash your pillow cases and face cloths in hot water and detergent cover your mouth and nose when sneezing and put used tissues in the bin Don’t",
+   "kind": "li",
+   "s": [
+    "do not share towels and pillows"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Conjunctivitis > Stop infectious conjunctivitis from spreading > Do wash your hands regularly with warm soapy water wash your pillow cases and face cloths in hot water and detergent cover your mouth and nose when sneezing and put used tissues in the bin Don’t",
+   "kind": "li",
+   "s": [
+    "do not rub your eyes"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Conjunctivitis > Stop infectious conjunctivitis from spreading > Staying away from work or school",
+   "kind": "p",
+   "s": [
+    "You do not need to stay away from work or school unless you or your child are feeling very unwell."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Conjunctivitis > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "your baby has red, sticky eyes – get an urgent appointment if your baby is less than 30 days old"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Conjunctivitis > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you wear contact lenses and have conjunctivitis symptoms as well as spots on your eyelids – you might be allergic to the lenses"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Conjunctivitis > Non-urgent advice: See a GP if:",
+   "kind": "li",
+   "s": [
+    "you have conjunctivitis and your symptoms have not cleared up within 7 days"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "pain in your eyes"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "sensitivity to light"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "changes in your vision, like wavy lines or flashing"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "very red eyes (1 eye or both eyes)"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "a baby less than 30 days old with red, sticky eyes"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "These can be signs of a more serious eye problem."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Conjunctivitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online.",
+    "Call 111 if you need help for a child under 5."
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Conjunctivitis > Treatment for conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Treatment will depend on the cause of your conjunctivitis."
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Conjunctivitis > Treatment for conjunctivitis",
+   "kind": "p",
+   "s": [
+    "If it's a bacterial infection, you might be prescribed antibiotics.",
+    "But these will not work if it's caused by a virus (viral conjunctivitis) or an allergy."
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Conjunctivitis > Treatment for conjunctivitis",
+   "kind": "p",
+   "s": [
+    "Some sexually transmitted infections (STIs) can cause conjunctivitis.",
+    "This type takes longer to get better."
+   ]
+  }
+ ]
+}

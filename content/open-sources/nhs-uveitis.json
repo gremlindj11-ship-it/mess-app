@@ -1,0 +1,350 @@
+{
+ "id": "nhs-uveitis",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/uveitis/",
+ "fetched_from": "https://www.nhs.uk/conditions/uveitis/",
+ "title": "Uveitis",
+ "updated": "2024-03-20",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "0fa4192f113d9a77913678f158ecb051c49f406449c26b039a63ab70b53a3f3a",
+ "sentences": 45,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Uveitis",
+   "kind": "p",
+   "s": [
+    "Uveitis, also known as iritis, is a rare condition that causes inflammation inside part of your eye."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Uveitis",
+   "kind": "p",
+   "s": [
+    "It's important to get it treated early to avoid long-term complications such as vision loss and blindness.",
+    "It usually gets better quickly with treatment but can come back over time."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "p",
+   "s": [
+    "Uveitis usually only affects one eye but can affect both."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "p",
+   "s": [
+    "Symptoms of uveitis can include:"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "eye pain, which may feel worse when you're reading"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "red or watery eyes"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "reduced or blurred vision"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "sensitivity to light"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "lights in the corner of your eyes or dark spots (flashes and floaters)"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "p",
+   "s": [
+    "You may get some or all of these symptoms."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "p",
+   "s": [
+    "Symptoms can develop quickly, in hours and days, or more gradually over weeks and months.",
+    "Sometimes uveitis does not cause any symptoms."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "p",
+   "s": [
+    "Other conditions that cause similar symptoms include:"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "glaucoma"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "another type of infection or inflammation, such as conjunctivitis, keratitis or scleritis"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Uveitis > Symptoms of uveitis",
+   "kind": "li",
+   "s": [
+    "an eye injury"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Uveitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "pain in your eyes"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Uveitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "sensitivity to light"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Uveitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "changes in your vision, like flashing or blurring"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Uveitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "li",
+   "s": [
+    "very red eyes (1 eye or both eyes)"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Uveitis > Urgent advice: Ask for an urgent GP appointment or get help from NHS 111 if you have:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Uveitis > Immediate action required: Go to A&E or call 999 if:",
+   "kind": "li",
+   "s": [
+    "you cannot see (loss of vision)"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "p",
+   "s": [
+    "In most cases the cause of uveitis is unknown."
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "p",
+   "s": [
+    "However, there are some things that can cause uveitis.",
+    "These include:"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "li",
+   "s": [
+    "some conditions that affect your immune system (autoimmune conditions) such as multiple sclerosis and ankylosing spondylitis"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "li",
+   "s": [
+    "some infections including the herpes simplex virus, the herpes zoster virus (which causes shingles) and toxoplasmosis"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "li",
+   "s": [
+    "an injury to your eye"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Uveitis > Causes of uveitis",
+   "kind": "li",
+   "s": [
+    "a growth in your eye (neoplasia) – but this is rare"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "p",
+   "s": [
+    "If a GP thinks you have uveitis they'll refer you to an eye specialist (ophthalmologist).",
+    "You'll usually be seen within 24 hours, so you can start treatment quickly."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "p",
+   "s": [
+    "Depending on what is causing your uveitis and how severe it is, you'll usually be prescribed a combination of medicines to:"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "get rid of any infection"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "reduce inflammation"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "relax the eye and reduce pain"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "p",
+   "s": [
+    "If your uveitis is very severe or keeps coming back, you may also be offered other treatments such as:"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "medicines to reduce the activity of your immune system (immunosuppressants) and to reduce inflammation (tumour necrosis factor (TNF) inhibitors)"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "light treatment (laser phototherapy)"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "temporarily freezing part of the eye (cryotherapy)"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "surgery on part of your eye"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "p",
+   "s": [
+    "After you've started treatment, you'll be seen again by an ophthalmologist to:"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "see how your treatment is working"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "check for any side effects of treatment"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Uveitis > Treatments for uveitis",
+   "kind": "li",
+   "s": [
+    "check for complications of uveitis, such as vision loss"
+   ]
+  }
+ ]
+}

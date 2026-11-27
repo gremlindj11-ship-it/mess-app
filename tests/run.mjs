@@ -25,19 +25,34 @@ const bad = (out) => out.split('\n').filter(l => !/ 404 /.test(l)).filter(l =>
   /XSS ran|ERRS \[(?!\])|Error:|TimeoutError|HORIZONTAL|console: |^(desk|phone): /.test(l) || /^(Today|Practice|Gaps|Topics|Placement|Links|Profile) (?!390)\d+/.test(l));
 
 const args = process.argv.slice(2), QUIET = args.includes('--quiet'), only = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
-// The public copy (mess-app) has an empty app/assets/frozen.js. Tests marked PRIVATE-ONLY on their first line need
+// The public copy (mess-app) has no private/frozen/. Tests marked PRIVATE-ONLY on their first line need
 // what that file holds, so they are skipped there and counted out loud, never passed quietly.
-const PUBLIC = NOAPP || statSync(join(app, 'assets/frozen.js')).size < 2000, skippedList = [];
+// Since 26 Nov 2026 the private repo's app has an empty frozen.js too, so the private repo is told apart by private/frozen/,
+// which the export never copies.
+const PUBLIC = NOAPP || !existsSync(join(here, '..', 'private', 'frozen')), skippedList = [];
+// The tests marked PRIVATE-ONLY exercise stories, the topic chat and packs with the content they were written for. Since
+// 26 Nov 2026 the app serves none of it (it is in private/frozen/), so those tests get a test-only copy of the app with
+// private/frozen/ laid back over it, on its own port. Every other test sees the app exactly as it is served.
+let fixtureUrl = url, fixtureServer = { kill() {} }, fixturePacks = '';
+const FROZEN = join(here, '..', 'private', 'frozen');
+if (!PUBLIC) {
+  const fx = join(work, 'frozen-app'); cpSync(app, fx, { recursive: true });
+  for (const f of ['assets/frozen.js', 'assets/evidence.js']) cpSync(join(FROZEN, 'app', f), join(fx, f));
+  fixturePacks = join(FROZEN, 'packs'); fixtureUrl = `http://localhost:${port + 300}`; // 9100-9189: clear of serve.mjs (8800-8889) and site-visits (8900-8989)
+  fixtureServer = spawn('node', [join(here, 'serve.mjs'), fx, String(port + 300)], { stdio: 'ignore' });
+  await new Promise(r => setTimeout(r, 900));
+}
 let failed = 0, passed = 0;
 for (const f of readdirSync(here).filter(f => f.endsWith('.test.js') && (!only || f.includes(only))).sort()) {
-  if (PUBLIC && readFileSync(join(here, f), 'utf8').startsWith('// PRIVATE-ONLY')) { skippedList.push(f); continue; }
-  const r = spawnSync('node', [join(here, f), work], { env: { ...process.env, MESS_URL: url }, encoding: 'utf8', timeout: 180000 });
+  const priv = readFileSync(join(here, f), 'utf8').startsWith('// PRIVATE-ONLY');
+  if (PUBLIC && priv) { skippedList.push(f); continue; }
+  const r = spawnSync('node', [join(here, f), work], { env: { ...process.env, MESS_URL: priv ? fixtureUrl : url, ...(priv && fixturePacks ? { MESS_PACKS: fixturePacks } : {}) }, encoding: 'utf8', timeout: 180000 });
   const out = (r.stdout || '') + (r.stderr || ''), problems = bad(out);
   if (r.status !== 0 || problems.length) { failed++; const log = join(work, f.replace(/\.js$/, '.log')); writeFileSync(log, out);
     const lines = problems.length ? problems : out.split('\n').slice(-6); console.log(`✗ ${f}\n  ${lines.slice(0, QUIET ? 15 : lines.length).join('\n  ')}${QUIET ? `\n  full output: ${log}` : ''}`); }
   else { passed++; if (!QUIET) console.log(`✓ ${f}`); }
 }
-server.kill();
+server.kill(); fixtureServer.kill();
 if (skippedList.length) console.log(`\n${skippedList.length} not run here (they need content only the private repo has): ${skippedList.join(', ')}`);
 console.log(failed ? `\n${passed} passed, ${failed} failed. Screenshots, files and logs are in ${work}` : `\nAll ${passed} passed.`);
 process.exit(failed ? 1 : 0);

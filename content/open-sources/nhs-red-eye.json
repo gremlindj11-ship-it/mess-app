@@ -1,0 +1,316 @@
+{
+ "id": "nhs-red-eye",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/red-eye/",
+ "fetched_from": "https://www.nhs.uk/conditions/red-eye/",
+ "title": "Red eye",
+ "updated": "2025-10-27",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-25",
+ "sha256": "0669f0557510a88b546ea2219227c67e866a0abbbf52e1980a5771cb63ccc2a8",
+ "sentences": 39,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Red eye",
+   "kind": "p",
+   "s": [
+    "A red eye is usually nothing to worry about and often gets better on its own.",
+    "But sometimes it can be serious and you'll need to get medical help."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "p",
+   "s": [
+    "A red eye is often caused by an infection or dry eyes, but there are lots of possible causes."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "p",
+   "s": [
+    "Do not try to diagnose it yourself."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Symptoms | Possible cause"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Bright red area in the white of your eye | Burst blood vessel"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Gritty or burning feeling, sticky eyes | Conjunctivitis"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Sore, blurry or watery eyes | Dry eyes"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Itchy, sore or red crusted eyelids | Blepharitis"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Feels like there's something in your eye or there is a problem with your eyelashes | Ingrowing eyelash"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Red eye > Common causes of a red eye",
+   "kind": "tr",
+   "s": [
+    "Swollen, drooping or twitching eyelid, or a lump on your eyelid | Eyelid problems"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Red eye > What to do if you have a red eye",
+   "kind": "p",
+   "s": [
+    "If your eye does not hurt, your sight is not affected and you do not feel sick or unwell, it's probably nothing serious.",
+    "It may get better on its own in a few days."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Red eye > What to do if you have a red eye",
+   "kind": "p",
+   "s": [
+    "Until it has got better:"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Red eye > What to do if you have a red eye",
+   "kind": "li",
+   "s": [
+    "try not to touch or rub your eye"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Red eye > What to do if you have a red eye",
+   "kind": "li",
+   "s": [
+    "do not wear contact lenses"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Red eye > What to do if you have a red eye > A pharmacist can help if you have a red eye",
+   "kind": "p",
+   "s": [
+    "You can ask a pharmacist if:"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Red eye > What to do if you have a red eye > A pharmacist can help if you have a red eye",
+   "kind": "li",
+   "s": [
+    "there's anything you can do to treat your eye yourself"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Red eye > What to do if you have a red eye > A pharmacist can help if you have a red eye",
+   "kind": "li",
+   "s": [
+    "you can buy anything to help, such as cleaning solutions, eyedrops or medicines"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Red eye > What to do if you have a red eye > A pharmacist can help if you have a red eye",
+   "kind": "li",
+   "s": [
+    "you need to see a GP or optician"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Red eye > Non-urgent advice: See a GP or optician if:",
+   "kind": "li",
+   "s": [
+    "your child is under 2 years old and has a red eye"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Red eye > Non-urgent advice: See a GP or optician if:",
+   "kind": "li",
+   "s": [
+    "you have red eyes with a sticky discharge"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Red eye > Non-urgent advice: See a GP or optician if:",
+   "kind": "li",
+   "s": [
+    "you have red patches in your eye or a problem with your eyelids or eyelashes for more than a few days"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Red eye > Non-urgent advice: See a GP or optician if:",
+   "kind": "li",
+   "s": [
+    "you're worried about your eyes"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Red eye > Non-urgent advice: See a GP or optician if:",
+   "kind": "p",
+   "s": [
+    "If the GP or optician cannot find what's causing your red eye, they may refer you to an eye specialist (ophthalmologist) for tests."
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Red eye > Urgent advice: Ask for an urgent appointment with a GP or optician, or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your baby has red eyes and they're less than 28 days old"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Red eye > Urgent advice: Ask for an urgent appointment with a GP or optician, or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "your eye is very painful and red"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Red eye > Urgent advice: Ask for an urgent appointment with a GP or optician, or get help from NHS 111 if:",
+   "kind": "li",
+   "s": [
+    "you have a red eye and wear contact lenses – you could have an eye infection"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Red eye > Urgent advice: Ask for an urgent appointment with a GP or optician, or get help from NHS 111 if:",
+   "kind": "p",
+   "s": [
+    "You can call 111 or get help from 111 online."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "You have a red eye and:"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have any changes to your sight, like wavy lines, flashing or loss of vision"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "it hurts to look at light"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have a severe headache and feel sick"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "your eye or eyes are very dark red"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "you have injured your eye, or something is stuck in your eye (such as a piece of glass or grit)"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "your eye injury was caused by a dangerous liquid, such as a chemical"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "li",
+   "s": [
+    "1 pupil is bigger than the other"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Do not drive to A&E. Ask someone to drive you or call 999 and ask for an ambulance."
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Red eye > Immediate action required: Call 999 or go to A&E if:",
+   "kind": "p",
+   "s": [
+    "Bring any medicines you take with you."
+   ]
+  }
+ ]
+}

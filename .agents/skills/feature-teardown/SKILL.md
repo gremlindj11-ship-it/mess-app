@@ -56,7 +56,7 @@ Choose the smallest slice that lets the user complete a real task with an observ
 - For UI work, use it from a fresh state on a 390 px phone and across desktop/laptop widths. Layout bugs hide between breakpoints, so sweep the width range in steps (for example every 20 px from 360 to 2000) and assert the page never scrolls sideways, rather than checking two sizes. Check keyboard/focus, readable labels, navigation, loading and error states. Verify behavior as well as screenshots.
 - For integrations, use deterministic contract tests and controlled failure cases, then test with the real service/host when available. Mocks do not prove live compatibility, authorization or free-plan availability. Never use a real patient's data or leak keys into logs, URLs, screenshots or test artifacts.
 - Run the relevant existing checks and the required suite. In Mess, normally run `node tests/run.mjs`; for claims-related tooling also run the appropriate `node tools/check-claims.mjs` check. Classify environment failures accurately; do not disable TLS checks or weaken assertions to produce a pass.
-- Run the suite before every push, including pushes that only change content or data files: one stray character in a data file can stop the whole app loading. In Mess, bump the cache version in `app/sw.js` with any change under `app/`.
+- Run the suite before every push, including pushes that only change content or data files: one stray character in a data file can stop the whole app loading. In Mess, leave line 1 of `app/sw.js` as `const C='mess-dev';`: the build stamps the cache name from `app/` (since 27 Nov 2026).
 
 ## 6. Review, release within authorization, and hand over
 
