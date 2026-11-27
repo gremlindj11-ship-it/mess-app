@@ -21,29 +21,49 @@ const q = (s) => '"' + String(s ?? '').replace(/"/g, '""') + '"', errs = [];
 const docs = new Map(), doc = (id) => { if (!docs.has(id)) { const p = new URL(`content/open-sources/${id}.json`, ROOT); docs.set(id, existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : null); } return docs.get(id); };
 const label = (d) => d.kind === 'nhs' ? 'NHS website: ' + d.title : d.kind === 'govuk' ? 'GOV.UK: ' + d.title : `Article: ${d.authors}. ${d.title}. ${d.journal} ${d.year}`;
 const srcFile = join(dir, 'statements.src.txt'), csvFile = join(dir, 'statements.csv');
+// Jurisdiction. A statement is the UK's unless it covers an "Elsewhere in the world" checklist item: then it takes the
+// geography of what its source says there, never "UK" by default. That is the line's own 10th part ("| @LMIC"), read
+// from its quote, or else the saved source's "jurisdiction" field (what the source as a whole is about). Allowed:
+// "all", country codes like IN or US, or one of REGIONS (check-claims.mjs holds the same list).
+export const REGIONS = ['global', 'LMIC', 'high-income', 'Europe', 'North America', 'Latin America', 'sub-Saharan Africa', 'South Asia'];
+const GEO = new RegExp(`^(all|${REGIONS.join('|')}|[A-Z]{2})(\\s*[,;]\\s*(${REGIONS.join('|')}|[A-Z]{2}))*$`);
+const elsewhereItems = () => { const f = join(dir, 'coverage.csv'); if (!existsSync(f)) return new Set();
+  return new Set(readFileSync(f, 'utf8').split('\n').slice(1).map(l => l.split(',')).filter(c => /^elsewhere in the world$/i.test((c[1] || '').trim())).map(c => c[0].trim())); };
+const isElsewhere = (covers, items) => String(covers || '').split(/[;,\s]+/).filter(Boolean).some(x => items.has(x.replace(/p$/, '')));
 
 if (FILL) {
   const lines = readFileSync(srcFile, 'utf8').split('\n'), short = {}, rows = [];
   // The header says which short name stands for which saved source: "N1 nhs-high-blood-pressure, T bihs-2025-...".
   for (const l of lines.filter(l => l.startsWith('#'))) for (const m of l.matchAll(/\b([A-Z][A-Z0-9]{0,3}) ([a-z0-9][a-z0-9-]{4,})/g)) short[m[1]] = m[2];
   const topic = (lines.find(l => /^# [A-Z][\w ]*:/.test(l)) || '# Topic:').slice(2).split(':')[0].trim();
+  const away = elsewhereItems();
   lines.forEach((l, i) => { if (!l.trim() || l.startsWith('#')) return; const p = l.split(' | ').map(x => x.trim()), at = `${srcFile} line ${i + 1}`;
-    if (p.length !== 9) return errs.push(`${at}: expected 9 parts separated by " | ", got ${p.length}`);
+    const geo = p.length === 10 && p[9].startsWith('@') ? p.pop().slice(1).trim() : null;
+    if (p.length !== 9) return errs.push(`${at}: expected 9 parts separated by " | " (and an optional 10th, "@" and a geography), got ${p.length}`);
+    if (geo !== null && !GEO.test(geo)) return errs.push(`${at}: geography "${geo}" should be "all", a country code or one of ${REGIONS.join(', ')}`);
     const [covers, step, sure, level, s, where, subject, relation, object] = p, id = short[s] || s, d = doc(id);
     if (!d) return errs.push(`${at}: no saved source "${id}"`);
     const quote = quoteAt(d, where); if (!quote) return errs.push(`${at}: nothing at ${where} in ${id}`);
-    rows.push({ topic, step, subject, relation, object, how_often_or_sure: sure, numbers: '', level, source: label(d), source_version: d.updated || d.fetched, source_url: d.url, source_quote: quote, checked_on: d.fetched, jurisdiction: 'UK', status: 'draft', source_id: id, source_at: where, covers }); });
+    const elsewhere = isElsewhere(covers, away);
+    if (geo !== null && !elsewhere) return errs.push(`${at}: a geography is only for lines that cover an "Elsewhere in the world" item`);
+    if (elsewhere && !geo && !d.jurisdiction) return errs.push(`${at}: covers an "Elsewhere in the world" item: add "| @" and the geography its quote is about, or a "jurisdiction" to content/open-sources/${id}.json`);
+    const jurisdiction = elsewhere ? (geo || d.jurisdiction) : 'UK';
+    rows.push({ topic, step, subject, relation, object, how_often_or_sure: sure, numbers: '', level, source: label(d), source_version: d.updated || d.fetched, source_url: d.url, source_quote: quote, checked_on: d.fetched, jurisdiction, status: 'draft', source_id: id, source_at: where, covers }); });
   if (errs.length) { errs.forEach(e => console.log('✗ ' + e)); process.exit(1); }
   writeFileSync(csvFile, COLS.map(q).join(',') + '\n' + rows.map(r => COLS.map(c => q(r[c])).join(',')).join('\n') + '\n');
   console.log(`✓ ${csvFile}: ${rows.length} statements, quotes copied from ${new Set(rows.map(r => r.source_id)).size} saved sources`);
 }
 
+if (!existsSync(csvFile)) { console.log(`${dir}: no statements yet (statements.csv is not written)`); process.exit(0); }
 const rows = objs(readFileSync(csvFile, 'utf8')), norm = (s) => String(s).replace(/\s+/g, ' ').trim(), seen = new Map();
 rows.forEach((r, i) => { const at = `${csvFile} row ${i + 2}`, d = doc(r.source_id), claim = norm([r.subject, r.relation, r.object].join(' '));
   for (const c of ['topic', 'step', 'subject', 'relation', 'object', 'how_often_or_sure', 'level', 'source', 'source_url', 'source_quote', 'checked_on', 'jurisdiction', 'status', 'source_id', 'source_at']) if (!r[c]) errs.push(`${at}: ${c} is empty`);
   if (r.step && !STEPS.includes(r.step)) errs.push(`${at}: step "${r.step}" is not one of the steps`);
   if (r.how_often_or_sure && !SURE.includes(r.how_often_or_sure)) errs.push(`${at}: how_often_or_sure "${r.how_often_or_sure}" is not allowed`);
   if (!['core', 'extension'].includes(r.level)) errs.push(`${at}: level should be core or extension`);
+  const away = elsewhereItems();
+  if (r.jurisdiction && isElsewhere(r.covers, away) && r.jurisdiction === 'UK') errs.push(`${at}: covers an "Elsewhere in the world" item, so its jurisdiction can't be "UK" (refill: --fill)`);
+  if (r.jurisdiction && !GEO.test(r.jurisdiction)) errs.push(`${at}: jurisdiction "${r.jurisdiction}" should be "all", a country code or one of ${REGIONS.join(', ')}`);
   if (r.status !== 'draft') errs.push(`${at}: status must be draft. A statement is only ever "agreed" through consensus.csv`);
   if (!d) return errs.push(`${at}: no saved source "${r.source_id}" in content/open-sources/`);
   const reg = byId(d.register); if (!mayWrite(reg) || !OPEN.has(d.licence)) errs.push(`${at}: ${r.source_id} is not a source a model may write from (${d.register}, ${d.licence})`);
