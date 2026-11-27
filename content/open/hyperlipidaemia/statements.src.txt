@@ -1,0 +1,28 @@
+# Hyperlipidaemia: statements written from open sources only. Writer: GPT (27 Nov 2026).
+# One line each: covers | step | how sure | level | source | where in the source | subject | relation | object
+# "covers" lists the numbers in coverage.csv this statement answers; a trailing p means only partly.
+# "where" is an address in the saved copy of the source (content/open-sources/<source>.json). The quote is copied
+# from there by tools/check-open.mjs --fill, never typed. Sources: N1 nhs-high-cholesterol, A pmc8363437,
+# R pmc9324773.
+1 | pathophysiology | always | core | N1 | b1 | High cholesterol | means | having too much cholesterol, a fatty substance, in your blood.
+2p,3 | investigations | usually | core | R | b4.s12-s13 | The Fredrickson classification | does not address | dyslipidaemias related to low HDL cholesterol or raised lipoprotein(a). For this and other reasons it is used less often. Dyslipidaemias are usually described by raised total and LDL cholesterol, raised triglycerides, or raised LDL cholesterol and triglycerides together, with considerable attention also paid to raised lipoprotein(a) and low HDL cholesterol.
+2p,3 | pathophysiology | may | core | R | b3.s3 | Dyslipidaemias are important correctable predictors of coronary artery disease and | are defined by | changes in the plasma lipid profile. These may be raised total cholesterol, LDL cholesterol or triglycerides, a low HDL cholesterol concentration, or a combination of these findings.
+4 | risk factors | may | core | N1 | b3 | Eating fatty food, too little exercise, excess weight, smoking and drinking alcohol | can all cause | high cholesterol.
+5p | risk factors | may | core | N1 | b2.s2 | High cholesterol | can | run in families.
+5p,6 | risk factors | most | core | R | b4.s1 | Dyslipidaemias | can be | primary or familial, or secondary to other conditions such as diabetes mellitus, thyroid disease, obesity or an unhealthy lifestyle. Secondary dyslipidaemias are more common.
+5 | pathophysiology | may | core | R | b4.s3 | A genetic defect in one gene (monogenic) or in several genes (polygenic) | can cause | primary dyslipidaemia.
+6p | risk factors | may | extension | A | b5.s3 | Excessive production of very-low-density lipoprotein (VLDL) by the liver | can be driven by | genetic factors, a diet high in carbohydrates, excess alcohol intake, obesity, insulin resistance and nephrotic syndrome.
+8 | pathophysiology | may | core | A | b9.s1-s2 | LDL particles | can pass through | dysfunctional vascular endothelium and then cause inflammation. The endothelial phenotype and serum LDL level affect the chance that LDL remains in the intima.
+8p,9p | pathophysiology | may | extension | A | b10.s1-s2 | After LDL particles enter dysfunctional endothelium, their lipids | can be altered, oxidised or glycosylated | to give modified LDL particles. LDL particles under the endothelium can also bind to intimal proteoglycans, aggregate and enter smooth muscle cells, causing further lipid accumulation.
+9 | pathophysiology | may | core | A | b10.s3-s5 | When LDL enters the endothelium, monocytes | infiltrate | the subendothelial space. Macrophages take up modified LDL particles and become foam cells, named for their high cholesterol load. Foam cells cause oxidative stress and secrete cytokines involved in plaque growth. Their death can promote inflammation that leads to vascular smooth muscle proliferation and plaque formation.
+10,12 | clinical features | usually | core | N1 | b6.s1-s2 | High cholesterol | usually causes | no symptoms. A blood test is the only way to find out if you have it.
+16p,17p,19p | management | some | core | N1 | b4.s1-s2 | Eating healthily and exercising more | can lower | cholesterol. Some people also need medicine.
+20 | mechanism | always | core | A | b11.s2 | Statins | are inhibitors of | HMG-CoA reductase and reduce plasma LDL cholesterol.
+25p | investigations | often | core | R | b4.s14 | Family history and a physical examination | are important in | evaluating primary dyslipidaemia. Examination can often reveal xanthomas, which are lipid deposits in the skin and sometimes in the tissue beneath it.
+26 | clinical features | may | core | A | b12.s2 | Very high cholesterol levels, usually seen in familial hypercholesterolaemia, | can present with | xanthomas and corneal arcus.
+33 | complications | may | core | N1 | b5.s1-s2 | Too much cholesterol | can block | blood vessels and makes heart problems or a stroke more likely.
+39 | risk factors | always | extension | R | b14.s1 | Raised lipoprotein(a) | is an independent risk factor for | atherosclerosis and cardiovascular disease. That finding led to research into whether medicines might lower serum lipoprotein(a) and thereby prevent cardiovascular events in people with raised levels.
+40 | mechanism | may | core | A | b6.s7 | Cholesterol esters transferred to LDL particles | can then be removed | from the circulation by LDL receptor-mediated endocytosis in the liver.
+41 | mechanism | always | core | A | b5.s4 | The magnitude and cumulative duration of LDL cholesterol exposure | have been causally linked to | the risk of atherosclerotic cardiovascular disease.
+42p | clinical features | some | extension | A | b3.s2 | From 2015 to 2016, the CDC | reported elevated total cholesterol in | 29 million American adults (12.4%).
+42p | clinical features | some | extension | R | b3.s9 | In Central Europe between 1980 and 2018, substantial falls in plasma total cholesterol and non-HDL cholesterol (total cholesterol excluding HDL cholesterol) | were observed | in both men and women.

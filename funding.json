@@ -1,0 +1,77 @@
+{
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.1.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Sofia Vidal",
+    "email": "hello@messmed.co.uk",
+    "description": "I'm a final-year medical student at the University of Manchester. I build and run Mess, a free revision site for medical students, on my own.",
+    "webpageUrl": {
+      "url": "https://messmed.co.uk"
+    }
+  },
+  "projects": [
+    {
+      "guid": "mess",
+      "name": "Mess",
+      "description": "Mess is a free study hub for medical students: notes, questions, flashcards, OSCE stations and placement cases, linked by condition. No fees, no ads and no accounts; a student's work is stored only on their own device. Mess's clinical notes are written only from openly licensed sources, and every statement carries an exact quote from its source and is checked by two AI models that did not write it before it can go live. The public repository holds Mess's app, tools, checks and open-licensed content.",
+      "webpageUrl": {
+        "url": "https://messmed.co.uk"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/gremlindj11-ship-it/mess-app",
+        "wellKnown": "https://github.com/gremlindj11-ship-it/mess-app/blob/main/.well-known/funding-manifest-urls"
+      },
+      "licenses": [
+        "spdx:AGPL-3.0-only",
+        "spdx:CC-BY-SA-4.0"
+      ],
+      "tags": [
+        "education",
+        "medicine",
+        "health",
+        "medical-education",
+        "open-educational-resources",
+        "accessibility",
+        "javascript",
+        "pwa"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "bank",
+        "type": "bank",
+        "description": "Bank transfer; details on request from hello@messmed.co.uk."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "mess-2027",
+        "status": "active",
+        "name": "Clinical content validation, development, accessibility and evaluation",
+        "description": "To fund four things: independent validation of Mess's clinical content against its open sources; software development of the app and its content tools; accessibility work so Mess works for every student; and an evaluation of how students use Mess to learn.",
+        "amount": 10000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "bank"
+        ]
+      },
+      {
+        "guid": "any-amount",
+        "status": "active",
+        "name": "Support Mess",
+        "description": "Any amount, to keep Mess free.",
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "bank"
+        ]
+      }
+    ]
+  }
+}

@@ -4,7 +4,7 @@
 
 Mess is a study hub for UK medical students. Open any condition and get the notes, questions, flashcards, OSCE stations and your own placement cases in one place. Edit all of it, add your own, and let AI help if you want it.
 
-No fees, no ads, no sign-up. Your data stays on your device.
+No fees, no ads, no sign-up. Your work is stored only on your device. What can leave it (your own AI, a topic's name when Mess asks Wikipedia for a summary, and the rest) is listed in Help, under Your data.
 
 Revising for medical finals shouldn't depend on what you can afford. Mess is built especially for students who struggle to pay for revision resources.
 
@@ -47,11 +47,11 @@ Every button names an action (`data-a="..."`), and each file adds its own action
 
 ## Tests
 
-Run `npm install` once, then `npm test`. This runs every check: no errors on any page, phone layout, importing cards, questions and stations, diagrams (including a harmful SVG), lecture recordings, Why was I wrong?, the ? without AI, damaged backups and the way in (fake files, zip bombs, patient details, undo). Playwright also needs Chromium once: `npx playwright install chromium`. Run the tests before and after any change.
+Run `npm install` once, then `npm test`. This runs every check: no errors on any page, phone layout, importing cards, questions and stations, diagrams (including a harmful SVG), lecture recordings, Why was I wrong?, the ? without AI, damaged backups and the way in (fake files, zip bombs, patient details, undo). Playwright also needs Chromium once: `npx playwright install chromium`. Run the tests before and after any change. In the public copy the browser tests are left out, because they need test files that stay private; `npm test` runs the rest.
 
 ## Your data
 
-Everything you add is saved in your browser, on your device. It isn't sent to us, because there's no server to send it to. If you use AI, what you ask goes to the AI provider you chose. Back up from Profile, as clearing your browser data clears Mess too.
+Everything you add is saved in your browser, on your device. It isn't sent to us: Mess has no server of its own, and only a problem report you choose to email reaches us. If you use AI, what you ask goes to the AI provider you chose. Back up from Profile, as clearing your browser data clears Mess too.
 
 Mess takes NHS numbers, hospital numbers and dates of birth out of anything brought in, and names and contact details out of anything sent to an AI. It catches the usual identifiers, not everything, so still don't put identifiable patient details into your case write-ups.
 
@@ -92,7 +92,7 @@ Mess is built on other people's generous work.
 
 Copyright (c) 2026 Sofia Vidal. Mess is free software under the [GNU AGPL v3](LICENSE): you can use, change and share it, but if you share or host a changed version, you must share your code under the same licence. The projects above keep their own licences.
 
-**Notes, stories and other written content** (in `app/assets/notes.js`, `app/assets/stories.js`, `content/` and Mess's own packs) are under [CC BY-SA 4.0](CONTENT-LICENSE.md): anyone can share, translate and adapt them, including commercially, as long as they credit Mess and release their version under the same licence. That keeps every copy open. Curriculum labels belong to their publishers (e.g. the GMC's MLA content map, reproduced with acknowledgement) and aren't covered.
+**Notes, stories and other written content** (Mess's own writing from open sources: `content/open/`, `app/assets/notes.js`, `app/assets/stories.js` and Mess's own packs; never anything in `private/` or the old guideline folders) are under [CC BY-SA 4.0](CONTENT-LICENSE.md): anyone can share, translate and adapt them, including commercially, as long as they credit Mess and release their version under the same licence. That keeps every copy open. Curriculum labels belong to their publishers (e.g. the GMC's MLA content map, reproduced with acknowledgement) and aren't covered.
 
 Made by Sofia Vidal, a medical student at the University of Manchester.
 

@@ -1,0 +1,16 @@
+.git
+wrangler.jsonc
+.assetsignore
+.gitignore
+README.md
+LICENSE
+.wrangler
+.github
+tests
+content
+tools
+private
+DESIGN.md
+.agents
+AGENTS.md
+CLAUDE.md
