@@ -51,6 +51,7 @@ Start here instead of searching the repo. One line per folder or file: what it i
 - Questions: `check-questions.mjs`. Packs: `check-packs.mjs`. Links: `check-links.mjs`. Evidence: `build-evidence.mjs`. Re-trace an old story to open sources: `retrace.mjs "Topic"` (script text search only; writes `content/open/<topic>/retrace.csv`: section, heading, point number, open sentence address, score; never old wording; kept out of the public copy).
 - `peek.mjs`: one entry from a big data file (see ⚠ above).
 - `find-open.mjs`: search Europe PMC for CC BY articles, and read a saved source one addressed sentence per line (`show <id>`), with set-aside sentences hidden.
+- `pipeline.mjs`: where every open-source topic is in the content pipeline (`status`, `status <topic>` for every gate, `next`, `advance <topic> [--pr n]`). Stage = the first gate a topic fails, from its files; `status.json` in the topic folder keeps the PR, rounds of rewording and planted-fault records. `checklist.mjs` holds the four-groups rule (Confused with, Often missed, Why: 2 to 4 items each; Elsewhere in the world: 1 to 3).
 - The old guideline process, paused with the NICE stop: `fill-quotes.mjs`, `dump-recs.mjs`, `quotes-from-recs.mjs` (these three refuse NICE, BTS, SIGN and GOLD in code), `sofia-check.mjs`, `pipeline-status.mjs`, `check-claims.mjs` (still runs on GitHub), `meaning.mjs`.
 
 ## Tests (`tests/`)

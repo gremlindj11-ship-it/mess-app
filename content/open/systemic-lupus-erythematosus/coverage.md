@@ -2,12 +2,12 @@
 
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
-- Statements written: 20. Checked by at least one checker: 20. **Agreed by two: 13.**
-- Checklist items: 47. **With an agreed statement: 3.** Partly: 16. Written but not agreed: 9. Nothing found in the sources: 19.
+- Statements written: 20. Checked by at least one checker: 20. **Agreed by two: 20.**
+- Checklist items: 47. **With an agreed statement: 5.** Partly: 23. Written but not agreed: 0. Nothing found in the sources: 19.
 
 | Source | Statements | Agreed |
 |---|---|---|
-| nhs-lupus | 20 | 13 |
+| nhs-lupus | 20 | 20 |
 
 | # | Area | Item | State | Statement rows |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 5 | Causes and who gets it | Drugs that can cause lupus | partly | 5 |
 | 6 | Pathophysiology | Autoantibodies and immune complexes cause the damage | partly | 3 |
 | 7 | Presentation | Relapsing and remitting course with flares | agreed | 9, 10, 20 |
-| 8 | Presentation | General: fatigue, fever, weight loss | written, not agreed | 7, 8 |
-| 9 | Presentation | Joints: pain and non-erosive arthritis | written, not agreed | 7 |
-| 10 | Presentation | Skin: malar (butterfly) rash | written, not agreed | 7 |
-| 11 | Presentation | Skin: photosensitivity and discoid lesions | written, not agreed | 7 |
-| 12 | Presentation | Mouth ulcers and hair loss | written, not agreed | 8 |
-| 13 | Presentation | Raynaud's phenomenon | written, not agreed | 8 |
-| 14 | Presentation | Serositis: pleurisy and pericarditis | written, not agreed | 8, 11 |
-| 15 | Presentation | Kidney: lupus nephritis | written, not agreed | 11, 14 |
+| 8 | Presentation | General: fatigue, fever, weight loss | partly | 7, 8 |
+| 9 | Presentation | Joints: pain and non-erosive arthritis | partly | 7 |
+| 10 | Presentation | Skin: malar (butterfly) rash | partly | 7 |
+| 11 | Presentation | Skin: photosensitivity and discoid lesions | partly | 7 |
+| 12 | Presentation | Mouth ulcers and hair loss | agreed | 8 |
+| 13 | Presentation | Raynaud's phenomenon | agreed | 8 |
+| 14 | Presentation | Serositis: pleurisy and pericarditis | partly | 8, 11 |
+| 15 | Presentation | Kidney: lupus nephritis | partly | 11, 14 |
 | 16 | Presentation | Blood: anaemia, low white cells, low platelets | nothing found |  |
-| 17 | Presentation | Nervous system and mental health: seizures, psychosis, headaches | written, not agreed | 8, 11 |
+| 17 | Presentation | Nervous system and mental health: seizures, psychosis, headaches | partly | 8, 11 |
 | 18 | Presentation | Antiphospholipid syndrome and clots | nothing found |  |
 | 19 | Investigations | Antinuclear antibody (ANA) and what a negative result means | partly | 13 |
 | 20 | Investigations | Anti-dsDNA and anti-Sm antibodies | nothing found |  |

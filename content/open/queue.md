@@ -30,3 +30,20 @@ Saved sources for the fourth required group. Use them for any topic they bear on
 | pmc8878614, pmc7757241 | Rheumatic fever and rheumatic heart disease | mitral-regurgitation, aortic-stenosis, infective-endocarditis, heart-failure, atrial-fibrillation |
 | pmc6614205, pmc7218776 | Chagas disease and its heart disease | heart-failure, atrial-fibrillation |
 | pmc8510921 | Peripartum cardiomyopathy | heart-failure |
+
+## Respiratory (re-traced from the old stories: NICE's reply, 26 Nov)
+| Folder | Topic name in Mess | Saved sources |
+|---|---|---|
+| copd | COPD | nhs-copd, pmc8539950 |
+| asthma | Asthma | nhs-asthma, pmc6591438, pmc7253669 |
+| pleural-effusion | Pleural effusion | pmc9601808, pmc7695997 |
+| respiratory-failure | Respiratory failure | pmc6658637, pmc11486880 |
+
+No NHS or GOV.UK page exists for pleural effusion or respiratory failure (27 Nov: both 404), so those two can't pass stage 1 until one is found.
+
+### Elsewhere in the world: respiratory
+Saved sources for the fourth required group. Use them for any topic they bear on.
+| Saved source | What it covers | Topics it serves |
+|---|---|---|
+| pmc13000056 | Tuberculous pleural effusion | pleural-effusion |
+| pmc6591438 | Asthma around the world (epidemiology) | asthma |
