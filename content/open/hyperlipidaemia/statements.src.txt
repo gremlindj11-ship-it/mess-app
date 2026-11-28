@@ -12,9 +12,9 @@
 # SK pmc8363437
 # ND pmc9324773
 1 | pathophysiology | always | core | N | b1 | High cholesterol | means | having too much cholesterol, a fatty substance, in the blood.
-1 | pathophysiology | always | core | ND | b3.s3 | Dyslipidaemias, a crucial correctable predictive factor for coronary artery disease, | are defined as | alterations of the plasma lipid profile: raised total cholesterol, LDL cholesterol or triglycerides, or a low HDL cholesterol, or a combination of these.
+1 | pathophysiology | always | core | ND | b3.s3 | Dyslipidaemias, a crucial correctable predictive factor for coronary artery disease, | are defined as | alterations of the plasma lipid profile: increased levels of total cholesterol, LDL cholesterol or triglycerides, or a low plasma concentration of HDL cholesterol, or a combination of these.
 2 | investigations | always | core | NL | b1+b2+b3+b4 | A cholesterol test | can measure | total cholesterol (the overall amount of cholesterol in the blood), good cholesterol (HDL), which may make heart problems or a stroke less likely, and non-HDL cholesterol, which is the difference between total cholesterol and HDL.
-2p | pathophysiology | always | extension | SK | b6.s1 | LDL and HDL | are | the primary lipoprotein carriers of the body's own cholesterol esters, and also carry smaller amounts of triglycerides, phospholipids and fat-soluble vitamins.
+2p | pathophysiology | always | extension | SK | b6.s1 | LDL and HDL | are | the primary lipoprotein carriers of endogenous (the body's own) cholesterol esters, but also carry smaller amounts of triglycerides, phospholipids and fat-soluble vitamins.
 2p | pathophysiology | always | extension | SK | b6.s5 | HDL | carries | cholesterol from peripheral cells to the liver and intestine.
 3 | pathophysiology | always | core | SK | b7.s1 | Raised cholesterol in the body | can lead to | plaque forming and building up in blood vessels, leading to atherosclerotic cardiovascular disease.
 3 | pathophysiology | always | extension | SK | b9.s1 | LDL particles | can | pass through dysfunctional vascular endothelium and cause inflammation.
@@ -25,7 +25,7 @@
 4 | complications | may | core | N | b5.s1+b5.s2 | Too much cholesterol | can block | your blood vessels, making you more likely to have heart problems or a stroke.
 4 | risk factors | always | core | ND | b3.s2 | Dyslipidaemia | plays an important role in | the development of cardiovascular disease; people with raised serum lipoprotein levels have twice the chance of developing cardiovascular disease of those without.
 2p | pathophysiology | always | extension | SK | b5.s5 | There | is no current evidence for | an established protective role for HDL against atherosclerosis.
-5 | risk factors | always | core | N | b3.h+b3 | High cholesterol | can be caused by | a fatty diet, too little exercise, being overweight, smoking and drinking alcohol.
+5 | risk factors | always | core | N | b3.h+b3 | High cholesterol | can also be caused by | a fatty diet, too little exercise, being overweight, smoking and drinking alcohol.
 5p | risk factors | always | core | N | b2.s1 | High cholesterol | is more likely if you are | over 50, a man, have been through the menopause, or are of South Asian or sub-Saharan African origin.
 5p | risk factors | always | core | NW | b20 | Smoking | can raise | cholesterol, and it makes heart attacks, strokes and cancer more likely.
 6 | risk factors | always | core | ND | b4.s1 | Dyslipidaemias | are divided into | primary (familial) dyslipidaemias and dyslipidaemias secondary to other conditions such as diabetes mellitus, thyroid disease, obesity or an unhealthy lifestyle; the secondary ones are more common.
@@ -82,7 +82,7 @@
 19 | mechanism | always | extension | ND | b10.s1+b10.s2+b10.s3 | Bempedoic acid | inhibits | ATP citrate lyase, an enzyme upstream of HMG-CoA reductase, which prevents cholesterol synthesis and indirectly increases LDL receptors, increasing LDL clearance.
 19 | mechanism | always | extension | ND | b12.s2+b12.s3+b12.s4+b12.s5 | Alirocumab and evolocumab (PCSK9 monoclonal antibodies) | block | PCSK9 binding to the liver's LDL receptors, which PCSK9 otherwise sends for degradation, so more LDL receptors are recycled and more LDL cholesterol is taken up from the blood.
 19 | side effects | usually | extension | ND | b12.s12-s13 | Both monoclonal antibody PCSK9 inhibitors | are safe, with | an injection site reaction as the most common adverse effect.
-19 | management | always | extension | ND | b12.s17 | For PCSK9 inhibitors, | the most limiting factor for wider use | their cost at present.
+19 | management | always | extension | ND | b12.s17 | For PCSK9 inhibitors, | the most limiting factor for wider use is | their cost at the moment.
 19 | mechanism | always | extension | ND | b13.s2+b13.s4+b13.s5 | Inclisiran | is | a small interfering RNA that cuts PCSK9 messenger RNA, reducing PCSK9 production, which upregulates LDL receptors and lowers circulating LDL cholesterol.
 19 | management | always | extension | ND | b13.s7 | Inclisiran | is given | under the skin on day 1, day 90, day 180, and then once every six months.
 19 | management | always | extension | ND | b22.s11 | Ezetimibe | is | the second-line treatment in combination with statins, with PCSK9 inhibitors next when statin plus ezetimibe is not enough or patients are at high risk of major cardiovascular events.
