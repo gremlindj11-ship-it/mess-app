@@ -29,19 +29,30 @@ const PROVIDERS = {
   custom: { n: 'Anything else, or one on your own computer', model: '' }
 };
 function aiErr(res, msg) { const e = new Error(msg); e.status = res.status; e.retry = +(res.headers.get('retry-after') || 0); return e; }
+// What actually went, recorded at the moment of sending (after redaction), so "What Mess sent" can't drift from it.
+// Kept in memory only, never saved.
+function aiSent(to, system, turns, o, mixed) { const rec = { to: String(to).replace(/\s*\(.*\)$/, ''), at: Date.now(), system: String(system || ''), mixed: !!mixed, turns: (turns || []).map(t => ({ role: t.role, content: String(t.content) })) }; if (o && typeof o.onSent === 'function') try { o.onSent(rec); } catch (e) { } }
+function sentParts(s) { const t = '\n' + s.system, p = [s.turns.length > 1 ? 'The conversation so far' : 'Your message'];
+  if (/looking at: Case: /.test(t)) p.push('This placement case'); if (/Mess's points for this step/.test(t)) p.push("This page's points"); if (/\nThey selected this text: /.test(t)) p.push('What you selected');
+  if (/\. My notes say: |\nTheir own notes on this topic /.test(t)) p.push('Your notes on this topic'); if (/looking at: Question: /.test(t)) p.push('The question on screen'); if (/\nSaved about their course: /.test(t)) p.push('Your saved course notes');
+  if (/\nAlways follow: /.test(t)) p.push('Your "Always follow"'); if (/\nStudent: /.test(t)) p.push('Your profile');
+  const all = t + '\n' + s.turns.map(x => x.content).join('\n'), out = [...new Set((all.match(/\[([A-Za-z ]+) removed\]/g) || []).map(x => x.slice(1, -9)))]; return { parts: p, out };
+}
+function sentFold(s) { if (!s) return ''; const { parts, out } = sentParts(s), text = (s.system ? (s.mixed ? "Mess's instructions (sent at the start of your first message):\n" : "Mess's instructions:\n") + s.system + '\n\n' : '') + s.turns.map(x => (x.role === 'assistant' ? 'AI:\n' : 'Message:\n') + x.content).join('\n\n');
+  return `<details class="dd ddinline sentfold" data-at="${s.at}"${(ui.sentOpen || {})[s.at] ? ' open' : ''}><summary class="tlink s">What Mess sent to ${esc(s.to)}</summary><p class="s m" style="margin:6px 0">Mess's instructions, plus: ${esc(parts.join(', '))}.${out.length ? ' Taken out first: ' + esc(out.join(', ')) + '.' : ''}</p><pre class="sentx">${esc(text)}</pre></details>`; }
 async function callAI(system, turns, o = {}) {
-  if (ui.sample) { const msgs = turns.map(t => ({ role: t.role, content: String(t.content) })); msgs[0] = { role: msgs[0].role, content: system + '\n' + memoryPrompt() + '\n\n' + msgs[0].content }; const r = await ui.sample(msgs, { cache: false, modelTier: 'default' }); return r.text; }
+  if (ui.sample) { const msgs = turns.map(t => ({ role: t.role, content: String(t.content) })); const lead = system + '\n' + memoryPrompt(); aiSent('Claude', lead, msgs, o, true); msgs[0] = { role: msgs[0].role, content: lead + '\n\n' + msgs[0].content }; const r = await ui.sample(msgs, { cache: false, modelTier: 'default' }); return r.text; }
   const key = getKey();
   if (db.ai === 'none' || db.ai === 'own' || (!key && db.ai !== 'custom')) throw new Error('nokey');
   const full = system + '\n' + memoryPrompt();
   let res, data;
   if (db.ai === 'claude') {
-    const cModel = (db.aiModels || {}).claude || PROVIDERS.claude.model;
+    const cModel = (db.aiModels || {}).claude || PROVIDERS.claude.model; aiSent('Claude', full, turns, o);
     try { res = await fetch('https://api.anthropic.com/v1/messages', { method: 'POST', headers: { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' }, body: JSON.stringify({ model: cModel, max_tokens: o.max || 2000, system: full, messages: turns }) }); } catch (e) { throw aiNet('Claude'); }
     data = await res.json(); if (!res.ok) throw aiErr(res, data.error?.message || 'AI error');
     return data.content.map(x => x.text || '').join('');
   }
-  const pv = PROVIDERS[db.ai] || PROVIDERS.groq, base = (db.ai === 'custom' ? (db.aiUrl || '') : pv.url).replace(/\/+$/, ''), model = (db.aiModels || {})[db.ai] || pv.model;
+  const pv = PROVIDERS[db.ai] || PROVIDERS.groq, base = (db.ai === 'custom' ? (db.aiUrl || '') : pv.url).replace(/\/+$/, ''), model = (db.aiModels || {})[db.ai] || pv.model; aiSent(db.ai === 'custom' ? (() => { try { return new URL(base).host; } catch (e) { return 'your AI'; } })() : pv.n, full, turns, o);
   try { res = await fetch(base + '/chat/completions', { method: 'POST', headers: { 'content-type': 'application/json', ...(key ? { authorization: 'Bearer ' + key } : {}) }, body: JSON.stringify({ model, max_tokens: o.max || 2000, messages: [{ role: 'system', content: full }, ...turns] }) }); } catch (e) { throw aiNet(pv.n, " It may block browser apps. Use The AI you already use instead."); }
   data = await res.json().catch(() => ({})); if (!res.ok) throw aiErr(res, data.error?.message || (data[0] && data[0].error?.message) || 'AI error');
   return data.choices[0].message.content;
@@ -56,10 +67,18 @@ const toTurns = (log) => { const t = log.map(m => ({ role: m.me ? 'user' : 'assi
 const aiReady = () => !!ui.sample || (db.ai === 'custom' ? !!(db.aiUrl && (db.aiModels || {}).custom) : !!PROVIDERS[db.ai] && !!getKey());
 const aiCan = () => !!ui.sample || db.ai !== 'none';
 const aiTool = (system, turns) => aiReady() ? callAI(system, turns) : manualAI(system, turns[turns.length - 1].content);
-function manualAI(system, user) { return new Promise((ok, no) => { if (ui.mp) ui.mp.no(new Error('cancel')); const prompt = system + '\n' + memoryPrompt(false) + '\n\n' + user + '\n\nReply with only what was asked for, with no extra text.'; ui.mp = { prompt, ok, no }; const pick = db.ownAI || 'Claude', list = [...OWN_AI.filter(a => a[0] === pick), ...OWN_AI.filter(a => a[0] !== pick)]; let m = $('#manual'); if (m) m.remove(); m = document.createElement('div'); m.id = 'manual'; m.setAttribute('role', 'dialog'); m.setAttribute('aria-modal', 'true'); m.setAttribute('aria-label', 'Use your own AI'); m.innerHTML = `<div class="mbox"><h2>Use your own AI</h2><p class="m"><b>1.</b> Open your AI. Your prompt is copied too, in case it opens empty.</p><div class="mais">${list.map(([n]) => `<button class="seg" data-a="mopen" data-v="${n}">${n} ↗</button>`).join('')}<button class="seg" data-a="mcopy">Just copy it</button></div><p class="m"><b>2.</b> Paste its answer here.</p><textarea class="f" id="manualin" rows="6" aria-label="The AI's answer" placeholder="Paste the whole answer"></textarea><div class="row" style="margin-top:10px"><button class="btn pri" data-a="mdone">Add to Mess</button><button class="btn" data-a="mcancel">Cancel</button></div></div>`; document.body.appendChild(m); }); }
+function manualAI(system, user) { return new Promise((ok, no) => { if (ui.mp) ui.mp.no(new Error('cancel')); const prompt = system + '\n' + memoryPrompt(false) + '\n\n' + user + '\n\nReply with only what was asked for, with no extra text.'; ui.mp = { prompt, ok, no }; const pick = db.ownAI || 'Claude', list = [...OWN_AI.filter(a => a[0] === pick), ...OWN_AI.filter(a => a[0] !== pick)]; let m = $('#manual'); if (m) m.remove(); m = document.createElement('div'); m.id = 'manual'; m.setAttribute('role', 'dialog'); m.setAttribute('aria-modal', 'true'); m.setAttribute('aria-label', 'Use your own AI'); m.innerHTML = `<div class="mbox"><h2>Use your own AI</h2><p class="m"><b>1.</b> Open your AI. Mess copies your prompt: paste it in and send it.</p><div class="mais">${list.map(([n]) => `<button class="seg" data-a="mopen" data-v="${n}">${n} ↗</button>`).join('')}<button class="seg" data-a="mcopy">Just copy it</button></div><p class="m"><b>2.</b> Paste its answer here.</p><textarea class="f" id="manualin" rows="6" aria-label="The AI's answer" placeholder="Paste the whole answer"></textarea><div class="row" style="margin-top:10px"><button class="btn pri" data-a="mdone">Add to Mess</button><button class="btn" data-a="mcancel">Cancel</button></div></div>`; document.body.appendChild(m); }); }
 const aiLock = (text) => `<button class="lockbtn" data-a="aion">${esc(text || 'Needs the AI. Switch it on')} →</button>`;
-const OWN_AI = [['Claude', (p) => 'https://claude.ai/new?q=' + encodeURIComponent(p)], ['ChatGPT', (p) => 'https://chatgpt.com/?q=' + encodeURIComponent(p)], ['Gemini', (p) => 'https://gemini.google.com/guided-learning?query=' + encodeURIComponent(p)], ['Copilot', (p) => 'https://copilot.microsoft.com/?q=' + encodeURIComponent(p)], ['Perplexity', (p) => 'https://www.perplexity.ai/search?q=' + encodeURIComponent(p)], ['Grok', (p) => 'https://grok.com/?q=' + encodeURIComponent(p)], ['Mistral', (p) => 'https://chat.mistral.ai/chat?q=' + encodeURIComponent(p)], ['DeepSeek', () => 'https://chat.deepseek.com/'], ['Meta AI', () => 'https://www.meta.ai/']];
-function openOwn(name, prompt) { prompt = aiOut(prompt); const own = OWN_AI.find(a => a[0] === name) || OWN_AI[0], url = own[1](linkCut(prompt)); copyText(prompt); let w = null; try { w = window.open(url, '_blank'); } catch (e) { } toast(w ? `Your prompt is copied too. If ${own[0]} opens empty, just paste it in.` : `Your browser blocked the new tab. Your prompt is copied: open ${own[0]} and paste it in.`); }
+// Each AI's own start page, with nothing of the student's in the address: a URL ends up in browser history, server logs
+// and Referer headers, so a case or a note must never go in one. The prompt goes over by copy only.
+const OWN_AI = [['Claude', 'https://claude.ai/new'], ['ChatGPT', 'https://chatgpt.com/'], ['Gemini', 'https://gemini.google.com/app'], ['Copilot', 'https://copilot.microsoft.com/'], ['Perplexity', 'https://www.perplexity.ai/'], ['Grok', 'https://grok.com/'], ['Mistral', 'https://chat.mistral.ai/chat'], ['DeepSeek', 'https://chat.deepseek.com/'], ['Meta AI', 'https://www.meta.ai/']];
+// Prompts behind the Open-in buttons, kept in memory only (never in the page or a link).
+const ownKeep = (p) => { ui.ownP = ui.ownP || {}; p = String(p); const have = Object.keys(ui.ownP).find(k => ui.ownP[k] === p); if (have) return have; const k = Object.keys(ui.ownP); if (k.length > 40) delete ui.ownP[k[0]]; const id = 'p' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); ui.ownP[id] = p; return id; };
+// The copy starts in the tap and the tab opens in the same tap (a browser only opens one then). If the copy fails, the
+// tab is closed again and the prompt is shown to select and copy by hand, so the student always has it.
+function openOwn(name, prompt) { prompt = aiOut(prompt); const own = OWN_AI.find(a => a[0] === name) || OWN_AI[0]; db.ownAI = own[0]; save(); const copied = copyText(prompt); let w = null; try { w = window.open(own[1], '_blank'); if (w) w.opener = null; } catch (e) { }
+  copied.then(ok => { if (ok) return toast(w ? `Your prompt is copied. Paste it into ${own[0]}.` : `Your prompt is copied. Your browser blocked the new tab: open ${own[0]} and paste it in.`); try { if (w) w.close(); } catch (e) { } ownShow(own, prompt); }); }
+function ownShow(own, prompt) { let m = $('#ownshowbox'); if (m) m.remove(); m = document.createElement('div'); m.id = 'ownshowbox'; m.setAttribute('role', 'dialog'); m.setAttribute('aria-modal', 'true'); m.setAttribute('aria-label', 'Copy your prompt'); m.innerHTML = `<div class="mbox"><h2>Copy your prompt</h2><p class="m">Mess couldn't copy it for you. Select it all, copy it, then open ${esc(own[0])} and paste it in.</p><textarea class="f" id="ownshow" rows="8" readonly aria-label="Your prompt">${esc(prompt)}</textarea><div class="row" style="margin-top:10px"><a class="btn pri" href="${esc(own[1])}" target="_blank" rel="noopener">Open ${esc(own[0])} ↗</a><button class="btn" data-a="ownshut">Close</button></div></div>`; document.body.appendChild(m); const t = $('#ownshow'); if (t) { t.focus(); t.select(); } }
 // The prompt for a student with no AI set up in Mess: they copy it, or open it in their own AI. With o.page (the ?
 // panel and Explain), on a story built from open sources, it carries the page bundle (the step's points and their
 // sources, story.js) so their AI teaches from Mess's points. Callers that bring their own material (Fix a mistake,
@@ -82,10 +101,9 @@ const buildPrompt = (q, o = {}) => {
 };
 // Cut without splitting a character in two (a lone half breaks a link).
 function charCut(s, n) { let t = String(s).slice(0, n); if (/[\ud800-\udbff]$/.test(t)) t = t.slice(0, -1); return t; }
-const linkCut = (s) => charCut(s, PROMPT_MAX);
-const ownBox = (m) => `<textarea class="f ownp" id="${m.pid}" rows="6" aria-label="Your prompt">${esc(typeof guideText === 'function' ? guideText(m.prompt) : m.prompt)}</textarea><div class="row" style="gap:5px;margin-top:6px">${OWN_AI.map(([n]) => `<button class="gobtn" style="margin:0" data-a="ownsend" data-v="${n}|${m.pid}">Open in ${n} ↗</button>`).join('')}<button class="gobtn" style="margin:0" data-a="owncopy" data-v="${m.pid}">Copy</button></div>`;
-const ownGo = (p) => { const safe = linkCut(guideText(intakeOut(String(p), false))); return [...OWN_AI.filter(a => a[0] === db.ownAI), ...OWN_AI.filter(a => a[0] !== db.ownAI)].slice(0, 3).map(([n, f]) => ({ url: f(safe), label: 'Open in ' + n })); };
-const ownLinks = (p) => `<div class="row" style="margin-top:10px">${ownGo(p).map(g => `<a class="btn" style="display:inline-flex;align-items:center;text-decoration:none" href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.label)} ↗</a>`).join('')}</div>`;
+const ownBox = (m) => `<textarea class="f ownp" id="${m.pid}" rows="6" aria-label="Your prompt">${esc(typeof guideText === 'function' ? guideText(m.prompt) : m.prompt)}</textarea><div class="row" style="gap:5px;margin-top:6px">${OWN_AI.map(([n]) => `<button class="gobtn" style="margin:0" data-a="ownsend" data-v="${n}|${m.pid}">Copy and open ${n} ↗</button>`).join('')}<button class="gobtn" style="margin:0" data-a="owncopy" data-v="${m.pid}">Copy</button></div>`;
+const ownGo = (p) => { const id = ownKeep(p); return [...OWN_AI.filter(a => a[0] === db.ownAI), ...OWN_AI.filter(a => a[0] !== db.ownAI)].slice(0, 3).map(([n]) => ({ a: 'ownopen', v: n + '|' + id, label: 'Copy and open ' + n })); };
+const ownLinks = (p) => `<div class="row" style="margin-top:10px">${ownGo(p).map(g => `<button class="btn" data-a="ownopen" data-v="${esc(g.v)}">${esc(g.label)} ↗</button>`).join('')}</div>`;
 function aiNow() {
   if (ui.sample) return aiChoices();
   const isKey = !!PROVIDERS[db.ai], [t, d] = db.ai === 'own' ? ['The AI you already use', 'Mess writes the prompt, you paste the answer back.'] : isKey ? ['Connected with a key', PROVIDERS[db.ai].n + (aiReady() ? ', settings saved. Test it before using.' : '. Add your key to finish.')] : ['No AI for now', 'Cases, scores, calculators and links all still work.'];
@@ -146,6 +164,8 @@ Object.assign(act, {
 });
 Object.assign(act, {
   ownsend: (v) => { const [n, id] = v.split('|'), box = $('#' + id); openOwn(n, box ? box.value : ''); },
+  ownshut: () => { const m = $('#ownshowbox'); if (m) m.remove(); },
+  ownopen: (v) => { const k = String(v || '').lastIndexOf('|'), n = String(v).slice(0, k), id = String(v).slice(k + 1), p = (ui.ownP || {})[id]; if (p == null) return toast('That prompt is gone. Ask again to get a new one.'); openOwn(n, p); },
   owncopy: (id) => { const box = $('#' + id); if (box) copyText(aiOut(box.value)).then(ok => toast(ok ? 'Copied.' : 'Select the text and copy it yourself.')); }
 });
 Object.assign(act, {

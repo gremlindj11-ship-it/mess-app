@@ -1,0 +1,283 @@
+{
+ "id": "nhs-high-cholesterol-how-to-lower-your-cholesterol",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-cholesterol/how-to-lower-your-cholesterol/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-cholesterol/how-to-lower-your-cholesterol/",
+ "title": "How to lower your cholesterol - High cholesterol",
+ "updated": "2026-03-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-26",
+ "sha256": "b2ce008d13a2d1c354219005d2c85ee076a5a64d2e67a2dc85ca332c8d4544c4",
+ "sentences": 34,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food",
+   "kind": "p",
+   "s": [
+    "To reduce your cholesterol, try to cut down on fatty food, especially food that contains a type of fat called saturated fat."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food",
+   "kind": "p",
+   "s": [
+    "You can still have foods that contain a healthier type of fat called unsaturated fat."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food",
+   "kind": "p",
+   "s": [
+    "Check labels on food to see what type of fat it has in it."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat more:",
+   "kind": "li",
+   "s": [
+    "oily fish, like mackerel and salmon"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat more:",
+   "kind": "li",
+   "s": [
+    "olive oil, rapeseed oil and spreads made from these oils"
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat more:",
+   "kind": "li",
+   "s": [
+    "brown rice, wholegrain bread and wholewheat pasta"
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat more:",
+   "kind": "li",
+   "s": [
+    "nuts and seeds"
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat more:",
+   "kind": "li",
+   "s": [
+    "fruits and vegetables"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat less:",
+   "kind": "li",
+   "s": [
+    "meat pies, sausages and fatty meat"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat less:",
+   "kind": "li",
+   "s": [
+    "butter, lard and ghee"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat less:",
+   "kind": "li",
+   "s": [
+    "cream and cheese"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat less:",
+   "kind": "li",
+   "s": [
+    "cakes and biscuits"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Eat less fatty food > Try to eat less:",
+   "kind": "li",
+   "s": [
+    "food that contains coconut oil or palm oil"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "p",
+   "s": [
+    "Aim to do at least 150 minutes (2.5 hours) of moderate intensity exercise or 75 minutes of vigorous intensity activity a week."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "p",
+   "s": [
+    "Some good things to try when starting out include:"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "li",
+   "s": [
+    "walking – try to walk fast enough so your heart starts beating faster"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "li",
+   "s": [
+    "swimming"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "li",
+   "s": [
+    "cycling"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Exercise more",
+   "kind": "p",
+   "s": [
+    "Try a few different exercises to find something you like doing.",
+    "You're more likely to keep doing it if you enjoy it."
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Stop smoking",
+   "kind": "p",
+   "s": [
+    "Smoking can raise your cholesterol and make you more likely to have serious problems like heart attacks, strokes and cancer."
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Stop smoking",
+   "kind": "p",
+   "s": [
+    "If you want to stop smoking, you can get help and support from:"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Stop smoking",
+   "kind": "li",
+   "s": [
+    "your GP"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Stop smoking",
+   "kind": "li",
+   "s": [
+    "NHS stop smoking services"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Stop smoking",
+   "kind": "p",
+   "s": [
+    "They can give you useful tips and advice about ways to stop cravings."
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Cut down on alcohol",
+   "kind": "p",
+   "s": [
+    "Try to:"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Cut down on alcohol",
+   "kind": "li",
+   "s": [
+    "avoid drinking more than 14 units of alcohol a week on a regular basis"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Cut down on alcohol",
+   "kind": "li",
+   "s": [
+    "spread your drinking over 3 or more days if you regularly drink as much as 14 units a week"
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Cut down on alcohol",
+   "kind": "li",
+   "s": [
+    "have several drink-free days each week"
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "How to lower your cholesterol - High cholesterol > Ways to lower your cholesterol > Cut down on alcohol",
+   "kind": "p",
+   "s": [
+    "Ask your GP for help and advice if you're struggling to cut down."
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "How to lower your cholesterol - High cholesterol > Find out more",
+   "kind": "li",
+   "s": [
+    "How to eat less saturated fat"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "How to lower your cholesterol - High cholesterol > Find out more",
+   "kind": "li",
+   "s": [
+    "Exercise guidelines and workout to improve your fitness and wellbeing"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "How to lower your cholesterol - High cholesterol > Find out more",
+   "kind": "li",
+   "s": [
+    "How to quit smoking"
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "How to lower your cholesterol - High cholesterol > Find out more",
+   "kind": "li",
+   "s": [
+    "Where to get alcohol support"
+   ]
+  }
+ ]
+}

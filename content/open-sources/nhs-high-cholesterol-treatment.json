@@ -1,0 +1,115 @@
+{
+ "id": "nhs-high-cholesterol-treatment",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-cholesterol/treatment/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-cholesterol/treatment/",
+ "title": "Medicines for high cholesterol - High cholesterol",
+ "updated": "2026-03-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-26",
+ "sha256": "e5585da826d993de6755c7e0a26dd934b022912e9970010c1d0dfdf6f095bfd5",
+ "sentences": 13,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol",
+   "kind": "p",
+   "s": [
+    "You might need medicine to lower your cholesterol if:"
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol",
+   "kind": "li",
+   "s": [
+    "your cholesterol level has not gone down after changing your diet and lifestyle"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol",
+   "kind": "li",
+   "s": [
+    "you're at a high risk of having a heart attack or stroke"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol",
+   "kind": "p",
+   "s": [
+    "Ask your doctor about the medicines you can take."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Statins",
+   "kind": "p",
+   "s": [
+    "Statins are the most common medicine for high cholesterol."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Statins",
+   "kind": "p",
+   "s": [
+    "They reduce the amount of cholesterol your body makes."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Statins",
+   "kind": "p",
+   "s": [
+    "You take a tablet once a day.",
+    "You usually need to take them for life."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Other medicines for high cholesterol",
+   "kind": "p",
+   "s": [
+    "Other medicines may be used if statins do not work or you cannot take statins."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Other medicines for high cholesterol",
+   "kind": "p",
+   "s": [
+    "These include:"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Other medicines for high cholesterol",
+   "kind": "li",
+   "s": [
+    "other tablets – such as ezetimibe, sometimes with bempedoic acid"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Other medicines for high cholesterol",
+   "kind": "li",
+   "s": [
+    "injections – such as alirocumab, evolocumab and inclisiran"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Medicines for high cholesterol - High cholesterol > Medicine to lower your cholesterol > Find out more",
+   "kind": "p",
+   "s": [
+    "HEART UK: treatment for high cholesterol"
+   ]
+  }
+ ]
+}

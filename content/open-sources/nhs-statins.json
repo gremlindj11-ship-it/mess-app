@@ -1,0 +1,508 @@
+{
+ "id": "nhs-statins",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/medicines/statins/",
+ "fetched_from": "https://www.nhs.uk/medicines/statins/",
+ "title": "Statins",
+ "updated": "2026-05-05",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-26",
+ "sha256": "3d641c3047baaebf59881fc02b280816bf835eb720dbb244b7ea37b65ca3ede7",
+ "sentences": 69,
+ "set_aside": 1,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Statins",
+   "kind": "p",
+   "s": [
+    "Statins are medicines used to lower cholesterol.",
+    "High cholesterol increases the risk of heart problems and stroke, but taking statins can help prevent these conditions."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Statins > What statins are for",
+   "kind": "p",
+   "s": [
+    "Statins are used to lower high cholesterol levels and help stop your body producing too much cholesterol."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Statins > What statins are for",
+   "kind": "p",
+   "s": [
+    "Cholesterol is a fatty substance in your blood that helps to make vitamin D and some of your hormones.",
+    "If you produce too much cholesterol (high cholesterol), it can block blood vessels and stop them working properly."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Statins > What statins are for",
+   "kind": "p",
+   "s": [
+    "High cholesterol can cause cardiovascular disease, a condition that affects the heart and blood vessels.",
+    "This can cause heart attacks, strokes and peripheral arterial disease."
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Statins > What statins are for > How statins work",
+   "kind": "p",
+   "s": [
+    "Statins work by lowering the amount of cholesterol your body makes.",
+    "This helps prevent the build-up of cholesterol in the blood vessels and keeps them working properly."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Statins > What statins are for > How statins work",
+   "kind": "p",
+   "s": [
+    "You'll usually take statins long term.",
+    "This helps keep the risk of a heart attack or stroke as low as possible as you get older."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Statins > What statins are for > How statins work",
+   "kind": "p",
+   "s": [
+    "If you stop taking statins your cholesterol levels may be affected.",
+    "Talk to a doctor or pharmacist before stopping."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Statins > Who may be offered statins",
+   "kind": "p",
+   "s": [
+    "You may be offered statins if:"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "you're at higher risk of getting cardiovascular disease and healthy lifestyle changes have not helped or are unlikely to help on their own"
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "you already have cardiovascular disease (to reduce the risk of having a heart attack or stroke)"
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Statins > Who may be offered statins",
+   "kind": "p",
+   "s": [
+    "You may be considered at higher risk of cardiovascular disease if:"
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "a health assessment (called QRISK) shows you may be at an increased risk of developing cardiovascular disease in the next 10 years – this is usually based on factors such as your age, sex, ethnicity and cholesterol levels"
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "you have a condition that puts you at risk of cardiovascular disease, such as diabetes, chronic kidney disease (CKD) or inherited high cholesterol (familial hypercholesterolaemia)"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "you're aged 85 or over"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Statins > Who may be offered statins",
+   "kind": "p",
+   "s": [
+    "Most people can take statins, but you should not take them if you:"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "have severe liver disease"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "are pregnant or trying to get pregnant"
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Statins > Who may be offered statins",
+   "kind": "li",
+   "s": [
+    "are of childbearing age and are not using contraception"
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Statins > Who may be offered statins > Find out more",
+   "kind": "li",
+   "s": [
+    "[set aside: names guidance a model may not read]"
+   ]
+  },
+  {
+   "at": "b20",
+   "path": "Statins > Who may be offered statins > Find out more",
+   "kind": "li",
+   "s": [
+    "British Heart Foundation: QRISK, how it works and what your score means"
+   ]
+  },
+  {
+   "at": "b21",
+   "path": "Statins > Types of statins",
+   "kind": "p",
+   "s": [
+    "The main types of statins are:"
+   ]
+  },
+  {
+   "at": "b22",
+   "path": "Statins > Types of statins",
+   "kind": "li",
+   "s": [
+    "atorvastatin"
+   ]
+  },
+  {
+   "at": "b23",
+   "path": "Statins > Types of statins",
+   "kind": "li",
+   "s": [
+    "fluvastatin"
+   ]
+  },
+  {
+   "at": "b24",
+   "path": "Statins > Types of statins",
+   "kind": "li",
+   "s": [
+    "pravastatin"
+   ]
+  },
+  {
+   "at": "b25",
+   "path": "Statins > Types of statins",
+   "kind": "li",
+   "s": [
+    "rosuvastatin"
+   ]
+  },
+  {
+   "at": "b26",
+   "path": "Statins > Types of statins",
+   "kind": "li",
+   "s": [
+    "simvastatin"
+   ]
+  },
+  {
+   "at": "b27",
+   "path": "Statins > Types of statins",
+   "kind": "p",
+   "s": [
+    "All statins are available on prescription.",
+    "They come as a tablet you take once a day."
+   ]
+  },
+  {
+   "at": "b28",
+   "path": "Statins > Types of statins > Alternatives to statins",
+   "kind": "p",
+   "s": [
+    "There are other medicines available if you cannot take statins."
+   ]
+  },
+  {
+   "at": "b29",
+   "path": "Statins > Types of statins > Alternatives to statins",
+   "kind": "p",
+   "s": [
+    "These include:"
+   ]
+  },
+  {
+   "at": "b30",
+   "path": "Statins > Types of statins > Alternatives to statins",
+   "kind": "li",
+   "s": [
+    "other tablets – such as ezetimibe and bempedoic acid"
+   ]
+  },
+  {
+   "at": "b31",
+   "path": "Statins > Types of statins > Alternatives to statins",
+   "kind": "li",
+   "s": [
+    "injections – such as inclisiran, alirocumab and evolocumab"
+   ]
+  },
+  {
+   "at": "b32",
+   "path": "Statins > Side effects of statins",
+   "kind": "p",
+   "s": [
+    "Like all medicines, statins can cause side effects but not everyone gets them."
+   ]
+  },
+  {
+   "at": "b33",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "p",
+   "s": [
+    "Some common side effects of statins include:"
+   ]
+  },
+  {
+   "at": "b34",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "headaches"
+   ]
+  },
+  {
+   "at": "b35",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "dizziness"
+   ]
+  },
+  {
+   "at": "b36",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "feeling sick"
+   ]
+  },
+  {
+   "at": "b37",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "feeling more tired or weaker than usual"
+   ]
+  },
+  {
+   "at": "b38",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "farting (flatulence)"
+   ]
+  },
+  {
+   "at": "b39",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "problems with pooing, such as constipation or diarrhoea"
+   ]
+  },
+  {
+   "at": "b40",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "muscle pain"
+   ]
+  },
+  {
+   "at": "b41",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "li",
+   "s": [
+    "sleep problems"
+   ]
+  },
+  {
+   "at": "b42",
+   "path": "Statins > Side effects of statins > Common side effects",
+   "kind": "p",
+   "s": [
+    "If you think your medicine is causing side effects, talk to a doctor.",
+    "They'll check what's causing your symptoms and may prescribe another statin or change your dose."
+   ]
+  },
+  {
+   "at": "b43",
+   "path": "Statins > Side effects of statins > Other side effects",
+   "kind": "p",
+   "s": [
+    "These are not all the possible side effects of statins.",
+    "Some side effects are rare but serious, and you may need to contact 111 for advice."
+   ]
+  },
+  {
+   "at": "b44",
+   "path": "Statins > Side effects of statins > Other side effects",
+   "kind": "p",
+   "s": [
+    "Always check the information leaflet that comes with your medicine."
+   ]
+  },
+  {
+   "at": "b45",
+   "path": "Statins > Reporting side effects",
+   "kind": "p",
+   "s": [
+    "You can report any suspected side effect using the Yellow Card safety scheme."
+   ]
+  },
+  {
+   "at": "b46",
+   "path": "Statins > Reporting side effects",
+   "kind": "p",
+   "s": [
+    "Visit the Yellow Card website for more information about reporting side effects."
+   ]
+  },
+  {
+   "at": "b47",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "p",
+   "s": [
+    "Taking statins at the same time as other medicines, herbal remedies, or some types of food or drink can stop the medicines working properly or increase the risk of side effects."
+   ]
+  },
+  {
+   "at": "b48",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "p",
+   "s": [
+    "For example, it can cause problems if you take statins with things such as:"
+   ]
+  },
+  {
+   "at": "b49",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "medicines for heart problems or high blood pressure such as verapamil or diltiazem"
+   ]
+  },
+  {
+   "at": "b50",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "antifungal medicines such as fluconazole"
+   ]
+  },
+  {
+   "at": "b51",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "certain antibiotics, such as clarithromycin and erythromycin"
+   ]
+  },
+  {
+   "at": "b52",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "HIV medicines"
+   ]
+  },
+  {
+   "at": "b53",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "warfarin or another medicine to help prevent blood clots"
+   ]
+  },
+  {
+   "at": "b54",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "ciclosporin – a medicine used to treat conditions such as psoriasis and rheumatoid arthritis"
+   ]
+  },
+  {
+   "at": "b55",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "colchicine – a medicine used to treat gout"
+   ]
+  },
+  {
+   "at": "b56",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "fusidic acid – a medicine used to treat skin infections"
+   ]
+  },
+  {
+   "at": "b57",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "herbal remedies such as St John's wort"
+   ]
+  },
+  {
+   "at": "b58",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "li",
+   "s": [
+    "grapefruit or grapefruit juice, as it can increase side effects"
+   ]
+  },
+  {
+   "at": "b59",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "p",
+   "s": [
+    "If you take any of these, a doctor may prescribe an alternative statin, lower your current dose or recommend stopping the statin for a while."
+   ]
+  },
+  {
+   "at": "b60",
+   "path": "Statins > Taking statins with other medicines, herbal remedies, food and drink",
+   "kind": "p",
+   "s": [
+    "Check the leaflet that comes with your medicine to see if there is anything you should avoid while taking it.",
+    "Always ask a pharmacist or your doctor if you're unsure."
+   ]
+  }
+ ]
+}

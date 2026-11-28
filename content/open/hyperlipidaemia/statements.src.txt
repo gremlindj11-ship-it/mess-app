@@ -1,0 +1,101 @@
+# Hyperlipidaemia: statements written from open sources only. Writer: Claude (content line, 26 Nov 2026).
+# One line each: covers | step | how sure | level | source | where in the source | subject | relation | object
+# covers lists the numbers in coverage.csv this statement answers; a trailing p means only partly.
+# where is an address in the saved copy of the source (content/open-sources/<id>.json). The quote is copied by tools/check-open.mjs --fill, never typed.
+# Short names:
+# N nhs-high-cholesterol
+# NL nhs-high-cholesterol-cholesterol-levels
+# NT nhs-high-cholesterol-getting-tested
+# NM nhs-high-cholesterol-treatment
+# NW nhs-high-cholesterol-how-to-lower-your-cholesterol
+# NS nhs-statins
+# SK pmc8363437
+# ND pmc9324773
+1 | pathophysiology | always | core | N | b1 | High cholesterol | means | having too much cholesterol, a fatty substance, in the blood.
+1 | pathophysiology | always | core | ND | b3.s3 | Dyslipidaemias, a crucial correctable predictive factor for coronary artery disease, | are defined as | alterations of the plasma lipid profile: raised total cholesterol, LDL cholesterol or triglycerides, or a low HDL cholesterol, or a combination of these.
+2 | investigations | always | core | NL | b1+b2+b3+b4 | A cholesterol test | can measure | total cholesterol (the overall amount of cholesterol in the blood), good cholesterol (HDL), which may make heart problems or a stroke less likely, and non-HDL cholesterol, which is the difference between total cholesterol and HDL.
+2p | pathophysiology | always | extension | SK | b6.s1 | LDL and HDL | are | the primary lipoprotein carriers of the body's own cholesterol esters, and also carry smaller amounts of triglycerides, phospholipids and fat-soluble vitamins.
+2p | pathophysiology | always | extension | SK | b6.s5 | HDL | carries | cholesterol from peripheral cells to the liver and intestine.
+3 | pathophysiology | always | core | SK | b7.s1 | Raised cholesterol in the body | can lead to | plaque forming and building up in blood vessels, leading to atherosclerotic cardiovascular disease.
+3 | pathophysiology | always | extension | SK | b9.s1 | LDL particles | can | pass through dysfunctional vascular endothelium and cause inflammation.
+3 | pathophysiology | always | extension | SK | b10.s3+b10.s4 | When LDL invades the artery lining, monocytes | infiltrate | the subendothelial space, and macrophages take up the modified LDL particles and become foam cells, named for their high cholesterol load.
+3,4 | pathophysiology | may | extension | SK | b10.s8 | Atherosclerotic plaque formation | can lead to | narrowing of the artery and plaque rupture, possibly causing ischaemic or thrombotic events.
+4 | pathophysiology | always | core | SK | b5.s4 | LDL levels | have been causally linked to | the risk of atherosclerotic cardiovascular disease, through both how high LDL cholesterol is and how long a person is exposed to it.
+4,32p | pathophysiology | always | core | ND | b3.s5 | Hypercholesterolaemia, the most common form of dyslipidaemia, | is associated with | raised LDL cholesterol, which has been shown to be an important cause of ischaemic heart disease and ischaemic stroke in both developed and developing countries.
+4 | complications | may | core | N | b5.s1+b5.s2 | Too much cholesterol | can block | your blood vessels, making you more likely to have heart problems or a stroke.
+4 | risk factors | always | core | ND | b3.s2 | Dyslipidaemia | plays an important role in | the development of cardiovascular disease; people with raised serum lipoprotein levels have twice the chance of developing cardiovascular disease of those without.
+2p | pathophysiology | always | extension | SK | b5.s5 | There | is no current evidence for | an established protective role for HDL against atherosclerosis.
+5 | risk factors | always | core | N | b3.h+b3 | High cholesterol | can be caused by | a fatty diet, too little exercise, being overweight, smoking and drinking alcohol.
+5p | risk factors | always | core | N | b2.s1 | High cholesterol | is more likely if you are | over 50, a man, have been through the menopause, or are of South Asian or sub-Saharan African origin.
+5p | risk factors | always | core | NW | b20 | Smoking | can raise | cholesterol, and it makes heart attacks, strokes and cancer more likely.
+6 | risk factors | always | core | ND | b4.s1 | Dyslipidaemias | are divided into | primary (familial) dyslipidaemias and dyslipidaemias secondary to other conditions such as diabetes mellitus, thyroid disease, obesity or an unhealthy lifestyle; the secondary ones are more common.
+6p | pathophysiology | always | extension | SK | b5.s3 | Excessive VLDL production by the liver | can be driven by | genetic factors, high-carbohydrate diets, excessive alcohol use, obesity, insulin resistance and nephrotic syndrome.
+6p | risk factors | always | extension | SK | b13.s1 | Systemic diseases linked with dyslipidaemia | include | psoriasis, Crohn's disease, inflammatory bowel disease, chronic obstructive pulmonary disease, depression, chronic pain and chronic kidney disease.
+7 | risk factors | always | core | N | b2.h+b2.s2 | High cholesterol | can | run in families.
+7 | risk factors | always | core | ND | b4.s2 | Familial forms of dyslipidaemia | account for | less than 2% of all dyslipidaemias.
+7 | pathophysiology | always | extension | ND | b4.s3 | Primary dyslipidaemias | are caused by | a genetic defect of a single gene (monogenic) or of several genes (polygenic).
+7,32p | pathophysiology | always | extension | ND | b4.s7 | In Fredrickson type IIa (familial or polygenic hypercholesterolaemia), | there is | an LDL receptor deficiency, resulting in raised LDL cholesterol with total cholesterol above the 90th percentile and often apolipoprotein B above the 90th percentile.
+7p | pathophysiology | always | extension | ND | b4.s8 | Familial combined hyperlipidaemia (phenotype IIb), the most common phenotype, | consists of | an abnormality in LDL and VLDL cholesterol, with total cholesterol and/or triglycerides above the 90th percentile and apolipoprotein above the 90th percentile.
+8 | clinical features | usually | core | N | b6.s1+b6.s2 | High cholesterol | does not usually cause | symptoms; you can only find out if you have it from a blood test.
+8 | clinical features | often | core | SK | b12.s1 | Hypercholesterolaemia | often lacks | obvious symptoms but is a major risk factor for cardiovascular disease.
+9 | clinical features | usually | core | SK | b12.s2 | Very high cholesterol levels, usually seen in familial hypercholesterolaemia, | can show as | xanthomas and corneal arcus.
+9,14p | clinical features | often | core | ND | b4.s14 | In evaluating primary dyslipidaemias, | family history is | of great importance, together with a physical examination, which can often reveal xanthomas (deposits of lipid in the skin and sometimes the tissue under it).
+10 | investigations | usually | core | NT | b8+b9.s1+b9.s2 | For a cholesterol test, | blood | will usually be taken from your arm with a needle and sent to a lab, and you should get the result in a few days.
+10 | investigations | may | core | NT | b13.s1+b13.s2+b13.s3 | A cholesterol test | can be done by | pricking your finger, putting a drop of blood on a strip of paper and putting it into a machine that checks cholesterol in a few minutes.
+11 | investigations | most | core | NT | b7.s1+b10.s1-s2 | Before a cholesterol test, | you might be asked | not to eat anything (to fast) for up to 12 hours, but most people do not need to fast.
+11 | investigations | always | core | NL | b1+b12.s3 | For the levels a cholesterol test measures, | it does not make much difference | whether you have eaten before your test or not.
+12 | investigations | may | core | NT | b2+b3 | A GP | might suggest | a cholesterol test because of your age, weight or a condition you have (like high blood pressure or diabetes).
+12 | investigations | should | core | NT | b4.h+b4 | Ask your GP surgery for a cholesterol test | if | you have not had a test before and you are over 40, overweight, or high cholesterol or heart problems run in your family.
+12 | investigations | may | core | NT | b7.s1+b11.s1-s2 | If you are over 40, | you may have a cholesterol test | during your NHS Health Check; you can also get this check at a pharmacy.
+13 | investigations | always | core | NL | b9 | A GP | uses | your cholesterol levels together with other factors, such as your age, blood pressure and health conditions, to estimate your risk of cardiovascular disease.
+13 | investigations | may | core | NL | b10 | A QRISK score | estimates | how likely you are to have a heart or circulation problem over the next 10 years.
+13 | investigations | always | core | NL | b11 | A good target cholesterol level for you | depends on | things like your age, whether you have any health conditions and your risk of cardiovascular disease.
+2,13p | investigations | always | core | NL | b12.s1+b13+b14+b15+b16 | Healthy cholesterol levels for healthy adults, as a guide, | are | total cholesterol below 5 mmol/L, HDL above 1.0 mmol/L for men or above 1.2 mmol/L for women, and non-HDL below 4 mmol/L.
+13p | investigations | may | core | NL | b12.s2 | Cholesterol levels | may be lower or higher | if you have been ill, are taking some medicines, or have recently had a baby.
+15 | management | always | core | N | b4.s1+b4.s2 | High cholesterol | can be lowered by | eating healthily and getting more exercise; some people also need to take medicine.
+15 | management | should | core | NW | b1+b2 | To reduce cholesterol, | try to cut down on | fatty food, especially food with saturated fat; you can still have foods with unsaturated fat.
+15 | management | should | core | NW | b14 | To exercise more, | aim to do | at least 150 minutes (2.5 hours) of moderate intensity exercise or 75 minutes of vigorous intensity activity a week.
+15 | management | should | core | NW | b25.h+b25+b26+b27+b28 | To cut down on alcohol, | try to | avoid regularly drinking more than 14 units of alcohol a week, spread drinking over 3 or more days if you regularly drink as much as 14 units a week, and have several drink-free days each week.
+16 | management | may | core | NM | b1+b2+b3 | Medicine to lower cholesterol | might be needed if | your cholesterol has not gone down after changing your diet and lifestyle, or you are at high risk of a heart attack or stroke.
+16 | management | always | core | NM | b5+b6 | Statins | are | the most common medicine for high cholesterol; they reduce the amount of cholesterol your body makes.
+16 | management | usually | core | NM | b7.h+b7.s1-s2 | Statins | are taken as | a tablet once a day, usually for life.
+16,31p | mechanism | always | core | ND | b9.s4-s5 | Statins approved by the EMA (atorvastatin, simvastatin, rosuvastatin, fluvastatin, pitavastatin, lovastatin and pravastatin) | act as | antagonists of HMG-CoA reductase; inhibiting the enzyme blocks the body's own cholesterol synthesis pathway, lowering serum LDL cholesterol.
+16 | management | always | core | ND | b5.s1 | Lipid-lowering therapy, primarily statins (HMG-CoA reductase inhibitors), | reduce | vascular events including stroke and myocardial infarction, and reduce all-cause mortality by 10% for every 1.0 mmol/L reduction in LDL cholesterol.
+16 | management | always | extension | SK | b11.s3 | A meta-analysis | showed | a dose-dependent reduction in the risk of major cardiovascular events, proportional to the reduction in LDL cholesterol from treatment.
+16 | mechanism | always | extension | ND | b9.s7 | Statins | have been observed to | stabilise atherosclerotic plaques and decrease the risk of cardiovascular events.
+16 | management | always | core | NS | b22.h+b22+b23+b24+b25+b26 | Types of statins | include | atorvastatin, fluvastatin, pravastatin, rosuvastatin and simvastatin.
+17 | indications | may | core | NS | b8+b9+b10 | Statins | may be offered if | you are at higher risk of cardiovascular disease and healthy lifestyle changes have not helped or are unlikely to help on their own, or you already have cardiovascular disease (to reduce the risk of a heart attack or stroke).
+17,13p | indications | may | core | NS | b11+b12+b13+b14 | A person | may be considered at higher risk of cardiovascular disease if | QRISK shows an increased 10-year risk (usually based on age, sex, ethnicity and cholesterol), you have a condition such as diabetes, chronic kidney disease or familial hypercholesterolaemia, or you are 85 or over.
+25 | cautions | do not | core | NS | b15+b16+b17+b18 | Most people can take statins, but statins | should not be taken by people who | have severe liver disease, are pregnant or trying to get pregnant, or are of childbearing age and not using contraception.
+18 | side effects | some | core | NS | b33+b34+b35+b36+b37+b38+b39+b40+b41 | Common side effects of statins | include | headaches, dizziness, feeling sick, feeling more tired or weaker than usual, flatulence, constipation or diarrhoea, muscle pain and sleep problems.
+18,27p | side effects | may | core | NS | b42.h+b42.s1-s2 | If you think your medicine is causing side effects, | talk to a doctor, who | will check what is causing your symptoms and may prescribe another statin or change your dose.
+18 | side effects | may | core | ND | b9.s8 | Statins | are generally well tolerated but can have | significant adverse effects, including myopathy and rhabdomyolysis.
+18 | side effects | may | extension | ND | b9.s9+b9.s10 | Long-term statin treatment | can lead to | new-onset type 2 diabetes, particularly in people with metabolic syndrome or prone to type 2 diabetes, but recent studies suggest the benefits of statins by far exceed this risk.
+27 | side effects | rarely | core | ND | b22.s4+b22.s5 | True statin intolerance | is | rare in placebo-controlled randomised trials, despite public concern about milder muscle symptoms, so another statin or a lower dose can be used in most people at high risk of major cardiovascular events.
+18 | interactions | may | extension | NS | b47 | Taking statins with other medicines, herbal remedies or some foods or drinks | can | stop the medicines working properly or increase the risk of side effects.
+18 | interactions | may | core | NS | b48+b49+b50+b51 | Statins | can cause problems if taken with | medicines for heart problems or high blood pressure such as verapamil or diltiazem, antifungal medicines such as fluconazole, or certain antibiotics such as clarithromycin and erythromycin.
+18 | interactions | may | core | NS | b58.h+b58 | When taking statins, grapefruit or grapefruit juice | can increase | side effects.
+19 | management | may | core | NM | b8.h+b8+b9+b10+b11 | Other medicines for high cholesterol | may be used if | statins do not work or you cannot take them, including tablets such as ezetimibe (sometimes with bempedoic acid) and injections such as alirocumab, evolocumab and inclisiran.
+19,33 | mechanism | always | core | ND | b11.s1+b11.s2+b11.s3 | Ezetimibe | inhibits | cholesterol absorption by blocking the NPC1L1 sterol transporter in the small intestine, which lowers cholesterol reaching the liver and increases clearance of cholesterol from the blood.
+19,33 | management | usually | extension | ND | b11.s7 | Ezetimibe | lowers | LDL cholesterol by 10 to 15% when used with statins, its effect mostly seen as co-therapy and varying with the statin.
+19 | management | may | extension | ND | b11.s9 | Ezetimibe monotherapy | is acceptable | especially in patients who do not tolerate statins and need a modest LDL reduction, with an 18% decrease compared to placebo.
+19 | mechanism | always | extension | ND | b10.s1+b10.s2+b10.s3 | Bempedoic acid | inhibits | ATP citrate lyase, an enzyme upstream of HMG-CoA reductase, which prevents cholesterol synthesis and indirectly increases LDL receptors, increasing LDL clearance.
+19 | mechanism | always | extension | ND | b12.s2+b12.s3+b12.s4+b12.s5 | Alirocumab and evolocumab (PCSK9 monoclonal antibodies) | block | PCSK9 binding to the liver's LDL receptors, which PCSK9 otherwise sends for degradation, so more LDL receptors are recycled and more LDL cholesterol is taken up from the blood.
+19 | side effects | usually | extension | ND | b12.s12-s13 | Both monoclonal antibody PCSK9 inhibitors | are safe, with | an injection site reaction as the most common adverse effect.
+19 | management | always | extension | ND | b12.s17 | For PCSK9 inhibitors, | the most limiting factor for wider use | their cost at present.
+19 | mechanism | always | extension | ND | b13.s2+b13.s4+b13.s5 | Inclisiran | is | a small interfering RNA that cuts PCSK9 messenger RNA, reducing PCSK9 production, which upregulates LDL receptors and lowers circulating LDL cholesterol.
+19 | management | always | extension | ND | b13.s7 | Inclisiran | is given | under the skin on day 1, day 90, day 180, and then once every six months.
+19 | management | always | extension | ND | b22.s11 | Ezetimibe | is | the second-line treatment in combination with statins, with PCSK9 inhibitors next when statin plus ezetimibe is not enough or patients are at high risk of major cardiovascular events.
+21p | management | always | extension | ND | b15.s6 | ApoC-III | is | a target for a new class of drugs meant to lower triglycerides, and indirectly to prevent cardiovascular events and pancreatitis in people with hypertriglyceridaemia.
+22 | complications | always | core | NS | b4.s1+b4.s2 | High cholesterol | can cause | cardiovascular disease, which can cause heart attacks, strokes and peripheral arterial disease.
+22 | complications | always | core | SK | b12.s3 | Complications of poorly managed hypercholesterolaemia | include | carotid artery disease, stroke, peripheral vascular disease, high blood pressure and type 2 diabetes mellitus.
+26 | differential | most | core | ND | b4.s15 | Secondary dyslipidaemias | are a focus because | they relate to diabetes mellitus, obesity, an unhealthy lifestyle and other medical disorders, which diet and lifestyle changes influence greatly.
+29 | risk factors | always | core | ND | b14.s1+b14.s2 | Raised lipoprotein(a) | is | an independent risk factor for atherosclerosis and cardiovascular disease; Lp(a) is an LDL cholesterol variant that contains apolipoprotein(a).
+29 | pathophysiology | always | extension | ND | b4.s12 | The Fredrickson classification of dyslipidaemia | does not address | dyslipidaemias with low HDL cholesterol or raised Lp(a).
+30 | management | may | core | SK | b1.s4 | Statin therapy | has | side effects that may lead to patients not taking it, although it has long been the mainstay of treating hypercholesterolaemia.
+30 | management | usually | core | NS | b6.s1+b6.s2 | Statins | are usually taken | long term, to keep the risk of a heart attack or stroke as low as possible with age.
+30 | management | should | core | NS | b7.s1+b7.s2 | Stopping statins | may affect | your cholesterol levels; talk to a doctor or pharmacist before stopping.
+34 | prognosis | always | core | ND | b3.s4 | The global burden of dyslipidaemia | has increased | over the past 30 years, with raised LDL cholesterol the eighth most important risk factor for death in 2019. | @global
+34 | prognosis | always | extension | ND | b3.s6 | In 2019, about 4.40 million deaths (95% CI 3.30 to 5.65 million) and about 98.62 million disability-adjusted life years (95% CI 80.34 to 118.98 million) | were attributable to | high plasma LDL cholesterol, with higher rates in men than in women. | @global
+34 | prognosis | always | core | ND | b3.s7 | Hypercholesterolaemia | has become less common in high-income countries (especially Europe and North America) | and mean plasma cholesterol levels have fallen, through lifestyle changes, better diets and more use of lipid-lowering drugs, partly because most statins are cheap generics. | @high-income
+35 | prognosis | always | core | ND | b3.s8 | Dyslipidaemias | are still unrecognised and undertreated | in low-income countries, where statins are inaccessible to broad segments of the world's population. | @LMIC

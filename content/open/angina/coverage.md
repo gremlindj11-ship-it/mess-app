@@ -3,7 +3,7 @@
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
 - Statements written: 24. Checked by at least one checker: 24. **Agreed by two: 24.**
-- Checklist items: 36. **With an agreed statement: 15.** Partly: 16. Written but not agreed: 0. Nothing found in the sources: 5.
+- Checklist items: 38. **With an agreed statement: 15.** Partly: 16. Written but not agreed: 0. Nothing found in the sources: 7.
 
 | Source | Statements | Agreed |
 |---|---|---|
@@ -49,3 +49,5 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 34 | Why | Why exertion can provoke discomfort | agreed | 5, 20 |
 | 35 | Why | Why rest or treatment can relieve symptoms | partly | 6 |
 | 36 | Why | Why apparently normal large arteries do not exclude ischaemia | agreed | 19, 21, 23 |
+| 37 | Elsewhere in the world | Regional burden and presentation of angina | nothing found |  |
+| 38 | Elsewhere in the world | Recognition and access to assessment for angina where resources are limited | nothing found |  |

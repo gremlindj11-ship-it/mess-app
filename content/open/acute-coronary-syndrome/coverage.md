@@ -3,7 +3,7 @@
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
 - Statements written: 22. Checked by at least one checker: 22. **Agreed by two: 22.**
-- Checklist items: 36. **With an agreed statement: 15.** Partly: 13. Written but not agreed: 0. Nothing found in the sources: 8.
+- Checklist items: 38. **With an agreed statement: 15.** Partly: 13. Written but not agreed: 0. Nothing found in the sources: 10.
 
 | Source | Statements | Agreed |
 |---|---|---|
@@ -48,3 +48,5 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 34 | Why | Why a coronary event causes myocardial ischaemia | agreed | 4, 5 |
 | 35 | Why | Why ECG and biomarker findings can differ | partly | 8, 12, 13, 23 |
 | 36 | Why | Why early restoration of blood flow matters | nothing found |  |
+| 37 | Elsewhere in the world | Regional burden and presentation of acute coronary syndrome | nothing found |  |
+| 38 | Elsewhere in the world | Recognition and access to care for acute coronary syndrome where resources are limited | nothing found |  |
