@@ -86,8 +86,6 @@ document.addEventListener('selectionchange', showHlBar);
 document.addEventListener('pointerdown', (e) => { const xp = e.target.closest('[data-xp]'); if (xp) { e.preventDefault(); const t = getSelection().toString().trim(); if (t) explainPhrase(t); else if (xp.classList.contains('ask') && ui.xpText) explainPhrase(ui.xpText, ui.xpBundle); return; } const h = e.target.closest('[data-hl]'); if (h) { e.preventDefault(); applyHl(h.dataset.hl); return; } if (!e.target.closest('#linkpop') && !e.target.closest('mark')) hideLinkPop(); });
 document.addEventListener('click', (e) => { const m = e.target.closest('.noteed mark'); if (m && getSelection().isCollapsed) showLinkPop(m); });
 document.addEventListener('paste', (e) => { if (!e.target.closest || !e.target.closest('.noteed')) return; e.preventDefault(); document.execCommand('insertText', false, e.clipboardData.getData('text/plain')); });
-// Any link to Claude, ChatGPT or Gemini with a prompt in it: copy the prompt as well, in case the app drops it.
-document.addEventListener('click', (e) => { const a = e.target.closest && e.target.closest('a[href]'); if (!a) return; let u; try { u = new URL(a.href); } catch (x) { return; } const q = u.searchParams.get('q') || u.searchParams.get('query'), name = /claude\.ai$/.test(u.hostname) ? 'Claude' : /chatgpt\.com$/.test(u.hostname) ? 'ChatGPT' : /gemini\.google\.com$/.test(u.hostname) ? 'Gemini' : null; if (!q || !name) return; e.preventDefault(); openOwn(name, q); }, true);
 
 // Anything going to an AI leaves the device, so patient details are taken out of what the student sends first
 // (the system prompt is Mess's own words and the station scripts, so it's left alone).
@@ -100,8 +98,32 @@ document.addEventListener('click', (e) => { const a = e.target.closest && e.targ
 // Section tabs on a phone scroll sideways: keep the current one in view, and fade the edge only while there's more.
 const ttabsFit = () => { const tt = document.querySelector('.ttabs'); if (!tt) return; const on = tt.querySelector('.on'); if (on && tt.scrollWidth > tt.clientWidth) tt.scrollLeft = Math.max(0, on.offsetLeft - tt.offsetLeft - 24); tt.classList.toggle('atend', tt.scrollLeft + tt.clientWidth >= tt.scrollWidth - 4); };
 { const draw = render; render = function () { const r = draw.apply(this, arguments); try { ttabsFit(); } catch (e) { } try { markFrom(); } catch (e) { } try { routeSync(); } catch (e) { } return r; }; }
+document.addEventListener('toggle', (e) => { const d = e.target; if (d && d.classList && d.classList.contains('sentfold')) { ui.sentOpen = ui.sentOpen || {}; ui.sentOpen[d.dataset.at] = d.open; } }, true);
 // Escape closes the ? panel.
-document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && ui.askOpen) { ui.askOpen = false; ui.report = false; render(); const a = $('.ask'); if (a) a.focus(); } });
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && ui.askOpen) { ui.askOpen = false; ui.report = false; ui.askFocus = 'closed'; render(); } });
+// Focus for the ? panel (WAI-ARIA dialog pattern): into the panel when it opens (the question box with a keyboard or
+// mouse; the panel itself on a phone, so the keyboard doesn't cover it), kept in the panel after an answer redraws it,
+// and back to the ? when it closes.
+// Works for every way the panel opens or closes (the ?, Explain, "Ask about this", topic and curriculum asks), by
+// watching it change between redraws, not by each opener remembering to ask.
+function askFocusFix(before) {
+  let f = ui.askFocus; ui.askFocus = null;
+  if (!f && !before.open && ui.askOpen) f = 'open';
+  if (!f && before.open && !ui.askOpen && before.page === ui.page) f = 'closed';
+  const go = (el) => { if (el) try { el.focus({ preventScroll: true }); } catch (e) { } };
+  if (f === 'closed') return go($('.ask'));
+  if (!ui.askOpen) return;
+  const panel = $('.panel'); if (!panel) return;
+  const touch = matchMedia && matchMedia('(pointer: coarse)').matches, home = () => touch ? panel : $('#askin') || panel;
+  if (f === 'open') return go(home());
+  const a = document.activeElement; if (!before.in || (a && a !== document.body)) return;
+  // Kept in the panel after a redraw: the same control if it is still there, else where it would open.
+  const same = before.id ? document.getElementById(before.id) : before.da ? [...panel.querySelectorAll('[data-a]')].find(x => x.dataset.a === before.da && (x.dataset.v || '') === before.dv) : before.tx ? [...panel.querySelectorAll('a[href], button, summary')].find(x => x.tagName === before.tag && (x.getAttribute('href') || '') === before.href && x.textContent.trim() === before.tx) : null;
+  go(same && panel.contains(same) ? same : home());
+}
+// open and page are as they were at the last redraw (openers change ui.askOpen before they call render).
+let askWas = { open: false, page: '' };
+{ const draw = render; render = function () { const a = document.activeElement, inP = !!(a && a.closest && a.closest('.panel')), before = { open: askWas.open, page: askWas.page, in: inP, id: inP && a.id && a !== $('.panel') ? a.id : '', da: inP && a.dataset ? a.dataset.a || '' : '', dv: inP && a.dataset ? a.dataset.v || '' : '', tag: inP ? a.tagName : '', href: inP && a.getAttribute ? a.getAttribute('href') || '' : '', tx: inP && a !== $('.panel') ? (a.textContent || '').trim().slice(0, 200) : '' }; const r = draw.apply(this, arguments); try { askFocusFix(before); } catch (e) { } askWas = { open: !!ui.askOpen, page: ui.page }; return r; }; }
 document.addEventListener('scroll', (e) => { const t = e.target; if (t && t.classList && t.classList.contains('ttabs')) t.classList.toggle('atend', t.scrollLeft + t.clientWidth >= t.scrollWidth - 4); }, true);
 // Ask the browser to keep Mess's data instead of clearing it when space runs low.
 try { if (db.setupDone && navigator.storage && navigator.storage.persist) navigator.storage.persisted().then(p => p || navigator.storage.persist()).catch(() => {}); } catch (e) {}

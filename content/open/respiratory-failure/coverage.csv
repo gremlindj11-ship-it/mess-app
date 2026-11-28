@@ -1,0 +1,32 @@
+n,group,item
+1,Definition,What respiratory failure is (failure of gas exchange)
+2,Definition,"Type 1 (hypoxaemic): the numbers"
+3,Definition,"Type 2 (hypercapnic): the numbers, respiratory acidosis"
+4,Causes and who gets it,"Type 1 causes: pneumonia, pulmonary embolism, pulmonary oedema, ARDS"
+5,Causes and who gets it,"Type 2 causes: COPD, neuromuscular disease, opioids, obesity"
+6,Pathophysiology,"Ventilation-perfusion mismatch and shunt"
+7,Pathophysiology,Hypoventilation in type 2
+8,Presentation,"Signs of hypoxaemia: fast breathing, accessory muscles, cyanosis"
+9,Presentation,"Signs of hypercapnia: drowsiness, flap, bounding pulse"
+10,Investigations,Arterial blood gas
+11,Investigations,Pulse oximetry and its limits
+12,Investigations,Grading severity (PaO2/FiO2 ratio)
+13,Investigations,Finding the cause (chest X-ray and others)
+14,Management,"Oxygen: when to start, how to give it, targets"
+15,Management,Lower oxygen targets in people who retain carbon dioxide
+16,Management,High-flow nasal oxygen and CPAP
+17,Management,Non-invasive ventilation in type 2
+18,Management,Intubation and invasive ventilation
+19,Complications,Harm from too much oxygen
+20,Complications,ARDS
+21,Prognosis,Hypoxaemia and hypercapnia and the risk of death
+22,Confused with,Type 1 versus type 2
+23,Confused with,Breathlessness versus hypoxaemia
+24,Confused with,De novo hypoxaemic failure versus heart failure or a flare of chronic lung disease
+25,Often missed,"Pulse oximetry is less accurate with poor perfusion, anaemia or darker skin"
+26,Often missed,Strong breathing effort can itself worsen lung injury
+27,Often missed,Carbon dioxide rising when high-flow oxygen is given to someone who retains it
+28,Why,Why hypercapnia increases oxygen release to the tissues
+29,Why,Why hypercapnia lowers alveolar oxygen (the alveolar gas equation)
+30,Why,"Why hypercapnia affects the airways, the lung blood vessels and the diaphragm"
+31,Elsewhere in the world,Respiratory failure where oxygen and ventilators are scarce

@@ -1,0 +1,157 @@
+{
+ "id": "nhs-high-cholesterol-cholesterol-levels",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-cholesterol/cholesterol-levels/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-cholesterol/cholesterol-levels/",
+ "title": "Cholesterol levels - High cholesterol",
+ "updated": "2026-03-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-26",
+ "sha256": "1d9ed19ba6cafc8659f1bbe81f6b5c6ad6548b05b9f1f833262254cfcebb9cdf",
+ "sentences": 20,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "p",
+   "s": [
+    "A cholesterol test can measure:"
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "li",
+   "s": [
+    "total cholesterol – the overall amount of cholesterol in your blood"
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "li",
+   "s": [
+    "good cholesterol (called HDL) – this may make you less likely to have heart problems or a stroke"
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "li",
+   "s": [
+    "non-HDL cholesterol – the difference between total cholesterol and HDL"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "p",
+   "s": [
+    "When you get your result, you may just be told your total cholesterol."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result",
+   "kind": "p",
+   "s": [
+    "You might be able to get separate results for your HDL and non-HDL cholesterol too.",
+    "Ask your doctor or nurse."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result > View your results online",
+   "kind": "p",
+   "s": [
+    "Results of tests you had at your GP surgery, and results that have been shared with your GP surgery, may be available in your online GP health record."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Cholesterol levels - High cholesterol > About your cholesterol result > View your results online",
+   "kind": "p",
+   "s": [
+    "View test results in your GP health record"
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Cholesterol levels - High cholesterol > How your GP uses your results",
+   "kind": "p",
+   "s": [
+    "Your GP will use your cholesterol levels along with other factors, such as your age, blood pressure and health conditions, to estimate your risk of cardiovascular disease."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Cholesterol levels - High cholesterol > How your GP uses your results",
+   "kind": "p",
+   "s": [
+    "They may give you a score (called a QRISK score) which estimates how likely you are to have a heart or circulation problem over the next 10 years."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "p",
+   "s": [
+    "What is a good target level for you depends on things like your age, whether you have any health conditions and your risk of cardiovascular disease."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "p",
+   "s": [
+    "These levels are a guide for healthy adults.",
+    "If you have been ill, are taking some medicines, or have recently had a baby, your levels may be lower or higher.",
+    "It does not make much difference to these levels whether you have eaten before your test or not."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "tr",
+   "s": [
+    "Result | Healthy level"
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "tr",
+   "s": [
+    "Total cholesterol | Below 5mmol/L"
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "tr",
+   "s": [
+    "HDL (good cholesterol) | Above 1.0mmol/L for men or above 1.2mmol/L for women"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be",
+   "kind": "tr",
+   "s": [
+    "Non-HDL (bad cholesterol) | Below 4mmol/L"
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Cholesterol levels - High cholesterol > What your cholesterol levels should be > Further information",
+   "kind": "li",
+   "s": [
+    "Find out more about cholesterol test results on the HEART UK website"
+   ]
+  }
+ ]
+}

@@ -2,14 +2,16 @@
 
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
-- Statements written: 21. Checked by at least one checker: 21. **Agreed by two: 21.**
-- Checklist items: 36. **With an agreed statement: 8.** Partly: 19. Written but not agreed: 0. Nothing found in the sources: 9.
+- Statements written: 23. Checked by at least one checker: 23. **Agreed by two: 23.**
+- Checklist items: 38. **With an agreed statement: 8.** Partly: 21. Written but not agreed: 0. Nothing found in the sources: 9.
 
 | Source | Statements | Agreed |
 |---|---|---|
 | nhs-atrial-fibrillation | 15 | 15 |
 | pmc8744894 | 4 | 4 |
 | pmc11666470 | 2 | 2 |
+| pmc8878614 | 1 | 1 |
+| pmc7218776 | 1 | 1 |
 
 | # | Area | Item | State | Statement rows |
 |---|---|---|---|---|
@@ -49,3 +51,5 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 34 | Why | Why the pulse becomes irregular | partly | 18 |
 | 35 | Why | Why atrial fibrillation increases stroke risk | partly | 20 |
 | 36 | Why | Why altering rate or rhythm can affect symptoms | nothing found |  |
+| 37 | Elsewhere in the world | Atrial fibrillation in rheumatic heart disease in endemic settings | partly | 23 |
+| 38 | Elsewhere in the world | Atrial fibrillation in Chagas heart disease in endemic settings | partly | 24 |

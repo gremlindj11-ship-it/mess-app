@@ -110,10 +110,10 @@ function parseGrounded(raw, n) {
   if (!o.notCovered && unsupported.length) return { ok: false, reason: 'The provider included a number that is not present in the cited Mess evidence.' };
   return { ok: true, answer: o.answer.trim(), claimIds, notCovered: o.notCovered, uncertainty: typeof o.uncertainty === 'string' ? o.uncertainty.trim() : '', evidence, kind: e.kind };
 }
-async function groundedTopicReply(n, log) {
+async function groundedTopicReply(n, log, onSent) {
   const e = topicEvidence(n);
   if (!e.claims.length) return { ok: true, answer: 'Mess does not have evidence for this topic yet. It cannot provide a grounded answer here.', claimIds: [], notCovered: true, uncertainty: '', evidence: [], kind: e.kind };
   const system = groundedSystem(n), turns = groundedTurns(n, log);
-  const raw = aiReady() ? await callAI(system, turns, { max: 1200 }) : await manualAI(system, turns[0].content);
+  const raw = aiReady() ? await callAI(system, turns, { max: 1200, onSent }) : await manualAI(system, turns[0].content);
   return parseGrounded(raw, n);
 }

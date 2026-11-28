@@ -1,0 +1,176 @@
+{
+ "id": "nhs-high-cholesterol-getting-tested",
+ "register": "nhs-website",
+ "kind": "nhs",
+ "url": "https://www.nhs.uk/conditions/high-cholesterol/getting-tested/",
+ "fetched_from": "https://www.nhs.uk/conditions/high-cholesterol/getting-tested/",
+ "title": "Getting tested - High cholesterol",
+ "updated": "2026-03-13",
+ "licence": "OGL-UK-3.0",
+ "licence_evidence": "https://www.nhs.uk/our-policies/terms-and-conditions/ (Terms page read by script on 21 Nov 2026: content is released under the OGL except where specified; a search of the page for AI, machine learning and automated use found nothing.)",
+ "credit": "Contains public sector information licensed under the Open Government Licence v3.0.",
+ "fetched": "2026-11-26",
+ "sha256": "a3f972e7350d11258e67df3bca1252fe23a83f0c5162d882176de33367556b04",
+ "sentences": 25,
+ "set_aside": 0,
+ "blocks": [
+  {
+   "at": "b1",
+   "path": "Getting tested - High cholesterol > Check if you have high cholesterol",
+   "kind": "p",
+   "s": [
+    "High cholesterol does not usually cause symptoms.",
+    "You can only find out if you have it from a blood test."
+   ]
+  },
+  {
+   "at": "b2",
+   "path": "Getting tested - High cholesterol > Check if you have high cholesterol",
+   "kind": "p",
+   "s": [
+    "Your GP might suggest having a test to check if your cholesterol level is high."
+   ]
+  },
+  {
+   "at": "b3",
+   "path": "Getting tested - High cholesterol > Check if you have high cholesterol",
+   "kind": "p",
+   "s": [
+    "This may be because of your age, weight or a condition you have (like high blood pressure or diabetes)."
+   ]
+  },
+  {
+   "at": "b4",
+   "path": "Getting tested - High cholesterol > Non-urgent advice: Ask your GP surgery for a cholesterol test if:",
+   "kind": "li",
+   "s": [
+    "you have not had a test before and you're over 40, overweight, or high cholesterol or heart problems run in your family"
+   ]
+  },
+  {
+   "at": "b5",
+   "path": "Getting tested - High cholesterol > Non-urgent advice: Ask your GP surgery for a cholesterol test if:",
+   "kind": "p",
+   "s": [
+    "You're more likely to have high cholesterol."
+   ]
+  },
+  {
+   "at": "b6",
+   "path": "Getting tested - High cholesterol > Non-urgent advice: Ask your GP surgery for a cholesterol test if:",
+   "kind": "p",
+   "s": [
+    "You can also get a cholesterol test at a pharmacy, but you might have to pay for it."
+   ]
+  },
+  {
+   "at": "b7",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test",
+   "kind": "p",
+   "s": [
+    "There are 2 ways of having a cholesterol test."
+   ]
+  },
+  {
+   "at": "b8",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Taking blood from your arm",
+   "kind": "p",
+   "s": [
+    "Some blood will usually be taken from your arm with a needle."
+   ]
+  },
+  {
+   "at": "b9",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Taking blood from your arm",
+   "kind": "p",
+   "s": [
+    "This is sent to a lab to check your cholesterol level.",
+    "You should get the result in a few days."
+   ]
+  },
+  {
+   "at": "b10",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Taking blood from your arm",
+   "kind": "p",
+   "s": [
+    "You might be asked not to eat anything (to fast) for up to 12 hours before the test.",
+    "But most people do not need to fast."
+   ]
+  },
+  {
+   "at": "b11",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Finger-prick test",
+   "kind": "p",
+   "s": [
+    "If you're over 40, you may have a test during your NHS Health Check.",
+    "You can also get this check at a pharmacy."
+   ]
+  },
+  {
+   "at": "b12",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Finger-prick test",
+   "kind": "p",
+   "s": [
+    "This is a check-up that can help spot early signs of problems like heart disease and diabetes."
+   ]
+  },
+  {
+   "at": "b13",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > Finger-prick test",
+   "kind": "p",
+   "s": [
+    "The test can be done by pricking your finger.",
+    "A drop of blood is put on a strip of paper.",
+    "This is put into a machine that checks your cholesterol in a few minutes."
+   ]
+  },
+  {
+   "at": "b14",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > View your results online",
+   "kind": "p",
+   "s": [
+    "Results of tests you had at your GP surgery, and results that have been shared with your GP surgery, may be available in your online GP health record."
+   ]
+  },
+  {
+   "at": "b15",
+   "path": "Getting tested - High cholesterol > Having a cholesterol test > View your results online",
+   "kind": "p",
+   "s": [
+    "View test results in your GP health record"
+   ]
+  },
+  {
+   "at": "b16",
+   "path": "Getting tested - High cholesterol > What happens next",
+   "kind": "p",
+   "s": [
+    "If you have high cholesterol, a doctor or nurse will talk to you about how you can lower it."
+   ]
+  },
+  {
+   "at": "b17",
+   "path": "Getting tested - High cholesterol > What happens next",
+   "kind": "p",
+   "s": [
+    "This might include things like changing your diet or taking medicine."
+   ]
+  },
+  {
+   "at": "b18",
+   "path": "Getting tested - High cholesterol > What happens next",
+   "kind": "p",
+   "s": [
+    "They may also work out your risk of having a heart attack or stroke in the next 10 years."
+   ]
+  },
+  {
+   "at": "b19",
+   "path": "Getting tested - High cholesterol > What happens next",
+   "kind": "p",
+   "s": [
+    "Lowering your cholesterol can help lower your risk of having a heart attack or stroke."
+   ]
+  }
+ ]
+}

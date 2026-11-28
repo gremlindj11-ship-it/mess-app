@@ -2,8 +2,8 @@
 
 Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed only when two checkers that are not the writer both confirmed it against its quote.
 
-- Statements written: 25. Checked by at least one checker: 25. **Agreed by two: 25.**
-- Checklist items: 36. **With an agreed statement: 10.** Partly: 23. Written but not agreed: 0. Nothing found in the sources: 3.
+- Statements written: 28. Checked by at least one checker: 28. **Agreed by two: 28.**
+- Checklist items: 39. **With an agreed statement: 10.** Partly: 26. Written but not agreed: 0. Nothing found in the sources: 3.
 
 | Source | Statements | Agreed |
 |---|---|---|
@@ -11,6 +11,9 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | pmc8898236 | 4 | 4 |
 | pmc7021648 | 2 | 2 |
 | pmc6818035 | 2 | 2 |
+| pmc8878614 | 1 | 1 |
+| pmc7218776 | 1 | 1 |
+| pmc8510921 | 1 | 1 |
 
 | # | Area | Item | State | Statement rows |
 |---|---|---|---|---|
@@ -50,3 +53,6 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 34 | Why | Why breathlessness occurs | nothing found |  |
 | 35 | Why | Why swelling or fluid retention occurs | agreed | 25 |
 | 36 | Why | Why compensatory responses can become harmful | agreed | 21 |
+| 37 | Elsewhere in the world | Heart failure associated with rheumatic heart disease in endemic settings | partly | 27 |
+| 38 | Elsewhere in the world | Chagas heart disease and heart failure in endemic settings | partly | 28 |
+| 39 | Elsewhere in the world | Peripartum cardiomyopathy where it is common or resources are limited | partly | 29 |
