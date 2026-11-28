@@ -24,3 +24,6 @@ row,status,checked_by,confirmed_by,disagreement
 24,agreed,"gemini qwen","gemini qwen",""
 25,agreed,"gemini qwen","gemini qwen",""
 26,agreed,"gemini qwen","gemini qwen",""
+27,unresolved,"qwen","qwen",""
+28,unresolved,"qwen","qwen",""
+29,unresolved,"qwen","qwen",""
