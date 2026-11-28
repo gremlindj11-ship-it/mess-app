@@ -42,7 +42,7 @@ Made by `node tools/check-open.mjs`. Do not edit by hand. A statement is agreed 
 | 27 | Confused with | Effusion versus collapse or consolidation on a chest X-ray | nothing found |  |
 | 28 | Often missed | A negative cytology or CT does not rule out cancer | written, not agreed | 12, 13, 22 |
 | 29 | Often missed | Asbestos and other occupational exposure in the history | written, not agreed | 24 |
-| 30 | Often missed | Tuberculous effusion in high-income countries: older patients, reactivation, immigration | written, not agreed | 28, 42 |
+| 30 | Often missed | Tuberculous effusion in high-income countries: older patients, reactivation, immigration | written, not agreed | 28, 38, 42 |
 | 36 | Often missed | A mild tuberculous effusion can still go on to active pulmonary tuberculosis | written, not agreed | 38 |
 | 31 | Why | Why fluid smear and culture are often negative in tuberculous effusion | written, not agreed | 30, 39 |
 | 32 | Why | Why cytology often misses mesothelioma | written, not agreed | 14, 22 |
